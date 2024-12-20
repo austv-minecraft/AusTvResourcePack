@@ -7,7 +7,7 @@
 	"overrides": [
 		{"predicate": {"custom_model_data":0}, "model": "item/mace"},
 		{"predicate": {"custom_model_data":1}, "model": "skins/calamidade/clava"},
-		{"predicate": {"custom_model_data":2}, "model": "skins/natal/clava"}
+		{"predicate": {"custom_model_data":2}, "model": "item/mace"}
 
 
 
