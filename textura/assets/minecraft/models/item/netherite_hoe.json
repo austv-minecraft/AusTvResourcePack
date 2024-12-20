@@ -1,0 +1,50 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/netherite_hoe"
+	},
+
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "item/netherite_hoe"},
+		{"predicate": {"custom_model_data":1}, "model": "eventos/ray_gun"},
+		{"predicate": {"custom_model_data":2}, "model": "skins/_misc/enxada/1"},
+		{"predicate": {"custom_model_data":3}, "model": "skins/_misc/enxada/2"},
+		{"predicate": {"custom_model_data":4}, "model": "skins/_misc/enxada/dark"},
+		{"predicate": {"custom_model_data":5}, "model": "skins/pascoa_22/enxada"},
+		{"predicate": {"custom_model_data":6}, "model": "skins/miau/enxada"},
+		{"predicate": {"custom_model_data":7}, "model": "skins/namorados_22/enxada"},
+		{"predicate": {"custom_model_data":8}, "model": "skins/tormenta/enxada"},
+		{"predicate": {"custom_model_data":9}, "model": "skins/glacial/enxada"},
+		{"predicate": {"custom_model_data":10}, "model": "skins/primavera/v1/enxada"},
+		{"predicate": {"custom_model_data":11}, "model": "skins/criancada_22/enxada"},
+		{"predicate": {"custom_model_data":12}, "model": "skins/assombrada/enxada"},
+		{"predicate": {"custom_model_data":13}, "model": "skins/copa_22/enxada"},
+		{"predicate": {"custom_model_data":14}, "model": "skins/natal/enxada"},
+		{"predicate": {"custom_model_data":15}, "model": "skins/niver_aus/1/enxada"},
+		{"predicate": {"custom_model_data":16}, "model": "skins/carnavaus/enxada"},
+		{"predicate": {"custom_model_data":17}, "model": "skins/reborn/enxada"},
+		{"predicate": {"custom_model_data":18}, "model": "skins/pascoa/enxada"},
+		{"predicate": {"custom_model_data":19}, "model": "skins/prestigio/enxada"},
+		{"predicate": {"custom_model_data":20}, "model": "skins/insurgente/enxada"},
+		{"predicate": {"custom_model_data":21}, "model": "skins/namorados/enxada"},
+		{"predicate": {"custom_model_data":22}, "model": "skins/oriental/enxada"},
+		{"predicate": {"custom_model_data":23}, "model": "skins/glacial_negra/enxada"},
+		{"predicate": {"custom_model_data":24}, "model": "skins/primavera/v2/enxada"},
+		{"predicate": {"custom_model_data":25}, "model": "skins/desordem/enxada"},
+		{"predicate": {"custom_model_data":26}, "model": "skins/celestial/1/enxada"},
+		{"predicate": {"custom_model_data":27}, "model": "skins/celestial/2/enxada"},
+		{"predicate": {"custom_model_data":28}, "model": "skins/verao/enxada"},
+		{"predicate": {"custom_model_data":29}, "model": "skins/outono/enxada"},
+		{"predicate": {"custom_model_data":30}, "model": "skins/espectro/enxada"},
+		{"predicate": {"custom_model_data":31}, "model": "skins/ruina/enxada"},
+		{"predicate": {"custom_model_data":32}, "model": "skins/arraia/enxada"},
+		{"predicate": {"custom_model_data":33}, "model": "skins/abelha/enxada"},
+		{"predicate": {"custom_model_data":34}, "model": "skins/inverno/enxada"},
+		{"predicate": {"custom_model_data":35}, "model": "skins/calamidade/enxada"},
+		{"predicate": {"custom_model_data":36}, "model": "skins/deuses/enxada"}
+
+
+
+
+	]
+}

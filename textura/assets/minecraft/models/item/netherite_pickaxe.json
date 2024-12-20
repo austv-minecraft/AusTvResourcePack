@@ -1,0 +1,45 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/netherite_pickaxe"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "skins/_misc/picareta/zombie"},
+		{"predicate": {"custom_model_data":2}, "model": "skins/_misc/picareta/titanium"},
+		{"predicate": {"custom_model_data":3}, "model": "skins/_misc/picareta/onimbus"},
+		{"predicate": {"custom_model_data":5}, "model": "skins/_misc/picareta/1"},
+		{"predicate": {"custom_model_data":6}, "model": "skins/_misc/picareta/2"},
+		{"predicate": {"custom_model_data":8}, "model": "skins/pascoa_22/picareta"},
+		{"predicate": {"custom_model_data":9}, "model": "skins/miau/picareta"},
+		{"predicate": {"custom_model_data":10}, "model": "skins/namorados_22/picareta"},
+		{"predicate": {"custom_model_data":11}, "model": "skins/tormenta/picareta"},
+		{"predicate": {"custom_model_data":12}, "model": "skins/glacial/picareta"},
+		{"predicate": {"custom_model_data":13}, "model": "skins/primavera/v1/picareta"},
+		{"predicate": {"custom_model_data":14}, "model": "skins/criancada_22/picareta"},
+		{"predicate": {"custom_model_data":15}, "model": "skins/assombrada/picareta"},
+		{"predicate": {"custom_model_data":16}, "model": "skins/copa_22/picareta"},
+		{"predicate": {"custom_model_data":17}, "model": "skins/natal/picareta"},
+		{"predicate": {"custom_model_data":18}, "model": "skins/niver_aus/1/picareta"},
+		{"predicate": {"custom_model_data":19}, "model": "skins/carnavaus/picareta"},
+		{"predicate": {"custom_model_data":20}, "model": "skins/reborn/picareta"},
+		{"predicate": {"custom_model_data":21}, "model": "skins/pascoa/picareta"},
+		{"predicate": {"custom_model_data":22}, "model": "skins/prestigio/picareta"},
+		{"predicate": {"custom_model_data":23}, "model": "skins/insurgente/picareta"},
+		{"predicate": {"custom_model_data":24}, "model": "skins/namorados/picareta"},
+		{"predicate": {"custom_model_data":25}, "model": "skins/oriental/picareta"},
+		{"predicate": {"custom_model_data":26}, "model": "skins/glacial_negra/picareta"},
+		{"predicate": {"custom_model_data":27}, "model": "skins/primavera/v2/picareta"},
+		{"predicate": {"custom_model_data":28}, "model": "skins/desordem/picareta"},
+		{"predicate": {"custom_model_data":29}, "model": "skins/celestial/1/picareta"},
+		{"predicate": {"custom_model_data":30}, "model": "skins/celestial/2/picareta"},
+		{"predicate": {"custom_model_data":31}, "model": "skins/verao/picareta"},
+		{"predicate": {"custom_model_data":32}, "model": "skins/outono/picareta"},
+		{"predicate": {"custom_model_data":33}, "model": "skins/espectro/picareta"},
+		{"predicate": {"custom_model_data":34}, "model": "skins/ruina/picareta"},
+		{"predicate": {"custom_model_data":35}, "model": "skins/abelha/picareta"},
+		{"predicate": {"custom_model_data":36}, "model": "skins/inverno/picareta"},
+		{"predicate": {"custom_model_data":37}, "model": "skins/calamidade/picareta"},
+		{"predicate": {"custom_model_data":38}, "model": "skins/deuses/picareta"}
+	]
+}

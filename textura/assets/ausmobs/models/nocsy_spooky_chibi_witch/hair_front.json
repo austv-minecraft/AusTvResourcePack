@@ -1,0 +1,1 @@
+{"textures":{"0":"ausmobs:entity/nocsy_spooky_chibi_witch"},"elements":[{"from":[0.9000001,6.0,8.0],"to":[10.9,11.0,8.0],"faces":{"south":{"uv":[6.625,0.0,7.875,0.625],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[6.375,4.625,7.625,5.25],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

@@ -1,0 +1,14 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "block/jigsaw"
+	},
+
+	"overrides": [
+		{ "predicate": { "custom_model_data": 0 }, "model": "block/jigsaw" }
+
+
+
+
+	]
+}

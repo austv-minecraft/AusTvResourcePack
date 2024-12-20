@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+	  "layer0": "item/diamond/icone_espada_v2_a"
+	}
+}

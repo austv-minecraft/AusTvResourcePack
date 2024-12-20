@@ -1,0 +1,17 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/written_book"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "livros/jornal"},
+		{"predicate": {"custom_model_data":2}, "model": "livros/historias"},
+		{"predicate": {"custom_model_data":3}, "model": "livros/livro_namorados"},
+		{"predicate": {"custom_model_data":4}, "model": "livros/livro_ruina"},
+		{"predicate": {"custom_model_data":5}, "model": "livros/essencias"},
+		{"predicate": {"custom_model_data":6}, "model": "livros/inicial"},
+		{"predicate": {"custom_model_data":7}, "model": "livros/preferencias"},
+		{"predicate": {"custom_model_data":8}, "model": "livros/super_encant"}
+	]
+}

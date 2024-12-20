@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/snowball"},"overrides":[{"predicate":{"custom_model_data":10000},"model":"ausmilitar:ia_auto_gen/granada"},{"predicate":{"custom_model_data":10001},"model":"item/snowball"}]}

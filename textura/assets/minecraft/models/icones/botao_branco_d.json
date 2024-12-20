@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+	  "layer0": "item/diamond/botao_branco_d"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"item.arma.tiro":{
+		"sounds":[
+			"ausmilitar:arma/tiro1",
+			"ausmilitar:arma/tiro2",
+			"ausmilitar:arma/tiro3"
+		]
+	},
+	"item.arma.municao":{
+		"sounds":[
+			"ausmilitar:arma/sem_bala"
+		]
+	}
+}

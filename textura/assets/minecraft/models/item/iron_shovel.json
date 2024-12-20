@@ -1,0 +1,12 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_shovel"
+	},
+
+	"overrides": [
+		{ "predicate": { "custom_model_data": 0 }, "model": "item/iron_shovel" },
+		{ "predicate": { "custom_model_data": 1 }, "model": "eventos/bazuca" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "eventos/pa_spleef" }
+	]
+}

@@ -1,0 +1,98 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "ausmoveis:natal/christmas_ball_3",
+		"particle": "ausmoveis:natal/christmas_ball_3"
+	},
+	"elements": [
+		{
+			"from": [4.5, 4, 4.5],
+			"to": [11.5, 11, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 3.5], "texture": "#1"},
+				"east": {"uv": [0, 3.5, 3.5, 7], "texture": "#1"},
+				"south": {"uv": [3.5, 0, 7, 3.5], "texture": "#1"},
+				"west": {"uv": [3.5, 3.5, 7, 7], "texture": "#1"},
+				"up": {"uv": [3.5, 10.5, 0, 7], "texture": "#1"},
+				"down": {"uv": [10.5, 0, 7, 3.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [8, 11, 6.5],
+			"to": [8, 16, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 2.5], "texture": "#1"},
+				"east": {"uv": [3.5, 7, 5, 9.5], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 2.5], "texture": "#1"},
+				"west": {"uv": [7, 3.5, 8.5, 6], "texture": "#1"},
+				"up": {"uv": [0, 1.5, 0, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 1.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6.5, 11, 8],
+			"to": [9.5, 16, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [5, 7, 6.5, 9.5], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 2.5], "texture": "#1"},
+				"south": {"uv": [7, 6, 8.5, 8.5], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 2.5], "texture": "#1"},
+				"up": {"uv": [1.5, 0, 0, 0], "texture": "#1"},
+				"down": {"uv": [1.5, 0, 0, 0], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [60, 45, 0],
+			"translation": [0, 2.5, 0.5],
+			"scale": [0.51367, 0.51367, 0.51367]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [60, 45, 0],
+			"translation": [0, 2.5, 0.5],
+			"scale": [0.51367, 0.51367, 0.51367]
+		},
+		"firstperson_righthand": {
+			"rotation": [11, 79, 0],
+			"translation": [1.5, 4, 1],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [11, 79, 0],
+			"translation": [1.5, 4, 1],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 1.25, 0],
+			"scale": [0.42578, 0.42578, 0.42578]
+		},
+		"gui": {
+			"rotation": [20, 144, 0],
+			"translation": [0, -0.75, 0],
+			"scale": [0.84375, 0.84375, 0.84375]
+		},
+		"head": {
+			"translation": [0, -14.25, 0],
+			"scale": [2.285, 2.285, 2.285]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0.25, -0.5, -15.25],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "ball",
+			"origin": [8, 16, 13],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

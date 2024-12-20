@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+	  "layer0": "item/diamond/icone_capacete_v1_d"
+	}
+}

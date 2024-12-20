@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_directional",
+  "textures": {
+    "particle": "minecraft:block/jigsaw",
+    "north": "minecraft:block/jigsaw",
+    "south": "minecraft:block/jigsaw",
+    "east": "minecraft:block/jigsaw",
+    "west": "minecraft:block/jigsaw",
+    "up": "minecraft:block/jigsaw",
+    "down": "minecraft:block/jigsaw"
+  }
+}
