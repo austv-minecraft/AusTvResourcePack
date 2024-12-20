@@ -1,0 +1,28 @@
+name: Otimizar e corromper textura
+on: [push]
+jobs:
+  packsquash:
+    name: Optimize resource pack
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Run PackSquash
+        uses: ComunidadAylas/PackSquash-action@v4
+        with:
+          packsquash_version: latest
+          options: |
+            pack_directory = 'textura'
+            recompress_compressed_files = true
+            zip_compression_iterations = 5
+            automatic_minecraft_quirks_detection = true
+            work_around_minecraft_quirks = ['grayscale_images_gamma_miscorrection', 'java8_zip_parsing']
+            allow_mods = ['OptiFine']
+            skip_pack_icon = false
+            validate_pack_metadata_file = true
+            ignore_system_and_hidden_files = false
+            zip_spec_conformance_level = 'disregard'
+            size_increasing_zip_obfuscation = true
+            percentage_of_zip_structures_tuned_for_obfuscation_discretion = 100
