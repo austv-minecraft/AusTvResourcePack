@@ -1,0 +1,45 @@
+name: Converter textura para Bedrock
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  convert-textures:
+    runs-on: ubuntu-latest
+    permissions: write-all
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Install NodeJS and Dependencies
+        uses: actions/setup-node@v3
+        with:
+          node-version: 17
+      - name: Install Dependencies
+        run: |
+          sudo apt-get update && sudo apt-get install -y moreutils zip
+          yarn global add spritesheet-js
+      
+      - name: Run Conversion Script
+        run: |
+          mkdir -p output
+          chmod +x converter.sh
+          cd textura
+          zip -r ../input_pack.zip ./* # Compacta a pasta `textura` em um único arquivo
+          cd ..
+          ./converter.sh input_pack.zip -w "false" -m "null" -a "entity_alphatest_one_sided" -b "alpha_test" -f "null" -v "1.19.3" -r "false" -s "true" -u "true"
+
+      - name: Upload Converted Packs
+        uses: actions/upload-artifact@v3
+        with:
+          name: Converted_Packs
+          path: |
+            target/packaged/geyser_resources.mcpack
+            target/packaged/geyser_addon.mcaddon
+            target/geyser_mappings.json
+            target/scratch_files.zip
+            config.json

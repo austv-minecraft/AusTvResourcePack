@@ -28,3 +28,6 @@ Ao finalizar suas alterações, use no terminal:
 - Renomeado nome de alguns diretórios
 
 Repare que cada mensagem é respectivo a **um assunto somente**, isso também é importante. Se você precisar adicionar novos emblemas e também adicionar novos cosméticos, faça duas operações distintas: primeiro adicione os cosméticos (fazendo todo o processo do git) e depois adicione todos os emblemas (e faça o mesmo processo novamente).
+
+## Conversão Java2Bedrock
+A textura é automaticamente convertida (sem criptografia e otimização) para Bedrock para ser usada junto com Geyser. É aproveitado o script o repositório [java2bedrock.sh](https://github.com/Kas-tle/java2bedrock.sh), como uma **cópia original** do script. As conversões podem ser encontradas [aqui](https://github.com/leogianfagna/AusTvResourcePack/actions/workflows/java2bedrock.yml).
