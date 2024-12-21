@@ -15,15 +15,11 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Install NodeJS and Dependencies
-        uses: actions/setup-node@v3
-        with:
-          node-version: 17
       - name: Install Dependencies
         run: |
-          sudo apt-get update && sudo apt-get install -y moreutils zip
+          sudo apt-get update && sudo apt-get install -y moreutils zip imagemagick
           yarn global add spritesheet-js
-      
+
       - name: Run Conversion Script
         run: |
           mkdir -p output
