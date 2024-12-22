@@ -5,11 +5,11 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "skins/_misc/picareta/zombie"},
-		{"predicate": {"custom_model_data":2}, "model": "skins/_misc/picareta/titanium"},
-		{"predicate": {"custom_model_data":3}, "model": "skins/_misc/picareta/onimbus"},
-		{"predicate": {"custom_model_data":5}, "model": "skins/_misc/picareta/1"},
-		{"predicate": {"custom_model_data":6}, "model": "skins/_misc/picareta/2"},
+		{"predicate": {"custom_model_data":1}, "model": "skins/_misc/pick/zombie"},
+		{"predicate": {"custom_model_data":2}, "model": "skins/_misc/pick/titanium"},
+		{"predicate": {"custom_model_data":3}, "model": "skins/_misc/pick/onimbus"},
+		{"predicate": {"custom_model_data":5}, "model": "skins/_misc/pick/1"},
+		{"predicate": {"custom_model_data":6}, "model": "skins/_misc/pick/2"},
 		{"predicate": {"custom_model_data":8}, "model": "skins/pascoa_22/picareta"},
 		{"predicate": {"custom_model_data":9}, "model": "skins/miau/picareta"},
 		{"predicate": {"custom_model_data":10}, "model": "skins/namorados_22/picareta"},

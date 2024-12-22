@@ -30,7 +30,7 @@
 		{ "predicate": { "custom_model_data": 22 }, "model": "chapeus/robot_chicken" },
 		{ "predicate": { "custom_model_data": 23 }, "model": "chapeus/jester" },
 		{ "predicate": { "custom_model_data": 24 }, "model": "chapeus/crown" },
-		{ "predicate": { "custom_model_data": 25 }, "model": "chapeus/old_scientist_glasses" },
+		{ "predicate": { "custom_model_data": 25 }, "model": "chapeus/oculos_cientista" },
 		{ "predicate": { "custom_model_data": 26 }, "model": "chapeus/headband_red" },
 		{ "predicate": { "custom_model_data": 27 }, "model": "chapeus/headband_blue" },
 		{ "predicate": { "custom_model_data": 28 }, "model": "chapeus/rabbit" },
