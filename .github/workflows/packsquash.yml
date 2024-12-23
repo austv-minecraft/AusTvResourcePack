@@ -4,6 +4,9 @@ jobs:
   packsquash:
     name: Optimize resource pack
     runs-on: ubuntu-latest
+    permissions: 
+      contents: write
+      actions: write
     steps:
       - name: Clone repository
         uses: actions/checkout@v4
