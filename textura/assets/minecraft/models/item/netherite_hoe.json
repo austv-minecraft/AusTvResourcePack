@@ -41,7 +41,8 @@
 		{"predicate": {"custom_model_data":33}, "model": "skins/abelha/enxada"},
 		{"predicate": {"custom_model_data":34}, "model": "skins/inverno/enxada"},
 		{"predicate": {"custom_model_data":35}, "model": "skins/calamidade/enxada"},
-		{"predicate": {"custom_model_data":36}, "model": "skins/deuses/enxada"}
+		{"predicate": {"custom_model_data":36}, "model": "skins/deuses/enxada"},
+		{"predicate": {"custom_model_data":37}, "model": "skins/natal24/enxada"}
 
 
 

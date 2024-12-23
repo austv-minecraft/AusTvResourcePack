@@ -82,7 +82,9 @@
 		{"predicate": {"custom_model_data":81}, "model": "skins/calamidade/machado"},
 		{"predicate": {"custom_model_data":82}, "model": "skins/calamidade/machado_2"},
 		{"predicate": {"custom_model_data":83}, "model": "skins/deuses/machado"},
-		{"predicate": {"custom_model_data":84}, "model": "skins/deuses/machado_2"}
+		{"predicate": {"custom_model_data":84}, "model": "skins/deuses/machado_2"},
+		{"predicate": {"custom_model_data":85}, "model": "skins/natal24/machado"},
+		{"predicate": {"custom_model_data":86}, "model": "skins/natal24/machado_2"}
 		
 	]
 }
