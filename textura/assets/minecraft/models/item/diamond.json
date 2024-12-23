@@ -137,6 +137,7 @@
 		{"predicate": {"custom_model_data":135}, "model": "icones/tutorial_andamento"},
 		{"predicate": {"custom_model_data":136}, "model": "icones/tutorial_completo"},
 		{"predicate": {"custom_model_data":137}, "model": "icones/pets_rodolfo"},
+		{"predicate": {"custom_model_data":138}, "model": "icones/pasta"},
 		{"predicate": {"custom_model_data":5000}, "model": "icones/emblema/independencia"},
 		{"predicate": {"custom_model_data":5001}, "model": "icones/emblema/aviador"},
 		{"predicate": {"custom_model_data":5002}, "model": "icones/emblema/willzy"},
