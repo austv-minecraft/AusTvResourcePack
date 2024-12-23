@@ -1,6 +1,6 @@
 Essa textura pertence ao servidor de minecraft e equipe Austv.
 Todos os itens e arquivos foram desenvolvidos ou podem ser usados por esta equipe.
-Especificamente aos jogadores Dzxcraft, Verbek, Batatones_ e WaKaliTe.
+Especificamente aos jogadores WaKaliTe, Dzxcraft, Verbek, Batatones e Micosedeunha.
 
 Termos de uso:
 - Você pode usar a textura enquanto joga no servidor austv, conhecido pelo ip jogar.austv.net
@@ -11,11 +11,12 @@ Lembrando que você não pode:
 - Hostear essa textura em uma outra plataforma
 - Usar qualquer item/arquivo dessa textura em outros projetos
 - Passar, enviar ou salvar qualquer item/arquivo dessa textura
+- Plagiar itens da textura
 
 ----------------------------------------------------------------------------------------------------
 This texture belongs to Austv minecraft server and the owner team.
 Everything in this resource pack was created or is permitted to use by this team.
-Specifically to the players Dzxcraft, Verbek, Batatones_ and WaKaliTe.
+Specifically to the players WaKaliTe, Dzxcraft, Verbek, Batatones and Micosedeunha.
 
 Terms of use:
 - Use the resource pack while you are connected in the austv server, known by the IP adress jogar.austv.net
@@ -26,5 +27,6 @@ You can't:
 - Re-hosting this resource pack to any other websites
 - Use any part of this resource pack in other projects
 - Transfer or save any item/file from this resource pack
+- Plagiarize texture items
 
 If in doubt, you can always reach us on Discord
