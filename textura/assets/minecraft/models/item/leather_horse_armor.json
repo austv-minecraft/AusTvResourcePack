@@ -5,118 +5,672 @@
 	},
 	
 	"overrides": [
-		{"predicate": { "custom_model_data": 0 }, "model": "item/leather_horse_armor"},
-		{"predicate": { "custom_model_data": 3 }, "model": "ausmobs:nocsy_otter_v2/body"},
-        {"predicate": { "custom_model_data": 4 }, "model": "ausmobs:nocsy_otter_v2/front_leg_left"},
-        {"predicate": { "custom_model_data": 5 }, "model": "ausmobs:nocsy_otter_v2/head"},
-        {"predicate": { "custom_model_data": 6 }, "model": "ausmobs:nocsy_otter_v2/back_leg_right"},
-		{"predicate": { "custom_model_data": 8 }, "model": "ausmobs:qmob_silkfang/torso"},
-		{"predicate": { "custom_model_data": 9 }, "model": "ausmobs:qmob_silkfang/frontlegsl"},
-		{"predicate": { "custom_model_data": 10 }, "model": "ausmobs:qmob_silkfang/rearlegsl"},
-		{"predicate": { "custom_model_data": 11 }, "model": "ausmobs:qmob_silkfang/abdomen"},
-		{"predicate": { "custom_model_data": 12 }, "model": "ausmobs:qmob_silkfang/armsr"},
-		{"predicate": { "custom_model_data": 13 }, "model": "ausmobs:qmob_silkfang/armsl"},
-		{"predicate": { "custom_model_data": 14 }, "model": "ausmobs:qmob_silkfang/frontlegsr"},
-		{"predicate": { "custom_model_data": 15 }, "model": "ausmobs:qmob_silkfang/rearlegsr"},
-		{"predicate": { "custom_model_data": 16 }, "model": "ausmobs:qmob_silkfang/cap"},
-		{"predicate": { "custom_model_data": 17 }, "model": "ausmobs:qmob_silkfang/tail"},
-		{"predicate": { "custom_model_data": 18 }, "model": "ausmobs:kindletron2/pelvis"},
-		{"predicate": { "custom_model_data": 19 }, "model": "ausmobs:kindletron2/left_leg"},
-		{"predicate": { "custom_model_data": 20 }, "model": "ausmobs:kindletron2/right_leg"},
-		{"predicate": { "custom_model_data": 21 }, "model": "ausmobs:kindletron2/torso"},
-		{"predicate": { "custom_model_data": 22 }, "model": "ausmobs:kindletron2/left_foot"},
-		{"predicate": { "custom_model_data": 23 }, "model": "ausmobs:kindletron2/right_foot"},
-		{"predicate": { "custom_model_data": 24 }, "model": "ausmobs:kindletron2/head"},
-		{"predicate": { "custom_model_data": 25 }, "model": "ausmobs:kindletron2/right_arm"},
-		{"predicate": { "custom_model_data": 26 }, "model": "ausmobs:kindletron2/left_arm"},
-		{"predicate": { "custom_model_data": 27 }, "model": "ausmobs:kindletron2/right_forearm"},
-		{"predicate": { "custom_model_data": 28 }, "model": "ausmobs:kindletron2/left_forearm"},
-		{"predicate": { "custom_model_data": 29 }, "model": "ausmobs:kindletron2/blade"},
-		{"predicate": { "custom_model_data": 30 }, "model": "ausmobs:kindletron2/left_hand"},
-		{"predicate": { "custom_model_data": 31 }, "model": "ausmobs:kindletron2/finger_2"},
-		{"predicate": { "custom_model_data": 32 }, "model": "ausmobs:kindletron2/finger_1"},
-		{"predicate": { "custom_model_data": 33 }, "model": "ausmobs:kindletron2_damaged/torso_damage_1"},
-		{"predicate": { "custom_model_data": 34 }, "model": "ausmobs:kindletron2_damaged/torso_damage_3"},
-		{"predicate": { "custom_model_data": 35 }, "model": "ausmobs:kindletron2_damaged/torso_damage_2"},
-		{"predicate": { "custom_model_data": 36 }, "model": "ausmobs:kindletron2_damaged/torso_glide"},
-		{"predicate": { "custom_model_data": 37 }, "model": "ausmobs:kindletron2_damaged/right_arm_damage_1"},
-		{"predicate": { "custom_model_data": 38 }, "model": "ausmobs:toffy_dark_mage_lvl2/body"},
-		{"predicate": { "custom_model_data": 39 }, "model": "ausmobs:toffy_dark_mage_lvl2/robe_right"},
-		{"predicate": { "custom_model_data": 40 }, "model": "ausmobs:toffy_dark_mage_lvl2/head"},
-		{"predicate": { "custom_model_data": 41 }, "model": "ausmobs:toffy_dark_mage_lvl2/robe_left"},
-		{"predicate": { "custom_model_data": 42 }, "model": "ausmobs:toffy_dark_mage_lvl2/cape"},
-		{"predicate": { "custom_model_data": 43 }, "model": "ausmobs:toffy_dark_mage_lvl2/scarf"},
-		{"predicate": { "custom_model_data": 44 }, "model": "ausmobs:toffy_dark_mage_lvl2/hat"},
-		{"predicate": { "custom_model_data": 45 }, "model": "ausmobs:toffy_dark_mage_lvl2/cape_end"},
-		{"predicate": { "custom_model_data": 46 }, "model": "ausmobs:toffy_dark_mage_lvl2/scarf_end"},
-		{"predicate": { "custom_model_data": 47 }, "model": "ausmobs:christmas_deer/back_leg_right"},
-        {"predicate": { "custom_model_data": 48 }, "model": "ausmobs:christmas_deer/back_leg_left"},
-		{"predicate": { "custom_model_data": 49 }, "model": "ausmobs:christmas_deer/body"},
-        {"predicate": { "custom_model_data": 50 }, "model": "ausmobs:christmas_deer/back_leg_right1"},
-        {"predicate": { "custom_model_data": 51 }, "model": "ausmobs:christmas_deer/back_leg_left1"},
-        {"predicate": { "custom_model_data": 52 }, "model": "ausmobs:christmas_deer/tail"},
-        {"predicate": { "custom_model_data": 53 }, "model": "ausmobs:christmas_deer/front_leg_right"},
-        {"predicate": { "custom_model_data": 54 }, "model": "ausmobs:christmas_deer/front_leg_left"},
-        {"predicate": { "custom_model_data": 55 }, "model": "ausmobs:christmas_deer/neck"},
-        {"predicate": { "custom_model_data": 56 }, "model": "ausmobs:christmas_deer/front_leg_right1"},
-        {"predicate": { "custom_model_data": 57 }, "model": "ausmobs:christmas_deer/front_leg_left1"},
-        {"predicate": { "custom_model_data": 58 }, "model": "ausmobs:christmas_deer/head"},
-		{"predicate": { "custom_model_data": 59 }, "model": "ausmobs:skr_snowbone/left_leg"},
-        {"predicate": { "custom_model_data": 60 }, "model": "ausmobs:skr_snowbone/right_leg"},
-        {"predicate": { "custom_model_data": 61 }, "model": "ausmobs:skr_snowbone/body"},
-        {"predicate": { "custom_model_data": 62 }, "model": "ausmobs:skr_snowbone/head"},
-        {"predicate": { "custom_model_data": 63 }, "model": "ausmobs:skr_snowbone/right_arm"},
-		{"predicate": { "custom_model_data": 64 }, "model": "ausmobs:nocsy_spooky_chibi_witch/body"},
-		{"predicate": { "custom_model_data": 65 }, "model": "ausmobs:nocsy_spooky_chibi_witch/head"},
-		{"predicate": { "custom_model_data": 66 }, "model": "ausmobs:nocsy_spooky_chibi_witch/right_arm"},
-		{"predicate": { "custom_model_data": 67 }, "model": "ausmobs:nocsy_spooky_chibi_witch/left_arm"},
-		{"predicate": { "custom_model_data": 68 }, "model": "ausmobs:nocsy_spooky_chibi_witch/dress_right"},
-		{"predicate": { "custom_model_data": 69 }, "model": "ausmobs:nocsy_spooky_chibi_witch/dress_left"},
-		{"predicate": { "custom_model_data": 70 }, "model": "ausmobs:nocsy_spooky_chibi_witch/right_hair"},
-		{"predicate": { "custom_model_data": 71 }, "model": "ausmobs:nocsy_spooky_chibi_witch/left_hair_mesh"},
-		{"predicate": { "custom_model_data": 72 }, "model": "ausmobs:nocsy_spooky_chibi_witch/left_hair"},
-		{"predicate": { "custom_model_data": 73 }, "model": "ausmobs:nocsy_spooky_chibi_witch/hair_front"},
-		{"predicate": { "custom_model_data": 74 }, "model": "ausmobs:nocsy_spooky_chibi_witch/hat"},
-		{"predicate": { "custom_model_data": 75 }, "model": "ausmobs:skr_snowbone/left_arm"},
-		{"predicate": { "custom_model_data": 76 }, "model": "ausmobs:skr_snowbone/upper_skull"},
-		{"predicate": { "custom_model_data": 77 }, "model": "ausmobs:skr_snowbone/snowball"},
-		{"predicate": { "custom_model_data": 78 }, "model": "ausmobs:skr_snowbone/hat"},
-		{"predicate": { "custom_model_data": 79 }, "model": "ausmobs:skr_snowbone/hat2"},
-		{"predicate": { "custom_model_data": 80 }, "model": "ausmobs:regaloblancou_gm_gamitmodels/regaloblanco"},
-		{"predicate": { "custom_model_data": 81 }, "model": "ausmobs:regalorojo_gm_gamitmodels/regalorojo"},
-		{"predicate": { "custom_model_data": 82 }, "model": "ausmobs:caramelo2_gm_smooth/bone2"},
-		{"predicate": { "custom_model_data": 83 }, "model": "ausmobs:nocsy_otter_v2/back_leg_left"},
-        {"predicate": { "custom_model_data": 84 }, "model": "ausmobs:nocsy_otter_v2/tail"},
-        {"predicate": { "custom_model_data": 85 }, "model": "ausmobs:nocsy_otter_v2/front_leg_right"},
-		{"predicate": { "custom_model_data": 86 }, "model": "ausmobs:dragon_navidad_gm/cullo"},
-		{"predicate": { "custom_model_data": 87 }, "model": "ausmobs:dragon_navidad_gm/curpo2"},
-		{"predicate": { "custom_model_data": 88 }, "model": "ausmobs:dragon_navidad_gm/bola1"},
-		{"predicate": { "custom_model_data": 89 }, "model": "ausmobs:dragon_navidad_gm/bola3"},
-		{"predicate": { "custom_model_data": 90 }, "model": "ausmobs:dragon_navidad_gm/bola2"},
-		{"predicate": { "custom_model_data": 91 }, "model": "ausmobs:dragon_navidad_gm/head"},
-		{"predicate": { "custom_model_data": 92 }, "model": "ausmobs:dragon_navidad_gm/curpo3"},
-		{"predicate": { "custom_model_data": 93 }, "model": "ausmobs:dragon_navidad_gm/brazodragder3"},
-		{"predicate": { "custom_model_data": 94 }, "model": "ausmobs:dragon_navidad_gm/brazodragder"},
-		{"predicate": { "custom_model_data": 95 }, "model": "ausmobs:dragon_navidad_gm/bone2"},
-		{"predicate": { "custom_model_data": 96 }, "model": "ausmobs:dragon_navidad_gm/bone4"},
-		{"predicate": { "custom_model_data": 97 }, "model": "ausmobs:dragon_navidad_gm/curpo4"},
-		{"predicate": { "custom_model_data": 98 }, "model": "ausmobs:dragon_navidad_gm/brazodragder4"},
-		{"predicate": { "custom_model_data": 99 }, "model": "ausmobs:dragon_navidad_gm/brazodragder2"},
-		{"predicate": { "custom_model_data": 100 }, "model": "ausmobs:dragon_navidad_gm/bone3"},
-		{"predicate": { "custom_model_data": 101 }, "model": "ausmobs:dragon_navidad_gm/bone"},
-		{"predicate": { "custom_model_data": 102 }, "model": "ausmobs:dragon_navidad_gm/bone5"},
-		{"predicate": { "custom_model_data": 103 }, "model": "ausmobs:dragon_navidad_gm/curpo5"},
-		{"predicate": { "custom_model_data": 104 }, "model": "ausmobs:dragon_navidad_gm/bone6"},
-		{"predicate": { "custom_model_data": 105 }, "model": "ausmobs:dragon_navidad_gm/curpo6"},
-		{"predicate": { "custom_model_data": 106 }, "model": "ausmobs:dragon_navidad_gm/brazodragder7"},
-		{"predicate": { "custom_model_data": 107 }, "model": "ausmobs:dragon_navidad_gm/brazodragder5"},
-		{"predicate": { "custom_model_data": 108 }, "model": "ausmobs:dragon_navidad_gm/bone7"},
-		{"predicate": { "custom_model_data": 109 }, "model": "ausmobs:dragon_navidad_gm/curpo7"},
-		{"predicate": { "custom_model_data": 110 }, "model": "ausmobs:dragon_navidad_gm/brazodragder8"},
-		{"predicate": { "custom_model_data": 111 }, "model": "ausmobs:dragon_navidad_gm/brazodragder6"},
-		{"predicate": { "custom_model_data": 112 }, "model": "ausmobs:dragon_navidad_gm/curpo9"},
-		{"predicate": { "custom_model_data": 113 }, "model": "ausmobs:dragon_navidad_gm/xx3"},
-		{"predicate": { "custom_model_data": 114 }, "model": "ausmobs:dragon_navidad_gm/xx2"},
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "ausmobs:leoncio/body"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "ausmobs:leoncio/head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "ausmobs:leoncio/back_leg_left"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "ausmobs:heleonora/right_arm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "ausmobs:leoncio/tail"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "ausmobs:leoncio/front_leg_right"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "ausmobs:leoncio/back_leg_right"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "ausmobs:boss_kindletron/torso"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "ausmobs:boss_kindletron/left_foot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "ausmobs:boss_kindletron/right_foot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "ausmobs:boss_kindletron/head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "ausmobs:boss_kindletron/right_arm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "ausmobs:boss_kindletron/left_arm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "ausmobs:boss_kindletron/right_forearm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "ausmobs:boss_kindletron/left_forearm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "ausmobs:boss_kindletron/blade"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "ausmobs:boss_kindletron/left_hand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "ausmobs:boss_kindletron/finger_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "ausmobs:boss_kindletron/finger_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "ausmobs:boss_kindletron_dam/torso_damage_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "ausmobs:boss_kindletron_dam/torso_damage_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "ausmobs:boss_kindletron_dam/torso_damage_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "ausmobs:boss_kindletron_dam/torso_glide"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "ausmobs:boss_kindletron_dam/right_arm_damage_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "ausmobs:boss_tytius/torso"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "ausmobs:boss_tytius/frontlegsl"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "ausmobs:boss_tytius/rearlegsl"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "ausmobs:boss_tytius/abdomen"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "ausmobs:boss_tytius/armsr"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "ausmobs:boss_tytius/armsl"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 31
+            },
+            "model": "ausmobs:boss_tytius/frontlegsr"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 32
+            },
+            "model": "ausmobs:boss_tytius/rearlegsr"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 33
+            },
+            "model": "ausmobs:boss_tytius/cap"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 34
+            },
+            "model": "ausmobs:boss_tytius/tail"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 35
+            },
+            "model": "ausmobs:snowbone/left_leg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 36
+            },
+            "model": "ausmobs:snowbone/right_leg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 37
+            },
+            "model": "ausmobs:snowbone/body"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 38
+            },
+            "model": "ausmobs:heleonora/left_arm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 39
+            },
+            "model": "ausmobs:heleonora/dress_right"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 40
+            },
+            "model": "ausmobs:heleonora/dress_left"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 41
+            },
+            "model": "ausmobs:heleonora/right_hair"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 42
+            },
+            "model": "ausmobs:heleonora/left_hair_mesh"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 43
+            },
+            "model": "ausmobs:heleonora/left_hair"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 44
+            },
+            "model": "ausmobs:heleonora/hair_front"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 45
+            },
+            "model": "ausmobs:heleonora/hat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 46
+            },
+            "model": "ausmobs:mirko/body"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 47
+            },
+            "model": "ausmobs:rodolfo/back_leg_right1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 48
+            },
+            "model": "ausmobs:rodolfo/back_leg_left1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 49
+            },
+            "model": "ausmobs:rodolfo/tail"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 50
+            },
+            "model": "ausmobs:rodolfo/front_leg_right"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 51
+            },
+            "model": "ausmobs:rodolfo/front_leg_left"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 52
+            },
+            "model": "ausmobs:rodolfo/neck"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 53
+            },
+            "model": "ausmobs:rodolfo/front_leg_right1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 54
+            },
+            "model": "ausmobs:rodolfo/front_leg_left1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 55
+            },
+            "model": "ausmobs:rodolfo/head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 56
+            },
+            "model": "ausmobs:boss_kindletron/pelvis"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 57
+            },
+            "model": "ausmobs:boss_kindletron/left_leg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 58
+            },
+            "model": "ausmobs:boss_kindletron/right_leg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 59
+            },
+            "model": "ausmobs:snowbone/head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 60
+            },
+            "model": "ausmobs:snowbone/right_arm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 61
+            },
+            "model": "ausmobs:snowbone/left_arm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 62
+            },
+            "model": "ausmobs:snowbone/upper_skull"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 63
+            },
+            "model": "ausmobs:snowbone/snowball"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "ausmobs:mirko/robe_right"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 65
+            },
+            "model": "ausmobs:mirko/head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 66
+            },
+            "model": "ausmobs:mirko/robe_left"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 67
+            },
+            "model": "ausmobs:mirko/cape"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 68
+            },
+            "model": "ausmobs:mirko/scarf"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 69
+            },
+            "model": "ausmobs:mirko/hat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 70
+            },
+            "model": "ausmobs:mirko/cape_end"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 71
+            },
+            "model": "ausmobs:mirko/scarf_end"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 72
+            },
+            "model": "ausmobs:rodolfo/back_leg_right"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 73
+            },
+            "model": "ausmobs:rodolfo/back_leg_left"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 74
+            },
+            "model": "ausmobs:rodolfo/body"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 75
+            },
+            "model": "ausmobs:snowbone/hat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 76
+            },
+            "model": "ausmobs:snowbone/hat2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 77
+            },
+            "model": "ausmobs:polo_bengala/bone2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 78
+            },
+            "model": "ausmobs:polo_dragao/cullo"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 79
+            },
+            "model": "ausmobs:polo_dragao/curpo2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 82
+            },
+            "model": "ausmobs:polo_dragao/bola1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 83
+            },
+            "model": "ausmobs:leoncio/front_leg_left"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 84
+            },
+            "model": "ausmobs:heleonora/body"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 85
+            },
+            "model": "ausmobs:heleonora/head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 86
+            },
+            "model": "ausmobs:polo_dragao/bola3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 87
+            },
+            "model": "ausmobs:polo_dragao/bola2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 88
+            },
+            "model": "ausmobs:polo_dragao/head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 89
+            },
+            "model": "ausmobs:polo_dragao/curpo3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 90
+            },
+            "model": "ausmobs:polo_dragao/brazodragder3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 91
+            },
+            "model": "ausmobs:polo_dragao/brazodragder"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 92
+            },
+            "model": "ausmobs:polo_dragao/bone2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 93
+            },
+            "model": "ausmobs:polo_dragao/bone4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 94
+            },
+            "model": "ausmobs:polo_dragao/curpo4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 95
+            },
+            "model": "ausmobs:polo_dragao/brazodragder4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 96
+            },
+            "model": "ausmobs:polo_dragao/brazodragder2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 97
+            },
+            "model": "ausmobs:polo_dragao/bone3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 98
+            },
+            "model": "ausmobs:polo_dragao/bone"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 99
+            },
+            "model": "ausmobs:polo_dragao/bone5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100
+            },
+            "model": "ausmobs:polo_dragao/curpo5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101
+            },
+            "model": "ausmobs:polo_dragao/bone6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "ausmobs:polo_dragao/curpo6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "ausmobs:polo_dragao/brazodragder7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "ausmobs:polo_dragao/brazodragder5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105
+            },
+            "model": "ausmobs:polo_dragao/bone7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "ausmobs:polo_dragao/curpo7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107
+            },
+            "model": "ausmobs:polo_dragao/brazodragder8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108
+            },
+            "model": "ausmobs:polo_dragao/brazodragder6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109
+            },
+            "model": "ausmobs:polo_dragao/curpo9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "ausmobs:polo_dragao/xx3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111
+            },
+            "model": "ausmobs:polo_dragao/xx2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112
+            },
+            "model": "ausmobs:polo_presente1/regaloblanco"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 113
+            },
+            "model": "ausmobs:polo_presente2/regalorojo"
+        },
 		{"predicate": { "custom_model_data": 5000 }, "model": "ausobjs:caixas/skyblock"},
 		{"predicate": { "custom_model_data": 5001 }, "model": "ausobjs:caixas/skyblock"},
 		{"predicate": { "custom_model_data": 5002 }, "model": "ausobjs:caixas/skyblock"},

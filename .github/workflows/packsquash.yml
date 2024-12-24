@@ -1,5 +1,10 @@
 name: Otimizar e corromper textura
-on: [push]
+
+on:
+  push:
+    branches:
+      - main
+
 jobs:
   packsquash:
     name: Optimize resource pack
