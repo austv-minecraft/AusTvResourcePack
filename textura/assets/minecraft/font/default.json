@@ -4369,6 +4369,15 @@
             "chars": [
                 "\uD7DB"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:guis/passe_recompensas.png",
+            "ascent": -4,
+            "height": 256,
+            "chars": [
+                "\uE214"
+            ]
         }
 		
 		
