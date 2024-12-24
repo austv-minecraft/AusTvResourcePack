@@ -30,7 +30,7 @@
 		{ "predicate": { "custom_model_data": 22 }, "model": "chapeus/robot_chicken" },
 		{ "predicate": { "custom_model_data": 23 }, "model": "chapeus/jester" },
 		{ "predicate": { "custom_model_data": 24 }, "model": "chapeus/crown" },
-		{ "predicate": { "custom_model_data": 25 }, "model": "chapeus/old_scientist_glasses" },
+		{ "predicate": { "custom_model_data": 25 }, "model": "chapeus/oculos_cientista" },
 		{ "predicate": { "custom_model_data": 26 }, "model": "chapeus/headband_red" },
 		{ "predicate": { "custom_model_data": 27 }, "model": "chapeus/headband_blue" },
 		{ "predicate": { "custom_model_data": 28 }, "model": "chapeus/rabbit" },
@@ -386,9 +386,9 @@
 		{ "predicate": { "custom_model_data": 200028}, "model": "arcanos/pedras/toxica"},
 		{ "predicate": { "custom_model_data": 200029}, "model": "arcanos/pedras/sinistra"},
 		{ "predicate": { "custom_model_data": 200030}, "model": "arcanos/essenciamudanca"},
-		{ "predicate": { "custom_model_data": 225000}, "model": "austv_itens:ia_auto_gen/bancada_reciclagem"},
-		{ "predicate": { "custom_model_data": 225001}, "model": "austv_itens:ia_auto_gen/bancada_experiencia"},
-		{ "predicate": { "custom_model_data": 225002}, "model": "austv_itens:ia_auto_gen/bancada_forjador_pedras"}
+		{ "predicate": { "custom_model_data": 225000}, "model": "austv_itens:bancada_reciclagem"},
+		{ "predicate": { "custom_model_data": 225001}, "model": "austv_itens:bancada_experiencia"},
+		{ "predicate": { "custom_model_data": 225002}, "model": "austv_itens:bancada_forjador_pedras"}
 		
 		
 
