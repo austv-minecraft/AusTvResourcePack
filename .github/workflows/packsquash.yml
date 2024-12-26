@@ -34,3 +34,5 @@ jobs:
             zip_spec_conformance_level = 'disregard'
             size_increasing_zip_obfuscation = true
             percentage_of_zip_structures_tuned_for_obfuscation_discretion = 100
+            ['**/*.properties']
+            minify_properties = false
