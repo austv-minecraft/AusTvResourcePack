@@ -7,7 +7,7 @@ on:
 
 jobs:
   convert-textures:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     permissions: write-all
     steps:
       - name: Checkout Repository
