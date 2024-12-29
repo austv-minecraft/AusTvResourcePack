@@ -23,3 +23,7 @@ Os modelos dos itens criados ficam localizados em `nome_namespace/models/ia_auto
 Novos itens precisam estar registrados no `material.json` com o custom de cada. Basta pegar o que foi gerado pelo ItemAdder e adicionar nesse arquivo mas com um detalhe, precisamos remover o "ia_auto_gen/" já que fizemos um processo anterior. Depois disso está pronto e não é necessário mais nenhum outra modificação.
 
 ![image](https://github.com/user-attachments/assets/4729b3e8-f040-425b-8cd9-af28384ce4ed)
+
+## Adicionar blocks.json
+Pode haver alterações neste arquivo que é responsável por muitos itens funcionare
+. Atualize com a nova versão localizada em `assets/minecraft/atlases/blocks.json`.
