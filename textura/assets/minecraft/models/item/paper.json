@@ -136,7 +136,6 @@
 		{ "predicate": { "custom_model_data": 10026}, "model": "auscosmetic:costa/saco_de_presentes_3d" },
 		{ "predicate": { "custom_model_data": 10027}, "model": "auscosmetic:chapeu/2024" },
 		{ "predicate": { "custom_model_data": 10028}, "model": "auscosmetic:balao/balao_2024" },
-		{ "predicate": { "custom_model_data": 10029}, "model": "auscosmetic:chapeu/arvore_natal" },
 		{ "predicate": { "custom_model_data": 10030}, "model": "auscosmetic:costa/boia" },
 		{ "predicate": { "custom_model_data": 10031}, "model": "auscosmetic:mao/sorvete" },
 		{ "predicate": { "custom_model_data": 10032}, "model": "auscosmetic:costa/boia_preview" },
