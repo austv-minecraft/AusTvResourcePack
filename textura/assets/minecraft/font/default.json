@@ -4370,13 +4370,76 @@
                 "\uD7DB"
             ]
         },
-        {
+		{
             "type": "bitmap",
             "file": "icons:guis/passe_recompensas.png",
             "ascent": -4,
             "height": 256,
             "chars": [
                 "\uE214"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "icons:guis/tutorial_1_sb.png",
+            "ascent": -4,
+            "height": 256,
+            "chars": [
+                "\uE215"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "icons:guis/tutorial_2_sb.png",
+            "ascent": -4,
+            "height": 256,
+            "chars": [
+                "\uE216"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "icons:guis/tutorial_3_sb.png",
+            "ascent": -4,
+            "height": 256,
+            "chars": [
+                "\uE217"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "icons:guis/tutorial_4_sb.png",
+            "ascent": -4,
+            "height": 256,
+            "chars": [
+                "\uE218"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "icons:guis/tutorial_23_sb.png",
+            "ascent": -4,
+            "height": 256,
+            "chars": [
+                "\uE219"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "icons:guis/tutorial_24_sb.png",
+            "ascent": -4,
+            "height": 256,
+            "chars": [
+                "\uE21A"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "icons:guis/tutorial_25_sb.png",
+            "ascent": -4,
+            "height": 256,
+            "chars": [
+                "\uE21B"
             ]
         }
 		
