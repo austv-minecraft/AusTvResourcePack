@@ -5,7 +5,6 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":0}, "model": "item/shears"},
 		{"predicate": {"custom_model_data":1}, "model": "skins/carnavaus/tesoura"},
 		{"predicate": {"custom_model_data":2}, "model": "skins/outono/tesoura"},
 		{"predicate": {"custom_model_data":3}, "model": "skins/pascoa_22/tesoura"},

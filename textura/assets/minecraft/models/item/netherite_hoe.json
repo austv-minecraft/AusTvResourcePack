@@ -5,7 +5,6 @@
 	},
 
 	"overrides": [
-		{"predicate": {"custom_model_data":0}, "model": "item/netherite_hoe"},
 		{"predicate": {"custom_model_data":1}, "model": "eventos/ray_gun"},
 		{"predicate": {"custom_model_data":2}, "model": "skins/_misc/enxada/1"},
 		{"predicate": {"custom_model_data":3}, "model": "skins/_misc/enxada/2"},
