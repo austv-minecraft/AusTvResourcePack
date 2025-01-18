@@ -702,6 +702,8 @@
 		{"predicate": { "custom_model_data": 10021 }, "model": "auscosmetic:chapeu/palha_m2"},
 		{"predicate": { "custom_model_data": 10022 }, "model": "auscosmetic:chapeu/palha_feminino"},
 		{"predicate": { "custom_model_data": 10023 }, "model": "auscosmetic:mao/skate"},
+        {"predicate": { "custom_model_data": 10024 }, "model": "auscosmetic:mao/arma_agua"},
+        {"predicate": { "custom_model_data": 10025 }, "model": "auscosmetic:mao/guarda_sol"},
 		{"predicate": { "custom_model_data": 10038 }, "model": "ausmoveis:caipira/clover_flowers"},
 		{"predicate": { "custom_model_data": 10039 }, "model": "ausmoveis:caipira/crystal"},
 		{"predicate": { "custom_model_data": 10040 }, "model": "ausmoveis:caipira/ore"},

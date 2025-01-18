@@ -4441,6 +4441,15 @@
             "chars": [
                 "\uE21B"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:lore/lore_verao_25.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\uD7DC"
+            ]
         }
 		
 		
