@@ -12,6 +12,7 @@
 		{"predicate": {"custom_model_data":5}, "model": "livros/essencias"},
 		{"predicate": {"custom_model_data":6}, "model": "livros/inicial"},
 		{"predicate": {"custom_model_data":7}, "model": "livros/preferencias"},
-		{"predicate": {"custom_model_data":8}, "model": "livros/super_encant"}
+		{"predicate": {"custom_model_data":8}, "model": "livros/super_encant"},
+		{"predicate": {"custom_model_data":9}, "model": "livros/livro_verao"}
 	]
 }
