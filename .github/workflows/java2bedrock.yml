@@ -30,7 +30,7 @@ jobs:
           ./converter.sh input_pack.zip -w "false" -m "null" -a "entity_alphatest_one_sided" -b "alpha_test" -f "null" -v "1.19.3" -r "false" -s "true" -u "true"
 
       - name: Upload Converted Packs
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: Converted_Packs
           path: |
