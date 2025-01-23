@@ -276,7 +276,7 @@
 		{"predicate": {"custom_model_data":5135}, "model": "gui/emblema/album_natal"},
 		{"predicate": {"custom_model_data":5136}, "model": "gui/emblema/treno_voador"},
 		{"predicate": {"custom_model_data":5137}, "model": "gui/emblema/pet_rodolfo"},
-		{"predicate": {"custom_model_data":5138}, "model": "gui/emblema/passe_halloween"},
+		{"predicate": {"custom_model_data":5138}, "model": "gui/emblema/passe_hlween"},
 		{"predicate": {"custom_model_data":5139}, "model": "gui/emblema/passe_natal24"},
 		{"predicate": {"custom_model_data":5140}, "model": "gui/emblema/passe_pascoa"},
 		{"predicate": {"custom_model_data":50000}, "model": "gui/emblema/b/independencia"},
@@ -398,7 +398,7 @@
 		{"predicate": {"custom_model_data":50117}, "model": "gui/emblema/b/album_natal"},
 		{"predicate": {"custom_model_data":50118}, "model": "gui/emblema/b/treno_voador"},
 		{"predicate": {"custom_model_data":50119}, "model": "gui/emblema/b/pet_rodolfo"},
-		{"predicate": {"custom_model_data":50120}, "model": "gui/emblema/b/passe_halloween"},
+		{"predicate": {"custom_model_data":50120}, "model": "gui/emblema/b/passe_hlween"},
 		{"predicate": {"custom_model_data":50121}, "model": "gui/emblema/b/passe_natal24"},
 		{"predicate": {"custom_model_data":50122}, "model": "gui/emblema/b/passe_pascoa"}
 		

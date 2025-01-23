@@ -160,6 +160,7 @@
 		{ "predicate": { "custom_model_data": 10054}, "model":"auscosmetic:mao/bengala_doce" },
 		{ "predicate": { "custom_model_data": 10055}, "model":"auscosmetic:balao/caminhao_lixo" },
 		{ "predicate": { "custom_model_data": 10056}, "model":"auscosmetic:costa/ancora"},
+		{ "predicate": { "custom_model_data": 10057}, "model":"auscosmetic:mao/boia_salva_vidas"},
 		{ "predicate": { "custom_model_data": 50000}, "model": "skyblock/atributo_armadura" },
 		{ "predicate": { "custom_model_data": 50001}, "model": "skyblock/resist" },
 		{ "predicate": { "custom_model_data": 50002}, "model": "skyblock/atributo_ataque" },
