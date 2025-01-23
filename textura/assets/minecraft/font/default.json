@@ -3312,7 +3312,7 @@
 		{
             "type": "bitmap",
             "file": "icons:objetivos/objetivos_passe.png",
-            "ascent": -4,
+            "ascent": 2,
             "height": 256,
             "chars": [
                 "\uE1B2"
