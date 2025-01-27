@@ -381,6 +381,11 @@
 		{ "predicate": { "custom_model_data": 200030 }, "model": "arcanos/essenciamudanca" },
 		{ "predicate": { "custom_model_data": 225000 }, "model": "austv_itens:bancada_reciclagem" },
 		{ "predicate": { "custom_model_data": 225001 }, "model": "austv_itens:bancada_experiencia" },
-		{ "predicate": { "custom_model_data": 225002 }, "model": "austv_itens:bancada_forjador_pedras"}
+		{ "predicate": { "custom_model_data": 225002 }, "model": "austv_itens:bancada_forjador_pedras"},
+		{ "predicate": { "custom_model_data": 300000 }, "model": "ausmilitar:ak" },
+		{ "predicate": { "custom_model_data": 300001 }, "model": "ausmilitar:pente_ak" },
+		{ "predicate": { "custom_model_data": 300002 }, "model": "ausmilitar:revolver" },
+		{ "predicate": { "custom_model_data": 300003 }, "model": "ausmilitar:pente_revolver" },
+		{ "predicate": { "custom_model_data": 300004 }, "model": "ausmilitar:kit_medico" }
 	]
 }
