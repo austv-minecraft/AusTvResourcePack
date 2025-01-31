@@ -41,7 +41,10 @@
 		{"predicate": {"custom_model_data":34}, "model": "skins/inverno/enxada"},
 		{"predicate": {"custom_model_data":35}, "model": "skins/calamidade/enxada"},
 		{"predicate": {"custom_model_data":36}, "model": "skins/deuses/enxada"},
-		{"predicate": {"custom_model_data":37}, "model": "skins/natal24/enxada"}
+		{"predicate": {"custom_model_data":37}, "model": "skins/natal24/enxada"},
+		{"predicate": {"custom_model_data":40001},"model":"auseventos:cajado_aliados"},
+		{"predicate": {"custom_model_data":40002},"model":"auseventos:cajado_conquistador"},
+		{"predicate": {"custom_model_data":40003},"model":"auseventos:cajado_lideranca"}
 
 
 
