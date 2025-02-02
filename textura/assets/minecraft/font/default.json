@@ -4450,7 +4450,17 @@
             "chars": [
                 "\uD7DC"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:guis/caixa_ovos.png",
+            "ascent": -4,
+            "height": 256,
+            "chars": [
+                "\uE21C"
+            ]
         }
+        
 		
 		
     ]
