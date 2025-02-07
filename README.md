@@ -2,12 +2,16 @@
 Repositório da textura da AusTv que criptografa usando PackSquash automaticamente. A textura fica armazenada dentro do diretório `/textura` e cada alteração deve ser armazenada e alterada ali.
 
 ## Textura criptografada
-Esse repositório **automatiza o PackSquash** para otimizar e corromper a textura a cada alteração feita. O resultado da textura é postada [aqui](https://github.com/leogianfagna/AusTvResourcePack/actions/workflows/packsquash.yml). Clique no último tópico gerado dentro desse link, que ele terá o mesmo nome do commit feito por você.
+Esse repositório **automatiza o PackSquash** para otimizar e corromper a textura a cada alteração feita. O resultado da textura é postada [aqui](https://github.com/leogianfagna/AusTvResourcePack/releases) e dividida por versões automaticamente. Você pode baixar a textura nos artefatos gerados pela versão.
 
+![image](https://github.com/user-attachments/assets/d44dfd8e-5653-4274-aeb4-21b09872a671)
+
+
+<!--
 ![image](https://github.com/user-attachments/assets/392eeb6c-a0bc-417a-a0ef-b496da25cab3)
 ![image](https://github.com/user-attachments/assets/a2306a9c-999c-4875-94e2-db4dbd17ffad)
-
-Clicar neste ícone faz o download da textura pronta, depois das ações do PackSquash. O seu processo precisa concluir por completo, isso é possível perceber quando há o **ícone verde**.
+-->
+Clicar neste ícone faz o download da textura pronta, depois das ações do PackSquash. O seu processo precisa concluir por completo, isso é possível perceber quando há o **ícone verde** nas [actions](https://github.com/leogianfagna/AusTvResourcePack/actions/workflows/packsquash.yml).
 
 ## Fazendo alterações na textura
 Basta ter esse repositório instalado no seu computador e usar alguma IDE para fazer as modificações necessárias.
