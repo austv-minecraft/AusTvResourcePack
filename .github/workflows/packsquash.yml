@@ -36,7 +36,8 @@ jobs:
             percentage_of_zip_structures_tuned_for_obfuscation_discretion = 100
             ['**/*.properties']
             minify_properties = false
-      - name: Create release
+      - name: Tag and create release
         uses: softprops/action-gh-release@v2
         with:
+          tag_name: action-v${{ github.run_number }}
           files: /tmp/pack.zip
