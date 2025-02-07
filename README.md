@@ -23,9 +23,9 @@ Ao finalizar suas alterações, use no terminal:
 
 ### Mensagem do commit
 É importante colocar uma boa mensagem em cada alteração, pois assim podemos diferenciar cada alteração e qual é o pack certo para instalar depois da criptografia. Alguns exemplos que você pode seguir:
-- Adicionado novos emblemas
-- Corrigido CustomModelData das skins de natal
-- Renomeado nome de alguns diretórios
+- **Adicionado novos emblemas de aniversário** ou **feat: Novos emblemas de aniversário**
+- **Corrigido CustomModelData das skins de natal** ou **fix: CustomModelData das skins de natal**
+- **Renomeado nome de alguns diretórios**
 
 Repare que cada mensagem é respectivo a **um assunto somente**, isso também é importante. Se você precisar adicionar novos emblemas e também adicionar novos cosméticos, faça duas operações distintas: primeiro adicione os cosméticos (fazendo todo o processo do git) e depois adicione todos os emblemas (e faça o mesmo processo novamente).
 
