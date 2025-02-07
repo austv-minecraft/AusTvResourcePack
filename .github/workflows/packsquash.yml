@@ -36,3 +36,7 @@ jobs:
             percentage_of_zip_structures_tuned_for_obfuscation_discretion = 100
             ['**/*.properties']
             minify_properties = false
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: /tmp/pack.zip
