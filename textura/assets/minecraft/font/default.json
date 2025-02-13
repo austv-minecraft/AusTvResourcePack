@@ -4459,6 +4459,15 @@
             "chars": [
                 "\uE21C"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:chats/teste_chat.png",
+            "ascent": 8,
+            "height": 55,
+            "chars": [
+                "\u2A19"
+            ]
         }
         
 		
