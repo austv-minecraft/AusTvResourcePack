@@ -4468,6 +4468,15 @@
             "chars": [
                 "\u2A19"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:emojis/nerd.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\u1BD2"
+            ]
         }
         
 		
