@@ -671,6 +671,34 @@
             },
             "model": "ausmobs:polo_presente2/regalorojo"
         },
+        {
+            "predicate": { "custom_model_data": 120 },
+            "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/head"
+          },
+          {
+            "predicate": { "custom_model_data": 121 },
+            "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/neck"
+          },
+          {
+            "predicate": { "custom_model_data": 122 },
+            "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/chest"
+          },
+          {
+            "predicate": { "custom_model_data": 123 },
+            "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/left_wing"
+          },
+          {
+            "predicate": { "custom_model_data": 124 },
+            "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/tail"
+          },
+          {
+            "predicate": { "custom_model_data": 125 },
+            "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/right_wing"
+          },
+          {
+            "predicate": { "custom_model_data": 126 },
+            "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/tail_2"
+          },
 		{"predicate": { "custom_model_data": 5000 }, "model": "ausobjs:caixas/skyblock"},
 		{"predicate": { "custom_model_data": 5001 }, "model": "ausobjs:caixas/skyblock"},
 		{"predicate": { "custom_model_data": 5002 }, "model": "ausobjs:caixas/skyblock"},
