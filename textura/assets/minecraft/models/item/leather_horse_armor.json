@@ -1,757 +1,907 @@
 {
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "item/leather_horse_armor"
-	},
-	
-	"overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 1
-            },
-            "model": "ausmobs:leoncio/body"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 2
-            },
-            "model": "ausmobs:leoncio/head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3
-            },
-            "model": "ausmobs:leoncio/back_leg_left"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4
-            },
-            "model": "ausmobs:heleonora/right_arm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 5
-            },
-            "model": "ausmobs:leoncio/tail"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6
-            },
-            "model": "ausmobs:leoncio/front_leg_right"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 7
-            },
-            "model": "ausmobs:leoncio/back_leg_right"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 8
-            },
-            "model": "ausmobs:boss_kindletron/torso"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 9
-            },
-            "model": "ausmobs:boss_kindletron/left_foot"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 10
-            },
-            "model": "ausmobs:boss_kindletron/right_foot"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 11
-            },
-            "model": "ausmobs:boss_kindletron/head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 12
-            },
-            "model": "ausmobs:boss_kindletron/right_arm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 13
-            },
-            "model": "ausmobs:boss_kindletron/left_arm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 14
-            },
-            "model": "ausmobs:boss_kindletron/right_forearm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 15
-            },
-            "model": "ausmobs:boss_kindletron/left_forearm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "ausmobs:boss_kindletron/blade"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 17
-            },
-            "model": "ausmobs:boss_kindletron/left_hand"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 18
-            },
-            "model": "ausmobs:boss_kindletron/finger_2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 19
-            },
-            "model": "ausmobs:boss_kindletron/finger_1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20
-            },
-            "model": "ausmobs:boss_kindletron_dam/torso_damage_1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 21
-            },
-            "model": "ausmobs:boss_kindletron_dam/torso_damage_3"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 22
-            },
-            "model": "ausmobs:boss_kindletron_dam/torso_damage_2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 23
-            },
-            "model": "ausmobs:boss_kindletron_dam/torso_glide"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 24
-            },
-            "model": "ausmobs:boss_kindletron_dam/right_arm_damage_1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 25
-            },
-            "model": "ausmobs:boss_tytius/torso"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 26
-            },
-            "model": "ausmobs:boss_tytius/frontlegsl"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 27
-            },
-            "model": "ausmobs:boss_tytius/rearlegsl"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 28
-            },
-            "model": "ausmobs:boss_tytius/abdomen"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 29
-            },
-            "model": "ausmobs:boss_tytius/armsr"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 30
-            },
-            "model": "ausmobs:boss_tytius/armsl"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 31
-            },
-            "model": "ausmobs:boss_tytius/frontlegsr"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 32
-            },
-            "model": "ausmobs:boss_tytius/rearlegsr"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 33
-            },
-            "model": "ausmobs:boss_tytius/cap"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 34
-            },
-            "model": "ausmobs:boss_tytius/tail"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 35
-            },
-            "model": "ausmobs:snowbone/left_leg"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 36
-            },
-            "model": "ausmobs:snowbone/right_leg"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 37
-            },
-            "model": "ausmobs:snowbone/body"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 38
-            },
-            "model": "ausmobs:heleonora/left_arm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 39
-            },
-            "model": "ausmobs:heleonora/dress_right"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 40
-            },
-            "model": "ausmobs:heleonora/dress_left"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 41
-            },
-            "model": "ausmobs:heleonora/right_hair"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 42
-            },
-            "model": "ausmobs:heleonora/left_hair_mesh"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 43
-            },
-            "model": "ausmobs:heleonora/left_hair"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 44
-            },
-            "model": "ausmobs:heleonora/hair_front"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 45
-            },
-            "model": "ausmobs:heleonora/hat"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 46
-            },
-            "model": "ausmobs:mirko/body"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 47
-            },
-            "model": "ausmobs:rodolfo/back_leg_right1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 48
-            },
-            "model": "ausmobs:rodolfo/back_leg_left1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 49
-            },
-            "model": "ausmobs:rodolfo/tail"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 50
-            },
-            "model": "ausmobs:rodolfo/front_leg_right"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 51
-            },
-            "model": "ausmobs:rodolfo/front_leg_left"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 52
-            },
-            "model": "ausmobs:rodolfo/neck"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 53
-            },
-            "model": "ausmobs:rodolfo/front_leg_right1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 54
-            },
-            "model": "ausmobs:rodolfo/front_leg_left1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 55
-            },
-            "model": "ausmobs:rodolfo/head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 56
-            },
-            "model": "ausmobs:boss_kindletron/pelvis"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 57
-            },
-            "model": "ausmobs:boss_kindletron/left_leg"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 58
-            },
-            "model": "ausmobs:boss_kindletron/right_leg"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 59
-            },
-            "model": "ausmobs:snowbone/head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 60
-            },
-            "model": "ausmobs:snowbone/right_arm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 61
-            },
-            "model": "ausmobs:snowbone/left_arm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 62
-            },
-            "model": "ausmobs:snowbone/upper_skull"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 63
-            },
-            "model": "ausmobs:snowbone/snowball"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "ausmobs:mirko/robe_right"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 65
-            },
-            "model": "ausmobs:mirko/head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 66
-            },
-            "model": "ausmobs:mirko/robe_left"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 67
-            },
-            "model": "ausmobs:mirko/cape"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 68
-            },
-            "model": "ausmobs:mirko/scarf"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 69
-            },
-            "model": "ausmobs:mirko/hat"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 70
-            },
-            "model": "ausmobs:mirko/cape_end"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 71
-            },
-            "model": "ausmobs:mirko/scarf_end"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 72
-            },
-            "model": "ausmobs:rodolfo/back_leg_right"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 73
-            },
-            "model": "ausmobs:rodolfo/back_leg_left"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 74
-            },
-            "model": "ausmobs:rodolfo/body"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 75
-            },
-            "model": "ausmobs:snowbone/hat"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 76
-            },
-            "model": "ausmobs:snowbone/hat2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 77
-            },
-            "model": "ausmobs:polo_bengala/bone2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 78
-            },
-            "model": "ausmobs:polo_dragao/cullo"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 79
-            },
-            "model": "ausmobs:polo_dragao/curpo2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 82
-            },
-            "model": "ausmobs:polo_dragao/bola1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 83
-            },
-            "model": "ausmobs:leoncio/front_leg_left"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 84
-            },
-            "model": "ausmobs:heleonora/body"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 85
-            },
-            "model": "ausmobs:heleonora/head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 86
-            },
-            "model": "ausmobs:polo_dragao/bola3"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 87
-            },
-            "model": "ausmobs:polo_dragao/bola2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 88
-            },
-            "model": "ausmobs:polo_dragao/head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 89
-            },
-            "model": "ausmobs:polo_dragao/curpo3"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 90
-            },
-            "model": "ausmobs:polo_dragao/brazodragder3"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 91
-            },
-            "model": "ausmobs:polo_dragao/brazodragder"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 92
-            },
-            "model": "ausmobs:polo_dragao/bone2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 93
-            },
-            "model": "ausmobs:polo_dragao/bone4"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 94
-            },
-            "model": "ausmobs:polo_dragao/curpo4"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 95
-            },
-            "model": "ausmobs:polo_dragao/brazodragder4"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 96
-            },
-            "model": "ausmobs:polo_dragao/brazodragder2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 97
-            },
-            "model": "ausmobs:polo_dragao/bone3"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 98
-            },
-            "model": "ausmobs:polo_dragao/bone"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 99
-            },
-            "model": "ausmobs:polo_dragao/bone5"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 100
-            },
-            "model": "ausmobs:polo_dragao/curpo5"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 101
-            },
-            "model": "ausmobs:polo_dragao/bone6"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 102
-            },
-            "model": "ausmobs:polo_dragao/curpo6"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 103
-            },
-            "model": "ausmobs:polo_dragao/brazodragder7"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 104
-            },
-            "model": "ausmobs:polo_dragao/brazodragder5"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 105
-            },
-            "model": "ausmobs:polo_dragao/bone7"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 106
-            },
-            "model": "ausmobs:polo_dragao/curpo7"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 107
-            },
-            "model": "ausmobs:polo_dragao/brazodragder8"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 108
-            },
-            "model": "ausmobs:polo_dragao/brazodragder6"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 109
-            },
-            "model": "ausmobs:polo_dragao/curpo9"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 110
-            },
-            "model": "ausmobs:polo_dragao/xx3"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 111
-            },
-            "model": "ausmobs:polo_dragao/xx2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 112
-            },
-            "model": "ausmobs:polo_presente1/regaloblanco"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 113
-            },
-            "model": "ausmobs:polo_presente2/regalorojo"
-        },
-        {
-            "predicate": { "custom_model_data": 120 },
-            "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/head"
-          },
-          {
-            "predicate": { "custom_model_data": 121 },
-            "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/neck"
-          },
-          {
-            "predicate": { "custom_model_data": 122 },
-            "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/chest"
-          },
-          {
-            "predicate": { "custom_model_data": 123 },
-            "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/left_wing"
-          },
-          {
-            "predicate": { "custom_model_data": 124 },
-            "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/tail"
-          },
-          {
-            "predicate": { "custom_model_data": 125 },
-            "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/right_wing"
-          },
-          {
-            "predicate": { "custom_model_data": 126 },
-            "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/tail_2"
-          },
-		{"predicate": { "custom_model_data": 5000 }, "model": "ausobjs:caixas/skyblock"},
-		{"predicate": { "custom_model_data": 5001 }, "model": "ausobjs:caixas/skyblock"},
-		{"predicate": { "custom_model_data": 5002 }, "model": "ausobjs:caixas/skyblock"},
-		{"predicate": { "custom_model_data": 5003 }, "model": "ausobjs:caixas/skyblock"},
-		{"predicate": { "custom_model_data": 5004 }, "model": "ausobjs:caixas/skyblock"},
-		{"predicate": { "custom_model_data": 6000 }, "model": "gui/selecionar_cor"},
-		{"predicate": { "custom_model_data": 6001 }, "model": "gui/item_melhorias"},
-		{"predicate": { "custom_model_data": 6002 }, "model": "skyblock/nivel"},
-		{"predicate": { "custom_model_data": 10000 }, "model": "auscosmetic:costa/mochileiro"},
-		{"predicate": { "custom_model_data": 10002 }, "model": "auscosmetic:chapeu/gorro_1"},
-		{"predicate": { "custom_model_data": 10003 }, "model": "auscosmetic:chapeu/gorro_2"},
-		{"predicate": { "custom_model_data": 10004 }, "model": "auscosmetic:balao/boneco_neve"},
-		{"predicate": { "custom_model_data": 10005 }, "model": "auscosmetic:chapeu/quebra_nozes"},
-		{"predicate": { "custom_model_data": 10007 }, "model": "auscosmetic:chapeu/gorro_papai_noel"},
-		{"predicate": { "custom_model_data": 10008 }, "model": "auscosmetic:chapeu/2024"},
-		{"predicate": { "custom_model_data": 10009 }, "model": "auscosmetic:balao/2024"},
-		{"predicate": { "custom_model_data": 10010 }, "model": "auscosmetic:chapeu/arvore_natal"},
-		{"predicate": { "custom_model_data": 10011 }, "model": "auscosmetic:chapeu/sorvete_derretido"},
-		{"predicate": { "custom_model_data": 10012 }, "model": "auscosmetic:mao/prancha"},
-		{"predicate": { "custom_model_data": 10013 }, "model": "auscosmetic:costa/capa_2anos"},
-		{"predicate": { "custom_model_data": 10015 }, "model": "auscosmetic:chapeu/2anos"},
-		{"predicate": { "custom_model_data": 10016 }, "model": "auscosmetic:mao/escova_dente"},
-		{"predicate": { "custom_model_data": 10017 }, "model": "auscosmetic:chapeu/capa_futamericano"},
-		{"predicate": { "custom_model_data": 10018 }, "model": "auscosmetic:mao/luva_boxe"},
-		{"predicate": { "custom_model_data": 10019 }, "model": "auscosmetic:mao/bandeira_arraia"},
-		{"predicate": { "custom_model_data": 10020 }, "model": "auscosmetic:chapeu/palha_m1"},
-		{"predicate": { "custom_model_data": 10021 }, "model": "auscosmetic:chapeu/palha_m2"},
-		{"predicate": { "custom_model_data": 10022 }, "model": "auscosmetic:chapeu/palha_feminino"},
-		{"predicate": { "custom_model_data": 10023 }, "model": "auscosmetic:mao/skate"},
-        {"predicate": { "custom_model_data": 10024 }, "model": "auscosmetic:mao/arma_agua"},
-        {"predicate": { "custom_model_data": 10025 }, "model": "auscosmetic:mao/guarda_sol"},
-        {"predicate": { "custom_model_data": 10026 }, "model": "auscosmetic:mao/coquetel_frutas"},
-		{"predicate": { "custom_model_data": 10038 }, "model": "ausmoveis:caipira/clover_flowers"},
-		{"predicate": { "custom_model_data": 10039 }, "model": "ausmoveis:caipira/crystal"},
-		{"predicate": { "custom_model_data": 10040 }, "model": "ausmoveis:caipira/ore"},
-		{"predicate": { "custom_model_data": 10041 }, "model": "ausmoveis:caipira/arm_chair"},
-		{"predicate": { "custom_model_data": 10042 }, "model": "ausmoveis:caipira/bed_bunk"},
-		{"predicate": { "custom_model_data": 10043 }, "model": "ausmoveis:caipira/bed_double"},
-		{"predicate": { "custom_model_data": 10044 }, "model": "ausmoveis:caipira/bed_single"},
-		{"predicate": { "custom_model_data": 10045 }, "model": "ausmoveis:caipira/chair_cushion"},
-		{"predicate": { "custom_model_data": 10046 }, "model": "ausmoveis:caipira/coffee_table_cloth"},
-		{"predicate": { "custom_model_data": 10047 }, "model": "ausmoveis:caipira/lamp"},
-		{"predicate": { "custom_model_data": 10048 }, "model": "ausmoveis:caipira/lamp_hanging"},
-		{"predicate": { "custom_model_data": 10049 }, "model": "ausmoveis:caipira/lamp_tall"},
-		{"predicate": { "custom_model_data": 10050 }, "model": "ausmoveis:caipira/pot_1"},
-		{"predicate": { "custom_model_data": 10051 }, "model": "ausmoveis:caipira/pot_2"},
-		{"predicate": { "custom_model_data": 10052 }, "model": "ausmoveis:caipira/pot_3"},
-		{"predicate": { "custom_model_data": 10053 }, "model": "ausmoveis:caipira/sofa"},
-		{"predicate": { "custom_model_data": 10054 }, "model": "ausmoveis:caipira/stool_cushion"},
-		{"predicate": { "custom_model_data": 10055 }, "model": "ausmoveis:caipira/table_small_cloth"},
-		{"predicate": { "custom_model_data": 10056 }, "model": "ausmoveis:caipira/canopy_flat"},
-		{"predicate": { "custom_model_data": 10057 }, "model": "ausmoveis:caipira/canopy_sloped"},
-		{"predicate": { "custom_model_data": 10058 }, "model": "ausmoveis:caipira/shop_cart"},
-		{"predicate": { "custom_model_data": 50000 }, "model": "trofeus/trofeu_prestigio"}
-	]
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/leather_horse_armor"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "ausmobs:leoncio/body"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "ausmobs:leoncio/head"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "ausmobs:leoncio/back_leg_left"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "ausmobs:heleonora/right_arm"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "ausmobs:leoncio/tail"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "ausmobs:leoncio/front_leg_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "ausmobs:leoncio/back_leg_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "ausmobs:boss_kindletron/torso"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "ausmobs:boss_kindletron/left_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "ausmobs:boss_kindletron/right_foot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "ausmobs:boss_kindletron/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "ausmobs:boss_kindletron/right_arm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "ausmobs:boss_kindletron/left_arm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "ausmobs:boss_kindletron/right_forearm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "ausmobs:boss_kindletron/left_forearm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "ausmobs:boss_kindletron/blade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "ausmobs:boss_kindletron/left_hand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "ausmobs:boss_kindletron/finger_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "ausmobs:boss_kindletron/finger_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "ausmobs:boss_kindletron_dam/torso_damage_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "ausmobs:boss_kindletron_dam/torso_damage_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "ausmobs:boss_kindletron_dam/torso_damage_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "ausmobs:boss_kindletron_dam/torso_glide"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "ausmobs:boss_kindletron_dam/right_arm_damage_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "ausmobs:boss_tytius/torso"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "ausmobs:boss_tytius/frontlegsl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "ausmobs:boss_tytius/rearlegsl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "ausmobs:boss_tytius/abdomen"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "ausmobs:boss_tytius/armsr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "ausmobs:boss_tytius/armsl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "ausmobs:boss_tytius/frontlegsr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "ausmobs:boss_tytius/rearlegsr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "ausmobs:boss_tytius/cap"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "ausmobs:boss_tytius/tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "ausmobs:snowbone/left_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "ausmobs:snowbone/right_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "ausmobs:snowbone/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "ausmobs:heleonora/left_arm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "ausmobs:heleonora/dress_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "ausmobs:heleonora/dress_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "ausmobs:heleonora/right_hair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "ausmobs:heleonora/left_hair_mesh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "ausmobs:heleonora/left_hair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "ausmobs:heleonora/hair_front"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "ausmobs:heleonora/hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46
+      },
+      "model": "ausmobs:mirko/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
+      },
+      "model": "ausmobs:rodolfo/back_leg_right1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "ausmobs:rodolfo/back_leg_left1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49
+      },
+      "model": "ausmobs:rodolfo/tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50
+      },
+      "model": "ausmobs:rodolfo/front_leg_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 51
+      },
+      "model": "ausmobs:rodolfo/front_leg_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52
+      },
+      "model": "ausmobs:rodolfo/neck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 53
+      },
+      "model": "ausmobs:rodolfo/front_leg_right1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 54
+      },
+      "model": "ausmobs:rodolfo/front_leg_left1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 55
+      },
+      "model": "ausmobs:rodolfo/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 56
+      },
+      "model": "ausmobs:boss_kindletron/pelvis"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 57
+      },
+      "model": "ausmobs:boss_kindletron/left_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58
+      },
+      "model": "ausmobs:boss_kindletron/right_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 59
+      },
+      "model": "ausmobs:snowbone/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60
+      },
+      "model": "ausmobs:snowbone/right_arm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61
+      },
+      "model": "ausmobs:snowbone/left_arm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 62
+      },
+      "model": "ausmobs:snowbone/upper_skull"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 63
+      },
+      "model": "ausmobs:snowbone/snowball"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 64
+      },
+      "model": "ausmobs:mirko/robe_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 65
+      },
+      "model": "ausmobs:mirko/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 66
+      },
+      "model": "ausmobs:mirko/robe_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 67
+      },
+      "model": "ausmobs:mirko/cape"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 68
+      },
+      "model": "ausmobs:mirko/scarf"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 69
+      },
+      "model": "ausmobs:mirko/hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 70
+      },
+      "model": "ausmobs:mirko/cape_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 71
+      },
+      "model": "ausmobs:mirko/scarf_end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 72
+      },
+      "model": "ausmobs:rodolfo/back_leg_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 73
+      },
+      "model": "ausmobs:rodolfo/back_leg_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 74
+      },
+      "model": "ausmobs:rodolfo/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 75
+      },
+      "model": "ausmobs:snowbone/hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 76
+      },
+      "model": "ausmobs:snowbone/hat2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 77
+      },
+      "model": "ausmobs:polo_bengala/bone2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 78
+      },
+      "model": "ausmobs:polo_dragao/cullo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 79
+      },
+      "model": "ausmobs:polo_dragao/curpo2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 82
+      },
+      "model": "ausmobs:polo_dragao/bola1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 83
+      },
+      "model": "ausmobs:leoncio/front_leg_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 84
+      },
+      "model": "ausmobs:heleonora/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 85
+      },
+      "model": "ausmobs:heleonora/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 86
+      },
+      "model": "ausmobs:polo_dragao/bola3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 87
+      },
+      "model": "ausmobs:polo_dragao/bola2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 88
+      },
+      "model": "ausmobs:polo_dragao/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 89
+      },
+      "model": "ausmobs:polo_dragao/curpo3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90
+      },
+      "model": "ausmobs:polo_dragao/brazodragder3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 91
+      },
+      "model": "ausmobs:polo_dragao/brazodragder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 92
+      },
+      "model": "ausmobs:polo_dragao/bone2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 93
+      },
+      "model": "ausmobs:polo_dragao/bone4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 94
+      },
+      "model": "ausmobs:polo_dragao/curpo4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 95
+      },
+      "model": "ausmobs:polo_dragao/brazodragder4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 96
+      },
+      "model": "ausmobs:polo_dragao/brazodragder2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 97
+      },
+      "model": "ausmobs:polo_dragao/bone3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 98
+      },
+      "model": "ausmobs:polo_dragao/bone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 99
+      },
+      "model": "ausmobs:polo_dragao/bone5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100
+      },
+      "model": "ausmobs:polo_dragao/curpo5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101
+      },
+      "model": "ausmobs:polo_dragao/bone6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 102
+      },
+      "model": "ausmobs:polo_dragao/curpo6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 103
+      },
+      "model": "ausmobs:polo_dragao/brazodragder7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 104
+      },
+      "model": "ausmobs:polo_dragao/brazodragder5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 105
+      },
+      "model": "ausmobs:polo_dragao/bone7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 106
+      },
+      "model": "ausmobs:polo_dragao/curpo7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 107
+      },
+      "model": "ausmobs:polo_dragao/brazodragder8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 108
+      },
+      "model": "ausmobs:polo_dragao/brazodragder6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 109
+      },
+      "model": "ausmobs:polo_dragao/curpo9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110
+      },
+      "model": "ausmobs:polo_dragao/xx3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 111
+      },
+      "model": "ausmobs:polo_dragao/xx2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 112
+      },
+      "model": "ausmobs:polo_presente1/regaloblanco"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 113
+      },
+      "model": "ausmobs:polo_presente2/regalorojo"
+    },
+    {
+      "predicate": { "custom_model_data": 120 },
+      "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/head"
+    },
+    {
+      "predicate": { "custom_model_data": 121 },
+      "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/neck"
+    },
+    {
+      "predicate": { "custom_model_data": 122 },
+      "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/chest"
+    },
+    {
+      "predicate": { "custom_model_data": 123 },
+      "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/left_wing"
+    },
+    {
+      "predicate": { "custom_model_data": 124 },
+      "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/tail"
+    },
+    {
+      "predicate": { "custom_model_data": 125 },
+      "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/right_wing"
+    },
+    {
+      "predicate": { "custom_model_data": 126 },
+      "model": "ausmobs:nocsy_chibi_sakura_djinn_dragon/tail_2"
+    },
+    {
+      "predicate": { "custom_model_data": 5000 },
+      "model": "ausobjs:caixas/skyblock"
+    },
+    {
+      "predicate": { "custom_model_data": 5001 },
+      "model": "ausobjs:caixas/skyblock"
+    },
+    {
+      "predicate": { "custom_model_data": 5002 },
+      "model": "ausobjs:caixas/skyblock"
+    },
+    {
+      "predicate": { "custom_model_data": 5003 },
+      "model": "ausobjs:caixas/skyblock"
+    },
+    {
+      "predicate": { "custom_model_data": 5004 },
+      "model": "ausobjs:caixas/skyblock"
+    },
+    {
+      "predicate": { "custom_model_data": 6000 },
+      "model": "gui/selecionar_cor"
+    },
+    {
+      "predicate": { "custom_model_data": 6001 },
+      "model": "gui/item_melhorias"
+    },
+    {
+      "predicate": { "custom_model_data": 6002 },
+      "model": "skyblock/nivel"
+    },
+    {
+      "predicate": { "custom_model_data": 10000 },
+      "model": "auscosmetic:costa/mochileiro"
+    },
+    {
+      "predicate": { "custom_model_data": 10002 },
+      "model": "auscosmetic:chapeu/gorro_1"
+    },
+    {
+      "predicate": { "custom_model_data": 10003 },
+      "model": "auscosmetic:chapeu/gorro_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10004 },
+      "model": "auscosmetic:balao/boneco_neve"
+    },
+    {
+      "predicate": { "custom_model_data": 10005 },
+      "model": "auscosmetic:chapeu/quebra_nozes"
+    },
+    {
+      "predicate": { "custom_model_data": 10007 },
+      "model": "auscosmetic:chapeu/gorro_papai_noel"
+    },
+    {
+      "predicate": { "custom_model_data": 10008 },
+      "model": "auscosmetic:chapeu/2024"
+    },
+    {
+      "predicate": { "custom_model_data": 10009 },
+      "model": "auscosmetic:balao/2024"
+    },
+    {
+      "predicate": { "custom_model_data": 10010 },
+      "model": "auscosmetic:chapeu/arvore_natal"
+    },
+    {
+      "predicate": { "custom_model_data": 10011 },
+      "model": "auscosmetic:chapeu/sorvete_derretido"
+    },
+    {
+      "predicate": { "custom_model_data": 10012 },
+      "model": "auscosmetic:mao/prancha"
+    },
+    {
+      "predicate": { "custom_model_data": 10013 },
+      "model": "auscosmetic:costa/capa_2anos"
+    },
+    {
+      "predicate": { "custom_model_data": 10015 },
+      "model": "auscosmetic:chapeu/2anos"
+    },
+    {
+      "predicate": { "custom_model_data": 10016 },
+      "model": "auscosmetic:mao/escova_dente"
+    },
+    {
+      "predicate": { "custom_model_data": 10017 },
+      "model": "auscosmetic:chapeu/capa_futamericano"
+    },
+    {
+      "predicate": { "custom_model_data": 10018 },
+      "model": "auscosmetic:mao/luva_boxe"
+    },
+    {
+      "predicate": { "custom_model_data": 10019 },
+      "model": "auscosmetic:mao/bandeira_arraia"
+    },
+    {
+      "predicate": { "custom_model_data": 10020 },
+      "model": "auscosmetic:chapeu/palha_m1"
+    },
+    {
+      "predicate": { "custom_model_data": 10021 },
+      "model": "auscosmetic:chapeu/palha_m2"
+    },
+    {
+      "predicate": { "custom_model_data": 10022 },
+      "model": "auscosmetic:chapeu/palha_feminino"
+    },
+    {
+      "predicate": { "custom_model_data": 10023 },
+      "model": "auscosmetic:mao/skate"
+    },
+    {
+      "predicate": { "custom_model_data": 10024 },
+      "model": "auscosmetic:mao/arma_agua"
+    },
+    {
+      "predicate": { "custom_model_data": 10025 },
+      "model": "auscosmetic:mao/guarda_sol"
+    },
+    {
+      "predicate": { "custom_model_data": 10026 },
+      "model": "auscosmetic:mao/coquetel_frutas"
+    },
+    {
+      "predicate": { "custom_model_data": 10038 },
+      "model": "ausmoveis:caipira/clover_flowers"
+    },
+    {
+      "predicate": { "custom_model_data": 10039 },
+      "model": "ausmoveis:caipira/crystal"
+    },
+    {
+      "predicate": { "custom_model_data": 10040 },
+      "model": "ausmoveis:caipira/ore"
+    },
+    {
+      "predicate": { "custom_model_data": 10041 },
+      "model": "ausmoveis:caipira/arm_chair"
+    },
+    {
+      "predicate": { "custom_model_data": 10042 },
+      "model": "ausmoveis:caipira/bed_bunk"
+    },
+    {
+      "predicate": { "custom_model_data": 10043 },
+      "model": "ausmoveis:caipira/bed_double"
+    },
+    {
+      "predicate": { "custom_model_data": 10044 },
+      "model": "ausmoveis:caipira/bed_single"
+    },
+    {
+      "predicate": { "custom_model_data": 10045 },
+      "model": "ausmoveis:caipira/chair_cushion"
+    },
+    {
+      "predicate": { "custom_model_data": 10046 },
+      "model": "ausmoveis:caipira/coffee_table_cloth"
+    },
+    {
+      "predicate": { "custom_model_data": 10047 },
+      "model": "ausmoveis:caipira/lamp"
+    },
+    {
+      "predicate": { "custom_model_data": 10048 },
+      "model": "ausmoveis:caipira/lamp_hanging"
+    },
+    {
+      "predicate": { "custom_model_data": 10049 },
+      "model": "ausmoveis:caipira/lamp_tall"
+    },
+    {
+      "predicate": { "custom_model_data": 10050 },
+      "model": "ausmoveis:caipira/pot_1"
+    },
+    {
+      "predicate": { "custom_model_data": 10051 },
+      "model": "ausmoveis:caipira/pot_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10052 },
+      "model": "ausmoveis:caipira/pot_3"
+    },
+    {
+      "predicate": { "custom_model_data": 10053 },
+      "model": "ausmoveis:caipira/sofa"
+    },
+    {
+      "predicate": { "custom_model_data": 10054 },
+      "model": "ausmoveis:caipira/stool_cushion"
+    },
+    {
+      "predicate": { "custom_model_data": 10055 },
+      "model": "ausmoveis:caipira/table_small_cloth"
+    },
+    {
+      "predicate": { "custom_model_data": 10056 },
+      "model": "ausmoveis:caipira/canopy_flat"
+    },
+    {
+      "predicate": { "custom_model_data": 10057 },
+      "model": "ausmoveis:caipira/canopy_sloped"
+    },
+    {
+      "predicate": { "custom_model_data": 10058 },
+      "model": "ausmoveis:caipira/shop_cart"
+    },
+    {
+      "predicate": { "custom_model_data": 50000 },
+      "model": "trofeus/trofeu_prestigio"
+    }
+  ]
 }
