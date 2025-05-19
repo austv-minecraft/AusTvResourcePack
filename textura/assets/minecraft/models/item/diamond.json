@@ -403,7 +403,8 @@
 		{"predicate": {"custom_model_data":50120}, "model": "gui/emblema/b/passe_hlween"},
 		{"predicate": {"custom_model_data":50121}, "model": "gui/emblema/b/passe_natal24"},
 		{"predicate": {"custom_model_data":50122}, "model": "gui/emblema/b/passe_pascoa"},
-		{"predicate": {"custom_model_data":50123}, "model": "gui/emblema/b/pet_rosa"}
-		
+		{"predicate": {"custom_model_data":50123}, "model": "gui/emblema/b/pet_rosa"},
+		{"predicate": {"custom_model_data":50124}, "model": "gui/caixas/icon_seta_esquerda"},
+		{"predicate": {"custom_model_data":50125}, "model": "gui/caixas/icon_seta_direita"}
 	]
 }
