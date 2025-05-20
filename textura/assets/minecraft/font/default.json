@@ -4477,9 +4477,15 @@
             "chars": [
                 "\u1BD2"
             ]
-        }
-        
-		
-		
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:guis/caixaabertura3_sem_setas.png",
+            "ascent": -4,
+            "height": 256,
+            "chars": [
+                "\u2B1C"
+            ]
+        }     		
     ]
 }
