@@ -110,6 +110,7 @@
 		{ "predicate": { "custom_model_data": 503 }, "model": "austv_itens:trofeus/liga_vencedor" },
 		{ "predicate": { "custom_model_data": 504 }, "model": "austv_itens:trofeus/melhor_ajudante" },
 		{ "predicate": { "custom_model_data": 505 }, "model": "austv_itens:trofeus/criador_conteudo" },
+		{ "predicate": { "custom_model_data": 506 }, "model": "austv_itens:trofeus/tierItiktok" },
 		{ "predicate": { "custom_model_data": 1000 }, "model": "iscas/camarao" },
 		{ "predicate": { "custom_model_data": 1001 }, "model": "iscas/minhoca_1" },
 		{ "predicate": { "custom_model_data": 1002 }, "model": "iscas/minhoca_2" },
