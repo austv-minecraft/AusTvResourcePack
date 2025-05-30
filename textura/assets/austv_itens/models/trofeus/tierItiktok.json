@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "austv_itens:tierItiktok"
+		"1": "austv_itens:trofeus/tierItiktok"
 	},
 	"elements": [
 		{
