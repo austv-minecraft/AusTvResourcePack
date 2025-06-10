@@ -2726,6 +2726,15 @@
         },
 		{
             "type": "bitmap",
+            "file": "icons:chats/exclamacao_purple_guy.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\u2A1A"
+            ]
+        },
+		{
+            "type": "bitmap",
             "file": "icons:chats/exclamacao_red.png",
             "ascent": 13,
             "height": 20,

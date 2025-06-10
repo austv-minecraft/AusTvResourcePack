@@ -1,1 +1,86 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/golden_apple"},"overrides":[{"predicate":{"custom_model_data":1},"model":"austv_itens:perk_tempo_recarga"},{"predicate":{"custom_model_data":2},"model":"austv_itens:perk_sorte"},{"predicate":{"custom_model_data":3},"model":"austv_itens:perk_habilidade_ativa"},{"predicate":{"custom_model_data":4},"model":"austv_itens:perk_dobro_xp"},{"predicate":{"custom_model_data":5},"model":"austv_itens:perk_alma"},{"predicate":{"custom_model_data":10000},"model":"austv_itens:elixir_alquimia"},{"predicate":{"custom_model_data":10001},"model":"austv_itens:elixir_reparo"},{"predicate":{"custom_model_data":10002},"model":"austv_itens:elixir_desarmado"},{"predicate":{"custom_model_data":10003},"model":"austv_itens:elixir_espada"},{"predicate":{"custom_model_data":10004},"model":"austv_itens:elixir_machado"},{"predicate":{"custom_model_data":10005},"model":"austv_itens:elixir_acrobacia"},{"predicate":{"custom_model_data":10006},"model":"austv_itens:elixir_herbalismo"},{"predicate":{"custom_model_data":10007},"model":"austv_itens:elixir_escavacao"},{"predicate":{"custom_model_data":10008},"model":"austv_itens:elixir_arco"},{"predicate":{"custom_model_data":10009},"model":"austv_itens:elixir_pesca"},{"predicate":{"custom_model_data":10010},"model":"austv_itens:elixir_domesticacao"},{"predicate":{"custom_model_data":10011},"model":"austv_itens:elixir_lenhador"},{"predicate":{"custom_model_data":10012},"model":"austv_itens:elixir_mineracao"},{"predicate":{"custom_model_data":10013},"model":"item/golden_apple"}]}
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "minecraft:item/golden_apple" },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "austv_itens:perk_tempo_recarga"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "austv_itens:perk_sorte"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "austv_itens:perk_habilidade_ativa"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "austv_itens:perk_dobro_xp"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "austv_itens:perk_alma"
+    },
+    {
+      "predicate": { "custom_model_data": 10000 },
+      "model": "austv_itens:elixir_alquimia"
+    },
+    {
+      "predicate": { "custom_model_data": 10001 },
+      "model": "austv_itens:elixir_reparo"
+    },
+    {
+      "predicate": { "custom_model_data": 10002 },
+      "model": "austv_itens:elixir_desarmado"
+    },
+    {
+      "predicate": { "custom_model_data": 10003 },
+      "model": "austv_itens:elixir_espada"
+    },
+    {
+      "predicate": { "custom_model_data": 10004 },
+      "model": "austv_itens:elixir_machado"
+    },
+    {
+      "predicate": { "custom_model_data": 10005 },
+      "model": "austv_itens:elixir_acrobacia"
+    },
+    {
+      "predicate": { "custom_model_data": 10006 },
+      "model": "austv_itens:elixir_herbalismo"
+    },
+    {
+      "predicate": { "custom_model_data": 10007 },
+      "model": "austv_itens:elixir_escavacao"
+    },
+    {
+      "predicate": { "custom_model_data": 10008 },
+      "model": "austv_itens:elixir_arco"
+    },
+    {
+      "predicate": { "custom_model_data": 10009 },
+      "model": "austv_itens:elixir_pesca"
+    },
+    {
+      "predicate": { "custom_model_data": 10010 },
+      "model": "austv_itens:elixir_domesticacao"
+    },
+    {
+      "predicate": { "custom_model_data": 10011 },
+      "model": "austv_itens:elixir_lenhador"
+    },
+    {
+      "predicate": { "custom_model_data": 10012 },
+      "model": "austv_itens:elixir_mineracao"
+    },
+    {
+      "predicate": { "custom_model_data": 10013 },
+      "model": "item/golden_apple"
+    },
+    {
+      "predicate": { "custom_model_data": 10 },
+      "model": "austv_itens:evento_buildbattle"
+    }
+  ]
+}
