@@ -79,7 +79,7 @@
       "model": "item/golden_apple"
     },
     {
-      "predicate": { "custom_model_data": 10 },
+      "predicate": { "custom_model_data": 6 },
       "model": "austv_itens:evento_buildbattle"
     }
   ]
