@@ -23,6 +23,10 @@
       "model": "austv_itens:perk_alma"
     },
     {
+      "predicate": { "custom_model_data": 6 },
+      "model": "austv_itens:evento_buildbattle"
+    },
+    {
       "predicate": { "custom_model_data": 10000 },
       "model": "austv_itens:elixir_alquimia"
     },
@@ -77,10 +81,6 @@
     {
       "predicate": { "custom_model_data": 10013 },
       "model": "item/golden_apple"
-    },
-    {
-      "predicate": { "custom_model_data": 6 },
-      "model": "austv_itens:evento_buildbattle"
     }
   ]
 }
