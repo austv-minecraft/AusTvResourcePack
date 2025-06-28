@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "minecraft:item/cake" },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 10000 },
+      "model": "austv_itens:comidas/bolo_de_milho_cake"
+    },
+    { "predicate": { "custom_model_data": 10001 }, "model": "item/cake" }
+  ]
+}
