@@ -36,7 +36,7 @@
     },
     {
       "predicate": { "custom_model_data": 10008 },
-      "model": "ausgourmet:semente_amendoim"
+      "model": "ausgourmet:amendoim"
     },
     { "predicate": { "custom_model_data": 10009 }, "model": "item/wheat_seeds" }
   ]
