@@ -1,1 +1,39 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/apple"},"overrides":[{"predicate":{"custom_model_data":10000},"model":"austv_itens:biscoito_natal"},{"predicate":{"custom_model_data":10001},"model":"austv_itens:siri_verao"},{"predicate":{"custom_model_data":10002},"model":"austv_itens:ovo_pascoa"},{"predicate":{"custom_model_data":10003},"model":"item/apple"}]}
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "minecraft:item/apple" },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 10000 },
+      "model": "austv_itens:biscoito_natal"
+    },
+    {
+      "predicate": { "custom_model_data": 10001 },
+      "model": "austv_itens:siri_verao"
+    },
+    {
+      "predicate": { "custom_model_data": 10002 },
+      "model": "austv_itens:ovo_pascoa"
+    },
+    {
+      "predicate": { "custom_model_data": 10003 },
+      "model": "austv_itens:arroz_doce"
+    },
+    {
+      "predicate": { "custom_model_data": 10004 },
+      "model": "austv_itens:pipoca"
+    },
+    {
+      "predicate": { "custom_model_data": 10005 },
+      "model": "austv_itens:bolo_de_fuba"
+    },
+    {
+      "predicate": { "custom_model_data": 10006 },
+      "model": "austv_itens:maca_dourada_caramelizada"
+    },
+    {
+      "predicate": { "custom_model_data": 10007 },
+      "model": "austv_itens:maca_caramelizada"
+    },
+    { "predicate": { "custom_model_data": 10008 }, "model": "item/apple" }
+  ]
+}

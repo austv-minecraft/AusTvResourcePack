@@ -1,1 +1,43 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/dried_kelp"},"overrides":[{"predicate":{"custom_model_data":10002},"model":"ausgourmet:rabanete"},{"predicate":{"custom_model_data":10003},"model":"ausgourmet:tomate"},{"predicate":{"custom_model_data":10004},"model":"ausgourmet:pimentao"},{"predicate":{"custom_model_data":10005},"model":"ausgourmet:milho"},{"predicate":{"custom_model_data":10006},"model":"ausgourmet:alho"},{"predicate":{"custom_model_data":10007},"model":"ausgourmet:arroz"},{"predicate":{"custom_model_data":10008},"model":"ausgourmet:abobrinha"},{"predicate":{"custom_model_data":10009},"model":"ausgourmet:berinjela"},{"predicate":{"custom_model_data":10010},"model":"item/dried_kelp"}]}
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "minecraft:item/dried_kelp" },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 10002 },
+      "model": "ausgourmet:rabanete"
+    },
+    {
+      "predicate": { "custom_model_data": 10003 },
+      "model": "ausgourmet:tomate"
+    },
+    {
+      "predicate": { "custom_model_data": 10004 },
+      "model": "ausgourmet:pimentao"
+    },
+    {
+      "predicate": { "custom_model_data": 10005 },
+      "model": "ausgourmet:milho"
+    },
+    {
+      "predicate": { "custom_model_data": 10006 },
+      "model": "ausgourmet:alho"
+    },
+    {
+      "predicate": { "custom_model_data": 10007 },
+      "model": "ausgourmet:arroz"
+    },
+    {
+      "predicate": { "custom_model_data": 10008 },
+      "model": "ausgourmet:abobrinha"
+    },
+    {
+      "predicate": { "custom_model_data": 10009 },
+      "model": "ausgourmet:berinjela"
+    },
+    {
+      "predicate": { "custom_model_data": 10010 },
+      "model": "ausgourmet:amendoim"
+    },
+    { "predicate": { "custom_model_data": 10011 }, "model": "item/dried_kelp" }
+  ]
+}
