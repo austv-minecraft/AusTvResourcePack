@@ -267,7 +267,7 @@
 		{ "predicate": { "custom_model_data": 160011 }, "model": "trofeus/mineracao" },
 		{ "predicate": { "custom_model_data": 160012 }, "model": "trofeus/pesca" },
 		{ "predicate": { "custom_model_data": 160013 }, "model": "trofeus/reparo" },
-		{ "predicate": { "custom_model_data": 160014 }, "model": "trofeus/prestigio" },
+		{ "predicate": { "custom_model_data": 160014 }, "model": "trofeus/trofeu_prestigio" },
 		{ "predicate": { "custom_model_data": 160015 }, "model": "trofeus/trofeu" },
 		{ "predicate": { "custom_model_data": 160016 }, "model": "trofeus/trofeu1" },
 		{ "predicate": { "custom_model_data": 160017 }, "model": "trofeus/trofeu_guerra" },
