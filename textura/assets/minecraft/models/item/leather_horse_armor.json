@@ -900,7 +900,7 @@
       "model": "ausmoveis:caipira/shop_cart"
     },
     {
-      "predicate": { "custom_model_data": 50000 },
+      "predicate": { "custom_model_data": 50001 },
       "model": "trofeus/trofeu_prestigio"
     }
   ]
