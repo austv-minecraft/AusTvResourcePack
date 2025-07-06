@@ -4495,6 +4495,15 @@
             "chars": [
                 "\u2B1C"
             ]
-        }     		
+        },
+        {
+            "type": "bitmap",
+            "file": "icons:guis/cooking.png",
+            "ascent": -4,
+            "height": 128,
+            "chars": [
+                "\uE21D"
+            ]
+        },   		
     ]
 }
