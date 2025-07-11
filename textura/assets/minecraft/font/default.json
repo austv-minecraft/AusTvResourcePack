@@ -1,4509 +1,3525 @@
 {
-    "providers": [
-        {
-            "type": "ttf",
-            "file": "minecraft:negative_spaces.ttf",
-            "shift": [0.0, 0.0],
-            "size": 10.0,
-            "oversample": 1.0
-        },
-		{
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": 1,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": 2,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": 3,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": 4,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": 5,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": 6,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": 7,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": 15,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": 31,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": 63,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": 127,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": 256,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": 512,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": 1024,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": -3,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": -4,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": -5,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": -6,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": -7,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": -8,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": -9,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": -10,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": -18,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": -34,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": -66,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": -130,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": -259,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": -515,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-        {
-            "file": "char/black.png",
-            "chars": [
-                ""
-            ],
-            "height": -1027,
-            "ascent": -5000,
-            "type": "bitmap"
-        },
-		{
-         "type": "bitmap",
-         "file": "icons:lobby/painel_servidores.png",
-         "ascent": -4,
-         "height": 256,
-         "chars": [
-            "\uE001"
-            ]
-        },
-        {
-         "type": "bitmap",
-         "file": "icons:diamond.png",
-         "ascent": 8,
-         "height": 10,
-         "chars": [
-            "\u0A25"
-            ]
-        },
-		{
-         "type": "bitmap",
-         "file": "icons:lobby/divertida.png",
-         "ascent": 10,
-         "height": 12,
-         "chars": [
-            "\u0E12"
-            ]
-        },
-		{
-         "type": "bitmap",
-         "file": "icons:lobby/traquinagem.png",
-         "ascent": 10,
-         "height": 12,
-         "chars": [
-            "\u0E13"
-            ]
-        },
-		{
-         "type": "bitmap",
-         "file": "icons:lobby/natureza_exuberante.png",
-         "ascent": 10,
-         "height": 12,
-         "chars": [
-            "\u0E15"
-            ]
-        },
-		{
-         "type": "bitmap",
-         "file": "icons:lobby/emblematica.png",
-         "ascent": 10,
-         "height": 12,
-         "chars": [
-            "\u0E16"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/ouro.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u26C3"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/mini_games.png",
-            "ascent": 87,
-            "height": 249,
-            "chars": [
-                "\uE002"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/blank_menu.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE003"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/mini_games_2.png",
-            "ascent": 87,
-            "height": 249,
-            "chars": [
-                "\uE004"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/mini_games_3.png",
-            "ascent": 87,
-            "height": 249,
-            "chars": [
-                "\uE005"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/recompensa_veteranos.png",
-            "ascent": 86,
-            "height": 249,
-            "chars": [
-                "\uE006"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/cosmeticos.png",
-            "ascent": 86,
-            "height": 249,
-            "chars": [
-                "\uE007"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/brinquedos.png",
-            "ascent": 88,
-            "height": 247,
-            "chars": [
-                "\uE008"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/caixa.png",
-            "ascent": 95,
-            "height": 275,
-            "chars": [
-                "\uE009"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/caixa2.png",
-            "ascent": 95,
-            "height": 275,
-            "chars": [
-                "\uE010"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/recompensa.png",
-            "ascent": 87,
-            "height": 249,
-            "chars": [
-                "\uE011"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/humores.png",
-            "ascent": 87,
-            "height": 249,
-            "chars": [
-                "\uE013"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/comandos.png",
-            "ascent": 87,
-            "height": 249,
-            "chars": [
-                "\uE014"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/votos_minigames.png",
-            "ascent": 87,
-            "height": 249,
-            "chars": [
-                "\uE015"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/top_votos_minigames.png",
-            "ascent": 87,
-            "height": 249,
-            "chars": [
-                "\uE016"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/chapeus.png",
-            "ascent": 87,
-            "height": 249,
-            "chars": [
-                "\uE017"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/tags_minigames.png",
-            "ascent": 87,
-            "height": 249,
-            "chars": [
-                "\uE018"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/skins.png",
-            "ascent": 87,
-            "height": 249,
-            "chars": [
-                "\uE019"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/transferir.png",
-            "ascent": 87,
-            "height": 249,
-            "chars": [
-                "\uE020"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/menu.png",
-            "ascent": 87,
-            "height": 249,
-            "chars": [
-                "\uE021"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/loja.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE022"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/loja_1.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE023"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/loja_vip.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE024"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tags.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE025"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/arenas.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE026"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/betina.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE027"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/votos.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE028"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/eventos.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE029"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/loja_essencia.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE030"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/warp_edit.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE031"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/kits.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE032"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/encant_confirm.png",
-            "ascent": -1,
-            "height": 256,
-            "chars": [
-                "\uE033"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/encant.png",
-            "ascent": 19,
-            "height": 256,
-            "chars": [
-                "\uE034"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/encant_list.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE035"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/top_votos.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE036"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/my_warps.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE037"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/pw.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE038"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/fav_warp.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE039"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/warp_player.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE040"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/caixaabertura1.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE041"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/caixaabertura2.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE042"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/caixaabertura3.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE043"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/caixaaberturaskins.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE044"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/comandossurvival.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE045"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/menudeajuda.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE046"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/warps.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE047"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/vips.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE048"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/warps_visitas.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE049"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/caixaskins1.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE050"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:inventario2_us.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "\uE051"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/torneios.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE052"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/baloes1.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE053"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/brinquedos1.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE054"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/skinschapeus.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE055"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/metamorfoses1.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE056"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/menucosmeticos1.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE057"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/particulas1.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE058"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/pets1.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE059"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:inventario1_us.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "\uE060"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:inventario1_pt_br.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "\uE061"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:inventario2_pt_br.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "\uE062"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:inventario1_es.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "\uE063"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:inventario2_es.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "\uE064"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/ferreiro.png",
-            "ascent": 5,
-            "height": 256,
-            "chars": [
-                "\uE065"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/inventor_louco.png",
-            "ascent": 5,
-            "height": 256,
-            "chars": [
-                "\uE066"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lobby/topvotos_lobby.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE067"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/vip_ouro.png",
-            "ascent": 8,
-            "height": 55,
-            "chars": [
-                "\u1BC0"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/vip_platina.png",
-            "ascent": 8,
-            "height": 55,
-            "chars": [
-                "\u1BC1"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/vip_diamante.png",
-            "ascent": 8,
-            "height": 55,
-            "chars": [
-                "\u1BC2"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/vip_supremo.png",
-            "ascent": 8,
-            "height": 55,
-            "chars": [
-                "\u1BC3"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/evento.png",
-            "ascent": 8,
-            "height": 55,
-            "chars": [
-                "\u1BC4"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/dinheiro.png",
-            "ascent": 8,
-            "height": 55,
-            "chars": [
-                "\u1BC5"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/tag.png",
-            "ascent": 8,
-            "height": 55,
-            "chars": [
-                "\u1BC6"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/chaves.png",
-            "ascent": 8,
-            "height": 55,
-            "chars": [
-                "\u1BC7"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/duelo.png",
-            "ascent": 8,
-            "height": 55,
-            "chars": [
-                "\u1BC8"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/duelo_gui.png",
-            "ascent": -3,
-            "height": 258,
-            "chars": [
-                "\uE068"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/duelo.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE069"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/coop.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE070"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/treinos.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE071"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:coroa.png",
-            "ascent": 9,
-            "height": 10,
-            "chars": [
-                "\u0A26"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/chorando_rir.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A27"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/sorrindo.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A28"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/estilo.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A29"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/chorando.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A2A"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/triste.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A2B"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/vomitando.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A2C"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/raivoso.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A2D"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/coracao.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A2E"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/piscadinha.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A2F"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/apaixonado.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A30"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/indignado.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A31"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/morto.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A32"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/restricoes.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE072"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/prateleira.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE073"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/menu_leilao.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE074"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/leilao_lance.png",
-            "ascent": -2,
-            "height": 257,
-            "chars": [
-                "\uE075"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_pascoa.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0A33"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:tab_aus.png",
-            "ascent": 43,
-            "height": 130,
-            "chars": [
-                "\uE076"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/construcao_aus.png",
-            "ascent": 8,
-            "height": 55,
-            "chars": [
-                "\u1BC9"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:discord_esc.png",
-            "ascent": -10,
-            "height": 256,
-            "chars": [
-                "\uE077"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:telapreta.png",
-            "ascent": -205,
-            "height": 256,
-            "chars": [
-                "\uE078"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/torneios1.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE079"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/aus_esc.png",
-            "ascent": 18,
-            "height": 150,
-            "chars": [
-                "\uE080"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/recompensa_cacadas.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE081"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/palhaco.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A85"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/incompreensivo.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A86"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/mentiroso.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A87"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/beijinhos.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A88"
-            ]
-        },{
-            "type": "bitmap",
-            "file": "icons:emojis/calado.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A89"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/despreocupado.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A8A"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/doidao.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A8B"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/envergonhado.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A8C"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/diabinho.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A8D"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/questionavel.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A8F"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/joinha.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A90"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/gg.png",
-            "ascent": 11,
-            "height": 15,
-            "chars": [
-                "\u0A91"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/burgues.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u0A93"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_miau.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0A94"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_namorados.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0A95"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/kits_survival.png",
-            "ascent": 18,
-            "height": 256,
-            "chars": [
-                "\uE082"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/fusao_survival.png",
-            "ascent": 21,
-            "height": 256,
-            "chars": [
-                "\uE083"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/menu_clans.png",
-            "ascent": 21,
-            "height": 256,
-            "chars": [
-                "\uE084"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE085"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_membros.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE086"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clan_rivaislista.png",
-            "ascent": 31,
-            "height": 256,
-            "chars": [
-                "\uE087"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_alianca.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE088"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_rivais.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE089"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_aliadoslista.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE090"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_bandeiras.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE091"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_membroslista.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE092"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_missoes.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE093"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_missoeslista.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE094"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_casas.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE096"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_casasaliados.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE097"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_missoesiniciada.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE098"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_missoesabandonada.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE099"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_missaoalgodeuerrado.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE100"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_missaofinalizada.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE101"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_missoesexpirada.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE102"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/aviso.png",
-            "ascent": 8,
-            "height": 55,
-            "chars": [
-                "\u1BCA"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_enviarbandeira.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE103"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_deletarbandeira.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE104"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_estatisticas.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE105"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_config.png",
-            "ascent": 21,
-            "height": 256,
-            "chars": [
-                "\uE106"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_acoes.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE107"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_todosclas.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE108"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_banco.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE109"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_bancoadicionar.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE110"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_bancosacar.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE111"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_bandeirasalva.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE112"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_bandeiradeletada.png",
-            "ascent": 5,
-            "height": 256,
-            "chars": [
-                "\uE113"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_cofre.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE114"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_cofreslot.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE115"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_cofreloading.png",
-            "ascent": 10,
-            "height": 256,
-            "chars": [
-                "\uE116"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_clansxclans.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE117"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_convidarmembros.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE118"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_deletarclans.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE119"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_bandeiraausente.png",
-            "ascent": 10,
-            "height": 256,
-            "chars": [
-                "\uE120"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_bancoerro.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE121"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/colhedorchunks.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE122"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_tormenta.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0A96"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:efeito.png",
-            "ascent": 8,
-            "height": 9,
-            "chars": [
-                "\u0A97"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:estrela.png",
-            "ascent": 8,
-            "height": 9,
-            "chars": [
-                "\u0A98"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:rede.png",
-            "ascent": 9,
-            "height": 13,
-            "chars": [
-                "\u0A99"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:relogio.png",
-            "ascent": 8,
-            "height": 9,
-            "chars": [
-                "\u0C80"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:players.png",
-            "ascent": 8,
-            "height": 9,
-            "chars": [
-                "\u0B83"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chave.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0C82"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/unban.png",
-            "ascent": 8,
-            "height": 55,
-            "chars": [
-                "\u1BCB"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_glacial.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0C84"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_perfil.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE123"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_deletarcasa.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE124"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_trocarlider.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE125"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_comprarealizadacofre.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE126"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_sucesso.png",
-            "ascent": 8,
-            "height": 256,
-            "chars": [
-                "\uE127"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_clanvsselecionararena.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE128"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_clanvsopcaokits.png",
-            "ascent": 22,
-            "height": 256,
-            "chars": [
-                "\uE129"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_clanvsparticipantes.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE130"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_clanvsselecionarkit.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE131"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/loja_venderquantidade.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE133"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_aus.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0C85"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_membrosbanidos.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE134"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/premiacaoseismeses.png",
-            "ascent": 15,
-            "height": 256,
-            "chars": [
-                "\uE135"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_conviteenviado.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE136"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_limiteatingido.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE137"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_saldoinsuficiente.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE138"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_jogadoresbanidos.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE139"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_permissoes.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE140"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_convitependente.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE141"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_recompensas.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE142"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_bancosemsaldo.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE143"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_bancosaldoinsuficiente.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE144"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_clatodos.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE145"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/emblemas.png",
-            "ascent": 2,
-            "height": 256,
-            "chars": [
-                "\uE146"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/barra_encantamentos.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE147"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_primavera.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0C86"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_primavera_1.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0C87"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_primavera_2.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0C88"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clans_playersbanidos.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE148"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/mundao.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE149"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_criancada.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0C89"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_halloween.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0C90"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/clanvsclan.png",
-            "ascent": 8,
-            "height": 55,
-            "chars": [
-                "\u1BCC"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_copa.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0C92"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/liveon.png",
-            "ascent": 8,
-            "height": 55,
-            "chars": [
-                "\u1BCD"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/emblemas_categorias.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE150"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_natal.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0C93"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/pipoquinha.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u1BCE"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/caveira.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u1BCF"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/observando.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u1BD0"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:emojis/batendo_palmas.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u1BD1"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:passe/passe_menu.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE151"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:passe/passe_progressorecorte.png",
-            "ascent": 7,
-            "height": 256,
-            "chars": [
-                "\uE152"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/passe_de_batalha.png",
-            "ascent": 8,
-            "height": 55,
-            "chars": [
-                "\u1BD2"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/sistemareciclagem.png",
-            "ascent": -2,
-            "height": 256,
-            "chars": [
-                "\uE153"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_1ano.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0C94"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:passe/passe_diario.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "\uE154"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:passe/passe_semana.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "\uE155"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:passe/passe_semanamenu.png",
-            "ascent": 7,
-            "height": 256,
-            "chars": [
-                "\uE156"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/exprecorte.png",
-            "ascent": 7,
-            "height": 256,
-            "chars": [
-                "\uE157"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_emblematica.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0C95"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/mangos.png",
-            "ascent": 4,
-            "height": 256,
-            "chars": [
-                "\uE158"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/cinturaus.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE159"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/cinturaus_horario.png",
-            "ascent": -2,
-            "height": 256,
-            "chars": [
-                "\uE160"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_carnaval.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0C96"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_reborn.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0C97"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_pascoa_23.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0C98"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/opcoes_chat.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE161"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/mercado_negro.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE162"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_edicao_prestigio.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\u0C99"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_insurgente.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7B0"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_namorados_23.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7B1"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/prot_flags.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE163"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/livraria.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE164"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash.png",
-            "ascent": -1,
-            "height": 256,
-            "chars": [
-                "\uE165"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/loja_vanillew.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE166"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_ir_voltar.png",
-            "ascent": -1,
-            "height": 256,
-            "chars": [
-                "\uE167"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/cargos.png",
-            "ascent": 19,
-            "height": 256,
-            "chars": [
-                "\uE168"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/convites.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE169"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/convites_do_clan.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE170"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/editar_membro.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE171"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/registro_autoria.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE172"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:clans/clan_todosclans.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE173"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_menu.png",
-            "ascent": 3,
-            "height": 256,
-            "chars": [
-                "\uE174"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_vip_mensal.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE175"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_vip_perma.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE176"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_dinheiro.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE177"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_chaves.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE178"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_passe.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE179"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_mobilias.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE180"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_tags.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE181"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_tags_selecao.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE182"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_vip_selecao.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE183"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_ativacao_ouro_sema.png",
-            "ascent": 38,
-            "height": 256,
-            "chars": [
-                "\uE184"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_ativacao_plat_sema.png",
-            "ascent": 38,
-            "height": 256,
-            "chars": [
-                "\uE185"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_ativacao_dima_sema.png",
-            "ascent": 38,
-            "height": 256,
-            "chars": [
-                "\uE186"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_ativacao_supremo_sema.png",
-            "ascent": 38,
-            "height": 256,
-            "chars": [
-                "\uE187"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_chaves_vanillew.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE188"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/evento_arraia.png",
-            "ascent": 15,
-            "height": 256,
-            "chars": [
-                "\uE189"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_samurai.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7B2"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_glacial_n.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7B3"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/balao_clan.png",
-            "ascent": 13,
-            "height": 20,
-            "chars": [
-                "\u2A0A"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/balao_global.png",
-            "ascent": 13,
-            "height": 20,
-            "chars": [
-                "\u2A0B"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/balao_local.png",
-            "ascent": 13,
-            "height": 20,
-            "chars": [
-                "\u2A0C"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/balao_tell.png",
-            "ascent": 13,
-            "height": 20,
-            "chars": [
-                "\u2A0D"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/exclamacao_green.png",
-            "ascent": 13,
-            "height": 20,
-            "chars": [
-                "\u2A0E"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/exclamacao_grey.png",
-            "ascent": 13,
-            "height": 20,
-            "chars": [
-                "\u2A0F"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/exclamacao_orange.png",
-            "ascent": 13,
-            "height": 20,
-            "chars": [
-                "\u2A10"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/exclamacao_purple_guy.png",
-            "ascent": 13,
-            "height": 20,
-            "chars": [
-                "\u2A1A"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/exclamacao_red.png",
-            "ascent": 13,
-            "height": 20,
-            "chars": [
-                "\u2A11"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/encant_usar.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE18A"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/peixaria.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE18B"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:passe/passe_vantagens.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE18C"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:passe/passe_itens_vantagens.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE18D"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:passe/passe_itens.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "\uE18E"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/bancada.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7B4"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/chapeu.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7B5"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/chave.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7B6"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/colecionavel.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7B7"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/item_arcano.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7B8"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/maquina.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7B9"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/mobilia.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7BA"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/pergaminho.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7BB"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/perk.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7BC"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/transicao.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7BD"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/trofeu.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7BE"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/gui_denuncia.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE18F"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/gui_denuncia_atitudes.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE190"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/gui_denuncia_chat.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE191"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/gui_denuncia_irregularidades.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE192"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/gui_denuncia_teleportes.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE193"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_criancada23.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7BF"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/exclamacao_blue.png",
-            "ascent": 13,
-            "height": 20,
-            "chars": [
-                "\u2A12"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/feedback.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE194"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/prot_opcoes_adicionar.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE195"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/prot_opcoes_remover.png",
-            "ascent": 20,
-            "height": 256,
-            "chars": [
-                "\uE196"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/menu_medalhas.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE197"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_halloween23.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7C0"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/lista_pw.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE199"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/lista_pw_visitadas.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE19A"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/manusear_pw.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE19B"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/manusear_pw_visitadas.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE19C"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/menu_pw.png",
-            "ascent": 4,
-            "height": 256,
-            "chars": [
-                "\uE19D"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/menu_pw_fav.png",
-            "ascent": 4,
-            "height": 256,
-            "chars": [
-                "\uE19E"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_desordem.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7C1"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_celestial.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7C2"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_celestial_v2.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7C3"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:deubranco.png",
-            "ascent": 128,
-            "height": 256,
-            "chars": [
-                "\uE19F"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_vip_perma_upgrade.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1A0"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guarda_roupa/guardaroupa_colorir.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1A1"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guarda_roupa/guardaroupa_selecao.png",
-            "ascent": -2,
-            "height": 256,
-            "chars": [
-                "\uE1A2"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:passe/novo_passe_cash.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1A3"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/presente_natal.png",
-            "ascent": 4,
-            "height": 256,
-            "chars": [
-                "\uE1A4"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_natal_23.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7C4"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:objetivos/objetivos_menu.png",
-            "ascent": -2,
-            "height": 256,
-            "chars": [
-                "\uE1A5"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:objetivos/objetivos_subcategoria.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1A6"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:objetivos/objetivos_sub.png",
-            "ascent": -94,
-            "height": 256,
-            "chars": [
-                "\uE1A7"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/itens_prestigio.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1A8"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guarda_roupa/guardaroupa_loja.png",
-            "ascent": -2,
-            "height": 256,
-            "chars": [
-                "\uE1A9"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_avenda.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7C5"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_tingivel.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7C6"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/presente_vermelho.png",
-            "ascent": 5,
-            "height": 55,
-            "chars": [
-                "\u2A13"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/presente_dourado.png",
-            "ascent": 8,
-            "height": 55,
-            "chars": [
-                "\u2A14"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/presente_azul.png",
-            "ascent": 8,
-            "height": 55,
-            "chars": [
-                "\u2A15"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:objetivos/objetivos_cancelar.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1AA"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/presente_semanal_verao.png",
-            "ascent": 4,
-            "height": 256,
-            "chars": [
-                "\uE1AB"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/forjador_pedra.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1AC"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_verao.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7C7"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_verao_2024.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7C8"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/presente_semanal_2anos.png",
-            "ascent": 4,
-            "height": 256,
-            "chars": [
-                "\uE1AD"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_carnaval_2024.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7C9"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:objetivos/objetivos_diarios.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1AE"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:objetivos/objetivos_gerais.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1AF"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:objetivos/objetivos_introducao.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1B1"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:objetivos/objetivos_passe.png",
-            "ascent": 2,
-            "height": 256,
-            "chars": [
-                "\uE1B2"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/exclamacao_yellow.png",
-            "ascent": 13,
-            "height": 20,
-            "chars": [
-                "\u2A16"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_outono.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7CA"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/safra.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1B3"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/exclamacao_cinza_escuro.png",
-            "ascent": 13,
-            "height": 20,
-            "chars": [
-                "\u2A17"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_pascoa_24.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7CB"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/presente_pascoa_24.png",
-            "ascent": 4,
-            "height": 256,
-            "chars": [
-                "\uE1B4"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guarda_roupa/guardaroupa_selecao_destaque.png",
-            "ascent": -2,
-            "height": 256,
-            "chars": [
-                "\uE1B5"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_espectro.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7CC"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/loja.png",
-            "ascent": 3,
-            "height": 256,
-            "chars": [
-                "\uE1B7"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/loja_vip.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1B8"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/objetivos.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1B9"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/ausloja_chaves.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1BA"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/menu_ilha.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1BB"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/menu_selecao_ilhas.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1BC"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/niveis.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1BD"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/menu_permissoes_ilha.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1BE"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/menu_upgrades.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1BF"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/melhoria_niveis.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1C0"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/ausloja_skins_v2.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1C1"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/config_ilha.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1C2"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/membros_ilha.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1C3"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/top_ilhas.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1C4"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/warps_ilha.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1C5"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/ausloja_minions.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1C6"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/ausloja_skins_adquirir.png",
-            "ascent": -40,
-            "height": 256,
-            "chars": [
-                "\uE1C7"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/ausloja_vips_comprar.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1C8"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/ausloja_vips_melhoria.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1C9"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_glacial_skyblock.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7CD"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_glacial_n_skyblock.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7CE"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_ruina.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7CF"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/melhorias.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1CA"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/presente_semanal_ruina.png",
-            "ascent": 4,
-            "height": 256,
-            "chars": [
-                "\uE1CB"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:chats/namorados.png",
-            "ascent": 8,
-            "height": 55,
-            "chars": [
-                "\u2A18"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_namorados_ele.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7D0"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_namorados_ela.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7D1"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_arraia.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7D2"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/gui_arraia.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1CC"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/gui_carpinteiro.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1CD"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/figurinha.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7D3"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/gui_preencher.png",
-            "ascent": -94,
-            "height": 256,
-            "chars": [
-                "\uE1CE"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_arraia_24.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7D4"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/gui_receita.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1CF"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/gui_nocrafting.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1D0"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/gui_correio.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1D1"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/avaliar_ilha.png",
-            "ascent": -6,
-            "height": 256,
-            "chars": [
-                "\uE1D2"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/banco_ilha.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1D3"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/biomas_aplicar_ilha.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1D4"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/biomas_comprar_ilha.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1D5"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/biomas_ilha.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1D6"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/confirmar_ilha.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1D7"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/convites_ilha.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1D8"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/equipe_ilha.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1D9"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/geradores_ilha.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1DA"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/geradores_info_ilha.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1DB"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/geradores_lista_blocos.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1DC"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/geradores_lista_tesouros.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1DD"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/minions.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1DE"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/visitar_ilha.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1DF"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/visitar_config_ilha.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1E0"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_abelhinha.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7D5"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_inverno.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7D6"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_inverno_24.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7D7"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:zombie.png",
-            "ascent": 8,
-            "height": 9,
-            "chars": [
-                "\u0B85"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:passe/recompensa_obj.png",
-            "ascent": 13,
-            "height": 256,
-            "chars": [
-                "\uE1E1"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/recompensas.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1E2"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/recompensas_eventos.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1E3"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/recompensas_clan.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1E4"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:skyblock/loja_sb.png",
-            "ascent": -2,
-            "height": 256,
-            "chars": [
-                "\uE1E5"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/loja_categorias.png",
-            "ascent": -2,
-            "height": 256,
-            "chars": [
-                "\uE1E6"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_calamidade.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7D8"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_kit_m_plat.png",
-            "ascent": 38,
-            "height": 256,
-            "chars": [
-                "\uE1E7"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_kit_m_dima.png",
-            "ascent": 38,
-            "height": 256,
-            "chars": [
-                "\uE1E8"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_kit_m_sup.png",
-            "ascent": 38,
-            "height": 256,
-            "chars": [
-                "\uE1E9"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_menu_vanillew.png",
-            "ascent": 3,
-            "height": 256,
-            "chars": [
-                "\uE1EA"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/cash_vip_selecao_h.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1EB"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/pets.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1EC"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/pets_loja.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1ED"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/catalisar_halloween.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1EE"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/troca_halloween.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1EF"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis_vanillew/cash_menu_sb.png",
-            "ascent": 3,
-            "height": 256,
-            "chars": [
-                "\uE1F0"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/fundo_cinza.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1F1"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/caixa_3linhas.png",
-            "ascent": 0,
-            "height": 256,
-            "chars": [
-                "\uE1F2"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_1.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1F3"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_2.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1F4"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_3.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1F5"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_4.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1F6"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_5.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1F7"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_6.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1F8"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_7.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1F9"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_8.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1FA"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_10.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1FB"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_11.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1FC"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_12.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1FD"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_13.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1FE"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_14.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE1FF"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_15.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE200"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_16.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE201"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_deuses.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7DA"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_9.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE202"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_17.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE203"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_18.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE204"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_19.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE205"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_20.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE206"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_21.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE207"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_22.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE208"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_23.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE209"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_24.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE20A"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_25.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE20B"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_26.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE20C"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_27.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE20D"
-            ]
-        },{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_28.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE20E"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_29.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE20F"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_30.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE210"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/abertura_caixas_1.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE211"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/abertura_caixas_2.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE212"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/lista_passes.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE213"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:lore/lore_natal_24.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7DB"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/passe_recompensas.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE214"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_1_sb.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE215"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_2_sb.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE216"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_3_sb.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE217"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_4_sb.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE218"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_23_sb.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE219"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_24_sb.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE21A"
-            ]
-        },
-		{
-            "type": "bitmap",
-            "file": "icons:guis/tutorial_25_sb.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE21B"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "icons:lore/lore_verao_25.png",
-            "ascent": 9,
-            "height": 9,
-            "chars": [
-                "\uD7DC"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "icons:guis/caixa_ovos.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\uE21C"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "icons:chats/teste_chat.png",
-            "ascent": 8,
-            "height": 55,
-            "chars": [
-                "\u2A19"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "icons:emojis/nerd.png",
-            "ascent": 8,
-            "height": 10,
-            "chars": [
-                "\u1BD2"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "icons:guis/caixaabertura3_sem_setas.png",
-            "ascent": -4,
-            "height": 256,
-            "chars": [
-                "\u2B1C"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "icons:guis/cooking.png",
-            "ascent": -4,
-            "height": 128,
-            "chars": [
-                "\uE21D"
-            ]
-        } 		
-    ]
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "minecraft:negative_spaces.ttf",
+      "shift": [0.0, 0.0],
+      "size": 10.0,
+      "oversample": 1.0
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 1,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 2,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 3,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 4,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 5,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 6,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 7,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 15,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 31,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 63,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 127,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 256,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 512,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": 1024,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -3,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -4,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -5,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -6,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -7,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -8,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -9,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -10,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -18,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -34,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -66,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -130,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -259,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -515,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "file": "char/black.png",
+      "chars": [""],
+      "height": -1027,
+      "ascent": -5000,
+      "type": "bitmap"
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/painel_servidores.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:diamond.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A25"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/divertida.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": ["\u0E12"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/traquinagem.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": ["\u0E13"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/natureza_exuberante.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": ["\u0E15"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/emblematica.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": ["\u0E16"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/ouro.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u26C3"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/mini_games.png",
+      "ascent": 87,
+      "height": 249,
+      "chars": ["\uE002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/blank_menu.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/mini_games_2.png",
+      "ascent": 87,
+      "height": 249,
+      "chars": ["\uE004"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/mini_games_3.png",
+      "ascent": 87,
+      "height": 249,
+      "chars": ["\uE005"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/recompensa_veteranos.png",
+      "ascent": 86,
+      "height": 249,
+      "chars": ["\uE006"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/cosmeticos.png",
+      "ascent": 86,
+      "height": 249,
+      "chars": ["\uE007"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/brinquedos.png",
+      "ascent": 88,
+      "height": 247,
+      "chars": ["\uE008"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/caixa.png",
+      "ascent": 95,
+      "height": 275,
+      "chars": ["\uE009"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/caixa2.png",
+      "ascent": 95,
+      "height": 275,
+      "chars": ["\uE010"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/recompensa.png",
+      "ascent": 87,
+      "height": 249,
+      "chars": ["\uE011"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/humores.png",
+      "ascent": 87,
+      "height": 249,
+      "chars": ["\uE013"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/comandos.png",
+      "ascent": 87,
+      "height": 249,
+      "chars": ["\uE014"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/votos_minigames.png",
+      "ascent": 87,
+      "height": 249,
+      "chars": ["\uE015"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/top_votos_minigames.png",
+      "ascent": 87,
+      "height": 249,
+      "chars": ["\uE016"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/chapeus.png",
+      "ascent": 87,
+      "height": 249,
+      "chars": ["\uE017"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/tags_minigames.png",
+      "ascent": 87,
+      "height": 249,
+      "chars": ["\uE018"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/skins.png",
+      "ascent": 87,
+      "height": 249,
+      "chars": ["\uE019"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/transferir.png",
+      "ascent": 87,
+      "height": 249,
+      "chars": ["\uE020"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/menu.png",
+      "ascent": 87,
+      "height": 249,
+      "chars": ["\uE021"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/loja.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE022"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/loja_1.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE023"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/loja_vip.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE024"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tags.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE025"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/arenas.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE026"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/betina.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE027"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/votos.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE028"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/eventos.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE029"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/loja_essencia.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE030"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/warp_edit.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE031"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/kits.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE032"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/encant_confirm.png",
+      "ascent": -1,
+      "height": 256,
+      "chars": ["\uE033"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/encant.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": ["\uE034"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/encant_list.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE035"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/top_votos.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE036"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/my_warps.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE037"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/pw.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE038"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/fav_warp.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE039"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/warp_player.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE040"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/caixaabertura1.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE041"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/caixaabertura2.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE042"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/caixaabertura3.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE043"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/caixaaberturaskins.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE044"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/comandossurvival.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE045"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/menudeajuda.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE046"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/warps.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE047"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/vips.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE048"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/warps_visitas.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE049"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/caixaskins1.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE050"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:inventario2_us.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": ["\uE051"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/torneios.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE052"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/baloes1.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE053"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/brinquedos1.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE054"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/skinschapeus.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE055"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/metamorfoses1.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE056"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/menucosmeticos1.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE057"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/particulas1.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE058"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/pets1.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE059"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:inventario1_us.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": ["\uE060"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:inventario1_pt_br.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": ["\uE061"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:inventario2_pt_br.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": ["\uE062"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:inventario1_es.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": ["\uE063"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:inventario2_es.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": ["\uE064"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/ferreiro.png",
+      "ascent": 5,
+      "height": 256,
+      "chars": ["\uE065"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/inventor_louco.png",
+      "ascent": 5,
+      "height": 256,
+      "chars": ["\uE066"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lobby/topvotos_lobby.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE067"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/vip_ouro.png",
+      "ascent": 8,
+      "height": 55,
+      "chars": ["\u1BC0"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/vip_platina.png",
+      "ascent": 8,
+      "height": 55,
+      "chars": ["\u1BC1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/vip_diamante.png",
+      "ascent": 8,
+      "height": 55,
+      "chars": ["\u1BC2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/vip_supremo.png",
+      "ascent": 8,
+      "height": 55,
+      "chars": ["\u1BC3"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/evento.png",
+      "ascent": 8,
+      "height": 55,
+      "chars": ["\u1BC4"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/dinheiro.png",
+      "ascent": 8,
+      "height": 55,
+      "chars": ["\u1BC5"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/tag.png",
+      "ascent": 8,
+      "height": 55,
+      "chars": ["\u1BC6"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/chaves.png",
+      "ascent": 8,
+      "height": 55,
+      "chars": ["\u1BC7"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/duelo.png",
+      "ascent": 8,
+      "height": 55,
+      "chars": ["\u1BC8"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/duelo_gui.png",
+      "ascent": -3,
+      "height": 258,
+      "chars": ["\uE068"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/duelo.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE069"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/coop.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE070"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/treinos.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE071"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:coroa.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": ["\u0A26"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/chorando_rir.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A27"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/sorrindo.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A28"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/estilo.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A29"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/chorando.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A2A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/triste.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A2B"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/vomitando.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A2C"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/raivoso.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A2D"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/coracao.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A2E"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/piscadinha.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A2F"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/apaixonado.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A30"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/indignado.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A31"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/morto.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A32"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/restricoes.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE072"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/prateleira.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE073"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/menu_leilao.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE074"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/leilao_lance.png",
+      "ascent": -2,
+      "height": 257,
+      "chars": ["\uE075"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_pascoa.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0A33"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:tab_aus.png",
+      "ascent": 43,
+      "height": 130,
+      "chars": ["\uE076"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/construcao_aus.png",
+      "ascent": 8,
+      "height": 55,
+      "chars": ["\u1BC9"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:discord_esc.png",
+      "ascent": -10,
+      "height": 256,
+      "chars": ["\uE077"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:telapreta.png",
+      "ascent": -205,
+      "height": 256,
+      "chars": ["\uE078"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/torneios1.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE079"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/aus_esc.png",
+      "ascent": 18,
+      "height": 150,
+      "chars": ["\uE080"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/recompensa_cacadas.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE081"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/palhaco.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A85"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/incompreensivo.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A86"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/mentiroso.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A87"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/beijinhos.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A88"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/calado.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A89"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/despreocupado.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A8A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/doidao.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A8B"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/envergonhado.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A8C"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/diabinho.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A8D"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/questionavel.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A8F"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/joinha.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A90"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/gg.png",
+      "ascent": 11,
+      "height": 15,
+      "chars": ["\u0A91"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/burgues.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u0A93"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_miau.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0A94"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_namorados.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0A95"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/kits_survival.png",
+      "ascent": 18,
+      "height": 256,
+      "chars": ["\uE082"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/fusao_survival.png",
+      "ascent": 21,
+      "height": 256,
+      "chars": ["\uE083"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/menu_clans.png",
+      "ascent": 21,
+      "height": 256,
+      "chars": ["\uE084"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE085"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_membros.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE086"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clan_rivaislista.png",
+      "ascent": 31,
+      "height": 256,
+      "chars": ["\uE087"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_alianca.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE088"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_rivais.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE089"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_aliadoslista.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE090"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_bandeiras.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE091"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_membroslista.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE092"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_missoes.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE093"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_missoeslista.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE094"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_casas.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE096"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_casasaliados.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE097"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_missoesiniciada.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE098"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_missoesabandonada.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE099"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_missaoalgodeuerrado.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE100"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_missaofinalizada.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE101"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_missoesexpirada.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE102"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/aviso.png",
+      "ascent": 8,
+      "height": 55,
+      "chars": ["\u1BCA"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_enviarbandeira.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE103"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_deletarbandeira.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE104"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_estatisticas.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE105"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_config.png",
+      "ascent": 21,
+      "height": 256,
+      "chars": ["\uE106"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_acoes.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE107"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_todosclas.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE108"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_banco.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE109"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_bancoadicionar.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE110"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_bancosacar.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE111"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_bandeirasalva.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE112"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_bandeiradeletada.png",
+      "ascent": 5,
+      "height": 256,
+      "chars": ["\uE113"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_cofre.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE114"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_cofreslot.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE115"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_cofreloading.png",
+      "ascent": 10,
+      "height": 256,
+      "chars": ["\uE116"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_clansxclans.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE117"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_convidarmembros.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE118"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_deletarclans.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE119"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_bandeiraausente.png",
+      "ascent": 10,
+      "height": 256,
+      "chars": ["\uE120"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_bancoerro.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE121"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/colhedorchunks.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE122"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_tormenta.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0A96"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:efeito.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\u0A97"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:estrela.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\u0A98"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:rede.png",
+      "ascent": 9,
+      "height": 13,
+      "chars": ["\u0A99"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:relogio.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\u0C80"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:players.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\u0B83"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chave.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0C82"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/unban.png",
+      "ascent": 8,
+      "height": 55,
+      "chars": ["\u1BCB"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_glacial.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0C84"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_perfil.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE123"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_deletarcasa.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE124"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_trocarlider.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE125"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_comprarealizadacofre.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE126"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_sucesso.png",
+      "ascent": 8,
+      "height": 256,
+      "chars": ["\uE127"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_clanvsselecionararena.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE128"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_clanvsopcaokits.png",
+      "ascent": 22,
+      "height": 256,
+      "chars": ["\uE129"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_clanvsparticipantes.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE130"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_clanvsselecionarkit.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE131"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/loja_venderquantidade.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE133"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_aus.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0C85"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_membrosbanidos.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE134"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/premiacaoseismeses.png",
+      "ascent": 15,
+      "height": 256,
+      "chars": ["\uE135"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_conviteenviado.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE136"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_limiteatingido.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE137"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_saldoinsuficiente.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE138"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_jogadoresbanidos.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE139"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_permissoes.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE140"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_convitependente.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE141"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_recompensas.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE142"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_bancosemsaldo.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE143"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_bancosaldoinsuficiente.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE144"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_clatodos.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE145"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/emblemas.png",
+      "ascent": 2,
+      "height": 256,
+      "chars": ["\uE146"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/barra_encantamentos.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE147"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_primavera.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0C86"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_primavera_1.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0C87"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_primavera_2.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0C88"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clans_playersbanidos.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE148"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/mundao.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE149"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_criancada.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0C89"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_halloween.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0C90"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/clanvsclan.png",
+      "ascent": 8,
+      "height": 55,
+      "chars": ["\u1BCC"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_copa.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0C92"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/liveon.png",
+      "ascent": 8,
+      "height": 55,
+      "chars": ["\u1BCD"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/emblemas_categorias.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE150"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_natal.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0C93"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/pipoquinha.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u1BCE"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/caveira.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u1BCF"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/observando.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u1BD0"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/batendo_palmas.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u1BD1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:passe/passe_menu.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE151"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:passe/passe_progressorecorte.png",
+      "ascent": 7,
+      "height": 256,
+      "chars": ["\uE152"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/passe_de_batalha.png",
+      "ascent": 8,
+      "height": 55,
+      "chars": ["\u1BD2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/sistemareciclagem.png",
+      "ascent": -2,
+      "height": 256,
+      "chars": ["\uE153"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_1ano.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0C94"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:passe/passe_diario.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": ["\uE154"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:passe/passe_semana.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": ["\uE155"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:passe/passe_semanamenu.png",
+      "ascent": 7,
+      "height": 256,
+      "chars": ["\uE156"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/exprecorte.png",
+      "ascent": 7,
+      "height": 256,
+      "chars": ["\uE157"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_emblematica.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0C95"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/mangos.png",
+      "ascent": 4,
+      "height": 256,
+      "chars": ["\uE158"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/cinturaus.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE159"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/cinturaus_horario.png",
+      "ascent": -2,
+      "height": 256,
+      "chars": ["\uE160"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_carnaval.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0C96"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_reborn.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0C97"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_pascoa_23.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0C98"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/opcoes_chat.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE161"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/mercado_negro.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE162"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_edicao_prestigio.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0C99"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_insurgente.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7B0"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_namorados_23.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7B1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/prot_flags.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE163"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/livraria.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE164"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash.png",
+      "ascent": -1,
+      "height": 256,
+      "chars": ["\uE165"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/loja_vanillew.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE166"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_ir_voltar.png",
+      "ascent": -1,
+      "height": 256,
+      "chars": ["\uE167"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/cargos.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": ["\uE168"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/convites.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE169"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/convites_do_clan.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE170"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/editar_membro.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE171"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/registro_autoria.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE172"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:clans/clan_todosclans.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE173"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_menu.png",
+      "ascent": 3,
+      "height": 256,
+      "chars": ["\uE174"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_vip_mensal.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE175"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_vip_perma.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE176"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_dinheiro.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE177"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_chaves.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE178"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_passe.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE179"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_mobilias.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE180"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_tags.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE181"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_tags_selecao.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE182"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_vip_selecao.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE183"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_ativacao_ouro_sema.png",
+      "ascent": 38,
+      "height": 256,
+      "chars": ["\uE184"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_ativacao_plat_sema.png",
+      "ascent": 38,
+      "height": 256,
+      "chars": ["\uE185"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_ativacao_dima_sema.png",
+      "ascent": 38,
+      "height": 256,
+      "chars": ["\uE186"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_ativacao_supremo_sema.png",
+      "ascent": 38,
+      "height": 256,
+      "chars": ["\uE187"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_chaves_vanillew.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE188"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/evento_arraia.png",
+      "ascent": 15,
+      "height": 256,
+      "chars": ["\uE189"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_samurai.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7B2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_glacial_n.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7B3"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/balao_clan.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\u2A0A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/balao_global.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\u2A0B"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/balao_local.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\u2A0C"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/balao_tell.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\u2A0D"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/exclamacao_green.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\u2A0E"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/exclamacao_grey.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\u2A0F"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/exclamacao_orange.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\u2A10"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/exclamacao_purple_guy.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\u2A1A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/exclamacao_red.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\u2A11"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/encant_usar.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE18A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/peixaria.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE18B"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:passe/passe_vantagens.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE18C"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:passe/passe_itens_vantagens.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE18D"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:passe/passe_itens.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": ["\uE18E"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/bancada.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7B4"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/chapeu.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7B5"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/chave.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7B6"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/colecionavel.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7B7"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/item_arcano.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7B8"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/maquina.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7B9"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/mobilia.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7BA"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/pergaminho.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7BB"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/perk.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7BC"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/transicao.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7BD"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/trofeu.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7BE"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/gui_denuncia.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE18F"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/gui_denuncia_atitudes.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE190"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/gui_denuncia_chat.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE191"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/gui_denuncia_irregularidades.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE192"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/gui_denuncia_teleportes.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE193"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_criancada23.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7BF"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/exclamacao_blue.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\u2A12"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/feedback.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE194"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/prot_opcoes_adicionar.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE195"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/prot_opcoes_remover.png",
+      "ascent": 20,
+      "height": 256,
+      "chars": ["\uE196"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/menu_medalhas.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE197"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_halloween23.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7C0"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/lista_pw.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE199"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/lista_pw_visitadas.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE19A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/manusear_pw.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE19B"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/manusear_pw_visitadas.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE19C"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/menu_pw.png",
+      "ascent": 4,
+      "height": 256,
+      "chars": ["\uE19D"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/menu_pw_fav.png",
+      "ascent": 4,
+      "height": 256,
+      "chars": ["\uE19E"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_desordem.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7C1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_celestial.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7C2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_celestial_v2.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7C3"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:deubranco.png",
+      "ascent": 128,
+      "height": 256,
+      "chars": ["\uE19F"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_vip_perma_upgrade.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1A0"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guarda_roupa/guardaroupa_colorir.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1A1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guarda_roupa/guardaroupa_selecao.png",
+      "ascent": -2,
+      "height": 256,
+      "chars": ["\uE1A2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:passe/novo_passe_cash.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1A3"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/presente_natal.png",
+      "ascent": 4,
+      "height": 256,
+      "chars": ["\uE1A4"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_natal_23.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7C4"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:objetivos/objetivos_menu.png",
+      "ascent": -2,
+      "height": 256,
+      "chars": ["\uE1A5"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:objetivos/objetivos_subcategoria.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1A6"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:objetivos/objetivos_sub.png",
+      "ascent": -94,
+      "height": 256,
+      "chars": ["\uE1A7"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/itens_prestigio.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1A8"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guarda_roupa/guardaroupa_loja.png",
+      "ascent": -2,
+      "height": 256,
+      "chars": ["\uE1A9"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_avenda.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7C5"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_tingivel.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7C6"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/presente_vermelho.png",
+      "ascent": 5,
+      "height": 55,
+      "chars": ["\u2A13"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/presente_dourado.png",
+      "ascent": 8,
+      "height": 55,
+      "chars": ["\u2A14"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/presente_azul.png",
+      "ascent": 8,
+      "height": 55,
+      "chars": ["\u2A15"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:objetivos/objetivos_cancelar.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1AA"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/presente_semanal_verao.png",
+      "ascent": 4,
+      "height": 256,
+      "chars": ["\uE1AB"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/forjador_pedra.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1AC"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_verao.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7C7"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_verao_2024.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7C8"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/presente_semanal_2anos.png",
+      "ascent": 4,
+      "height": 256,
+      "chars": ["\uE1AD"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_carnaval_2024.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7C9"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:objetivos/objetivos_diarios.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1AE"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:objetivos/objetivos_gerais.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1AF"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:objetivos/objetivos_introducao.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1B1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:objetivos/objetivos_passe.png",
+      "ascent": 2,
+      "height": 256,
+      "chars": ["\uE1B2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/exclamacao_yellow.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\u2A16"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_outono.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7CA"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/safra.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1B3"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/exclamacao_cinza_escuro.png",
+      "ascent": 13,
+      "height": 20,
+      "chars": ["\u2A17"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_pascoa_24.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7CB"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/presente_pascoa_24.png",
+      "ascent": 4,
+      "height": 256,
+      "chars": ["\uE1B4"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guarda_roupa/guardaroupa_selecao_destaque.png",
+      "ascent": -2,
+      "height": 256,
+      "chars": ["\uE1B5"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_espectro.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7CC"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/loja.png",
+      "ascent": 3,
+      "height": 256,
+      "chars": ["\uE1B7"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/loja_vip.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1B8"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/objetivos.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1B9"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/ausloja_chaves.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1BA"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/menu_ilha.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1BB"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/menu_selecao_ilhas.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1BC"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/niveis.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1BD"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/menu_permissoes_ilha.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1BE"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/menu_upgrades.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1BF"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/melhoria_niveis.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1C0"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/ausloja_skins_v2.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1C1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/config_ilha.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1C2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/membros_ilha.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1C3"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/top_ilhas.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1C4"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/warps_ilha.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1C5"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/ausloja_minions.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1C6"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/ausloja_skins_adquirir.png",
+      "ascent": -40,
+      "height": 256,
+      "chars": ["\uE1C7"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/ausloja_vips_comprar.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1C8"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/ausloja_vips_melhoria.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1C9"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_glacial_skyblock.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7CD"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_glacial_n_skyblock.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7CE"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_ruina.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7CF"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/melhorias.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1CA"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/presente_semanal_ruina.png",
+      "ascent": 4,
+      "height": 256,
+      "chars": ["\uE1CB"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/namorados.png",
+      "ascent": 8,
+      "height": 55,
+      "chars": ["\u2A18"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_namorados_ele.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7D0"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_namorados_ela.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7D1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_arraia.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7D2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/gui_arraia.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1CC"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/gui_carpinteiro.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1CD"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/figurinha.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7D3"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/gui_preencher.png",
+      "ascent": -94,
+      "height": 256,
+      "chars": ["\uE1CE"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_arraia_24.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7D4"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/gui_receita.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1CF"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/gui_nocrafting.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1D0"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/gui_correio.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1D1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/avaliar_ilha.png",
+      "ascent": -6,
+      "height": 256,
+      "chars": ["\uE1D2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/banco_ilha.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1D3"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/biomas_aplicar_ilha.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1D4"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/biomas_comprar_ilha.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1D5"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/biomas_ilha.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1D6"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/confirmar_ilha.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1D7"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/convites_ilha.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1D8"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/equipe_ilha.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1D9"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/geradores_ilha.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1DA"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/geradores_info_ilha.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1DB"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/geradores_lista_blocos.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1DC"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/geradores_lista_tesouros.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1DD"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/minions.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1DE"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/visitar_ilha.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1DF"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/visitar_config_ilha.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1E0"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_abelhinha.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7D5"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_inverno.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7D6"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_inverno_24.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7D7"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:zombie.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": ["\u0B85"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:passe/recompensa_obj.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": ["\uE1E1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/recompensas.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1E2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/recompensas_eventos.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1E3"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/recompensas_clan.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1E4"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:skyblock/loja_sb.png",
+      "ascent": -2,
+      "height": 256,
+      "chars": ["\uE1E5"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/loja_categorias.png",
+      "ascent": -2,
+      "height": 256,
+      "chars": ["\uE1E6"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_calamidade.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7D8"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_kit_m_plat.png",
+      "ascent": 38,
+      "height": 256,
+      "chars": ["\uE1E7"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_kit_m_dima.png",
+      "ascent": 38,
+      "height": 256,
+      "chars": ["\uE1E8"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_kit_m_sup.png",
+      "ascent": 38,
+      "height": 256,
+      "chars": ["\uE1E9"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_menu_vanillew.png",
+      "ascent": 3,
+      "height": 256,
+      "chars": ["\uE1EA"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/cash_vip_selecao_h.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1EB"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/pets.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1EC"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/pets_loja.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1ED"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/catalisar_halloween.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1EE"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/troca_halloween.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1EF"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis_vanillew/cash_menu_sb.png",
+      "ascent": 3,
+      "height": 256,
+      "chars": ["\uE1F0"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/fundo_cinza.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1F1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/caixa_3linhas.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE1F2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_1.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1F3"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_2.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1F4"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_3.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1F5"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_4.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1F6"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_5.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1F7"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_6.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1F8"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_7.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1F9"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_8.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1FA"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_10.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1FB"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_11.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1FC"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_12.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1FD"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_13.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1FE"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_14.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE1FF"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_15.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE200"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_16.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE201"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_deuses.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7DA"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_9.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE202"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_17.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE203"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_18.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE204"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_19.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE205"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_20.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE206"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_21.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE207"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_22.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE208"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_23.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE209"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_24.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE20A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_25.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE20B"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_26.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE20C"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_27.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE20D"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_28.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE20E"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_29.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE20F"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_30.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE210"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/abertura_caixas_1.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE211"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/abertura_caixas_2.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE212"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/lista_passes.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE213"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_natal_24.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7DB"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/passe_recompensas.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE214"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_1_sb.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE215"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_2_sb.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE216"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_3_sb.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE217"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_4_sb.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE218"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_23_sb.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE219"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_24_sb.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE21A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/tutorial_25_sb.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE21B"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_verao_25.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uD7DC"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/caixa_ovos.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE21C"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:chats/teste_chat.png",
+      "ascent": 8,
+      "height": 55,
+      "chars": ["\u2A19"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:emojis/nerd.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\u1BD2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/caixaabertura3_sem_setas.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\u2B1C"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/cooking.png",
+      "ascent": -4,
+      "height": 128,
+      "chars": ["\uE21D"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:bossbar/endermauler_bossbar.png",
+      "ascent": 17,
+      "height": 256,
+      "chars": ["\u2731"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:bossbar/empowered_endermauler_bossbar.png",
+      "ascent": 17,
+      "height": 256,
+      "chars": ["\u2732"]
+    }
+  ]
 }
