@@ -1,192 +1,178 @@
-   {
-      "christmas_deer.idle": {
-         "category": "ambient",
-         "sounds": [
-               {
-                  "name": "anondevs_christmaspets/christmas_reindeer/deer_idle",
-                  "stream": false
-               },
-               {
-                  "name": "anondevs_christmaspets/christmas_raindeer/deer_idle2",
-                  "stream": false
-               }
-         ]
+{
+  "christmas_deer.idle": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "anondevs_christmaspets/christmas_reindeer/deer_idle",
+        "stream": false
       },
-      "christmas_deer.bells": {
-         "category": "ambient",
-         "sounds": [
-               {
-                  "name": "anondevs_christmaspets/christmas_reindeer/deer_bells",
-                  "stream": false
-               }
-         ]
-      },
-      "littleroom.kindletron3.death":{
-            "sounds": [
-               "littleroom/kindletron3/death"
-            ]
-      },
-      "littleroom.kindletron3.glide":{
-            "sounds": [
-               "littleroom/kindletron3/glide"
-            ]
-      },
-      "littleroom.kindletron3.impact01":{
-            "sounds": [
-               "littleroom/kindletron3/impact01"
-            ]
-      },
-      "littleroom.kindletron3.impact02":{
-            "sounds": [
-               "littleroom/kindletron3/impact02"
-            ]
-      },
-      "littleroom.kindletron3.impact03":{
-            "sounds": [
-               "littleroom/kindletron3/impact03"
-            ]
-      },
-      "littleroom.kindletron3.impact04":{
-            "sounds": [
-               "littleroom/kindletron3/impact04"
-            ]
-      },
-      "littleroom.kindletron3.kindletron_idle_40ticks":{
-            "sounds": [
-               "littleroom/kindletron3/kindletron_idle_40ticks"
-            ]
-      },
-      "littleroom.kindletron3.saw":{
-            "sounds": [
-               "littleroom/kindletron3/saw"
-            ]
-      },
-      "littleroom.kindletron3.swing":{
-            "sounds": [
-               "littleroom/kindletron3/swing"
-            ]
-      },
-      "littleroom.kindletron3.sword_swing01":{
-            "sounds": [
-               "littleroom/kindletron3/sword_swing01"
-            ]
-      },
-      "littleroom.kindletron3.sword_swing02":{
-            "sounds": [
-               "littleroom/kindletron3/sword_swing02"
-            ]
-      },
-      "littleroom.kindletron3.sword_swing03":{
-            "sounds": [
-               "littleroom/kindletron3/sword_swing03"
-            ]
-      },
-      "littleroom.kindletron3.sword_swing04":{
-            "sounds": [
-               "littleroom/kindletron3/sword_swing04"
-            ]
-      },
-      "littleroom.kindletron3.land":{
-            "sounds": [
-               "littleroom/kindletron3/land"
-            ]
+      {
+        "name": "anondevs_christmaspets/christmas_raindeer/deer_idle2",
+        "stream": false
       }
-      "tugkandeman.end_wraith_dash": { "sounds": ["tugkandeman/end_wraith_dash"] },
-   "tugkandeman.end_wraith_leftslash": {
-      "sounds": ["tugkandeman/end_wraith_leftslash"]
-   },
-   "tugkandeman.end_wraith_rightslash": {
-      "sounds": ["tugkandeman/end_wraith_rightslash"]
-   },
-   "tugkandeman.end_wraith_spinslash": {
-      "sounds": ["tugkandeman/end_wraith_spinslash"]
-   },
-   "tugkandeman.ender_aggro": { "sounds": ["tugkandeman/ender_aggro"] },
-   "tugkandeman.ender_crawler_fang": {
-      "sounds": ["tugkandeman/ender_crawler_fang"]
-   },
-   "tugkandeman.ender_crawler_horn": {
-      "sounds": ["tugkandeman/ender_crawler_horn"]
-   },
-   "tugkandeman.ender_crawler_jump": {
-      "sounds": ["tugkandeman/ender_crawler_jump"]
-   },
-   "tugkandeman.ender_idle_1": { "sounds": ["tugkandeman/ender_idle_1"] },
-   "tugkandeman.ender_idle_2": { "sounds": ["tugkandeman/ender_idle_2"] },
-   "tugkandeman.ender_idle_3": { "sounds": ["tugkandeman/ender_idle_3"] },
-   "tugkandeman.ender_idle_mauler": {
-      "sounds": ["tugkandeman/ender_idle_mauler"]
-   },
-   "tugkandeman.ender_idle_strider": {
-      "sounds": ["tugkandeman/ender_idle_strider"]
-   },
-   "tugkandeman.ender_idle_watcher": {
-      "sounds": ["tugkandeman/ender_idle_watcher"]
-   },
-   "tugkandeman.ender_ringing": { "sounds": ["tugkandeman/ender_ringing"] },
-   "tugkandeman.ender_strider_walk": {
-      "sounds": ["tugkandeman/ender_strider_walk"]
-   },
-   "tugkandeman.ender_watcher_lantern": {
-      "sounds": ["tugkandeman/ender_watcher_lantern"]
-   },
-   "tugkandeman.ender_watcher_lanternpush": {
-      "sounds": ["tugkandeman/ender_watcher_lanternpush"]
-   },
-   "tugkandeman.ender_watcher_summon": {
-      "sounds": ["tugkandeman/ender_watcher_summon"]
-   },
-   "tugkandeman.enderbruiser_attack": {
-      "sounds": ["tugkandeman/enderbruiser_attack"]
-   },
-   "tugkandeman.enderbruiser_smash": {
-      "sounds": ["tugkandeman/enderbruiser_smash"]
-   },
-   "tugkandeman.enderbruiser_throw": {
-      "sounds": ["tugkandeman/enderbruiser_throw"]
-   },
-   "tugkandeman.enderling_attack": {
-      "sounds": ["tugkandeman/enderling_attack"]
-   },
-   "tugkandeman.endermauler_closeslash": {
-      "sounds": ["tugkandeman/endermauler_closeslash"]
-   },
-   "tugkandeman.endermauler_dashbite": {
-      "sounds": ["tugkandeman/endermauler_dashbite"]
-   },
-   "tugkandeman.endermauler_dashstart": {
-      "sounds": ["tugkandeman/endermauler_dashstart"]
-   },
-   "tugkandeman.endermauler_death": {
-      "sounds": ["tugkandeman/endermauler_death"]
-   },
-   "tugkandeman.endermauler_hurt": {
-      "sounds": ["tugkandeman/endermauler_hurt"]
-   },
-   "tugkandeman.endermauler_rightslash": {
-      "sounds": ["tugkandeman/endermauler_rightslash"]
-   },
-   "tugkandeman.endermauler_scream": {
-      "sounds": ["tugkandeman/endermauler_scream"]
-   },
-   "tugkandeman.endermauler_scream_far": {
-      "sounds": ["tugkandeman/endermauler_scream_far"]
-   },
-   "tugkandeman.endermauler_teleport1": {
-      "sounds": ["tugkandeman/endermauler_teleport1"]
-   },
-   "tugkandeman.endermauler_teleport2": {
-      "sounds": ["tugkandeman/endermauler_teleport2"]
-   },
-   "tugkandeman.endermauler_tpbite": {
-      "sounds": ["tugkandeman/endermauler_tpbite"]
-   },
-   "tugkandeman.endermauler_tpslash": {
-      "sounds": ["tugkandeman/endermauler_tpslash"]
-   },
-   "tugkandeman.generic_land": { "sounds": ["tugkandeman/generic_land"] },
-   "mcmodels.26c721d10b36146920debc0d537cd4a9": {
-      "category": "master",
-      "sounds": []
-   }  
+    ]
+  },
+  "christmas_deer.bells": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "anondevs_christmaspets/christmas_reindeer/deer_bells",
+        "stream": false
+      }
+    ]
+  },
+  "littleroom.kindletron3.death": {
+    "sounds": ["littleroom/kindletron3/death"]
+  },
+  "littleroom.kindletron3.glide": {
+    "sounds": ["littleroom/kindletron3/glide"]
+  },
+  "littleroom.kindletron3.impact01": {
+    "sounds": ["littleroom/kindletron3/impact01"]
+  },
+  "littleroom.kindletron3.impact02": {
+    "sounds": ["littleroom/kindletron3/impact02"]
+  },
+  "littleroom.kindletron3.impact03": {
+    "sounds": ["littleroom/kindletron3/impact03"]
+  },
+  "littleroom.kindletron3.impact04": {
+    "sounds": ["littleroom/kindletron3/impact04"]
+  },
+  "littleroom.kindletron3.kindletron_idle_40ticks": {
+    "sounds": ["littleroom/kindletron3/kindletron_idle_40ticks"]
+  },
+  "littleroom.kindletron3.saw": {
+    "sounds": ["littleroom/kindletron3/saw"]
+  },
+  "littleroom.kindletron3.swing": {
+    "sounds": ["littleroom/kindletron3/swing"]
+  },
+  "littleroom.kindletron3.sword_swing01": {
+    "sounds": ["littleroom/kindletron3/sword_swing01"]
+  },
+  "littleroom.kindletron3.sword_swing02": {
+    "sounds": ["littleroom/kindletron3/sword_swing02"]
+  },
+  "littleroom.kindletron3.sword_swing03": {
+    "sounds": ["littleroom/kindletron3/sword_swing03"]
+  },
+  "littleroom.kindletron3.sword_swing04": {
+    "sounds": ["littleroom/kindletron3/sword_swing04"]
+  },
+  "littleroom.kindletron3.land": {
+    "sounds": ["littleroom/kindletron3/land"]
+  },
+  "tugkandeman.end_wraith_dash": {
+    "sounds": ["tugkandeman/end_wraith_dash"]
+  },
+  "tugkandeman.end_wraith_leftslash": {
+    "sounds": ["tugkandeman/end_wraith_leftslash"]
+  },
+  "tugkandeman.end_wraith_rightslash": {
+    "sounds": ["tugkandeman/end_wraith_rightslash"]
+  },
+  "tugkandeman.end_wraith_spinslash": {
+    "sounds": ["tugkandeman/end_wraith_spinslash"]
+  },
+  "tugkandeman.ender_aggro": {
+    "sounds": ["tugkandeman/ender_aggro"]
+  },
+  "tugkandeman.ender_crawler_fang": {
+    "sounds": ["tugkandeman/ender_crawler_fang"]
+  },
+  "tugkandeman.ender_crawler_horn": {
+    "sounds": ["tugkandeman/ender_crawler_horn"]
+  },
+  "tugkandeman.ender_crawler_jump": {
+    "sounds": ["tugkandeman/ender_crawler_jump"]
+  },
+  "tugkandeman.ender_idle_1": {
+    "sounds": ["tugkandeman/ender_idle_1"]
+  },
+  "tugkandeman.ender_idle_2": {
+    "sounds": ["tugkandeman/ender_idle_2"]
+  },
+  "tugkandeman.ender_idle_3": {
+    "sounds": ["tugkandeman/ender_idle_3"]
+  },
+  "tugkandeman.ender_idle_mauler": {
+    "sounds": ["tugkandeman/ender_idle_mauler"]
+  },
+  "tugkandeman.ender_idle_strider": {
+    "sounds": ["tugkandeman/ender_idle_strider"]
+  },
+  "tugkandeman.ender_idle_watcher": {
+    "sounds": ["tugkandeman/ender_idle_watcher"]
+  },
+  "tugkandeman.ender_ringing": {
+    "sounds": ["tugkandeman/ender_ringing"]
+  },
+  "tugkandeman.ender_strider_walk": {
+    "sounds": ["tugkandeman/ender_strider_walk"]
+  },
+  "tugkandeman.ender_watcher_lantern": {
+    "sounds": ["tugkandeman/ender_watcher_lantern"]
+  },
+  "tugkandeman.ender_watcher_lanternpush": {
+    "sounds": ["tugkandeman/ender_watcher_lanternpush"]
+  },
+  "tugkandeman.ender_watcher_summon": {
+    "sounds": ["tugkandeman/ender_watcher_summon"]
+  },
+  "tugkandeman.enderbruiser_attack": {
+    "sounds": ["tugkandeman/enderbruiser_attack"]
+  },
+  "tugkandeman.enderbruiser_smash": {
+    "sounds": ["tugkandeman/enderbruiser_smash"]
+  },
+  "tugkandeman.enderbruiser_throw": {
+    "sounds": ["tugkandeman/enderbruiser_throw"]
+  },
+  "tugkandeman.enderling_attack": {
+    "sounds": ["tugkandeman/enderling_attack"]
+  },
+  "tugkandeman.endermauler_closeslash": {
+    "sounds": ["tugkandeman/endermauler_closeslash"]
+  },
+  "tugkandeman.endermauler_dashbite": {
+    "sounds": ["tugkandeman/endermauler_dashbite"]
+  },
+  "tugkandeman.endermauler_dashstart": {
+    "sounds": ["tugkandeman/endermauler_dashstart"]
+  },
+  "tugkandeman.endermauler_death": {
+    "sounds": ["tugkandeman/endermauler_death"]
+  },
+  "tugkandeman.endermauler_hurt": {
+    "sounds": ["tugkandeman/endermauler_hurt"]
+  },
+  "tugkandeman.endermauler_rightslash": {
+    "sounds": ["tugkandeman/endermauler_rightslash"]
+  },
+  "tugkandeman.endermauler_scream": {
+    "sounds": ["tugkandeman/endermauler_scream"]
+  },
+  "tugkandeman.endermauler_scream_far": {
+    "sounds": ["tugkandeman/endermauler_scream_far"]
+  },
+  "tugkandeman.endermauler_teleport1": {
+    "sounds": ["tugkandeman/endermauler_teleport1"]
+  },
+  "tugkandeman.endermauler_teleport2": {
+    "sounds": ["tugkandeman/endermauler_teleport2"]
+  },
+  "tugkandeman.endermauler_tpbite": {
+    "sounds": ["tugkandeman/endermauler_tpbite"]
+  },
+  "tugkandeman.endermauler_tpslash": {
+    "sounds": ["tugkandeman/endermauler_tpslash"]
+  },
+  "tugkandeman.generic_land": {
+    "sounds": ["tugkandeman/generic_land"]
+  },
+  "mcmodels.26c721d10b36146920debc0d537cd4a9": {
+    "category": "master",
+    "sounds": []
+  }
 }
