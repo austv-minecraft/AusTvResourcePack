@@ -1202,6 +1202,58 @@
       "predicate": { "custom_model_data": 303 },
       "model": "ausmobs:empowered_endermauler/left_tentacle_seg_6"
     },
+    
+      "predicate": { "custom_model_data": 304 },
+      "model": "ausmobs:tofnocsy_husky/body"
+    },
+    {
+      "predicate": { "custom_model_data": 305 },
+      "model": "ausmobs:tofnocsy_husky/front_leg_left"
+    },
+    {
+      "predicate": { "custom_model_data": 306 },
+      "model": "ausmobs:tofnocsy_husky/back_leg_left"
+    },
+    {
+      "predicate": { "custom_model_data": 307 },
+      "model": "ausmobs:tofnocsy_husky/front_leg_right"
+    },
+    {
+      "predicate": { "custom_model_data": 308 },
+      "model": "ausmobs:tofnocsy_husky/tail"
+    },
+    {
+      "predicate": { "custom_model_data": 309 },
+      "model": "ausmobs:tofnocsy_husky/neck"
+    },
+    {
+      "predicate": { "custom_model_data": 310 },
+      "model": "ausmobs:tofnocsy_husky/back_leg_right"
+    },
+    {
+      "predicate": { "custom_model_data": 311 },
+      "model": "ausmobs:tofnocsy_husky/front_foot_left"
+    },
+    {
+      "predicate": { "custom_model_data": 312 },
+      "model": "ausmobs:tofnocsy_husky/back_foot_left"
+    },
+    {
+      "predicate": { "custom_model_data": 313 },
+      "model": "ausmobs:tofnocsy_husky/front_foot_right"
+    },
+    {
+      "predicate": { "custom_model_data": 314 },
+      "model": "ausmobs:tofnocsy_husky/head"
+    },
+    {
+      "predicate": { "custom_model_data": 315 },
+      "model": "ausmobs:tofnocsy_husky/back_foot_right"
+    },
+    {
+      "predicate": { "custom_model_data": 316 },
+      "model": "ausmobs:tofnocsy_husky/ears"
+    },
     {
       "predicate": { "custom_model_data": 5000 },
       "model": "ausobjs:caixas/skyblock"
