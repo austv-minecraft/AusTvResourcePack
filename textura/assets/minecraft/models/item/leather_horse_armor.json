@@ -1255,6 +1255,110 @@
       "model": "ausmobs:tofnocsy_husky/ears"
     },
     {
+      "predicate": { "custom_model_data": 317 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/neck"
+    },
+    {
+      "predicate": { "custom_model_data": 318 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/torso"
+    },
+    {
+      "predicate": { "custom_model_data": 319 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/head"
+    },
+    {
+      "predicate": { "custom_model_data": 320 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/leg_front_left"
+    },
+    {
+      "predicate": { "custom_model_data": 321 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/leg_back_left"
+    },
+    {
+      "predicate": { "custom_model_data": 322 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/leg_back_right"
+    },
+    {
+      "predicate": { "custom_model_data": 323 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/wing_left"
+    },
+    {
+      "predicate": { "custom_model_data": 324 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/wing_right"
+    },
+    {
+      "predicate": { "custom_model_data": 325 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/tail"
+    },
+    {
+      "predicate": { "custom_model_data": 326 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/leg_front_right"
+    },
+    {
+      "predicate": { "custom_model_data": 327 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/ear_right"
+    },
+    {
+      "predicate": { "custom_model_data": 328 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/horn_left"
+    },
+    {
+      "predicate": { "custom_model_data": 329 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/horn_right"
+    },
+    {
+      "predicate": { "custom_model_data": 330 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/ear_left"
+    },
+    {
+      "predicate": { "custom_model_data": 331 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/tibia_front_left"
+    },
+    {
+      "predicate": { "custom_model_data": 332 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/tibia_back_left"
+    },
+    {
+      "predicate": { "custom_model_data": 333 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/tibia_back_right"
+    },
+    {
+      "predicate": { "custom_model_data": 334 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/wing_end_left"
+    },
+    {
+      "predicate": { "custom_model_data": 335 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/wing_end_right"
+    },
+    {
+      "predicate": { "custom_model_data": 336 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/tail_mid"
+    },
+    {
+      "predicate": { "custom_model_data": 337 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/tibia_front_right"
+    },
+    {
+      "predicate": { "custom_model_data": 338 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/foot_front_left"
+    },
+    {
+      "predicate": { "custom_model_data": 339 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/foot_back_left"
+    },
+    {
+      "predicate": { "custom_model_data": 340 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/foot_back_right"
+    },
+    {
+      "predicate": { "custom_model_data": 341 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/tail_end"
+    },
+    {
+      "predicate": { "custom_model_data": 342 },
+      "model": "ausmobs:toffy_djinn_dragon_ascendant/foot_front_right"
+    },
+    {
       "predicate": { "custom_model_data": 5000 },
       "model": "ausobjs:caixas/skyblock"
     },
