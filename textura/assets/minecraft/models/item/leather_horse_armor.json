@@ -1535,6 +1535,98 @@
       "model": "ausmobs:pirate_parrot_ascendant/wing_left_end"
     },
     {
+      "predicate": { "custom_model_data": 387 },
+      "model": "ausmobs:light_spirit_ascendant/torso"
+    },
+    {
+      "predicate": { "custom_model_data": 388 },
+      "model": "ausmobs:light_spirit_ascendant/head"
+    },
+    {
+      "predicate": { "custom_model_data": 389 },
+      "model": "ausmobs:light_spirit_ascendant/arm_left"
+    },
+    {
+      "predicate": { "custom_model_data": 390 },
+      "model": "ausmobs:light_spirit_ascendant/wing_right"
+    },
+    {
+      "predicate": { "custom_model_data": 391 },
+      "model": "ausmobs:light_spirit_ascendant/arm_right"
+    },
+    {
+      "predicate": { "custom_model_data": 392 },
+      "model": "ausmobs:light_spirit_ascendant/wing_left"
+    },
+    {
+      "predicate": { "custom_model_data": 393 },
+      "model": "ausmobs:light_spirit_ascendant/forearm_left"
+    },
+    {
+      "predicate": { "custom_model_data": 394 },
+      "model": "ausmobs:light_spirit_ascendant/wing_end_right"
+    },
+    {
+      "predicate": { "custom_model_data": 395 },
+      "model": "ausmobs:light_spirit_ascendant/forearm_right"
+    },
+    {
+      "predicate": { "custom_model_data": 396 },
+      "model": "ausmobs:light_spirit_ascendant/wing_end_left"
+    },
+    {
+      "predicate": { "custom_model_data": 397 },
+      "model": "ausmobs:nocsy_chibi_light_spirit/spray"
+    },
+    {
+      "predicate": { "custom_model_data": 398 },
+      "model": "ausmobs:nocsy_chibi_light_spirit/body"
+    },
+    {
+      "predicate": { "custom_model_data": 399 },
+      "model": "ausmobs:nocsy_chibi_light_spirit/right_fabric"
+    },
+    {
+      "predicate": { "custom_model_data": 400 },
+      "model": "ausmobs:nocsy_chibi_light_spirit/front_fabric"
+    },
+    {
+      "predicate": { "custom_model_data": 401 },
+      "model": "ausmobs:nocsy_chibi_light_spirit/trail_1"
+    },
+    {
+      "predicate": { "custom_model_data": 402 },
+      "model": "ausmobs:nocsy_chibi_light_spirit/back_fabric"
+    },
+    {
+      "predicate": { "custom_model_data": 403 },
+      "model": "ausmobs:nocsy_chibi_light_spirit/trail_3"
+    },
+    {
+      "predicate": { "custom_model_data": 404 },
+      "model": "ausmobs:nocsy_chibi_light_spirit/trail_4"
+    },
+    {
+      "predicate": { "custom_model_data": 405 },
+      "model": "ausmobs:nocsy_chibi_light_spirit/trail_2"
+    },
+    {
+      "predicate": { "custom_model_data": 406 },
+      "model": "ausmobs:nocsy_chibi_light_spirit/left_fabric"
+    },
+    {
+      "predicate": { "custom_model_data": 407 },
+      "model": "ausmobs:nocsy_chibi_light_spirit/head"
+    },
+    {
+      "predicate": { "custom_model_data": 408 },
+      "model": "ausmobs:nocsy_chibi_light_spirit/hoodie"
+    },
+    {
+      "predicate": { "custom_model_data": 409 },
+      "model": "ausmobs:nocsy_chibi_light_spirit/gem"
+    },
+    {
       "predicate": { "custom_model_data": 5000 },
       "model": "ausobjs:caixas/skyblock"
     },
