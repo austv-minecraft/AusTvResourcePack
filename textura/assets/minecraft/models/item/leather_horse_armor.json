@@ -1451,6 +1451,50 @@
       "model": "ausmobs:nocsy_chibi_djinn_dragon/tail_tip"
     },
     {
+      "predicate": { "custom_model_data": 366 },
+      "model": "ausmobs:nocsy_chibi_pirrot/body"
+    },
+    {
+      "predicate": { "custom_model_data": 367 },
+      "model": "ausmobs:nocsy_chibi_pirrot/head"
+    },
+    {
+      "predicate": { "custom_model_data": 368 },
+      "model": "ausmobs:nocsy_chibi_pirrot/right_wing"
+    },
+    {
+      "predicate": { "custom_model_data": 369 },
+      "model": "ausmobs:nocsy_chibi_pirrot/tail"
+    },
+    {
+      "predicate": { "custom_model_data": 370 },
+      "model": "ausmobs:nocsy_chibi_pirrot/left_wing"
+    },
+    {
+      "predicate": { "custom_model_data": 371 },
+      "model": "ausmobs:nocsy_chibi_pirrot/left_leg"
+    },
+    {
+      "predicate": { "custom_model_data": 372 },
+      "model": "ausmobs:nocsy_chibi_pirrot/right_leg"
+    },
+    {
+      "predicate": { "custom_model_data": 373 },
+      "model": "ausmobs:nocsy_chibi_pirrot/beak"
+    },
+    {
+      "predicate": { "custom_model_data": 374 },
+      "model": "ausmobs:nocsy_chibi_pirrot/hat"
+    },
+    {
+      "predicate": { "custom_model_data": 375 },
+      "model": "ausmobs:nocsy_chibi_pirrot/left_foot"
+    },
+    {
+      "predicate": { "custom_model_data": 376 },
+      "model": "ausmobs:nocsy_chibi_pirrot/right_foot"
+    },
+    {
       "predicate": { "custom_model_data": 5000 },
       "model": "ausobjs:caixas/skyblock"
     },
