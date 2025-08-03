@@ -12,6 +12,14 @@
     },
     {
       "predicate": { "custom_model_data": 10002 },
+      "model": "ausdungeon:essencia_do_end"
+    },
+    {
+      "predicate": { "custom_model_data": 10003 },
+      "model": "ausdungeon:essencia_ancestral_do_end"
+    },
+    {
+      "predicate": { "custom_model_data": 10004 },
       "model": "item/honey_bottle"
     }
   ]
