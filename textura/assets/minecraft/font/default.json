@@ -3520,6 +3520,13 @@
       "ascent": 17,
       "height": 256,
       "chars": ["\u2732"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_end.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\u0A34"]
     }
   ]
 }
