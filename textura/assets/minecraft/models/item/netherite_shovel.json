@@ -39,6 +39,7 @@
 		{"predicate": {"custom_model_data":32}, "model": "skins/inverno/pa"},
 		{"predicate": {"custom_model_data":33}, "model": "skins/calamidade/pa"},
 		{"predicate": {"custom_model_data":34}, "model": "skins/deuses/pa"},
-		{"predicate": {"custom_model_data":35}, "model": "skins/natal24/pa"}
+		{"predicate": {"custom_model_data":35}, "model": "skins/natal24/pa"},
+		{"predicate": {"custom_model_data":36}, "model": "skins/end/pa"}
 	]
 }
