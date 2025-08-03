@@ -1495,6 +1495,46 @@
       "model": "ausmobs:nocsy_chibi_pirrot/right_foot"
     },
     {
+      "predicate": { "custom_model_data": 377 },
+      "model": "ausmobs:pirate_parrot_ascendant/torso"
+    },
+    {
+      "predicate": { "custom_model_data": 378 },
+      "model": "ausmobs:pirate_parrot_ascendant/head"
+    },
+    {
+      "predicate": { "custom_model_data": 379 },
+      "model": "ausmobs:pirate_parrot_ascendant/wing_right"
+    },
+    {
+      "predicate": { "custom_model_data": 380 },
+      "model": "ausmobs:pirate_parrot_ascendant/leg_left"
+    },
+    {
+      "predicate": { "custom_model_data": 381 },
+      "model": "ausmobs:pirate_parrot_ascendant/wing_left"
+    },
+    {
+      "predicate": { "custom_model_data": 382 },
+      "model": "ausmobs:pirate_parrot_ascendant/tail"
+    },
+    {
+      "predicate": { "custom_model_data": 383 },
+      "model": "ausmobs:pirate_parrot_ascendant/leg_right"
+    },
+    {
+      "predicate": { "custom_model_data": 384 },
+      "model": "ausmobs:pirate_parrot_ascendant/hat"
+    },
+    {
+      "predicate": { "custom_model_data": 385 },
+      "model": "ausmobs:pirate_parrot_ascendant/wing_right_end"
+    },
+    {
+      "predicate": { "custom_model_data": 386 },
+      "model": "ausmobs:pirate_parrot_ascendant/wing_left_end"
+    },
+    {
       "predicate": { "custom_model_data": 5000 },
       "model": "ausobjs:caixas/skyblock"
     },
