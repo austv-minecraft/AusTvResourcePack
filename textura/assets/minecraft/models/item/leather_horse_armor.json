@@ -1359,6 +1359,98 @@
       "model": "ausmobs:toffy_djinn_dragon_ascendant/foot_front_right"
     },
     {
+      "predicate": { "custom_model_data": 343 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/chest"
+    },
+    {
+      "predicate": { "custom_model_data": 344 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/tail"
+    },
+    {
+      "predicate": { "custom_model_data": 345 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/right_backleg"
+    },
+    {
+      "predicate": { "custom_model_data": 346 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/head"
+    },
+    {
+      "predicate": { "custom_model_data": 347 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/left_frontleg"
+    },
+    {
+      "predicate": { "custom_model_data": 348 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/right_wing"
+    },
+    {
+      "predicate": { "custom_model_data": 349 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/left_backleg"
+    },
+    {
+      "predicate": { "custom_model_data": 350 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/right_frontleg"
+    },
+    {
+      "predicate": { "custom_model_data": 351 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/left_wing"
+    },
+    {
+      "predicate": { "custom_model_data": 352 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/tail_mid"
+    },
+    {
+      "predicate": { "custom_model_data": 353 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/right_foot"
+    },
+    {
+      "predicate": { "custom_model_data": 354 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/horn_right"
+    },
+    {
+      "predicate": { "custom_model_data": 355 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/horn_left"
+    },
+    {
+      "predicate": { "custom_model_data": 356 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/left_ear"
+    },
+    {
+      "predicate": { "custom_model_data": 357 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/right_eyebrow"
+    },
+    {
+      "predicate": { "custom_model_data": 358 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/left_eyebrow"
+    },
+    {
+      "predicate": { "custom_model_data": 359 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/mouth"
+    },
+    {
+      "predicate": { "custom_model_data": 360 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/right_ear"
+    },
+    {
+      "predicate": { "custom_model_data": 361 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/left_hand"
+    },
+    {
+      "predicate": { "custom_model_data": 362 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/left_foot"
+    },
+    {
+      "predicate": { "custom_model_data": 363 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/right_hand"
+    },
+    {
+      "predicate": { "custom_model_data": 364 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/tail_end"
+    },
+    {
+      "predicate": { "custom_model_data": 365 },
+      "model": "ausmobs:nocsy_chibi_djinn_dragon/tail_tip"
+    },
+    {
       "predicate": { "custom_model_data": 5000 },
       "model": "ausobjs:caixas/skyblock"
     },
