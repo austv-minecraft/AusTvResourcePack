@@ -3531,8 +3531,8 @@
     {
       "type": "bitmap",
       "file": "icons:guis/pets_new_gui.png",
-      "ascent": 95,
-      "height": 275,
+      "ascent": -4,
+      "height": 256,
       "chars": ["\u0A35"]
     }
   ]
