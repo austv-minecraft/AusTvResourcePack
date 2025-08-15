@@ -3537,7 +3537,7 @@
     },
     {
       "type": "bitmap",
-      "file": "icons:dungeons/dungeon_teste",
+      "file": "icons:dungeon/dungeon_teste",
       "ascent": 0,
       "height": 256,
       "chars": ["\uE221"]
