@@ -3534,6 +3534,41 @@
       "ascent": 0,
       "height": 256,
       "chars": ["\uE220"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:dungeons/dungeon_teste",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE221"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:passe/passe_semanais",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE222"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:passe/passe_diarias",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE223"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:passe/passe_recompensas",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE224"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:passe/passe_menu_inicial",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE225"]
     }
   ]
 }
