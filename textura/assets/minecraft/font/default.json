@@ -3538,7 +3538,7 @@
     {
       "type": "bitmap",
       "file": "icons:dungeon/dungeon_teste.png",
-      "ascent": 3,
+      "ascent": 13,
       "height": 256,
       "chars": ["\uE221"]
     },
@@ -3552,7 +3552,7 @@
     {
       "type": "bitmap",
       "file": "icons:passe/passe_diarias.png",
-      "ascent": 5,
+      "ascent": 6,
       "height": 256,
       "chars": ["\uE223"]
     },
