@@ -3545,7 +3545,7 @@
     {
       "type": "bitmap",
       "file": "icons:passe/passe_semanais.png",
-      "ascent": 0,
+      "ascent": 4,
       "height": 256,
       "chars": ["\uE222"]
     },
@@ -3566,9 +3566,9 @@
     {
       "type": "bitmap",
       "file": "icons:passe/passe_menu_inicial.png",
-      "ascent": 0,
+      "ascent": 3,
       "height": 256,
-      "chars": ["\uE225"]
+      "chars": ["\uE02F"]
     }
   ]
 }
