@@ -3552,14 +3552,14 @@
     {
       "type": "bitmap",
       "file": "icons:passe/passe_diarias.png",
-      "ascent": 0,
+      "ascent": 5,
       "height": 256,
       "chars": ["\uE223"]
     },
     {
       "type": "bitmap",
       "file": "icons:passe/passe_recompensas.png",
-      "ascent": 4,
+      "ascent": 6,
       "height": 256,
       "chars": ["\uE224"]
     },
