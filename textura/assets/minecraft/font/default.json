@@ -3569,6 +3569,13 @@
       "ascent": 3,
       "height": 256,
       "chars": ["\uE02F"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/lista_passes.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE233"]
     }
   ]
 }
