@@ -3572,7 +3572,7 @@
     },
     {
       "type": "bitmap",
-      "file": "icons:guis/lista_passes.png",
+      "file": "icons:guis/lista_passes_todos.png",
       "ascent": -4,
       "height": 256,
       "chars": ["\uE233"]
