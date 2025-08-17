@@ -3576,6 +3576,13 @@
       "ascent": -4,
       "height": 256,
       "chars": ["\uE233"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:passe/passe_compra_novo.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE234"]
     }
   ]
 }
