@@ -1,1 +1,163 @@
-{"parent":"item/generated","textures":{"layer0":"item/crossbow_standby"},"display":{"thirdperson_righthand":{"rotation":[-90,0,-60],"translation":[2,0.1,-3],"scale":[0.9,0.9,0.9]},"thirdperson_lefthand":{"rotation":[-90,0,30],"translation":[2,0.1,-3],"scale":[0.9,0.9,0.9]},"firstperson_righthand":{"rotation":[-90,0,-55],"translation":[1.13,3.2,1.13],"scale":[0.68,0.68,0.68]},"firstperson_lefthand":{"rotation":[-90,0,35],"translation":[1.13,3.2,1.13],"scale":[0.68,0.68,0.68]}},"overrides":[{"predicate":{"pulling":1},"model":"item/crossbow_pulling_0"},{"predicate":{"pulling":1,"pull":0.58},"model":"item/crossbow_pulling_1"},{"predicate":{"pulling":1,"pull":1.0},"model":"item/crossbow_pulling_2"},{"predicate":{"charged":1},"model":"item/crossbow_arrow"},{"predicate":{"charged":1,"firework":1},"model":"item/crossbow_firework"},{"predicate":{"custom_model_data":10000},"model":"ausskins:besta_um_ano_aus"},{"predicate":{"pulling":1,"custom_model_data":10000},"model":"ausskins:besta_um_ano_aus_0"},{"predicate":{"pulling":1,"pull":0.58,"custom_model_data":10000},"model":"ausskins:besta_um_ano_aus_1"},{"predicate":{"pulling":1,"pull":1.0,"custom_model_data":10000},"model":"ausskins:besta_um_ano_aus_2"},{"predicate":{"charged":1,"custom_model_data":10000},"model":"ausskins:besta_um_ano_aus_charged"},{"predicate":{"charged":1,"firework":1,"custom_model_data":10000},"model":"ausskins:besta_um_ano_aus_firework"},{"predicate":{"custom_model_data":10001},"model":"ausskins:besta_namorados_22"},{"predicate":{"pulling":1,"custom_model_data":10001},"model":"ausskins:besta_namorados_22_0"},{"predicate":{"pulling":1,"pull":0.58,"custom_model_data":10001},"model":"ausskins:besta_namorados_22_1"},{"predicate":{"pulling":1,"pull":1.0,"custom_model_data":10001},"model":"ausskins:besta_namorados_22_2"},{"predicate":{"charged":1,"custom_model_data":10001},"model":"ausskins:besta_namorados_22_charged"},{"predicate":{"charged":1,"firework":1,"custom_model_data":10001},"model":"ausskins:besta_namorados_22_firework"},{"predicate":{"custom_model_data":10002},"model":"ausskins:besta_natal"},{"predicate":{"pulling":1,"custom_model_data":10002},"model":"ausskins:besta_natal_0"},{"predicate":{"pulling":1,"pull":0.58,"custom_model_data":10002},"model":"ausskins:besta_natal_1"},{"predicate":{"pulling":1,"pull":1.0,"custom_model_data":10002},"model":"ausskins:besta_natal_2"},{"predicate":{"charged":1,"custom_model_data":10002},"model":"ausskins:besta_natal_charged"},{"predicate":{"charged":1,"firework":1,"custom_model_data":10002},"model":"ausskins:besta_natal_firework"},{"predicate":{"custom_model_data":10003},"model":"ausskins:besta_calamidade"},{"predicate":{"pulling":1,"custom_model_data":10003},"model":"ausskins:besta_calamidade_0"},{"predicate":{"pulling":1,"pull":0.58,"custom_model_data":10003},"model":"ausskins:besta_calamidade_1"},{"predicate":{"pulling":1,"pull":1.0,"custom_model_data":10003},"model":"ausskins:besta_calamidade_2"},{"predicate":{"charged":1,"custom_model_data":10003},"model":"ausskins:besta_calamidade_charged"},{"predicate":{"charged":1,"firework":1,"custom_model_data":10003},"model":"ausskins:besta_calamidade_firework"},{"predicate":{"custom_model_data":10004},"model":"ausskins:besta_verao"},{"predicate":{"pulling":1,"custom_model_data":10004},"model":"ausskins:besta_verao_0"},{"predicate":{"pulling":1,"pull":0.58,"custom_model_data":10004},"model":"ausskins:besta_verao_1"},{"predicate":{"pulling":1,"pull":1.0,"custom_model_data":10004},"model":"ausskins:besta_verao_2"},{"predicate":{"charged":1,"custom_model_data":10004},"model":"ausskins:besta_verao_charged"},{"predicate":{"charged":1,"firework":1,"custom_model_data":10004},"model":"ausskins:besta_verao_firework"},{"predicate":{"custom_model_data":10005},"model":"item/crossbow"}]}
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "item/crossbow_standby" },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [-90, 0, -60],
+      "translation": [2, 0.1, -3],
+      "scale": [0.9, 0.9, 0.9]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [-90, 0, 30],
+      "translation": [2, 0.1, -3],
+      "scale": [0.9, 0.9, 0.9]
+    },
+    "firstperson_righthand": {
+      "rotation": [-90, 0, -55],
+      "translation": [1.13, 3.2, 1.13],
+      "scale": [0.68, 0.68, 0.68]
+    },
+    "firstperson_lefthand": {
+      "rotation": [-90, 0, 35],
+      "translation": [1.13, 3.2, 1.13],
+      "scale": [0.68, 0.68, 0.68]
+    }
+  },
+  "overrides": [
+    { "predicate": { "pulling": 1 }, "model": "item/crossbow_pulling_0" },
+    {
+      "predicate": { "pulling": 1, "pull": 0.58 },
+      "model": "item/crossbow_pulling_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 1.0 },
+      "model": "item/crossbow_pulling_2"
+    },
+    { "predicate": { "charged": 1 }, "model": "item/crossbow_arrow" },
+    {
+      "predicate": { "charged": 1, "firework": 1 },
+      "model": "item/crossbow_firework"
+    },
+    {
+      "predicate": { "custom_model_data": 10000 },
+      "model": "ausskins:besta_um_ano_aus"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10000 },
+      "model": "ausskins:besta_um_ano_aus_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.58, "custom_model_data": 10000 },
+      "model": "ausskins:besta_um_ano_aus_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 1.0, "custom_model_data": 10000 },
+      "model": "ausskins:besta_um_ano_aus_2"
+    },
+    {
+      "predicate": { "charged": 1, "custom_model_data": 10000 },
+      "model": "ausskins:besta_um_ano_aus_charged"
+    },
+    {
+      "predicate": { "charged": 1, "firework": 1, "custom_model_data": 10000 },
+      "model": "ausskins:besta_um_ano_aus_firework"
+    },
+    {
+      "predicate": { "custom_model_data": 10001 },
+      "model": "ausskins:besta_namorados_22"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10001 },
+      "model": "ausskins:besta_namorados_22_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.58, "custom_model_data": 10001 },
+      "model": "ausskins:besta_namorados_22_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 1.0, "custom_model_data": 10001 },
+      "model": "ausskins:besta_namorados_22_2"
+    },
+    {
+      "predicate": { "charged": 1, "custom_model_data": 10001 },
+      "model": "ausskins:besta_namorados_22_charged"
+    },
+    {
+      "predicate": { "charged": 1, "firework": 1, "custom_model_data": 10001 },
+      "model": "ausskins:besta_namorados_22_firework"
+    },
+    {
+      "predicate": { "custom_model_data": 10002 },
+      "model": "ausskins:besta_natal"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10002 },
+      "model": "ausskins:besta_natal_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.58, "custom_model_data": 10002 },
+      "model": "ausskins:besta_natal_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 1.0, "custom_model_data": 10002 },
+      "model": "ausskins:besta_natal_2"
+    },
+    {
+      "predicate": { "charged": 1, "custom_model_data": 10002 },
+      "model": "ausskins:besta_natal_charged"
+    },
+    {
+      "predicate": { "charged": 1, "firework": 1, "custom_model_data": 10002 },
+      "model": "ausskins:besta_natal_firework"
+    },
+    {
+      "predicate": { "custom_model_data": 10003 },
+      "model": "ausskins:besta_calamidade"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10003 },
+      "model": "ausskins:besta_calamidade_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.58, "custom_model_data": 10003 },
+      "model": "ausskins:besta_calamidade_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 1.0, "custom_model_data": 10003 },
+      "model": "ausskins:besta_calamidade_2"
+    },
+    {
+      "predicate": { "charged": 1, "custom_model_data": 10003 },
+      "model": "ausskins:besta_calamidade_charged"
+    },
+    {
+      "predicate": { "charged": 1, "firework": 1, "custom_model_data": 10003 },
+      "model": "ausskins:besta_calamidade_firework"
+    },
+    {
+      "predicate": { "custom_model_data": 10004 },
+      "model": "ausskins:besta_verao"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10004 },
+      "model": "ausskins:besta_verao_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.58, "custom_model_data": 10004 },
+      "model": "ausskins:besta_verao_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 1.0, "custom_model_data": 10004 },
+      "model": "ausskins:besta_verao_2"
+    },
+    {
+      "predicate": { "charged": 1, "custom_model_data": 10004 },
+      "model": "ausskins:besta_verao_charged"
+    },
+    {
+      "predicate": { "charged": 1, "firework": 1, "custom_model_data": 10004 },
+      "model": "ausskins:besta_verao_firework"
+    },
+    { "predicate": { "custom_model_data": 10005 }, "model": "item/crossbow" }
+  ]
+}
