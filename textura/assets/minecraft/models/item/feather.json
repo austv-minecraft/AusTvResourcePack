@@ -1,1 +1,3118 @@
-{"parent":"item/generated","textures":{"layer0":"item/feather"},"display":{"head":{"rotation":[0,0,45],"translation":[-1,13,7],"scale":[1,1,1]}},"overrides":[{"predicate":{"custom_model_data":1},"model":"ausobjs:caixas/pascoa_22"},{"predicate":{"custom_model_data":2},"model":"ausobjs:caixas/voto"},{"predicate":{"custom_model_data":3},"model":"ausobjs:caixas/eventos"},{"predicate":{"custom_model_data":4},"model":"ausobjs:caixas/pvp"},{"predicate":{"custom_model_data":5},"model":"ausobjs:caixas/utilidade"},{"predicate":{"custom_model_data":6},"model":"ausobjs:caixas/ovos"},{"predicate":{"custom_model_data":7},"model":"ausobjs:caixas/skins"},{"predicate":{"custom_model_data":8},"model":"ausobjs:caixas/deuses"},{"predicate":{"custom_model_data":9},"model":"ausobjs:caixas/miau"},{"predicate":{"custom_model_data":10},"model":"ausobjs:caixas/namorados_22"},{"predicate":{"custom_model_data":11},"model":"ausobjs:caixas/tormenta"},{"predicate":{"custom_model_data":12},"model":"ausobjs:caixas/glacial_22"},{"predicate":{"custom_model_data":13},"model":"ausobjs:caixas/primavera"},{"predicate":{"custom_model_data":14},"model":"ausobjs:caixas/criancas_22"},{"predicate":{"custom_model_data":15},"model":"ausobjs:caixas/assombrada"},{"predicate":{"custom_model_data":16},"model":"ausobjs:caixas/copa_22"},{"predicate":{"custom_model_data":17},"model":"ausobjs:caixas/natal"},{"predicate":{"custom_model_data":18},"model":"ausobjs:caixas/carnaval"},{"predicate":{"custom_model_data":19},"model":"ausobjs:caixas/pascoa"},{"predicate":{"custom_model_data":20},"model":"ausobjs:caixas/insurgente"},{"predicate":{"custom_model_data":21},"model":"ausobjs:caixas/namorados"},{"predicate":{"custom_model_data":22},"model":"ausobjs:caixas/oriental"},{"predicate":{"custom_model_data":23},"model":"ausobjs:caixas/glacial_negra_23"},{"predicate":{"custom_model_data":24},"model":"ausobjs:caixas/desordem"},{"predicate":{"custom_model_data":25},"model":"ausobjs:caixas/verao"},{"predicate":{"custom_model_data":26},"model":"ausobjs:caixas/outono"},{"predicate":{"custom_model_data":27},"model":"ausobjs:caixas/ruina"},{"predicate":{"custom_model_data":28},"model":"ausmoveis:travessura/balao"},{"predicate":{"custom_model_data":29},"model":"ausmoveis:travessura/cama"},{"predicate":{"custom_model_data":30},"model":"ausmoveis:travessura/livros"},{"predicate":{"custom_model_data":31},"model":"ausmoveis:travessura/estante"},{"predicate":{"custom_model_data":32},"model":"ausmoveis:travessura/caixa_1"},{"predicate":{"custom_model_data":33},"model":"ausmoveis:travessura/caixa_2"},{"predicate":{"custom_model_data":34},"model":"ausmoveis:travessura/calendario"},{"predicate":{"custom_model_data":35},"model":"ausmoveis:travessura/tapete"},{"predicate":{"custom_model_data":36},"model":"ausmoveis:travessura/cadeira"},{"predicate":{"custom_model_data":37},"model":"ausmoveis:travessura/gavetas"},{"predicate":{"custom_model_data":38},"model":"ausmoveis:travessura/arlequina"},{"predicate":{"custom_model_data":39},"model":"ausmoveis:travessura/palhaco"},{"predicate":{"custom_model_data":40},"model":"ausmoveis:travessura/lampada_1"},{"predicate":{"custom_model_data":41},"model":"ausmoveis:travessura/lampada_2"},{"predicate":{"custom_model_data":42},"model":"ausmoveis:travessura/laptop"},{"predicate":{"custom_model_data":43},"model":"ausmoveis:travessura/pintura_1"},{"predicate":{"custom_model_data":44},"model":"ausmoveis:travessura/pintura_2"},{"predicate":{"custom_model_data":45},"model":"ausmoveis:travessura/pintura_3"},{"predicate":{"custom_model_data":46},"model":"ausmoveis:travessura/pintura_4"},{"predicate":{"custom_model_data":47},"model":"ausmoveis:travessura/vaso_1"},{"predicate":{"custom_model_data":48},"model":"ausmoveis:travessura/vaso_2"},{"predicate":{"custom_model_data":49},"model":"ausmoveis:travessura/vasos"},{"predicate":{"custom_model_data":50},"model":"ausmoveis:travessura/sofa_1"},{"predicate":{"custom_model_data":51},"model":"ausmoveis:travessura/sofa_2"},{"predicate":{"custom_model_data":52},"model":"ausmoveis:travessura/mesa_centro_1"},{"predicate":{"custom_model_data":53},"model":"ausmoveis:travessura/mesa_centro_2"},{"predicate":{"custom_model_data":54},"model":"ausmoveis:travessura/mesa"},{"predicate":{"custom_model_data":55},"model":"ausmoveis:travessura/tv_1"},{"predicate":{"custom_model_data":56},"model":"ausmoveis:travessura/tv_2"},{"predicate":{"custom_model_data":57},"model":"ausmoveis:travessura/tv_gabinete"},{"predicate":{"custom_model_data":58},"model":"ausmoveis:travessura/guarda_roupa"},{"predicate":{"custom_model_data":59},"model":"ausmoveis:travessura/chapeu_1"},{"predicate":{"custom_model_data":60},"model":"ausmoveis:travessura/chapeu_2"},{"predicate":{"custom_model_data":61},"model":"ausmoveis:travessura/chapeu_3"},{"predicate":{"custom_model_data":62},"model":"ausmoveis:travessura/chapeu_4"},{"predicate":{"custom_model_data":63},"model":"ausmoveis:travessura/chapeu_5"},{"predicate":{"custom_model_data":64},"model":"ausmoveis:oriental/dec/decanter_branco"},{"predicate":{"custom_model_data":65},"model":"ausmoveis:oriental/dec/suporte_katana1"},{"predicate":{"custom_model_data":66},"model":"ausmoveis:oriental/dec/suporte_katana2"},{"predicate":{"custom_model_data":67},"model":"ausmoveis:oriental/dec/bandeira_branca"},{"predicate":{"custom_model_data":68},"model":"ausmoveis:oriental/dec/cesta_de_cha"},{"predicate":{"custom_model_data":69},"model":"ausmoveis:oriental/int/cama"},{"predicate":{"custom_model_data":70},"model":"ausmoveis:oriental/int/estante_livros"},{"predicate":{"custom_model_data":71},"model":"ausmoveis:oriental/int/cadeira_laranja"},{"predicate":{"custom_model_data":72},"model":"ausmoveis:oriental/int/cadeira_roxa"},{"predicate":{"custom_model_data":73},"model":"ausmoveis:oriental/int/cadeira_verm"},{"predicate":{"custom_model_data":74},"model":"ausmoveis:oriental/int/closet"},{"predicate":{"custom_model_data":75},"model":"ausmoveis:oriental/int/tambor"},{"predicate":{"custom_model_data":76},"model":"ausmoveis:oriental/int/prateleira_1"},{"predicate":{"custom_model_data":77},"model":"ausmoveis:oriental/int/prateleira_2"},{"predicate":{"custom_model_data":78},"model":"ausmoveis:oriental/int/prateleira_3"},{"predicate":{"custom_model_data":79},"model":"ausmoveis:oriental/int/prateleira_4"},{"predicate":{"custom_model_data":80},"model":"ausmoveis:oriental/int/prateleira_5"},{"predicate":{"custom_model_data":81},"model":"ausmoveis:oriental/int/bar"},{"predicate":{"custom_model_data":82},"model":"ausmoveis:oriental/int/sofa_vermelho"},{"predicate":{"custom_model_data":83},"model":"ausmoveis:oriental/int/sofa_verm_canto"},{"predicate":{"custom_model_data":84},"model":"ausmoveis:oriental/int/balcao_1"},{"predicate":{"custom_model_data":85},"model":"ausmoveis:oriental/int/balcao_2"},{"predicate":{"custom_model_data":86},"model":"ausmoveis:oriental/int/balcao_3"},{"predicate":{"custom_model_data":87},"model":"ausmoveis:oriental/int/balcao_4"},{"predicate":{"custom_model_data":88},"model":"ausmoveis:oriental/int/balcao_5"},{"predicate":{"custom_model_data":89},"model":"ausmoveis:oriental/int/balcao_6"},{"predicate":{"custom_model_data":90},"model":"ausmoveis:oriental/int/mesa_branca"},{"predicate":{"custom_model_data":91},"model":"ausmoveis:oriental/int/mesa_pequena"},{"predicate":{"custom_model_data":92},"model":"ausmoveis:natal/christmas_gift_1"},{"predicate":{"custom_model_data":93},"model":"ausmoveis:natal/christmas_gift_2"},{"predicate":{"custom_model_data":94},"model":"ausmoveis:natal/christmas_gift_3"},{"predicate":{"custom_model_data":95},"model":"ausmoveis:natal/christmas_gift_4"},{"predicate":{"custom_model_data":96},"model":"ausmoveis:natal/christmas_gift_5"},{"predicate":{"custom_model_data":97},"model":"ausmoveis:natal/christmas_gift_6"},{"predicate":{"custom_model_data":98},"model":"ausmoveis:natal/christmas_gift_7"},{"predicate":{"custom_model_data":99},"model":"ausmoveis:natal/christmas_gift_8"},{"predicate":{"custom_model_data":100},"model":"ausmoveis:natal/christmas_gift_9"},{"predicate":{"custom_model_data":101},"model":"ausmoveis:natal/christmas_gift_10"},{"predicate":{"custom_model_data":102},"model":"ausmoveis:natal/christmas_gift_11"},{"predicate":{"custom_model_data":103},"model":"ausmoveis:natal/christmas_gift_12"},{"predicate":{"custom_model_data":104},"model":"ausmoveis:natal/christmas_gift_13"},{"predicate":{"custom_model_data":105},"model":"ausmoveis:natal/christmas_gift_med_1"},{"predicate":{"custom_model_data":106},"model":"ausmoveis:natal/christmas_gift_tall_1"},{"predicate":{"custom_model_data":107},"model":"ausmoveis:natal/christmas_gift_tall_2"},{"predicate":{"custom_model_data":108},"model":"ausmoveis:natal/christmas_gift_tall_3"},{"predicate":{"custom_model_data":109},"model":"ausmoveis:natal/christmas_gift_tall_4"},{"predicate":{"custom_model_data":110},"model":"ausmoveis:natal/christmas_gift_tall_5"},{"predicate":{"custom_model_data":111},"model":"ausmoveis:natal/christmas_gift_tall_6"},{"predicate":{"custom_model_data":112},"model":"ausmoveis:natal/christmas_gift_tall_7"},{"predicate":{"custom_model_data":113},"model":"ausmoveis:natal/christmas_gift_tall_8"},{"predicate":{"custom_model_data":114},"model":"ausmoveis:natal/christmas_gift_tall_9"},{"predicate":{"custom_model_data":115},"model":"ausmoveis:natal/christmas_gift_tall_10"},{"predicate":{"custom_model_data":116},"model":"ausmoveis:natal/christmas_gift_tall_11"},{"predicate":{"custom_model_data":117},"model":"ausmoveis:natal/christmas_gift_tall_12"},{"predicate":{"custom_model_data":118},"model":"ausmoveis:natal/christmas_gift_tall_13"},{"predicate":{"custom_model_data":119},"model":"ausmoveis:natal/christmas_gift_tall_14"},{"predicate":{"custom_model_data":120},"model":"ausmoveis:natal/christmas_gift_tall_15"},{"predicate":{"custom_model_data":121},"model":"ausmoveis:natal/christmas_gift_tall_16"},{"predicate":{"custom_model_data":122},"model":"ausmoveis:natal/christmas_gift_tall_17"},{"predicate":{"custom_model_data":123},"model":"ausmoveis:natal/christmas_gift_tall_18"},{"predicate":{"custom_model_data":124},"model":"ausmoveis:natal/christmas_gift_tall_19"},{"predicate":{"custom_model_data":125},"model":"ausmoveis:natal/christmas_gift_tall_20"},{"predicate":{"custom_model_data":126},"model":"ausmoveis:natal/christmas_gift_tall_21"},{"predicate":{"custom_model_data":127},"model":"ausmoveis:natal/christmas_gift_tall_22"},{"predicate":{"custom_model_data":128},"model":"ausmoveis:natal/christmas_gift_tall_23"},{"predicate":{"custom_model_data":129},"model":"ausmoveis:natal/christmas_gift_tall_24"},{"predicate":{"custom_model_data":130},"model":"ausmoveis:natal/christmas_gift_tall_25"},{"predicate":{"custom_model_data":131},"model":"ausmoveis:natal/christmas_gift_low_1"},{"predicate":{"custom_model_data":132},"model":"ausmoveis:natal/christmas_gift_low_2"},{"predicate":{"custom_model_data":133},"model":"ausmoveis:natal/christmas_gift_low_3"},{"predicate":{"custom_model_data":134},"model":"ausmoveis:natal/christmas_gift_low_4"},{"predicate":{"custom_model_data":135},"model":"ausmoveis:natal/christmas_gift_low_5"},{"predicate":{"custom_model_data":136},"model":"ausmoveis:natal/christmas_gift_low_6"},{"predicate":{"custom_model_data":137},"model":"ausmoveis:natal/christmas_gift_low_7"},{"predicate":{"custom_model_data":138},"model":"ausmoveis:natal/christmas_gift_low_8"},{"predicate":{"custom_model_data":139},"model":"ausmoveis:natal/cane_pillar"},{"predicate":{"custom_model_data":140},"model":"ausmoveis:natal/pipe_roof"},{"predicate":{"custom_model_data":141},"model":"ausmoveis:natal/pipe_wall"},{"predicate":{"custom_model_data":142},"model":"ausmoveis:natal/pipe_wall_right"},{"predicate":{"custom_model_data":143},"model":"ausmoveis:natal/pipe_wall_left"},{"predicate":{"custom_model_data":144},"model":"ausmoveis:natal/pipe"},{"predicate":{"custom_model_data":145},"model":"ausmoveis:natal/pipe_valve"},{"predicate":{"custom_model_data":146},"model":"ausmoveis:natal/pipe_pressure"},{"predicate":{"custom_model_data":147},"model":"ausmoveis:natal/pipe_smoke"},{"predicate":{"custom_model_data":148},"model":"ausmoveis:natal/pipe_x3"},{"predicate":{"custom_model_data":149},"model":"ausmoveis:natal/pipe_vertical"},{"predicate":{"custom_model_data":150},"model":"ausmoveis:natal/pipe_vertical_x3"},{"predicate":{"custom_model_data":151},"model":"ausmoveis:natal/pipe_vertical_valve"},{"predicate":{"custom_model_data":152},"model":"ausmoveis:natal/pipe_vertical_pressure"},{"predicate":{"custom_model_data":153},"model":"ausmoveis:natal/pipe_up"},{"predicate":{"custom_model_data":154},"model":"ausmoveis:natal/pipe_down"},{"predicate":{"custom_model_data":155},"model":"ausmoveis:natal/pipe_roof_vertical"},{"predicate":{"custom_model_data":156},"model":"ausmoveis:natal/cane_prop"},{"predicate":{"custom_model_data":157},"model":"ausmoveis:natal/stocking"},{"predicate":{"custom_model_data":158},"model":"ausmoveis:natal/stocking_2"},{"predicate":{"custom_model_data":159},"model":"ausmoveis:natal/gingerbread_house"},{"predicate":{"custom_model_data":160},"model":"ausmoveis:natal/gingerbreadhouse_plate"},{"predicate":{"custom_model_data":161},"model":"ausmoveis:natal/gingerbread_man"},{"predicate":{"custom_model_data":162},"model":"ausmoveis:natal/ribbon_01"},{"predicate":{"custom_model_data":163},"model":"ausmoveis:natal/ribbon_02"},{"predicate":{"custom_model_data":164},"model":"ausmoveis:natal/ribbon_03"},{"predicate":{"custom_model_data":165},"model":"ausmoveis:natal/ribbon_04"},{"predicate":{"custom_model_data":166},"model":"ausmoveis:natal/ribbon_05"},{"predicate":{"custom_model_data":167},"model":"ausmoveis:natal/ribbon_06"},{"predicate":{"custom_model_data":168},"model":"ausmoveis:natal/ribbon_07"},{"predicate":{"custom_model_data":169},"model":"ausmoveis:natal/ribbon_08"},{"predicate":{"custom_model_data":170},"model":"ausmoveis:natal/snowman"},{"predicate":{"custom_model_data":171},"model":"ausmoveis:natal/crystal_ball"},{"predicate":{"custom_model_data":172},"model":"ausmoveis:natal/clock"},{"predicate":{"custom_model_data":173},"model":"ausmoveis:natal/clown_in_the_box"},{"predicate":{"custom_model_data":174},"model":"ausmoveis:natal/nutcracker"},{"predicate":{"custom_model_data":175},"model":"ausmoveis:natal/nutcracker_flag"},{"predicate":{"custom_model_data":176},"model":"ausmoveis:natal/snowman_plush"},{"predicate":{"custom_model_data":177},"model":"ausmoveis:natal/snowman_plush_3"},{"predicate":{"custom_model_data":178},"model":"ausmoveis:natal/santas_plush"},{"predicate":{"custom_model_data":179},"model":"ausmoveis:natal/elf_plushie"},{"predicate":{"custom_model_data":180},"model":"ausmoveis:natal/elf_bench"},{"predicate":{"custom_model_data":181},"model":"ausmoveis:natal/elf_table"},{"predicate":{"custom_model_data":182},"model":"ausmoveis:natal/wooden_horse"},{"predicate":{"custom_model_data":183},"model":"ausmoveis:natal/squirrel"},{"predicate":{"custom_model_data":184},"model":"ausmoveis:natal/fireworks_box"},{"predicate":{"custom_model_data":185},"model":"ausmoveis:natal/train_front"},{"predicate":{"custom_model_data":186},"model":"ausmoveis:natal/train_coal"},{"predicate":{"custom_model_data":187},"model":"ausmoveis:natal/train_sit"},{"predicate":{"custom_model_data":188},"model":"ausmoveis:natal/train_back"},{"predicate":{"custom_model_data":189},"model":"ausmoveis:natal/a_block_16"},{"predicate":{"custom_model_data":190},"model":"ausmoveis:natal/b_block"},{"predicate":{"custom_model_data":191},"model":"ausmoveis:natal/c_block"},{"predicate":{"custom_model_data":192},"model":"ausmoveis:natal/d_block"},{"predicate":{"custom_model_data":193},"model":"ausmoveis:natal/p_block"},{"predicate":{"custom_model_data":194},"model":"ausmoveis:natal/xmas_lights"},{"predicate":{"custom_model_data":195},"model":"ausmoveis:natal/xmas_lights_inverted"},{"predicate":{"custom_model_data":196},"model":"ausmoveis:natal/xmas_wreath"},{"predicate":{"custom_model_data":197},"model":"ausmoveis:natal/xmas_wreath_inverted"},{"predicate":{"custom_model_data":198},"model":"ausmoveis:natal/xmas_wreath_02"},{"predicate":{"custom_model_data":199},"model":"ausmoveis:natal/xmas_wreath_02_invert"},{"predicate":{"custom_model_data":200},"model":"ausmoveis:natal/xmas_wreath_circle"},{"predicate":{"custom_model_data":201},"model":"ausmoveis:natal/xmas_wreath_circle_s"},{"predicate":{"custom_model_data":202},"model":"ausmoveis:natal/christmas_candles_01"},{"predicate":{"custom_model_data":203},"model":"ausmoveis:natal/christmas_candles_02"},{"predicate":{"custom_model_data":204},"model":"ausmoveis:natal/christmas_pendant_1"},{"predicate":{"custom_model_data":205},"model":"ausmoveis:natal/christmas_tree"},{"predicate":{"custom_model_data":206},"model":"ausmoveis:natal/tree_uncentered"},{"predicate":{"custom_model_data":207},"model":"ausmoveis:natal/christmas_tree_snow"},{"predicate":{"custom_model_data":208},"model":"ausmoveis:natal/christmas_star"},{"predicate":{"custom_model_data":209},"model":"ausmoveis:natal/fireplace"},{"predicate":{"custom_model_data":210},"model":"ausmoveis:natal/fireplace_2"},{"predicate":{"custom_model_data":211},"model":"ausmoveis:natal/mailbox_java"},{"predicate":{"custom_model_data":212},"model":"ausmoveis:natal/work_station"},{"predicate":{"custom_model_data":213},"model":"ausmoveis:natal/blueprint_box"},{"predicate":{"custom_model_data":214},"model":"ausmoveis:natal/esteira_bq"},{"predicate":{"custom_model_data":215},"model":"ausmoveis:natal/esteira_bq_entrada"},{"predicate":{"custom_model_data":216},"model":"ausmoveis:natal/esteira_bq_saida"},{"predicate":{"custom_model_data":217},"model":"ausmoveis:natal/esteira_pt"},{"predicate":{"custom_model_data":218},"model":"ausmoveis:natal/esteira_pt_entrada"},{"predicate":{"custom_model_data":219},"model":"ausmoveis:natal/esteira_pt_saida"},{"predicate":{"custom_model_data":220},"model":"ausmoveis:natal/gift_machine"},{"predicate":{"custom_model_data":221},"model":"ausmoveis:natal/gears"},{"predicate":{"custom_model_data":222},"model":"ausmoveis:natal/santa_sled"},{"predicate":{"custom_model_data":223},"model":"ausmoveis:natal/santas_chair"},{"predicate":{"custom_model_data":224},"model":"ausmoveis:natal/santas_table"},{"predicate":{"custom_model_data":225},"model":"ausmoveis:natal/window_02"},{"predicate":{"custom_model_data":226},"model":"ausmoveis:natal/window_02_snow"},{"predicate":{"custom_model_data":227},"model":"ausmoveis:natal/window_01"},{"predicate":{"custom_model_data":228},"model":"ausmoveis:natal/window_01_snow"},{"predicate":{"custom_model_data":229},"model":"ausmoveis:natal/window_ice_left_bottom"},{"predicate":{"custom_model_data":230},"model":"ausmoveis:natal/window_ice_left_top"},{"predicate":{"custom_model_data":231},"model":"ausmoveis:natal/window_ice_right_bot"},{"predicate":{"custom_model_data":232},"model":"ausmoveis:natal/window_ice_right_top"},{"predicate":{"custom_model_data":233},"model":"ausmoveis:espacial/atm"},{"predicate":{"custom_model_data":234},"model":"ausmoveis:espacial/bateria"},{"predicate":{"custom_model_data":235},"model":"ausmoveis:espacial/aviso"},{"predicate":{"custom_model_data":236},"model":"ausmoveis:espacial/vent"},{"predicate":{"custom_model_data":237},"model":"ausmoveis:espacial/holograma"},{"predicate":{"custom_model_data":238},"model":"ausmoveis:espacial/lampada"},{"predicate":{"custom_model_data":239},"model":"ausmoveis:espacial/correio"},{"predicate":{"custom_model_data":240},"model":"ausmoveis:espacial/robo"},{"predicate":{"custom_model_data":241},"model":"ausmoveis:espacial/robo2"},{"predicate":{"custom_model_data":242},"model":"ausmoveis:espacial/robocaixa"},{"predicate":{"custom_model_data":243},"model":"ausmoveis:espacial/placa"},{"predicate":{"custom_model_data":244},"model":"ausmoveis:espacial/placa2"},{"predicate":{"custom_model_data":245},"model":"ausmoveis:espacial/sinaleiro"},{"predicate":{"custom_model_data":246},"model":"ausmoveis:espacial/decoracao1"},{"predicate":{"custom_model_data":247},"model":"ausmoveis:espacial/decoracao2"},{"predicate":{"custom_model_data":248},"model":"ausmoveis:espacial/decoracao3"},{"predicate":{"custom_model_data":249},"model":"ausmoveis:espacial/placa3"},{"predicate":{"custom_model_data":250},"model":"ausmoveis:espacial/placa4"},{"predicate":{"custom_model_data":251},"model":"ausmoveis:espacial/lixo"},{"predicate":{"custom_model_data":252},"model":"ausmoveis:espacial/refri"},{"predicate":{"custom_model_data":253},"model":"ausobjs:caixas/namorados_2024"},{"predicate":{"custom_model_data":254},"model":"ausobjs:caixas/inverno"},{"predicate":{"custom_model_data":255},"model":"ausobjs:caixas/calamidade"},{"predicate":{"custom_model_data":256},"model":"ausobjs:caixas/deuses_skins"},{"predicate":{"custom_model_data":326},"model":"ausmoveis:caipira/cattails"},{"predicate":{"custom_model_data":327},"model":"ausmoveis:caipira/clovers"},{"predicate":{"custom_model_data":330},"model":"ausmoveis:caipira/log_mushroom"},{"predicate":{"custom_model_data":331},"model":"ausmoveis:caipira/log_mushroom_corner"},{"predicate":{"custom_model_data":332},"model":"ausmoveis:caipira/log_pile_large"},{"predicate":{"custom_model_data":333},"model":"ausmoveis:caipira/logs_overgrown"},{"predicate":{"custom_model_data":334},"model":"ausmoveis:caipira/log_pile_small_1"},{"predicate":{"custom_model_data":335},"model":"ausmoveis:caipira/log_pile_small_2"},{"predicate":{"custom_model_data":336},"model":"ausmoveis:caipira/log_pile_small_3"},{"predicate":{"custom_model_data":337},"model":"ausmoveis:caipira/brown_mushroom_patch"},{"predicate":{"custom_model_data":338},"model":"ausmoveis:caipira/brown_mush_large"},{"predicate":{"custom_model_data":339},"model":"ausmoveis:caipira/glow_mushroom_patch"},{"predicate":{"custom_model_data":340},"model":"ausmoveis:caipira/glow_mush_large"},{"predicate":{"custom_model_data":341},"model":"ausmoveis:caipira/orange_mushroom"},{"predicate":{"custom_model_data":342},"model":"ausmoveis:caipira/orange_mush_large"},{"predicate":{"custom_model_data":343},"model":"ausmoveis:caipira/pebbles_1"},{"predicate":{"custom_model_data":344},"model":"ausmoveis:caipira/pebbles_2"},{"predicate":{"custom_model_data":345},"model":"ausmoveis:caipira/pebbles_3"},{"predicate":{"custom_model_data":346},"model":"ausmoveis:caipira/plant"},{"predicate":{"custom_model_data":347},"model":"ausmoveis:caipira/red_mushroom_patch"},{"predicate":{"custom_model_data":348},"model":"ausmoveis:caipira/red_mushroom_large"},{"predicate":{"custom_model_data":349},"model":"ausmoveis:caipira/rock_1"},{"predicate":{"custom_model_data":350},"model":"ausmoveis:caipira/rock_2"},{"predicate":{"custom_model_data":351},"model":"ausmoveis:caipira/rock_3"},{"predicate":{"custom_model_data":352},"model":"ausmoveis:caipira/rock_4"},{"predicate":{"custom_model_data":353},"model":"ausmoveis:caipira/bulletin_board"},{"predicate":{"custom_model_data":354},"model":"ausmoveis:caipira/bulletin_board_small"},{"predicate":{"custom_model_data":355},"model":"ausmoveis:caipira/bulletin_board_wall"},{"predicate":{"custom_model_data":356},"model":"ausmoveis:caipira/chalk_sign"},{"predicate":{"custom_model_data":357},"model":"ausmoveis:caipira/chalk_sign_hanging"},{"predicate":{"custom_model_data":358},"model":"ausmoveis:caipira/chest"},{"predicate":{"custom_model_data":359},"model":"ausmoveis:caipira/chest_open"},{"predicate":{"custom_model_data":360},"model":"ausmoveis:caipira/coins_1"},{"predicate":{"custom_model_data":361},"model":"ausmoveis:caipira/coins_2"},{"predicate":{"custom_model_data":362},"model":"ausmoveis:caipira/coins_3"},{"predicate":{"custom_model_data":363},"model":"ausmoveis:caipira/book_open"},{"predicate":{"custom_model_data":364},"model":"ausmoveis:caipira/book_stack_side_1"},{"predicate":{"custom_model_data":365},"model":"ausmoveis:caipira/book_stack_side_2"},{"predicate":{"custom_model_data":366},"model":"ausmoveis:caipira/book_stack_1"},{"predicate":{"custom_model_data":367},"model":"ausmoveis:caipira/book_stack_2"},{"predicate":{"custom_model_data":368},"model":"ausmoveis:caipira/candle_dish"},{"predicate":{"custom_model_data":369},"model":"ausmoveis:caipira/chair"},{"predicate":{"custom_model_data":370},"model":"ausmoveis:caipira/coffee_table"},{"predicate":{"custom_model_data":371},"model":"ausmoveis:caipira/desk"},{"predicate":{"custom_model_data":372},"model":"ausmoveis:caipira/dresser_low"},{"predicate":{"custom_model_data":373},"model":"ausmoveis:caipira/dresser_tall"},{"predicate":{"custom_model_data":374},"model":"ausmoveis:caipira/end_table"},{"predicate":{"custom_model_data":375},"model":"ausmoveis:caipira/fireplace"},{"predicate":{"custom_model_data":376},"model":"ausmoveis:caipira/scroll_open"},{"predicate":{"custom_model_data":377},"model":"ausmoveis:caipira/scroll_stack"},{"predicate":{"custom_model_data":378},"model":"ausmoveis:caipira/stool"},{"predicate":{"custom_model_data":379},"model":"ausmoveis:caipira/table_long"},{"predicate":{"custom_model_data":380},"model":"ausmoveis:caipira/table_small"},{"predicate":{"custom_model_data":381},"model":"ausmoveis:caipira/crate_bread"},{"predicate":{"custom_model_data":382},"model":"ausmoveis:caipira/crate_carrots"},{"predicate":{"custom_model_data":383},"model":"ausmoveis:caipira/crate_display_bread"},{"predicate":{"custom_model_data":384},"model":"ausmoveis:caipira/crate_display_carrot"},{"predicate":{"custom_model_data":385},"model":"ausmoveis:caipira/crate_display_empty"},{"predicate":{"custom_model_data":386},"model":"ausmoveis:caipira/crate_empty"},{"predicate":{"custom_model_data":387},"model":"ausmoveis:caipira/crate_stack"},{"predicate":{"custom_model_data":388},"model":"ausmoveis:caipira/papers_hanging_1"},{"predicate":{"custom_model_data":389},"model":"ausmoveis:caipira/papers_hanging_2"},{"predicate":{"custom_model_data":390},"model":"ausmoveis:caipira/papers_hanging_3"},{"predicate":{"custom_model_data":391},"model":"ausmoveis:caipira/sack"},{"predicate":{"custom_model_data":392},"model":"ausmoveis:caipira/shipping_crate"},{"predicate":{"custom_model_data":393},"model":"ausmoveis:caipira/shipping_crates"},{"predicate":{"custom_model_data":394},"model":"ausmoveis:caipira/streamer_post"},{"predicate":{"custom_model_data":395},"model":"ausmoveis:caipira/streamers_hanging"},{"predicate":{"custom_model_data":396},"model":"ausmoveis:caipira/wagon"},{"predicate":{"custom_model_data":397},"model":"ausmoveis:caipira/wagon_full"},{"predicate":{"custom_model_data":1000},"model":"ausobjs:npc/tutorial/protegendo_1"},{"predicate":{"custom_model_data":1001},"model":"ausobjs:npc/tutorial/protegendo_2"},{"predicate":{"custom_model_data":1002},"model":"ausobjs:npc/tutorial/morto"},{"predicate":{"custom_model_data":1003},"model":"ausobjs:npc/tutorial/lendo_jornal"},{"predicate":{"custom_model_data":1004},"model":"ausobjs:npc/tutorial/acenando_1"},{"predicate":{"custom_model_data":1005},"model":"ausobjs:npc/tutorial/acenando_2"},{"predicate":{"custom_model_data":1006},"model":"ausobjs:npc/tutorial/segurando_trofeu"},{"predicate":{"custom_model_data":1007},"model":"ausobjs:npc/tutorial/equipado_pvp"},{"predicate":{"custom_model_data":1008},"model":"ausobjs:npc/tutorial/pescando"},{"predicate":{"custom_model_data":1009},"model":"ausobjs:npc/tutorial/minerando"},{"predicate":{"custom_model_data":1010},"model":"ausobjs:npc/tutorial/ajudante"},{"predicate":{"custom_model_data":1011},"model":"ausobjs:npc/spawn/aviador"},{"predicate":{"custom_model_data":1012},"model":"ausmoveis:parque/banco"},{"predicate":{"custom_model_data":1013},"model":"ausmoveis:parque/banco_escuro"},{"predicate":{"custom_model_data":1014},"model":"ausmoveis:parque/banco_simples"},{"predicate":{"custom_model_data":1015},"model":"ausmoveis:parque/banco_escuro_simples"},{"predicate":{"custom_model_data":1016},"model":"ausmoveis:parque/banco_madeira"},{"predicate":{"custom_model_data":1017},"model":"ausmoveis:parque/banco_madeira_escura"},{"predicate":{"custom_model_data":1018},"model":"ausmoveis:parque/cadeira"},{"predicate":{"custom_model_data":1019},"model":"ausmoveis:parque/cadeira_escura"},{"predicate":{"custom_model_data":1020},"model":"ausmoveis:parque/cadeira_madeira"},{"predicate":{"custom_model_data":1021},"model":"ausmoveis:parque/cadeira_madeira_dark"},{"predicate":{"custom_model_data":1022},"model":"ausmoveis:parque/mesa"},{"predicate":{"custom_model_data":1023},"model":"ausmoveis:parque/mesa_escura"},{"predicate":{"custom_model_data":1024},"model":"ausmoveis:parque/mesa_vidro"},{"predicate":{"custom_model_data":1025},"model":"ausmoveis:parque/mesa_centro"},{"predicate":{"custom_model_data":1026},"model":"ausmoveis:parque/mesa_escura_centro"},{"predicate":{"custom_model_data":1027},"model":"ausmoveis:parque/mesa_vidro_centro"},{"predicate":{"custom_model_data":1028},"model":"ausmoveis:parque/lixo"},{"predicate":{"custom_model_data":1029},"model":"ausmoveis:parque/cone"},{"predicate":{"custom_model_data":1030},"model":"ausmoveis:parque/cerca"},{"predicate":{"custom_model_data":1031},"model":"ausmoveis:parque/ar_condicionado"},{"predicate":{"custom_model_data":1032},"model":"ausmoveis:parque/placa_1"},{"predicate":{"custom_model_data":1033},"model":"ausmoveis:parque/placa_2"},{"predicate":{"custom_model_data":1034},"model":"ausmoveis:lojas/toldo_preto"},{"predicate":{"custom_model_data":1035},"model":"ausmoveis:lojas/toldo_azul"},{"predicate":{"custom_model_data":1036},"model":"ausmoveis:lojas/toldo_marrom"},{"predicate":{"custom_model_data":1037},"model":"ausmoveis:lojas/toldo_ciano"},{"predicate":{"custom_model_data":1038},"model":"ausmoveis:lojas/toldo_cinza"},{"predicate":{"custom_model_data":1039},"model":"ausmoveis:lojas/toldo_verde"},{"predicate":{"custom_model_data":1040},"model":"ausmoveis:lojas/toldo_azul_claro"},{"predicate":{"custom_model_data":1041},"model":"ausmoveis:lojas/toldo_cinza_claro"},{"predicate":{"custom_model_data":1042},"model":"ausmoveis:lojas/toldo_verde_claro"},{"predicate":{"custom_model_data":1043},"model":"ausmoveis:lojas/toldo_magenta"},{"predicate":{"custom_model_data":1044},"model":"ausmoveis:lojas/toldo_laranja"},{"predicate":{"custom_model_data":1045},"model":"ausmoveis:lojas/toldo_rosa"},{"predicate":{"custom_model_data":1046},"model":"ausmoveis:lojas/toldo_roxo"},{"predicate":{"custom_model_data":1047},"model":"ausmoveis:lojas/toldo_vermelho"},{"predicate":{"custom_model_data":1048},"model":"ausmoveis:lojas/toldo_branco"},{"predicate":{"custom_model_data":1049},"model":"ausmoveis:lojas/toldo_amarelo"},{"predicate":{"custom_model_data":1050},"model":"ausmoveis:lojas/caixa"},{"predicate":{"custom_model_data":1051},"model":"ausmoveis:lojas/caixa_pequena"},{"predicate":{"custom_model_data":1052},"model":"ausmoveis:lojas/sellbox/maca"},{"predicate":{"custom_model_data":1053},"model":"ausmoveis:lojas/sellbox/beterraba"},{"predicate":{"custom_model_data":1054},"model":"ausmoveis:lojas/sellbox/cenoura"},{"predicate":{"custom_model_data":1055},"model":"ausmoveis:lojas/sellbox/cobre"},{"predicate":{"custom_model_data":1056},"model":"ausmoveis:lojas/sellbox/peixe"},{"predicate":{"custom_model_data":1057},"model":"ausmoveis:lojas/sellbox/cap"},{"predicate":{"custom_model_data":1058},"model":"ausmoveis:lojas/sellbox/baga_brilhante"},{"predicate":{"custom_model_data":1059},"model":"ausmoveis:lojas/sellbox/melancia"},{"predicate":{"custom_model_data":1060},"model":"ausmoveis:lojas/sellbox/minerios"},{"predicate":{"custom_model_data":1061},"model":"ausmoveis:lojas/sellbox/batata"},{"predicate":{"custom_model_data":1062},"model":"ausmoveis:lojas/sellbox/cana"},{"predicate":{"custom_model_data":1063},"model":"ausmoveis:lojas/sellbox/bagas_doces"},{"predicate":{"custom_model_data":1064},"model":"ausmoveis:lojas/sellbox/terracotta"},{"predicate":{"custom_model_data":1065},"model":"ausmoveis:lojas/sellbox/troncos"},{"predicate":{"custom_model_data":1066},"model":"ausmoveis:lojas/sellbox/la"},{"predicate":{"custom_model_data":1067},"model":"ausmoveis:lojas/sellbox/espada"},{"predicate":{"custom_model_data":1068},"model":"ausmoveis:lojas/sellbox/ferramenta"},{"predicate":{"custom_model_data":1069},"model":"ausmoveis:lojas/sellbox/livro"},{"predicate":{"custom_model_data":1070},"model":"ausmoveis:lojas/registradora/preta"},{"predicate":{"custom_model_data":1071},"model":"ausmoveis:lojas/registradora/azul"},{"predicate":{"custom_model_data":1072},"model":"ausmoveis:lojas/registradora/marrom"},{"predicate":{"custom_model_data":1073},"model":"ausmoveis:lojas/registradora/ciana"},{"predicate":{"custom_model_data":1074},"model":"ausmoveis:lojas/registradora/verde"},{"predicate":{"custom_model_data":1075},"model":"ausmoveis:lojas/registradora/laranja"},{"predicate":{"custom_model_data":1076},"model":"ausmoveis:lojas/registradora/rosa"},{"predicate":{"custom_model_data":1077},"model":"ausmoveis:lojas/registradora/vermelha"},{"predicate":{"custom_model_data":1078},"model":"ausmoveis:lojas/registradora/amarela"},{"predicate":{"custom_model_data":1079},"model":"ausmoveis:pizzaria/pizza_quadro_1"},{"predicate":{"custom_model_data":1080},"model":"ausmoveis:pizzaria/pizza_quadro_2"},{"predicate":{"custom_model_data":1081},"model":"ausmoveis:pizzaria/painel_digital"},{"predicate":{"custom_model_data":1082},"model":"ausmoveis:pizzaria/pizza_tapete"},{"predicate":{"custom_model_data":1083},"model":"ausmoveis:pizzaria/pizza_poltrona"},{"predicate":{"custom_model_data":1084},"model":"ausmoveis:pizzaria/pizza_cadeira"},{"predicate":{"custom_model_data":1085},"model":"ausmoveis:pizzaria/pizza_cardapio"},{"predicate":{"custom_model_data":1086},"model":"ausmoveis:pizzaria/pizza_pintura"},{"predicate":{"custom_model_data":1087},"model":"ausmoveis:pizzaria/pizza_marguerita"},{"predicate":{"custom_model_data":1088},"model":"ausmoveis:pizzaria/pizza_pepperoni"},{"predicate":{"custom_model_data":1089},"model":"ausmoveis:pizzaria/pizza_caixas"},{"predicate":{"custom_model_data":1090},"model":"ausmoveis:pizzaria/pizza_forno"},{"predicate":{"custom_model_data":1091},"model":"ausmoveis:pizzaria/pizza_vaso"},{"predicate":{"custom_model_data":1092},"model":"ausmoveis:pizzaria/pizza_sofa"},{"predicate":{"custom_model_data":1093},"model":"ausmoveis:pizzaria/pizza_outdoor"},{"predicate":{"custom_model_data":1094},"model":"ausmoveis:pizzaria/pizza_mesa_1"},{"predicate":{"custom_model_data":1095},"model":"ausmoveis:pizzaria/pizza_mesa_2"},{"predicate":{"custom_model_data":1096},"model":"ausmoveis:pizzaria/pizza_bancada"},{"predicate":{"custom_model_data":1097},"model":"ausmoveis:pizzaria/pizza_estufa"},{"predicate":{"custom_model_data":1098},"model":"ausmoveis:pizzaria/pizza_balcao"},{"predicate":{"custom_model_data":3000},"model":"ausobjs:objetos/aviao"},{"predicate":{"custom_model_data":3001},"model":"ausobjs:objetos/ovo_pascoa_1"},{"predicate":{"custom_model_data":3002},"model":"ausobjs:objetos/ovo_pascoa_2"},{"predicate":{"custom_model_data":3003},"model":"ausobjs:objetos/ovo_pascoa_3"},{"predicate":{"custom_model_data":3004},"model":"ausobjs:objetos/vassoura"},{"predicate":{"custom_model_data":3005},"model":"ausobjs:objetos/barril"},{"predicate":{"custom_model_data":3006},"model":"ausobjs:objetos/canhao"},{"predicate":{"custom_model_data":3007},"model":"ausobjs:objetos/carroca"},{"predicate":{"custom_model_data":3008},"model":"ausobjs:objetos/catapulta"},{"predicate":{"custom_model_data":3009},"model":"ausobjs:objetos/carrocatrigo"},{"predicate":{"custom_model_data":3010},"model":"ausobjs:objetos/lampiao1"},{"predicate":{"custom_model_data":3011},"model":"ausobjs:objetos/lampiao2"},{"predicate":{"custom_model_data":4000},"model":"ausobjs:portais/azul"},{"predicate":{"custom_model_data":4001},"model":"ausobjs:portais/amarelo"},{"predicate":{"custom_model_data":4003},"model":"ausobjs:portais/vermelho"},{"predicate":{"custom_model_data":4004},"model":"item/feather"}]}
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/feather"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/pascoa_22"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/voto"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/eventos"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/pvp"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/utilidade"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/ovos"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/skins"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/deuses"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/miau"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/namorados_22"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/tormenta"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/glacial_22"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/primavera"
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/criancas_22"
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/assombrada"
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/copa_22"
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/natal"
+                }
+            },
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/carnaval"
+                }
+            },
+            {
+                "threshold": 19,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/pascoa"
+                }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/insurgente"
+                }
+            },
+            {
+                "threshold": 21,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/namorados"
+                }
+            },
+            {
+                "threshold": 22,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/oriental"
+                }
+            },
+            {
+                "threshold": 23,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/glacial_negra_23"
+                }
+            },
+            {
+                "threshold": 24,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/desordem"
+                }
+            },
+            {
+                "threshold": 25,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/verao"
+                }
+            },
+            {
+                "threshold": 26,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/outono"
+                }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/ruina"
+                }
+            },
+            {
+                "threshold": 28,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/balao"
+                }
+            },
+            {
+                "threshold": 29,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/cama"
+                }
+            },
+            {
+                "threshold": 30,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/livros"
+                }
+            },
+            {
+                "threshold": 31,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/estante"
+                }
+            },
+            {
+                "threshold": 32,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/caixa_1"
+                }
+            },
+            {
+                "threshold": 33,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/caixa_2"
+                }
+            },
+            {
+                "threshold": 34,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/calendario"
+                }
+            },
+            {
+                "threshold": 35,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/tapete"
+                }
+            },
+            {
+                "threshold": 36,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/cadeira"
+                }
+            },
+            {
+                "threshold": 37,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/gavetas"
+                }
+            },
+            {
+                "threshold": 38,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/arlequina"
+                }
+            },
+            {
+                "threshold": 39,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/palhaco"
+                }
+            },
+            {
+                "threshold": 40,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/lampada_1"
+                }
+            },
+            {
+                "threshold": 41,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/lampada_2"
+                }
+            },
+            {
+                "threshold": 42,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/laptop"
+                }
+            },
+            {
+                "threshold": 43,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/pintura_1"
+                }
+            },
+            {
+                "threshold": 44,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/pintura_2"
+                }
+            },
+            {
+                "threshold": 45,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/pintura_3"
+                }
+            },
+            {
+                "threshold": 46,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/pintura_4"
+                }
+            },
+            {
+                "threshold": 47,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/vaso_1"
+                }
+            },
+            {
+                "threshold": 48,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/vaso_2"
+                }
+            },
+            {
+                "threshold": 49,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/vasos"
+                }
+            },
+            {
+                "threshold": 50,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/sofa_1"
+                }
+            },
+            {
+                "threshold": 51,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/sofa_2"
+                }
+            },
+            {
+                "threshold": 52,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/mesa_centro_1"
+                }
+            },
+            {
+                "threshold": 53,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/mesa_centro_2"
+                }
+            },
+            {
+                "threshold": 54,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/mesa"
+                }
+            },
+            {
+                "threshold": 55,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/tv_1"
+                }
+            },
+            {
+                "threshold": 56,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/tv_2"
+                }
+            },
+            {
+                "threshold": 57,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/tv_gabinete"
+                }
+            },
+            {
+                "threshold": 58,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/guarda_roupa"
+                }
+            },
+            {
+                "threshold": 59,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/chapeu_1"
+                }
+            },
+            {
+                "threshold": 60,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/chapeu_2"
+                }
+            },
+            {
+                "threshold": 61,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/chapeu_3"
+                }
+            },
+            {
+                "threshold": 62,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/chapeu_4"
+                }
+            },
+            {
+                "threshold": 63,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:travessura/chapeu_5"
+                }
+            },
+            {
+                "threshold": 64,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/dec/decanter_branco"
+                }
+            },
+            {
+                "threshold": 65,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/dec/suporte_katana1"
+                }
+            },
+            {
+                "threshold": 66,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/dec/suporte_katana2"
+                }
+            },
+            {
+                "threshold": 67,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/dec/bandeira_branca"
+                }
+            },
+            {
+                "threshold": 68,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/dec/cesta_de_cha"
+                }
+            },
+            {
+                "threshold": 69,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/cama"
+                }
+            },
+            {
+                "threshold": 70,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/estante_livros"
+                }
+            },
+            {
+                "threshold": 71,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/cadeira_laranja"
+                }
+            },
+            {
+                "threshold": 72,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/cadeira_roxa"
+                }
+            },
+            {
+                "threshold": 73,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/cadeira_verm"
+                }
+            },
+            {
+                "threshold": 74,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/closet"
+                }
+            },
+            {
+                "threshold": 75,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/tambor"
+                }
+            },
+            {
+                "threshold": 76,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/prateleira_1"
+                }
+            },
+            {
+                "threshold": 77,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/prateleira_2"
+                }
+            },
+            {
+                "threshold": 78,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/prateleira_3"
+                }
+            },
+            {
+                "threshold": 79,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/prateleira_4"
+                }
+            },
+            {
+                "threshold": 80,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/prateleira_5"
+                }
+            },
+            {
+                "threshold": 81,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/bar"
+                }
+            },
+            {
+                "threshold": 82,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/sofa_vermelho"
+                }
+            },
+            {
+                "threshold": 83,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/sofa_verm_canto"
+                }
+            },
+            {
+                "threshold": 84,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/balcao_1"
+                }
+            },
+            {
+                "threshold": 85,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/balcao_2"
+                }
+            },
+            {
+                "threshold": 86,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/balcao_3"
+                }
+            },
+            {
+                "threshold": 87,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/balcao_4"
+                }
+            },
+            {
+                "threshold": 88,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/balcao_5"
+                }
+            },
+            {
+                "threshold": 89,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/balcao_6"
+                }
+            },
+            {
+                "threshold": 90,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/mesa_branca"
+                }
+            },
+            {
+                "threshold": 91,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:oriental/int/mesa_pequena"
+                }
+            },
+            {
+                "threshold": 92,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_1"
+                }
+            },
+            {
+                "threshold": 93,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_2"
+                }
+            },
+            {
+                "threshold": 94,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_3"
+                }
+            },
+            {
+                "threshold": 95,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_4"
+                }
+            },
+            {
+                "threshold": 96,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_5"
+                }
+            },
+            {
+                "threshold": 97,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_6"
+                }
+            },
+            {
+                "threshold": 98,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_7"
+                }
+            },
+            {
+                "threshold": 99,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_8"
+                }
+            },
+            {
+                "threshold": 100,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_9"
+                }
+            },
+            {
+                "threshold": 101,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_10"
+                }
+            },
+            {
+                "threshold": 102,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_11"
+                }
+            },
+            {
+                "threshold": 103,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_12"
+                }
+            },
+            {
+                "threshold": 104,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_13"
+                }
+            },
+            {
+                "threshold": 105,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_med_1"
+                }
+            },
+            {
+                "threshold": 106,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_1"
+                }
+            },
+            {
+                "threshold": 107,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_2"
+                }
+            },
+            {
+                "threshold": 108,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_3"
+                }
+            },
+            {
+                "threshold": 109,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_4"
+                }
+            },
+            {
+                "threshold": 110,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_5"
+                }
+            },
+            {
+                "threshold": 111,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_6"
+                }
+            },
+            {
+                "threshold": 112,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_7"
+                }
+            },
+            {
+                "threshold": 113,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_8"
+                }
+            },
+            {
+                "threshold": 114,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_9"
+                }
+            },
+            {
+                "threshold": 115,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_10"
+                }
+            },
+            {
+                "threshold": 116,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_11"
+                }
+            },
+            {
+                "threshold": 117,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_12"
+                }
+            },
+            {
+                "threshold": 118,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_13"
+                }
+            },
+            {
+                "threshold": 119,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_14"
+                }
+            },
+            {
+                "threshold": 120,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_15"
+                }
+            },
+            {
+                "threshold": 121,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_16"
+                }
+            },
+            {
+                "threshold": 122,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_17"
+                }
+            },
+            {
+                "threshold": 123,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_18"
+                }
+            },
+            {
+                "threshold": 124,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_19"
+                }
+            },
+            {
+                "threshold": 125,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_20"
+                }
+            },
+            {
+                "threshold": 126,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_21"
+                }
+            },
+            {
+                "threshold": 127,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_22"
+                }
+            },
+            {
+                "threshold": 128,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_23"
+                }
+            },
+            {
+                "threshold": 129,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_24"
+                }
+            },
+            {
+                "threshold": 130,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_tall_25"
+                }
+            },
+            {
+                "threshold": 131,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_low_1"
+                }
+            },
+            {
+                "threshold": 132,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_low_2"
+                }
+            },
+            {
+                "threshold": 133,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_low_3"
+                }
+            },
+            {
+                "threshold": 134,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_low_4"
+                }
+            },
+            {
+                "threshold": 135,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_low_5"
+                }
+            },
+            {
+                "threshold": 136,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_low_6"
+                }
+            },
+            {
+                "threshold": 137,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_low_7"
+                }
+            },
+            {
+                "threshold": 138,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_gift_low_8"
+                }
+            },
+            {
+                "threshold": 139,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/cane_pillar"
+                }
+            },
+            {
+                "threshold": 140,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/pipe_roof"
+                }
+            },
+            {
+                "threshold": 141,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/pipe_wall"
+                }
+            },
+            {
+                "threshold": 142,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/pipe_wall_right"
+                }
+            },
+            {
+                "threshold": 143,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/pipe_wall_left"
+                }
+            },
+            {
+                "threshold": 144,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/pipe"
+                }
+            },
+            {
+                "threshold": 145,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/pipe_valve"
+                }
+            },
+            {
+                "threshold": 146,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/pipe_pressure"
+                }
+            },
+            {
+                "threshold": 147,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/pipe_smoke"
+                }
+            },
+            {
+                "threshold": 148,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/pipe_x3"
+                }
+            },
+            {
+                "threshold": 149,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/pipe_vertical"
+                }
+            },
+            {
+                "threshold": 150,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/pipe_vertical_x3"
+                }
+            },
+            {
+                "threshold": 151,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/pipe_vertical_valve"
+                }
+            },
+            {
+                "threshold": 152,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/pipe_vertical_pressure"
+                }
+            },
+            {
+                "threshold": 153,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/pipe_up"
+                }
+            },
+            {
+                "threshold": 154,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/pipe_down"
+                }
+            },
+            {
+                "threshold": 155,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/pipe_roof_vertical"
+                }
+            },
+            {
+                "threshold": 156,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/cane_prop"
+                }
+            },
+            {
+                "threshold": 157,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/stocking"
+                }
+            },
+            {
+                "threshold": 158,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/stocking_2"
+                }
+            },
+            {
+                "threshold": 159,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/gingerbread_house"
+                }
+            },
+            {
+                "threshold": 160,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/gingerbreadhouse_plate"
+                }
+            },
+            {
+                "threshold": 161,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/gingerbread_man"
+                }
+            },
+            {
+                "threshold": 162,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/ribbon_01"
+                }
+            },
+            {
+                "threshold": 163,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/ribbon_02"
+                }
+            },
+            {
+                "threshold": 164,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/ribbon_03"
+                }
+            },
+            {
+                "threshold": 165,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/ribbon_04"
+                }
+            },
+            {
+                "threshold": 166,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/ribbon_05"
+                }
+            },
+            {
+                "threshold": 167,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/ribbon_06"
+                }
+            },
+            {
+                "threshold": 168,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/ribbon_07"
+                }
+            },
+            {
+                "threshold": 169,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/ribbon_08"
+                }
+            },
+            {
+                "threshold": 170,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/snowman"
+                }
+            },
+            {
+                "threshold": 171,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/crystal_ball"
+                }
+            },
+            {
+                "threshold": 172,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/clock"
+                }
+            },
+            {
+                "threshold": 173,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/clown_in_the_box"
+                }
+            },
+            {
+                "threshold": 174,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/nutcracker"
+                }
+            },
+            {
+                "threshold": 175,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/nutcracker_flag"
+                }
+            },
+            {
+                "threshold": 176,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/snowman_plush"
+                }
+            },
+            {
+                "threshold": 177,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/snowman_plush_3"
+                }
+            },
+            {
+                "threshold": 178,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/santas_plush"
+                }
+            },
+            {
+                "threshold": 179,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/elf_plushie"
+                }
+            },
+            {
+                "threshold": 180,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/elf_bench"
+                }
+            },
+            {
+                "threshold": 181,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/elf_table"
+                }
+            },
+            {
+                "threshold": 182,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/wooden_horse"
+                }
+            },
+            {
+                "threshold": 183,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/squirrel"
+                }
+            },
+            {
+                "threshold": 184,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/fireworks_box"
+                }
+            },
+            {
+                "threshold": 185,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/train_front"
+                }
+            },
+            {
+                "threshold": 186,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/train_coal"
+                }
+            },
+            {
+                "threshold": 187,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/train_sit"
+                }
+            },
+            {
+                "threshold": 188,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/train_back"
+                }
+            },
+            {
+                "threshold": 189,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/a_block_16"
+                }
+            },
+            {
+                "threshold": 190,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/b_block"
+                }
+            },
+            {
+                "threshold": 191,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/c_block"
+                }
+            },
+            {
+                "threshold": 192,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/d_block"
+                }
+            },
+            {
+                "threshold": 193,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/p_block"
+                }
+            },
+            {
+                "threshold": 194,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/xmas_lights"
+                }
+            },
+            {
+                "threshold": 195,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/xmas_lights_inverted"
+                }
+            },
+            {
+                "threshold": 196,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/xmas_wreath"
+                }
+            },
+            {
+                "threshold": 197,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/xmas_wreath_inverted"
+                }
+            },
+            {
+                "threshold": 198,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/xmas_wreath_02"
+                }
+            },
+            {
+                "threshold": 199,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/xmas_wreath_02_invert"
+                }
+            },
+            {
+                "threshold": 200,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/xmas_wreath_circle"
+                }
+            },
+            {
+                "threshold": 201,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/xmas_wreath_circle_s"
+                }
+            },
+            {
+                "threshold": 202,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_candles_01"
+                }
+            },
+            {
+                "threshold": 203,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_candles_02"
+                }
+            },
+            {
+                "threshold": 204,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_pendant_1"
+                }
+            },
+            {
+                "threshold": 205,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_tree"
+                }
+            },
+            {
+                "threshold": 206,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/tree_uncentered"
+                }
+            },
+            {
+                "threshold": 207,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_tree_snow"
+                }
+            },
+            {
+                "threshold": 208,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/christmas_star"
+                }
+            },
+            {
+                "threshold": 209,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/fireplace"
+                }
+            },
+            {
+                "threshold": 210,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/fireplace_2"
+                }
+            },
+            {
+                "threshold": 211,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/mailbox_java"
+                }
+            },
+            {
+                "threshold": 212,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/work_station"
+                }
+            },
+            {
+                "threshold": 213,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/blueprint_box"
+                }
+            },
+            {
+                "threshold": 214,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/esteira_bq"
+                }
+            },
+            {
+                "threshold": 215,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/esteira_bq_entrada"
+                }
+            },
+            {
+                "threshold": 216,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/esteira_bq_saida"
+                }
+            },
+            {
+                "threshold": 217,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/esteira_pt"
+                }
+            },
+            {
+                "threshold": 218,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/esteira_pt_entrada"
+                }
+            },
+            {
+                "threshold": 219,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/esteira_pt_saida"
+                }
+            },
+            {
+                "threshold": 220,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/gift_machine"
+                }
+            },
+            {
+                "threshold": 221,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/gears"
+                }
+            },
+            {
+                "threshold": 222,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/santa_sled"
+                }
+            },
+            {
+                "threshold": 223,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/santas_chair"
+                }
+            },
+            {
+                "threshold": 224,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/santas_table"
+                }
+            },
+            {
+                "threshold": 225,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/window_02"
+                }
+            },
+            {
+                "threshold": 226,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/window_02_snow"
+                }
+            },
+            {
+                "threshold": 227,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/window_01"
+                }
+            },
+            {
+                "threshold": 228,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/window_01_snow"
+                }
+            },
+            {
+                "threshold": 229,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/window_ice_left_bottom"
+                }
+            },
+            {
+                "threshold": 230,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/window_ice_left_top"
+                }
+            },
+            {
+                "threshold": 231,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/window_ice_right_bot"
+                }
+            },
+            {
+                "threshold": 232,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:natal/window_ice_right_top"
+                }
+            },
+            {
+                "threshold": 233,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/atm"
+                }
+            },
+            {
+                "threshold": 234,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/bateria"
+                }
+            },
+            {
+                "threshold": 235,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/aviso"
+                }
+            },
+            {
+                "threshold": 236,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/vent"
+                }
+            },
+            {
+                "threshold": 237,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/holograma"
+                }
+            },
+            {
+                "threshold": 238,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/lampada"
+                }
+            },
+            {
+                "threshold": 239,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/correio"
+                }
+            },
+            {
+                "threshold": 240,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/robo"
+                }
+            },
+            {
+                "threshold": 241,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/robo2"
+                }
+            },
+            {
+                "threshold": 242,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/robocaixa"
+                }
+            },
+            {
+                "threshold": 243,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/placa"
+                }
+            },
+            {
+                "threshold": 244,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/placa2"
+                }
+            },
+            {
+                "threshold": 245,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/sinaleiro"
+                }
+            },
+            {
+                "threshold": 246,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/decoracao1"
+                }
+            },
+            {
+                "threshold": 247,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/decoracao2"
+                }
+            },
+            {
+                "threshold": 248,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/decoracao3"
+                }
+            },
+            {
+                "threshold": 249,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/placa3"
+                }
+            },
+            {
+                "threshold": 250,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/placa4"
+                }
+            },
+            {
+                "threshold": 251,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/lixo"
+                }
+            },
+            {
+                "threshold": 252,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:espacial/refri"
+                }
+            },
+            {
+                "threshold": 253,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/namorados_2024"
+                }
+            },
+            {
+                "threshold": 254,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/inverno"
+                }
+            },
+            {
+                "threshold": 255,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/calamidade"
+                }
+            },
+            {
+                "threshold": 256,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:caixas/deuses_skins"
+                }
+            },
+            {
+                "threshold": 326,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/cattails"
+                }
+            },
+            {
+                "threshold": 327,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/clovers"
+                }
+            },
+            {
+                "threshold": 330,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/log_mushroom"
+                }
+            },
+            {
+                "threshold": 331,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/log_mushroom_corner"
+                }
+            },
+            {
+                "threshold": 332,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/log_pile_large"
+                }
+            },
+            {
+                "threshold": 333,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/logs_overgrown"
+                }
+            },
+            {
+                "threshold": 334,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/log_pile_small_1"
+                }
+            },
+            {
+                "threshold": 335,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/log_pile_small_2"
+                }
+            },
+            {
+                "threshold": 336,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/log_pile_small_3"
+                }
+            },
+            {
+                "threshold": 337,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/brown_mushroom_patch"
+                }
+            },
+            {
+                "threshold": 338,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/brown_mush_large"
+                }
+            },
+            {
+                "threshold": 339,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/glow_mushroom_patch"
+                }
+            },
+            {
+                "threshold": 340,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/glow_mush_large"
+                }
+            },
+            {
+                "threshold": 341,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/orange_mushroom"
+                }
+            },
+            {
+                "threshold": 342,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/orange_mush_large"
+                }
+            },
+            {
+                "threshold": 343,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/pebbles_1"
+                }
+            },
+            {
+                "threshold": 344,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/pebbles_2"
+                }
+            },
+            {
+                "threshold": 345,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/pebbles_3"
+                }
+            },
+            {
+                "threshold": 346,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/plant"
+                }
+            },
+            {
+                "threshold": 347,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/red_mushroom_patch"
+                }
+            },
+            {
+                "threshold": 348,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/red_mushroom_large"
+                }
+            },
+            {
+                "threshold": 349,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/rock_1"
+                }
+            },
+            {
+                "threshold": 350,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/rock_2"
+                }
+            },
+            {
+                "threshold": 351,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/rock_3"
+                }
+            },
+            {
+                "threshold": 352,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/rock_4"
+                }
+            },
+            {
+                "threshold": 353,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/bulletin_board"
+                }
+            },
+            {
+                "threshold": 354,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/bulletin_board_small"
+                }
+            },
+            {
+                "threshold": 355,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/bulletin_board_wall"
+                }
+            },
+            {
+                "threshold": 356,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/chalk_sign"
+                }
+            },
+            {
+                "threshold": 357,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/chalk_sign_hanging"
+                }
+            },
+            {
+                "threshold": 358,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/chest"
+                }
+            },
+            {
+                "threshold": 359,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/chest_open"
+                }
+            },
+            {
+                "threshold": 360,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/coins_1"
+                }
+            },
+            {
+                "threshold": 361,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/coins_2"
+                }
+            },
+            {
+                "threshold": 362,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/coins_3"
+                }
+            },
+            {
+                "threshold": 363,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/book_open"
+                }
+            },
+            {
+                "threshold": 364,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/book_stack_side_1"
+                }
+            },
+            {
+                "threshold": 365,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/book_stack_side_2"
+                }
+            },
+            {
+                "threshold": 366,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/book_stack_1"
+                }
+            },
+            {
+                "threshold": 367,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/book_stack_2"
+                }
+            },
+            {
+                "threshold": 368,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/candle_dish"
+                }
+            },
+            {
+                "threshold": 369,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/chair"
+                }
+            },
+            {
+                "threshold": 370,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/coffee_table"
+                }
+            },
+            {
+                "threshold": 371,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/desk"
+                }
+            },
+            {
+                "threshold": 372,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/dresser_low"
+                }
+            },
+            {
+                "threshold": 373,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/dresser_tall"
+                }
+            },
+            {
+                "threshold": 374,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/end_table"
+                }
+            },
+            {
+                "threshold": 375,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/fireplace"
+                }
+            },
+            {
+                "threshold": 376,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/scroll_open"
+                }
+            },
+            {
+                "threshold": 377,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/scroll_stack"
+                }
+            },
+            {
+                "threshold": 378,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/stool"
+                }
+            },
+            {
+                "threshold": 379,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/table_long"
+                }
+            },
+            {
+                "threshold": 380,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/table_small"
+                }
+            },
+            {
+                "threshold": 381,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/crate_bread"
+                }
+            },
+            {
+                "threshold": 382,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/crate_carrots"
+                }
+            },
+            {
+                "threshold": 383,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/crate_display_bread"
+                }
+            },
+            {
+                "threshold": 384,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/crate_display_carrot"
+                }
+            },
+            {
+                "threshold": 385,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/crate_display_empty"
+                }
+            },
+            {
+                "threshold": 386,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/crate_empty"
+                }
+            },
+            {
+                "threshold": 387,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/crate_stack"
+                }
+            },
+            {
+                "threshold": 388,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/papers_hanging_1"
+                }
+            },
+            {
+                "threshold": 389,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/papers_hanging_2"
+                }
+            },
+            {
+                "threshold": 390,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/papers_hanging_3"
+                }
+            },
+            {
+                "threshold": 391,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/sack"
+                }
+            },
+            {
+                "threshold": 392,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/shipping_crate"
+                }
+            },
+            {
+                "threshold": 393,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/shipping_crates"
+                }
+            },
+            {
+                "threshold": 394,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/streamer_post"
+                }
+            },
+            {
+                "threshold": 395,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/streamers_hanging"
+                }
+            },
+            {
+                "threshold": 396,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/wagon"
+                }
+            },
+            {
+                "threshold": 397,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:caipira/wagon_full"
+                }
+            },
+            {
+                "threshold": 1000,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:npc/tutorial/protegendo_1"
+                }
+            },
+            {
+                "threshold": 1001,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:npc/tutorial/protegendo_2"
+                }
+            },
+            {
+                "threshold": 1002,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:npc/tutorial/morto"
+                }
+            },
+            {
+                "threshold": 1003,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:npc/tutorial/lendo_jornal"
+                }
+            },
+            {
+                "threshold": 1004,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:npc/tutorial/acenando_1"
+                }
+            },
+            {
+                "threshold": 1005,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:npc/tutorial/acenando_2"
+                }
+            },
+            {
+                "threshold": 1006,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:npc/tutorial/segurando_trofeu"
+                }
+            },
+            {
+                "threshold": 1007,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:npc/tutorial/equipado_pvp"
+                }
+            },
+            {
+                "threshold": 1008,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:npc/tutorial/pescando"
+                }
+            },
+            {
+                "threshold": 1009,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:npc/tutorial/minerando"
+                }
+            },
+            {
+                "threshold": 1010,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:npc/tutorial/ajudante"
+                }
+            },
+            {
+                "threshold": 1011,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:npc/spawn/aviador"
+                }
+            },
+            {
+                "threshold": 1012,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/banco"
+                }
+            },
+            {
+                "threshold": 1013,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/banco_escuro"
+                }
+            },
+            {
+                "threshold": 1014,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/banco_simples"
+                }
+            },
+            {
+                "threshold": 1015,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/banco_escuro_simples"
+                }
+            },
+            {
+                "threshold": 1016,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/banco_madeira"
+                }
+            },
+            {
+                "threshold": 1017,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/banco_madeira_escura"
+                }
+            },
+            {
+                "threshold": 1018,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/cadeira"
+                }
+            },
+            {
+                "threshold": 1019,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/cadeira_escura"
+                }
+            },
+            {
+                "threshold": 1020,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/cadeira_madeira"
+                }
+            },
+            {
+                "threshold": 1021,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/cadeira_madeira_dark"
+                }
+            },
+            {
+                "threshold": 1022,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/mesa"
+                }
+            },
+            {
+                "threshold": 1023,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/mesa_escura"
+                }
+            },
+            {
+                "threshold": 1024,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/mesa_vidro"
+                }
+            },
+            {
+                "threshold": 1025,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/mesa_centro"
+                }
+            },
+            {
+                "threshold": 1026,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/mesa_escura_centro"
+                }
+            },
+            {
+                "threshold": 1027,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/mesa_vidro_centro"
+                }
+            },
+            {
+                "threshold": 1028,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/lixo"
+                }
+            },
+            {
+                "threshold": 1029,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/cone"
+                }
+            },
+            {
+                "threshold": 1030,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/cerca"
+                }
+            },
+            {
+                "threshold": 1031,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/ar_condicionado"
+                }
+            },
+            {
+                "threshold": 1032,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/placa_1"
+                }
+            },
+            {
+                "threshold": 1033,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:parque/placa_2"
+                }
+            },
+            {
+                "threshold": 1034,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/toldo_preto"
+                }
+            },
+            {
+                "threshold": 1035,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/toldo_azul"
+                }
+            },
+            {
+                "threshold": 1036,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/toldo_marrom"
+                }
+            },
+            {
+                "threshold": 1037,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/toldo_ciano"
+                }
+            },
+            {
+                "threshold": 1038,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/toldo_cinza"
+                }
+            },
+            {
+                "threshold": 1039,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/toldo_verde"
+                }
+            },
+            {
+                "threshold": 1040,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/toldo_azul_claro"
+                }
+            },
+            {
+                "threshold": 1041,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/toldo_cinza_claro"
+                }
+            },
+            {
+                "threshold": 1042,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/toldo_verde_claro"
+                }
+            },
+            {
+                "threshold": 1043,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/toldo_magenta"
+                }
+            },
+            {
+                "threshold": 1044,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/toldo_laranja"
+                }
+            },
+            {
+                "threshold": 1045,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/toldo_rosa"
+                }
+            },
+            {
+                "threshold": 1046,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/toldo_roxo"
+                }
+            },
+            {
+                "threshold": 1047,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/toldo_vermelho"
+                }
+            },
+            {
+                "threshold": 1048,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/toldo_branco"
+                }
+            },
+            {
+                "threshold": 1049,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/toldo_amarelo"
+                }
+            },
+            {
+                "threshold": 1050,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/caixa"
+                }
+            },
+            {
+                "threshold": 1051,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/caixa_pequena"
+                }
+            },
+            {
+                "threshold": 1052,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/sellbox/maca"
+                }
+            },
+            {
+                "threshold": 1053,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/sellbox/beterraba"
+                }
+            },
+            {
+                "threshold": 1054,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/sellbox/cenoura"
+                }
+            },
+            {
+                "threshold": 1055,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/sellbox/cobre"
+                }
+            },
+            {
+                "threshold": 1056,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/sellbox/peixe"
+                }
+            },
+            {
+                "threshold": 1057,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/sellbox/cap"
+                }
+            },
+            {
+                "threshold": 1058,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/sellbox/baga_brilhante"
+                }
+            },
+            {
+                "threshold": 1059,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/sellbox/melancia"
+                }
+            },
+            {
+                "threshold": 1060,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/sellbox/minerios"
+                }
+            },
+            {
+                "threshold": 1061,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/sellbox/batata"
+                }
+            },
+            {
+                "threshold": 1062,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/sellbox/cana"
+                }
+            },
+            {
+                "threshold": 1063,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/sellbox/bagas_doces"
+                }
+            },
+            {
+                "threshold": 1064,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/sellbox/terracotta"
+                }
+            },
+            {
+                "threshold": 1065,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/sellbox/troncos"
+                }
+            },
+            {
+                "threshold": 1066,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/sellbox/la"
+                }
+            },
+            {
+                "threshold": 1067,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/sellbox/espada"
+                }
+            },
+            {
+                "threshold": 1068,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/sellbox/ferramenta"
+                }
+            },
+            {
+                "threshold": 1069,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/sellbox/livro"
+                }
+            },
+            {
+                "threshold": 1070,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/registradora/preta"
+                }
+            },
+            {
+                "threshold": 1071,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/registradora/azul"
+                }
+            },
+            {
+                "threshold": 1072,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/registradora/marrom"
+                }
+            },
+            {
+                "threshold": 1073,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/registradora/ciana"
+                }
+            },
+            {
+                "threshold": 1074,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/registradora/verde"
+                }
+            },
+            {
+                "threshold": 1075,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/registradora/laranja"
+                }
+            },
+            {
+                "threshold": 1076,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/registradora/rosa"
+                }
+            },
+            {
+                "threshold": 1077,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/registradora/vermelha"
+                }
+            },
+            {
+                "threshold": 1078,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:lojas/registradora/amarela"
+                }
+            },
+            {
+                "threshold": 1079,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/pizza_quadro_1"
+                }
+            },
+            {
+                "threshold": 1080,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/pizza_quadro_2"
+                }
+            },
+            {
+                "threshold": 1081,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/painel_digital"
+                }
+            },
+            {
+                "threshold": 1082,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/pizza_tapete"
+                }
+            },
+            {
+                "threshold": 1083,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/pizza_poltrona"
+                }
+            },
+            {
+                "threshold": 1084,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/pizza_cadeira"
+                }
+            },
+            {
+                "threshold": 1085,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/pizza_cardapio"
+                }
+            },
+            {
+                "threshold": 1086,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/pizza_pintura"
+                }
+            },
+            {
+                "threshold": 1087,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/pizza_marguerita"
+                }
+            },
+            {
+                "threshold": 1088,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/pizza_pepperoni"
+                }
+            },
+            {
+                "threshold": 1089,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/pizza_caixas"
+                }
+            },
+            {
+                "threshold": 1090,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/pizza_forno"
+                }
+            },
+            {
+                "threshold": 1091,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/pizza_vaso"
+                }
+            },
+            {
+                "threshold": 1092,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/pizza_sofa"
+                }
+            },
+            {
+                "threshold": 1093,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/pizza_outdoor"
+                }
+            },
+            {
+                "threshold": 1094,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/pizza_mesa_1"
+                }
+            },
+            {
+                "threshold": 1095,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/pizza_mesa_2"
+                }
+            },
+            {
+                "threshold": 1096,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/pizza_bancada"
+                }
+            },
+            {
+                "threshold": 1097,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/pizza_estufa"
+                }
+            },
+            {
+                "threshold": 1098,
+                "model": {
+                    "type": "model",
+                    "model": "ausmoveis:pizzaria/pizza_balcao"
+                }
+            },
+            {
+                "threshold": 3000,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:objetos/aviao"
+                }
+            },
+            {
+                "threshold": 3001,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:objetos/ovo_pascoa_1"
+                }
+            },
+            {
+                "threshold": 3002,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:objetos/ovo_pascoa_2"
+                }
+            },
+            {
+                "threshold": 3003,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:objetos/ovo_pascoa_3"
+                }
+            },
+            {
+                "threshold": 3004,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:objetos/vassoura"
+                }
+            },
+            {
+                "threshold": 3005,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:objetos/barril"
+                }
+            },
+            {
+                "threshold": 3006,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:objetos/canhao"
+                }
+            },
+            {
+                "threshold": 3007,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:objetos/carroca"
+                }
+            },
+            {
+                "threshold": 3008,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:objetos/catapulta"
+                }
+            },
+            {
+                "threshold": 3009,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:objetos/carrocatrigo"
+                }
+            },
+            {
+                "threshold": 3010,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:objetos/lampiao1"
+                }
+            },
+            {
+                "threshold": 3011,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:objetos/lampiao2"
+                }
+            },
+            {
+                "threshold": 4000,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:portais/azul"
+                }
+            },
+            {
+                "threshold": 4001,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:portais/amarelo"
+                }
+            },
+            {
+                "threshold": 4003,
+                "model": {
+                    "type": "model",
+                    "model": "ausobjs:portais/vermelho"
+                }
+            },
+            {
+                "threshold": 4004,
+                "model": {
+                    "type": "model",
+                    "model": "item/feather"
+                }
+            }
+        ]
+    },
+    "display": {
+        "head": {
+            "rotation": [
+                0,
+                0,
+                45
+            ],
+            "translation": [
+                -1,
+                13,
+                7
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        }
+    }
+}

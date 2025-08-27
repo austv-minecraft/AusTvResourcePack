@@ -1,43 +1,82 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": { "layer0": "minecraft:item/wheat_seeds" },
-  "overrides": [
-    {
-      "predicate": { "custom_model_data": 10000 },
-      "model": "ausgourmet:semente_rabanete"
-    },
-    {
-      "predicate": { "custom_model_data": 10001 },
-      "model": "ausgourmet:semente_tomate"
-    },
-    {
-      "predicate": { "custom_model_data": 10002 },
-      "model": "ausgourmet:semente_pimentao"
-    },
-    {
-      "predicate": { "custom_model_data": 10003 },
-      "model": "ausgourmet:semente_milho"
-    },
-    {
-      "predicate": { "custom_model_data": 10004 },
-      "model": "ausgourmet:semente_alho"
-    },
-    {
-      "predicate": { "custom_model_data": 10005 },
-      "model": "ausgourmet:semente_arroz"
-    },
-    {
-      "predicate": { "custom_model_data": 10006 },
-      "model": "ausgourmet:semente_abobrinha"
-    },
-    {
-      "predicate": { "custom_model_data": 10007 },
-      "model": "ausgourmet:semente_berinjela"
-    },
-    {
-      "predicate": { "custom_model_data": 10008 },
-      "model": "ausgourmet:semente_amendoim"
-    },
-    { "predicate": { "custom_model_data": 10009 }, "model": "item/wheat_seeds" }
-  ]
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/wheat_seeds"
+        },
+        "entries": [
+            {
+                "threshold": 10000,
+                "model": {
+                    "type": "model",
+                    "model": "ausgourmet:semente_rabanete"
+                }
+            },
+            {
+                "threshold": 10001,
+                "model": {
+                    "type": "model",
+                    "model": "ausgourmet:semente_tomate"
+                }
+            },
+            {
+                "threshold": 10002,
+                "model": {
+                    "type": "model",
+                    "model": "ausgourmet:semente_pimentao"
+                }
+            },
+            {
+                "threshold": 10003,
+                "model": {
+                    "type": "model",
+                    "model": "ausgourmet:semente_milho"
+                }
+            },
+            {
+                "threshold": 10004,
+                "model": {
+                    "type": "model",
+                    "model": "ausgourmet:semente_alho"
+                }
+            },
+            {
+                "threshold": 10005,
+                "model": {
+                    "type": "model",
+                    "model": "ausgourmet:semente_arroz"
+                }
+            },
+            {
+                "threshold": 10006,
+                "model": {
+                    "type": "model",
+                    "model": "ausgourmet:semente_abobrinha"
+                }
+            },
+            {
+                "threshold": 10007,
+                "model": {
+                    "type": "model",
+                    "model": "ausgourmet:semente_berinjela"
+                }
+            },
+            {
+                "threshold": 10008,
+                "model": {
+                    "type": "model",
+                    "model": "ausgourmet:semente_amendoim"
+                }
+            },
+            {
+                "threshold": 10009,
+                "model": {
+                    "type": "model",
+                    "model": "item/wheat_seeds"
+                }
+            }
+        ]
+    }
 }

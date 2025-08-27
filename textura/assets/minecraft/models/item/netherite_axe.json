@@ -1,93 +1,600 @@
 {
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "item/netherite_axe"
-	},
-	
-	"overrides": [
-		{"predicate": {"custom_model_data":2}, "model": "skins/_misc/machado/silver"},
-		{"predicate": {"custom_model_data":4}, "model": "skins/_misc/machado/end"},
-		{"predicate": {"custom_model_data":6}, "model": "skins/_misc/machado/royalgd"},
-		{"predicate": {"custom_model_data":7}, "model": "skins/_misc/machado/aspar"},
-		{"predicate": {"custom_model_data":8}, "model": "skins/_misc/machado/darkon"},
-		{"predicate": {"custom_model_data":9}, "model": "skins/_misc/machado/fatiada"},
-		{"predicate": {"custom_model_data":10}, "model": "skins/_misc/machado/smart"},
-		{"predicate": {"custom_model_data":11}, "model": "skins/_misc/machado/escuro"},
-		{"predicate": {"custom_model_data":12}, "model": "skins/_misc/machado/fabulant"},
-		{"predicate": {"custom_model_data":13}, "model": "skins/_misc/machado/cleaver"},
-		{"predicate": {"custom_model_data":14}, "model": "skins/_misc/machado/luminous"},
-		{"predicate": {"custom_model_data":15}, "model": "skins/_misc/machado/lost"},
-		{"predicate": {"custom_model_data":16}, "model": "skins/_misc/machado/relics"},
-		{"predicate": {"custom_model_data":17}, "model": "skins/_misc/machado/emerald"},
-		{"predicate": {"custom_model_data":18}, "model": "skins/_misc/machado/piercing"},
-		{"predicate": {"custom_model_data":21}, "model": "skins/_misc/machado/reforged"},
-		{"predicate": {"custom_model_data":22}, "model": "skins/_misc/machado/nether"},
-		{"predicate": {"custom_model_data":23}, "model": "skins/_misc/machado/blood"},
-		{"predicate": {"custom_model_data":24}, "model": "skins/_misc/machado/ardent"},
-		{"predicate": {"custom_model_data":25}, "model": "skins/_misc/machado/bright"},
-		{"predicate": {"custom_model_data":26}, "model": "skins/_misc/machado/destroy"},
-		{"predicate": {"custom_model_data":27}, "model": "skins/_misc/machado/glacial"},
-		{"predicate": {"custom_model_data":28}, "model": "skins/_misc/machado/necro"},
-		{"predicate": {"custom_model_data":29}, "model": "skins/_misc/machado/vanguard"},
-		{"predicate": {"custom_model_data":30}, "model": "skins/_misc/machado/cold"},
-		{"predicate": {"custom_model_data":31}, "model": "skins/_misc/machado/sangue"},
-		{"predicate": {"custom_model_data":32}, "model": "skins/_misc/machado/classic"},
-		{"predicate": {"custom_model_data":33}, "model": "skins/_misc/machado/shredded"},
-		{"predicate": {"custom_model_data":34}, "model": "skins/_misc/machado/daedalus"},
-		{"predicate": {"custom_model_data":35}, "model": "skins/_misc/machado/1"},
-		{"predicate": {"custom_model_data":36}, "model": "skins/_misc/machado/2"},
-		{"predicate": {"custom_model_data":38}, "model": "skins/pascoa_22/machado"},
-		{"predicate": {"custom_model_data":39}, "model": "skins/miau/machado"},
-		{"predicate": {"custom_model_data":40}, "model": "skins/namorados_22/machado"},
-		{"predicate": {"custom_model_data":41}, "model": "skins/tormenta/machado"},
-		{"predicate": {"custom_model_data":42}, "model": "skins/glacial/machado"},
-		{"predicate": {"custom_model_data":43}, "model": "skins/primavera/v1/machado"},
-		{"predicate": {"custom_model_data":44}, "model": "skins/criancada_22/machado"},
-		{"predicate": {"custom_model_data":45}, "model": "skins/assombrada/machado"},
-		{"predicate": {"custom_model_data":46}, "model": "skins/copa_22/machado"},
-		{"predicate": {"custom_model_data":47}, "model": "skins/natal/machado"},
-		{"predicate": {"custom_model_data":48}, "model": "skins/niver_aus/1/machado_1"},
-		{"predicate": {"custom_model_data":49}, "model": "skins/niver_aus/1/machado_2"},
-		{"predicate": {"custom_model_data":50}, "model": "skins/carnavaus/machado"},
-		{"predicate": {"custom_model_data":51}, "model": "skins/reborn/machado_1"},
-		{"predicate": {"custom_model_data":52}, "model": "skins/reborn/machado_2"},
-		{"predicate": {"custom_model_data":53}, "model": "skins/pascoa/machado_1"},
-		{"predicate": {"custom_model_data":54}, "model": "skins/pascoa/machado_2"},
-		{"predicate": {"custom_model_data":55}, "model": "skins/prestigio/machado"},
-		{"predicate": {"custom_model_data":56}, "model": "skins/insurgente/machado_1"},
-		{"predicate": {"custom_model_data":57}, "model": "skins/insurgente/machado_2"},
-		{"predicate": {"custom_model_data":58}, "model": "skins/namorados/machado_1"},
-		{"predicate": {"custom_model_data":59}, "model": "skins/namorados/machado_2"},
-		{"predicate": {"custom_model_data":60}, "model": "skins/oriental/machado"},
-		{"predicate": {"custom_model_data":61}, "model": "skins/glacial_negra/mach_1"},
-		{"predicate": {"custom_model_data":62}, "model": "skins/glacial_negra/mach_2"},
-		{"predicate": {"custom_model_data":63}, "model": "skins/primavera/v2/machado"},
-		{"predicate": {"custom_model_data":64}, "model": "skins/desordem/machado_1"},
-		{"predicate": {"custom_model_data":65}, "model": "skins/desordem/machado_2"},
-		{"predicate": {"custom_model_data":66}, "model": "skins/celestial/1/machado_1"},
-		{"predicate": {"custom_model_data":67}, "model": "skins/celestial/1/machado_2"},
-		{"predicate": {"custom_model_data":68}, "model": "skins/celestial/2/machado_1"},
-		{"predicate": {"custom_model_data":69}, "model": "skins/celestial/2/machado_2"},
-		{"predicate": {"custom_model_data":70}, "model": "skins/verao/machado_1"},
-		{"predicate": {"custom_model_data":71}, "model": "skins/verao/machado_2"},
-		{"predicate": {"custom_model_data":72}, "model": "skins/carnavaus/machado_2"},
-		{"predicate": {"custom_model_data":73}, "model": "skins/outono/machado_1"},
-		{"predicate": {"custom_model_data":74}, "model": "skins/espectro/machado_1"},
-		{"predicate": {"custom_model_data":75}, "model": "skins/espectro/machado_2"},
-		{"predicate": {"custom_model_data":76}, "model": "skins/ruina/machado_1"},
-		{"predicate": {"custom_model_data":77}, "model": "skins/ruina/machado_2"},
-		{"predicate": {"custom_model_data":78}, "model": "skins/abelha/machado"},
-		{"predicate": {"custom_model_data":79}, "model": "skins/inverno/machado"},
-		{"predicate": {"custom_model_data":80}, "model": "skins/inverno/machado_2"},
-		{"predicate": {"custom_model_data":81}, "model": "skins/calamidade/machado"},
-		{"predicate": {"custom_model_data":82}, "model": "skins/calamidade/machado_2"},
-		{"predicate": {"custom_model_data":83}, "model": "skins/deuses/machado"},
-		{"predicate": {"custom_model_data":84}, "model": "skins/deuses/machado_2"},
-		{"predicate": {"custom_model_data":85}, "model": "skins/natal24/machado"},
-		{"predicate": {"custom_model_data":86}, "model": "skins/natal24/machado_2"},
-		{"predicate": {"custom_model_data":87}, "model": "skins/_misc/machado/detonar"},
-		{"predicate": {"custom_model_data":88}, "model": "skins/_misc/machado/gorila_machado"},
-		{"predicate": {"custom_model_data":89}, "model": "skins/_misc/machado/petra"},
-		{"predicate": {"custom_model_data":90}, "model": "skins/end/machado"}
-	]
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/netherite_axe"
+        },
+        "entries": [
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/silver"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/end"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/royalgd"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/aspar"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/darkon"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/fatiada"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/smart"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/escuro"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/fabulant"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/cleaver"
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/luminous"
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/lost"
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/relics"
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/emerald"
+                }
+            },
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/piercing"
+                }
+            },
+            {
+                "threshold": 21,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/reforged"
+                }
+            },
+            {
+                "threshold": 22,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/nether"
+                }
+            },
+            {
+                "threshold": 23,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/blood"
+                }
+            },
+            {
+                "threshold": 24,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/ardent"
+                }
+            },
+            {
+                "threshold": 25,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/bright"
+                }
+            },
+            {
+                "threshold": 26,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/destroy"
+                }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/glacial"
+                }
+            },
+            {
+                "threshold": 28,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/necro"
+                }
+            },
+            {
+                "threshold": 29,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/vanguard"
+                }
+            },
+            {
+                "threshold": 30,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/cold"
+                }
+            },
+            {
+                "threshold": 31,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/sangue"
+                }
+            },
+            {
+                "threshold": 32,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/classic"
+                }
+            },
+            {
+                "threshold": 33,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/shredded"
+                }
+            },
+            {
+                "threshold": 34,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/daedalus"
+                }
+            },
+            {
+                "threshold": 35,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/1"
+                }
+            },
+            {
+                "threshold": 36,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/2"
+                }
+            },
+            {
+                "threshold": 38,
+                "model": {
+                    "type": "model",
+                    "model": "skins/pascoa_22/machado"
+                }
+            },
+            {
+                "threshold": 39,
+                "model": {
+                    "type": "model",
+                    "model": "skins/miau/machado"
+                }
+            },
+            {
+                "threshold": 40,
+                "model": {
+                    "type": "model",
+                    "model": "skins/namorados_22/machado"
+                }
+            },
+            {
+                "threshold": 41,
+                "model": {
+                    "type": "model",
+                    "model": "skins/tormenta/machado"
+                }
+            },
+            {
+                "threshold": 42,
+                "model": {
+                    "type": "model",
+                    "model": "skins/glacial/machado"
+                }
+            },
+            {
+                "threshold": 43,
+                "model": {
+                    "type": "model",
+                    "model": "skins/primavera/v1/machado"
+                }
+            },
+            {
+                "threshold": 44,
+                "model": {
+                    "type": "model",
+                    "model": "skins/criancada_22/machado"
+                }
+            },
+            {
+                "threshold": 45,
+                "model": {
+                    "type": "model",
+                    "model": "skins/assombrada/machado"
+                }
+            },
+            {
+                "threshold": 46,
+                "model": {
+                    "type": "model",
+                    "model": "skins/copa_22/machado"
+                }
+            },
+            {
+                "threshold": 47,
+                "model": {
+                    "type": "model",
+                    "model": "skins/natal/machado"
+                }
+            },
+            {
+                "threshold": 48,
+                "model": {
+                    "type": "model",
+                    "model": "skins/niver_aus/1/machado_1"
+                }
+            },
+            {
+                "threshold": 49,
+                "model": {
+                    "type": "model",
+                    "model": "skins/niver_aus/1/machado_2"
+                }
+            },
+            {
+                "threshold": 50,
+                "model": {
+                    "type": "model",
+                    "model": "skins/carnavaus/machado"
+                }
+            },
+            {
+                "threshold": 51,
+                "model": {
+                    "type": "model",
+                    "model": "skins/reborn/machado_1"
+                }
+            },
+            {
+                "threshold": 52,
+                "model": {
+                    "type": "model",
+                    "model": "skins/reborn/machado_2"
+                }
+            },
+            {
+                "threshold": 53,
+                "model": {
+                    "type": "model",
+                    "model": "skins/pascoa/machado_1"
+                }
+            },
+            {
+                "threshold": 54,
+                "model": {
+                    "type": "model",
+                    "model": "skins/pascoa/machado_2"
+                }
+            },
+            {
+                "threshold": 55,
+                "model": {
+                    "type": "model",
+                    "model": "skins/prestigio/machado"
+                }
+            },
+            {
+                "threshold": 56,
+                "model": {
+                    "type": "model",
+                    "model": "skins/insurgente/machado_1"
+                }
+            },
+            {
+                "threshold": 57,
+                "model": {
+                    "type": "model",
+                    "model": "skins/insurgente/machado_2"
+                }
+            },
+            {
+                "threshold": 58,
+                "model": {
+                    "type": "model",
+                    "model": "skins/namorados/machado_1"
+                }
+            },
+            {
+                "threshold": 59,
+                "model": {
+                    "type": "model",
+                    "model": "skins/namorados/machado_2"
+                }
+            },
+            {
+                "threshold": 60,
+                "model": {
+                    "type": "model",
+                    "model": "skins/oriental/machado"
+                }
+            },
+            {
+                "threshold": 61,
+                "model": {
+                    "type": "model",
+                    "model": "skins/glacial_negra/mach_1"
+                }
+            },
+            {
+                "threshold": 62,
+                "model": {
+                    "type": "model",
+                    "model": "skins/glacial_negra/mach_2"
+                }
+            },
+            {
+                "threshold": 63,
+                "model": {
+                    "type": "model",
+                    "model": "skins/primavera/v2/machado"
+                }
+            },
+            {
+                "threshold": 64,
+                "model": {
+                    "type": "model",
+                    "model": "skins/desordem/machado_1"
+                }
+            },
+            {
+                "threshold": 65,
+                "model": {
+                    "type": "model",
+                    "model": "skins/desordem/machado_2"
+                }
+            },
+            {
+                "threshold": 66,
+                "model": {
+                    "type": "model",
+                    "model": "skins/celestial/1/machado_1"
+                }
+            },
+            {
+                "threshold": 67,
+                "model": {
+                    "type": "model",
+                    "model": "skins/celestial/1/machado_2"
+                }
+            },
+            {
+                "threshold": 68,
+                "model": {
+                    "type": "model",
+                    "model": "skins/celestial/2/machado_1"
+                }
+            },
+            {
+                "threshold": 69,
+                "model": {
+                    "type": "model",
+                    "model": "skins/celestial/2/machado_2"
+                }
+            },
+            {
+                "threshold": 70,
+                "model": {
+                    "type": "model",
+                    "model": "skins/verao/machado_1"
+                }
+            },
+            {
+                "threshold": 71,
+                "model": {
+                    "type": "model",
+                    "model": "skins/verao/machado_2"
+                }
+            },
+            {
+                "threshold": 72,
+                "model": {
+                    "type": "model",
+                    "model": "skins/carnavaus/machado_2"
+                }
+            },
+            {
+                "threshold": 73,
+                "model": {
+                    "type": "model",
+                    "model": "skins/outono/machado_1"
+                }
+            },
+            {
+                "threshold": 74,
+                "model": {
+                    "type": "model",
+                    "model": "skins/espectro/machado_1"
+                }
+            },
+            {
+                "threshold": 75,
+                "model": {
+                    "type": "model",
+                    "model": "skins/espectro/machado_2"
+                }
+            },
+            {
+                "threshold": 76,
+                "model": {
+                    "type": "model",
+                    "model": "skins/ruina/machado_1"
+                }
+            },
+            {
+                "threshold": 77,
+                "model": {
+                    "type": "model",
+                    "model": "skins/ruina/machado_2"
+                }
+            },
+            {
+                "threshold": 78,
+                "model": {
+                    "type": "model",
+                    "model": "skins/abelha/machado"
+                }
+            },
+            {
+                "threshold": 79,
+                "model": {
+                    "type": "model",
+                    "model": "skins/inverno/machado"
+                }
+            },
+            {
+                "threshold": 80,
+                "model": {
+                    "type": "model",
+                    "model": "skins/inverno/machado_2"
+                }
+            },
+            {
+                "threshold": 81,
+                "model": {
+                    "type": "model",
+                    "model": "skins/calamidade/machado"
+                }
+            },
+            {
+                "threshold": 82,
+                "model": {
+                    "type": "model",
+                    "model": "skins/calamidade/machado_2"
+                }
+            },
+            {
+                "threshold": 83,
+                "model": {
+                    "type": "model",
+                    "model": "skins/deuses/machado"
+                }
+            },
+            {
+                "threshold": 84,
+                "model": {
+                    "type": "model",
+                    "model": "skins/deuses/machado_2"
+                }
+            },
+            {
+                "threshold": 85,
+                "model": {
+                    "type": "model",
+                    "model": "skins/natal24/machado"
+                }
+            },
+            {
+                "threshold": 86,
+                "model": {
+                    "type": "model",
+                    "model": "skins/natal24/machado_2"
+                }
+            },
+            {
+                "threshold": 87,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/detonar"
+                }
+            },
+            {
+                "threshold": 88,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/gorila_machado"
+                }
+            },
+            {
+                "threshold": 89,
+                "model": {
+                    "type": "model",
+                    "model": "skins/_misc/machado/petra"
+                }
+            },
+            {
+                "threshold": 90,
+                "model": {
+                    "type": "model",
+                    "model": "skins/end/machado"
+                }
+            }
+        ]
+    }
 }

@@ -1,14 +1,19 @@
 {
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "block/jigsaw"
-	},
-
-	"overrides": [
-		{ "predicate": { "custom_model_data": 0 }, "model": "block/jigsaw" }
-
-
-
-
-	]
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "block/jigsaw"
+        },
+        "entries": [
+            {
+                "threshold": 0,
+                "model": {
+                    "type": "model",
+                    "model": "block/jigsaw"
+                }
+            }
+        ]
+    }
 }

@@ -1,152 +1,290 @@
 {
-  "parent": "item/handheld_rod",
-  "textures": { "layer0": "item/fishing_rod" },
-  "overrides": [
-    { "predicate": { "cast": 1 }, "model": "item/fishing_rod_cast" },
-    {
-      "predicate": { "custom_model_data": 10001 },
-      "model": "ausskins:vara_shredder"
-    },
-    {
-      "predicate": { "cast": 1, "custom_model_data": 10001 },
-      "model": "ausskins:vara_shredder_cast"
-    },
-    {
-      "predicate": { "custom_model_data": 10002 },
-      "model": "ausskins:vara_sponge"
-    },
-    {
-      "predicate": { "cast": 1, "custom_model_data": 10002 },
-      "model": "ausskins:vara_sponge_cast"
-    },
-    {
-      "predicate": { "custom_model_data": 10003 },
-      "model": "ausskins:vara_farmers"
-    },
-    {
-      "predicate": { "cast": 1, "custom_model_data": 10003 },
-      "model": "ausskins:vara_farmers_cast"
-    },
-    {
-      "predicate": { "custom_model_data": 10004 },
-      "model": "ausskins:vara_criancas_22"
-    },
-    {
-      "predicate": { "cast": 1, "custom_model_data": 10004 },
-      "model": "ausskins:vara_criancas_22_cast"
-    },
-    {
-      "predicate": { "custom_model_data": 10005 },
-      "model": "ausskins:vara_um_ano_aus"
-    },
-    {
-      "predicate": { "cast": 1, "custom_model_data": 10005 },
-      "model": "ausskins:vara_um_ano_aus_cast"
-    },
-    {
-      "predicate": { "custom_model_data": 10008 },
-      "model": "ausskins:vara_carnavaus"
-    },
-    {
-      "predicate": { "cast": 1, "custom_model_data": 10008 },
-      "model": "ausskins:vara_carnavaus_cast"
-    },
-    {
-      "predicate": { "custom_model_data": 10009 },
-      "model": "ausskins:vara_insurgente"
-    },
-    {
-      "predicate": { "cast": 1, "custom_model_data": 10009 },
-      "model": "ausskins:vara_insurgente_cast"
-    },
-    {
-      "predicate": { "custom_model_data": 10010 },
-      "model": "ausskins:vara_namorados"
-    },
-    {
-      "predicate": { "cast": 1, "custom_model_data": 10010 },
-      "model": "ausskins:vara_namorados_cast"
-    },
-    {
-      "predicate": { "custom_model_data": 10011 },
-      "model": "ausskins:vara_bambu"
-    },
-    {
-      "predicate": { "cast": 1, "custom_model_data": 10011 },
-      "model": "ausskins:vara_bambu_cast"
-    },
-    {
-      "predicate": { "custom_model_data": 10012 },
-      "model": "ausskins:vara_celestial"
-    },
-    {
-      "predicate": { "cast": 1, "custom_model_data": 10012 },
-      "model": "ausskins:vara_celestial_cast"
-    },
-    {
-      "predicate": { "custom_model_data": 10013 },
-      "model": "ausskins:vara_celestial_v2"
-    },
-    {
-      "predicate": { "cast": 1, "custom_model_data": 10013 },
-      "model": "ausskins:vara_celestial_v2_cast"
-    },
-    {
-      "predicate": { "custom_model_data": 10014 },
-      "model": "ausskins:vara_outono"
-    },
-    {
-      "predicate": { "cast": 1, "custom_model_data": 10014 },
-      "model": "ausskins:vara_outono_cast"
-    },
-    {
-      "predicate": { "custom_model_data": 10015 },
-      "model": "ausskins:vara_ruina"
-    },
-    {
-      "predicate": { "cast": 1, "custom_model_data": 10015 },
-      "model": "ausskins:vara_ruina_cast"
-    },
-    {
-      "predicate": { "custom_model_data": 10016 },
-      "model": "ausskins:vara_pascoa_22"
-    },
-    {
-      "predicate": { "cast": 1, "custom_model_data": 10016 },
-      "model": "ausskins:vara_pascoa_22_cast"
-    },
-    {
-      "predicate": { "custom_model_data": 10017 },
-      "model": "ausskins:vara_inverno"
-    },
-    {
-      "predicate": { "cast": 1, "custom_model_data": 10017 },
-      "model": "ausskins:vara_inverno_cast"
-    },
-    {
-      "predicate": { "custom_model_data": 10018 },
-      "model": "ausskins:vara_calamidade"
-    },
-    {
-      "predicate": { "cast": 1, "custom_model_data": 10018 },
-      "model": "ausskins:vara_calamidade_cast"
-    },
-    {
-      "predicate": { "custom_model_data": 10019 },
-      "model": "ausskins:vara_natal_24"
-    },
-    {
-      "predicate": { "cast": 1, "custom_model_data": 10019 },
-      "model": "ausskins:vara_natal_24_cast"
-    },
-    {
-      "predicate": { "custom_model_data": 10020 },
-      "model": "ausskins:vara_verao"
-    },
-    {
-      "predicate": { "cast": 1, "custom_model_data": 10020 },
-      "model": "ausskins:vara_verao_cast"
-    },
-    { "predicate": { "custom_model_data": 10021 }, "model": "item/fishing_rod" }
-  ]
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:fishing_rod/cast",
+            "on_false": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/fishing_rod"
+            },
+            "on_true": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/fishing_rod_cast"
+            }
+        },
+        "entries": [
+            {
+                "threshold": 10001,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_shredder"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_shredder_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 10002,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_sponge"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_sponge_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 10003,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_farmers"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_farmers_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 10004,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_criancas_22"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_criancas_22_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 10005,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_um_ano_aus"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_um_ano_aus_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 10008,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_carnavaus"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_carnavaus_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 10009,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_insurgente"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_insurgente_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 10010,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_namorados"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_namorados_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 10011,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_bambu"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_bambu_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 10012,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_celestial"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_celestial_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 10013,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_celestial_v2"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_celestial_v2_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 10014,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_outono"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_outono_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 10015,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_ruina"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_ruina_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 10016,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_pascoa_22"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_pascoa_22_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 10017,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_inverno"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_inverno_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 10018,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_calamidade"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_calamidade_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 10019,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_natal_24"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_natal_24_cast"
+                    }
+                }
+            },
+            {
+                "threshold": 10020,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_verao"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "ausskins:vara_verao_cast"
+                    }
+                }
+            }
+        ]
+    }
 }
