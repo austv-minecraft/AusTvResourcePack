@@ -39,3 +39,4 @@ jobs:
             target/geyser_mappings.json
             target/scratch_files.zip
             config.json
+          retention-days: 1
