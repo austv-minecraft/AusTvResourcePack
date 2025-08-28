@@ -426,7 +426,8 @@
       { "threshold": 50123, "model": { "type": "model", "model": "gui/emblema/b/pet_rosa" } },
       { "threshold": 50124, "model": { "type": "model", "model": "gui/caixas/icon_seta_esquerda" } },
       { "threshold": 50125, "model": { "type": "model", "model": "gui/caixas/icon_seta_direita"} },
-      { "threshold": 50126, "model": { "type": "model", "model": "item/diamond"} }
+      { "threshold": 50126, "model": { "type": "model", "model": "gui/caixas/icon_seta_cima"} },
+      { "threshold": 50127, "model": { "type": "model", "model": "item/diamond"} }  
     ]
   },
   "oversized_in_gui": true

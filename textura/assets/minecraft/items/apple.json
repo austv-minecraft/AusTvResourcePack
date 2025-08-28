@@ -53,11 +53,7 @@
       },
       {
         "threshold": 10007,
-        "model": {
-          "type": "model",
-          "model": "austv_itens:maca_caramelizada"
-        }
-      },
+        "model": { "type": "model", "model": "austv_itens:maca_caramelizada"} },
       {
         "threshold": 10009,
         "model": { "type": "model", "model": "austv_itens:pacoca" }
