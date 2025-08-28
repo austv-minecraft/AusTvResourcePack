@@ -425,7 +425,8 @@
       { "threshold": 50122, "model": { "type": "model", "model": "gui/emblema/b/passe_pascoa" } },
       { "threshold": 50123, "model": { "type": "model", "model": "gui/emblema/b/pet_rosa" } },
       { "threshold": 50124, "model": { "type": "model", "model": "gui/caixas/icon_seta_esquerda" } },
-      { "threshold": 50125, "model": { "type": "model", "model": "gui/caixas/icon_seta_direita"} }
+      { "threshold": 50125, "model": { "type": "model", "model": "gui/caixas/icon_seta_direita"} },
+      { "threshold": 50126, "model": { "type": "model", "model": "item/diamond"} }
     ]
   },
   "oversized_in_gui": true
