@@ -1,0 +1,377 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:condition",
+      "on_false": {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/crossbow_arrow"
+            },
+            "when": "arrow"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/crossbow_firework"
+            },
+            "when": "rocket"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/crossbow"
+        },
+        "property": "minecraft:charge_type"
+      },
+      "on_true": {
+        "type": "minecraft:range_dispatch",
+        "entries": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/crossbow_pulling_1"
+            },
+            "threshold": 0.58
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/crossbow_pulling_2"
+            },
+            "threshold": 1.0
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/crossbow_pulling_0"
+        },
+        "property": "minecraft:crossbow/pull"
+      },
+      "property": "minecraft:using_item"
+    },
+    "entries": [
+      {
+        "threshold": 10000,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:select",
+            "cases": [
+              {
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_um_ano_aus_charged"
+                },
+                "when": "arrow"
+              },
+              {
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_um_ano_aus_firework"
+                },
+                "when": "rocket"
+              }
+            ],
+            "fallback": {
+              "type": "model",
+              "model": "ausskins:besta_um_ano_aus"
+            },
+            "property": "minecraft:charge_type",
+            "model": "ausskins:besta_um_ano_aus"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.58,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_um_ano_aus_1"
+                }
+              },
+              {
+                "threshold": 1.0,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_um_ano_aus_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:besta_um_ano_aus"
+            },
+            "property": "minecraft:crossbow/pull"
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10001,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:select",
+            "cases": [
+              {
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_namorados_22_charged"
+                },
+                "when": "arrow"
+              },
+              {
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_namorados_22_firework"
+                },
+                "when": "rocket"
+              }
+            ],
+            "fallback": {
+              "type": "model",
+              "model": "ausskins:besta_namorados_22"
+            },
+            "property": "minecraft:charge_type",
+            "model": "ausskins:besta_namorados_22"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.58,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_namorados_22_1"
+                }
+              },
+              {
+                "threshold": 1.0,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_namorados_22_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:besta_namorados_22"
+            },
+            "property": "minecraft:crossbow/pull"
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10002,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:select",
+            "cases": [
+              {
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_natal_charged"
+                },
+                "when": "arrow"
+              },
+              {
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_natal_firework"
+                },
+                "when": "rocket"
+              }
+            ],
+            "fallback": {
+              "type": "model",
+              "model": "ausskins:besta_natal"
+            },
+            "property": "minecraft:charge_type",
+            "model": "ausskins:besta_natal"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.58,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_natal_1"
+                }
+              },
+              {
+                "threshold": 1.0,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_natal_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:besta_natal"
+            },
+            "property": "minecraft:crossbow/pull"
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10003,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:select",
+            "cases": [
+              {
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_calamidade_charged"
+                },
+                "when": "arrow"
+              },
+              {
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_calamidade_firework"
+                },
+                "when": "rocket"
+              }
+            ],
+            "fallback": {
+              "type": "model",
+              "model": "ausskins:besta_calamidade"
+            },
+            "property": "minecraft:charge_type",
+            "model": "ausskins:besta_calamidade"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.58,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_calamidade_1"
+                }
+              },
+              {
+                "threshold": 1.0,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_calamidade_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:besta_calamidade"
+            },
+            "property": "minecraft:crossbow/pull"
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10004,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:select",
+            "cases": [
+              {
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_verao_charged"
+                },
+                "when": "arrow"
+              },
+              {
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_verao_firework"
+                },
+                "when": "rocket"
+              }
+            ],
+            "fallback": {
+              "type": "model",
+              "model": "ausskins:besta_verao"
+            },
+            "property": "minecraft:charge_type",
+            "model": "ausskins:besta_verao"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.58,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_verao_1"
+                }
+              },
+              {
+                "threshold": 1.0,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_verao_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:besta_verao"
+            },
+            "property": "minecraft:crossbow/pull"
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10005,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:select",
+            "cases": [
+              {
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "minecraft:item/crossbow_arrow"
+                },
+                "when": "arrow"
+              },
+              {
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "minecraft:item/crossbow_firework"
+                },
+                "when": "rocket"
+              }
+            ],
+            "fallback": { "type": "model", "model": "item/crossbow" },
+            "property": "minecraft:charge_type",
+            "model": "item/crossbow"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [],
+            "fallback": { "type": "minecraft:model", "model": "item/crossbow" },
+            "property": "minecraft:crossbow/pull"
+          },
+          "property": "minecraft:using_item"
+        }
+      }
+    ]
+  },
+  "oversized_in_gui": true
+}

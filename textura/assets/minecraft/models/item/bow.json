@@ -1,0 +1,1207 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:condition",
+      "on_false": { "type": "minecraft:model", "model": "minecraft:item/bow" },
+      "on_true": {
+        "type": "minecraft:range_dispatch",
+        "entries": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/bow_pulling_1"
+            },
+            "threshold": 0.65
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/bow_pulling_2"
+            },
+            "threshold": 0.9
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/bow_pulling_0"
+        },
+        "property": "minecraft:use_duration",
+        "scale": 0.05
+      },
+      "property": "minecraft:using_item"
+    },
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_tormenta"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_tormenta_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_tormenta_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_tormenta_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_glacial_22"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_glacial_22_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_glacial_22_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_glacial_22_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_darknes"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_darknes_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_darknes_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_darknes_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_hoood"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_hoood_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_hoood_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_hoood_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_primavera_v1"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_primavera_v1_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_primavera_v1_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_primavera_v1_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_assombrada"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_assombrada_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_assombrada_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_assombrada_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10002,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_carnavaus"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_carnavaus_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_carnavaus_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_carnavaus_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10004,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_copa_22"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_copa_22_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_copa_22_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_copa_22_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10005,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_natal"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_natal_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_natal_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_natal_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10006,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_um_ano_aus"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_um_ano_aus_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_um_ano_aus_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_um_ano_aus_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10007,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_reborn"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_reborn_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_reborn_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_reborn_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10008,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_pascoa"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_pascoa_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_pascoa_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_pascoa_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10009,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_insurgente"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_insurgente_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_insurgente_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_insurgente_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10010,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_namorados"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_namorados_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_namorados_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_namorados_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10011,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_oriental"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_oriental_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_oriental_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_oriental_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10012,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_pascoa_22"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_pascoa_22_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_pascoa_22_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_pascoa_22_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10013,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_namorados_22"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_namorados_22_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_namorados_22_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_namorados_22_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10014,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_miau"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_miau_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_miau_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_miau_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10015,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_glacial_negra_23"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_glacial_negra_23_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_glacial_negra_23_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_glacial_negra_23_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10016,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_primavera_v2"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_primavera_v2_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_primavera_v2_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_primavera_v2_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10017,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_desordem"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_desordem_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_desordem_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_desordem_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10018,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_celestial"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_celestial_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_celestial_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_celestial_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10019,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_celestial_v2"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_celestial_v2_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_celestial_v2_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_celestial_v2_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10020,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_verao"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_verao_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_verao_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_verao_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10021,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_outono"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_outono_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_outono_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_outono_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10022,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_espectro"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_espectro_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_espectro_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_espectro_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10023,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_ruina"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_ruina_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_ruina_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_ruina_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10024,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_abelhinha"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_abelhinha_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_abelhinha_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_abelhinha_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10025,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_inverno"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_inverno_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_inverno_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_inverno_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10026,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_calamidade"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_calamidade_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_calamidade_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_calamidade_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10027,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_deuses"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_deuses_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_deuses_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_deuses_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10028,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "ausskins:arco_natal24"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.65,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_natal24_1"
+                }
+              },
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:arco_natal24_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:arco_natal24_0"
+            },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10029,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": { "type": "minecraft:model", "model": "item/bow" },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [],
+            "fallback": { "type": "minecraft:model", "model": "item/bow" },
+            "property": "minecraft:use_duration",
+            "scale": 0.05
+          },
+          "property": "minecraft:using_item"
+        }
+      }
+    ]
+  },
+  "oversized_in_gui": true
+}

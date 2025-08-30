@@ -1,0 +1,68 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "index": 0,
+    "fallback": { "type": "minecraft:model", "model": "minecraft:item/apple" },
+    "entries": [
+      {
+        "threshold": 10000,
+        "model": {
+          "type": "model",
+          "model": "austv_itens:biscoito_natal"
+        }
+      },
+      {
+        "threshold": 10001,
+        "model": {
+          "type": "model",
+          "model": "austv_itens:siri_verao"
+        }
+      },
+      {
+        "threshold": 10002,
+        "model": {
+          "type": "model",
+          "model": "austv_itens:ovo_pascoa"
+        }
+      },
+      {
+        "threshold": 10003,
+        "model": {
+          "type": "model",
+          "model": "austv_itens:arroz_doce"
+        }
+      },
+      {
+        "threshold": 10004,
+        "model": { "type": "model", "model": "austv_itens:pipoca" }
+      },
+      {
+        "threshold": 10005,
+        "model": {
+          "type": "model",
+          "model": "austv_itens:bolo_de_fuba"
+        }
+      },
+      {
+        "threshold": 10006,
+        "model": {
+          "type": "model",
+          "model": "austv_itens:maca_dourada_caramelizada"
+        }
+      },
+      {
+        "threshold": 10007,
+        "model": { "type": "model", "model": "austv_itens:maca_caramelizada"} },
+      {
+        "threshold": 10009,
+        "model": { "type": "model", "model": "austv_itens:pacoca" }
+      },
+      {
+        "threshold": 10010,
+        "model": { "type": "model", "model": "item/apple" }
+      }
+    ]
+  },
+  "oversized_in_gui": true
+}

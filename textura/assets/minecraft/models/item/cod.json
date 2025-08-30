@@ -1,0 +1,29 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "item/cod"
+    },
+    "entries": [
+      { "threshold": 1, "model": { "type": "model", "model": "item/cod" } },
+      { "threshold": 2, "model": { "type": "model", "model": "peixes/atum" } },
+      { "threshold": 3, "model": { "type": "model", "model": "peixes/enguia" } },
+      { "threshold": 4, "model": { "type": "model", "model": "peixes/dourado" } },
+      { "threshold": 5, "model": { "type": "model", "model": "peixes/vermelho" } },
+      { "threshold": 6, "model": { "type": "model", "model": "peixes/sardinha" } },
+      { "threshold": 7, "model": { "type": "model", "model": "peixes/nocturno" } },
+      { "threshold": 8, "model": { "type": "model", "model": "peixes/brisa_alvea" } },
+      { "threshold": 9, "model": { "type": "model", "model": "peixes/purpura_aurora" } },
+      { "threshold": 10, "model": { "type": "model", "model": "peixes/jack" } },
+      { "threshold": 11, "model": { "type": "model", "model": "peixes/mick" } },
+      { "threshold": 12, "model": { "type": "model", "model": "peixes/bili_bili" } },
+      { "threshold": 13, "model": { "type": "model", "model": "peixes/clotilde" } },
+      { "threshold": 14, "model": { "type": "model", "model": "peixes/loro_jose" } },
+      { "threshold": 15, "model": { "type": "model", "model": "peixes/raio_de_sol" } },
+      { "threshold": 16, "model": { "type": "model", "model": "peixes/caipira" } }
+    ]
+  }
+}

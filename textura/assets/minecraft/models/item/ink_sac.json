@@ -1,0 +1,33 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/ink_sac"
+        },
+        "entries": [
+            {
+                "threshold": 77312,
+                "model": {
+                    "type": "model",
+                    "model": "item/nocsy/nocsy_otter_icon"
+                }
+            },
+            {
+                "threshold": 77655,
+                "model": {
+                    "type": "model",
+                    "model": "item/nocsy/toffy_witch_icon"
+                }
+            },
+            {
+                "threshold": 73610,
+                "model": {
+                    "type": "model",
+                    "model": "item/nocsy/tofnocsy_husky_icon"
+                }
+            }
+        ]
+    }
+}
