@@ -1,264 +1,45 @@
 {
-    "model": {
-        "type": "range_dispatch",
-        "property": "custom_model_data",
-        "fallback": {
-            "type": "model",
-            "model": "item/netherite_shovel"
-        },
-        "entries": [
-            {
-                "threshold": 1,
-                "model": {
-                    "type": "model",
-                    "model": "skins/_misc/pa/1"
-                }
-            },
-            {
-                "threshold": 2,
-                "model": {
-                    "type": "model",
-                    "model": "skins/_misc/pa/2"
-                }
-            },
-            {
-                "threshold": 3,
-                "model": {
-                    "type": "model",
-                    "model": "skins/_misc/pa/dark"
-                }
-            },
-            {
-                "threshold": 4,
-                "model": {
-                    "type": "model",
-                    "model": "skins/pascoa_22/pa"
-                }
-            },
-            {
-                "threshold": 5,
-                "model": {
-                    "type": "model",
-                    "model": "skins/miau/pa"
-                }
-            },
-            {
-                "threshold": 6,
-                "model": {
-                    "type": "model",
-                    "model": "skins/namorados_22/pa"
-                }
-            },
-            {
-                "threshold": 7,
-                "model": {
-                    "type": "model",
-                    "model": "skins/tormenta/pa"
-                }
-            },
-            {
-                "threshold": 8,
-                "model": {
-                    "type": "model",
-                    "model": "skins/glacial/pa"
-                }
-            },
-            {
-                "threshold": 9,
-                "model": {
-                    "type": "model",
-                    "model": "skins/primavera/v1/pa"
-                }
-            },
-            {
-                "threshold": 10,
-                "model": {
-                    "type": "model",
-                    "model": "skins/criancada_22/pa"
-                }
-            },
-            {
-                "threshold": 11,
-                "model": {
-                    "type": "model",
-                    "model": "skins/assombrada/pa"
-                }
-            },
-            {
-                "threshold": 12,
-                "model": {
-                    "type": "model",
-                    "model": "skins/copa_22/pa"
-                }
-            },
-            {
-                "threshold": 13,
-                "model": {
-                    "type": "model",
-                    "model": "skins/natal/pa"
-                }
-            },
-            {
-                "threshold": 14,
-                "model": {
-                    "type": "model",
-                    "model": "skins/niver_aus/1/pa"
-                }
-            },
-            {
-                "threshold": 15,
-                "model": {
-                    "type": "model",
-                    "model": "skins/carnavaus/pa"
-                }
-            },
-            {
-                "threshold": 16,
-                "model": {
-                    "type": "model",
-                    "model": "skins/reborn/pa"
-                }
-            },
-            {
-                "threshold": 17,
-                "model": {
-                    "type": "model",
-                    "model": "skins/pascoa/pa"
-                }
-            },
-            {
-                "threshold": 18,
-                "model": {
-                    "type": "model",
-                    "model": "skins/prestigio/pa"
-                }
-            },
-            {
-                "threshold": 19,
-                "model": {
-                    "type": "model",
-                    "model": "skins/insurgente/pa"
-                }
-            },
-            {
-                "threshold": 20,
-                "model": {
-                    "type": "model",
-                    "model": "skins/namorados/pa"
-                }
-            },
-            {
-                "threshold": 21,
-                "model": {
-                    "type": "model",
-                    "model": "skins/oriental/pa"
-                }
-            },
-            {
-                "threshold": 22,
-                "model": {
-                    "type": "model",
-                    "model": "skins/glacial_negra/pa"
-                }
-            },
-            {
-                "threshold": 23,
-                "model": {
-                    "type": "model",
-                    "model": "skins/primavera/v2/pa"
-                }
-            },
-            {
-                "threshold": 24,
-                "model": {
-                    "type": "model",
-                    "model": "skins/desordem/pa"
-                }
-            },
-            {
-                "threshold": 25,
-                "model": {
-                    "type": "model",
-                    "model": "skins/celestial/1/pa"
-                }
-            },
-            {
-                "threshold": 26,
-                "model": {
-                    "type": "model",
-                    "model": "skins/celestial/2/pa"
-                }
-            },
-            {
-                "threshold": 27,
-                "model": {
-                    "type": "model",
-                    "model": "skins/verao/pa"
-                }
-            },
-            {
-                "threshold": 28,
-                "model": {
-                    "type": "model",
-                    "model": "skins/outono/pa"
-                }
-            },
-            {
-                "threshold": 29,
-                "model": {
-                    "type": "model",
-                    "model": "skins/espectro/pa"
-                }
-            },
-            {
-                "threshold": 30,
-                "model": {
-                    "type": "model",
-                    "model": "skins/ruina/pa"
-                }
-            },
-            {
-                "threshold": 31,
-                "model": {
-                    "type": "model",
-                    "model": "skins/abelha/pa"
-                }
-            },
-            {
-                "threshold": 32,
-                "model": {
-                    "type": "model",
-                    "model": "skins/inverno/pa"
-                }
-            },
-            {
-                "threshold": 33,
-                "model": {
-                    "type": "model",
-                    "model": "skins/calamidade/pa"
-                }
-            },
-            {
-                "threshold": 34,
-                "model": {
-                    "type": "model",
-                    "model": "skins/deuses/pa"
-                }
-            },
-            {
-                "threshold": 35,
-                "model": {
-                    "type": "model",
-                    "model": "skins/natal24/pa"
-                }
-            },
-            {
-                "threshold": 36,
-                "model": {
-                    "type": "model",
-                    "model": "skins/end/pa"
-                }
-            }
-        ]
-    }
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/netherite_shovel"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "skins/_misc/pa/1"},
+		{"predicate": {"custom_model_data":2}, "model": "skins/_misc/pa/2"},
+		{"predicate": {"custom_model_data":3}, "model": "skins/_misc/pa/dark"},
+		{"predicate": {"custom_model_data":4}, "model": "skins/pascoa_22/pa"},
+		{"predicate": {"custom_model_data":5}, "model": "skins/miau/pa"},
+		{"predicate": {"custom_model_data":6}, "model": "skins/namorados_22/pa"},
+		{"predicate": {"custom_model_data":7}, "model": "skins/tormenta/pa"},
+		{"predicate": {"custom_model_data":8}, "model": "skins/glacial/pa"},
+		{"predicate": {"custom_model_data":9}, "model": "skins/primavera/v1/pa"},
+		{"predicate": {"custom_model_data":10}, "model": "skins/criancada_22/pa"},
+		{"predicate": {"custom_model_data":11}, "model": "skins/assombrada/pa"},
+		{"predicate": {"custom_model_data":12}, "model": "skins/copa_22/pa"},
+		{"predicate": {"custom_model_data":13}, "model": "skins/natal/pa"},
+		{"predicate": {"custom_model_data":14}, "model": "skins/niver_aus/1/pa"},
+		{"predicate": {"custom_model_data":15}, "model": "skins/carnavaus/pa"},
+		{"predicate": {"custom_model_data":16}, "model": "skins/reborn/pa"},
+		{"predicate": {"custom_model_data":17}, "model": "skins/pascoa/pa"},
+		{"predicate": {"custom_model_data":18}, "model": "skins/prestigio/pa"},
+		{"predicate": {"custom_model_data":19}, "model": "skins/insurgente/pa"},
+		{"predicate": {"custom_model_data":20}, "model": "skins/namorados/pa"},
+		{"predicate": {"custom_model_data":21}, "model": "skins/oriental/pa"},
+		{"predicate": {"custom_model_data":22}, "model": "skins/glacial_negra/pa"},
+		{"predicate": {"custom_model_data":23}, "model": "skins/primavera/v2/pa"},
+		{"predicate": {"custom_model_data":24}, "model": "skins/desordem/pa"},
+		{"predicate": {"custom_model_data":25}, "model": "skins/celestial/1/pa"},
+		{"predicate": {"custom_model_data":26}, "model": "skins/celestial/2/pa"},
+		{"predicate": {"custom_model_data":27}, "model": "skins/verao/pa"},
+		{"predicate": {"custom_model_data":28}, "model": "skins/outono/pa"},
+		{"predicate": {"custom_model_data":29}, "model": "skins/espectro/pa"},
+		{"predicate": {"custom_model_data":30}, "model": "skins/ruina/pa"},
+		{"predicate": {"custom_model_data":31}, "model": "skins/abelha/pa"},
+		{"predicate": {"custom_model_data":32}, "model": "skins/inverno/pa"},
+		{"predicate": {"custom_model_data":33}, "model": "skins/calamidade/pa"},
+		{"predicate": {"custom_model_data":34}, "model": "skins/deuses/pa"},
+		{"predicate": {"custom_model_data":35}, "model": "skins/natal24/pa"},
+		{"predicate": {"custom_model_data":36}, "model": "skins/end/pa"}
+	]
 }

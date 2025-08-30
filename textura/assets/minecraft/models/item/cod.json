@@ -1,29 +1,25 @@
 {
-  "model": {
-    "type": "range_dispatch",
-    "property": "custom_model_data",
-    "index": 0,
-    "fallback": {
-      "type": "minecraft:model",
-      "model": "item/cod"
-    },
-    "entries": [
-      { "threshold": 1, "model": { "type": "model", "model": "item/cod" } },
-      { "threshold": 2, "model": { "type": "model", "model": "peixes/atum" } },
-      { "threshold": 3, "model": { "type": "model", "model": "peixes/enguia" } },
-      { "threshold": 4, "model": { "type": "model", "model": "peixes/dourado" } },
-      { "threshold": 5, "model": { "type": "model", "model": "peixes/vermelho" } },
-      { "threshold": 6, "model": { "type": "model", "model": "peixes/sardinha" } },
-      { "threshold": 7, "model": { "type": "model", "model": "peixes/nocturno" } },
-      { "threshold": 8, "model": { "type": "model", "model": "peixes/brisa_alvea" } },
-      { "threshold": 9, "model": { "type": "model", "model": "peixes/purpura_aurora" } },
-      { "threshold": 10, "model": { "type": "model", "model": "peixes/jack" } },
-      { "threshold": 11, "model": { "type": "model", "model": "peixes/mick" } },
-      { "threshold": 12, "model": { "type": "model", "model": "peixes/bili_bili" } },
-      { "threshold": 13, "model": { "type": "model", "model": "peixes/clotilde" } },
-      { "threshold": 14, "model": { "type": "model", "model": "peixes/loro_jose" } },
-      { "threshold": 15, "model": { "type": "model", "model": "peixes/raio_de_sol" } },
-      { "threshold": 16, "model": { "type": "model", "model": "peixes/caipira" } }
-    ]
-  }
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/cod"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/cod"},
+		{"predicate": {"custom_model_data":2}, "model": "peixes/atum"},
+		{"predicate": {"custom_model_data":3}, "model": "peixes/enguia"},
+		{"predicate": {"custom_model_data":4}, "model": "peixes/dourado"},
+		{"predicate": {"custom_model_data":5}, "model": "peixes/vermelho"},
+		{"predicate": {"custom_model_data":6}, "model": "peixes/sardinha"},
+		{"predicate": {"custom_model_data":7}, "model": "peixes/nocturno"},
+		{"predicate": {"custom_model_data":8}, "model": "peixes/brisa_alvea"},
+		{"predicate": {"custom_model_data":9}, "model": "peixes/purpura_aurora"},
+		{"predicate": {"custom_model_data":10}, "model": "peixes/jack"},
+		{"predicate": {"custom_model_data":11}, "model": "peixes/mick"},
+		{"predicate": {"custom_model_data":12}, "model": "peixes/bili_bili"},
+		{"predicate": {"custom_model_data":13}, "model": "peixes/clotilde"},
+		{"predicate": {"custom_model_data":14}, "model": "peixes/loro_jose"},
+		{"predicate": {"custom_model_data":15}, "model": "peixes/raio_de_sol"},
+		{"predicate": {"custom_model_data":16}, "model": "peixes/caipira"}
+	]
 }

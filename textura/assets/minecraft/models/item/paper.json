@@ -1,1673 +1,406 @@
 {
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "item/paper"
-  },
-  "model": {
-    "type": "range_dispatch",
-    "property": "custom_model_data",
-    "index": 0,
-    "fallback": {
-      "type": "minecraft:model",
-      "model": "item/paper"
-    },
-    "entries": [
-      {
-        "threshold": 1,
-        "model": { "type": "model", "model": "chapeus/gorro" }
-      },
-      { "threshold": 2, "model": { "type": "model", "model": "chapeus/lula" } },
-      {
-        "threshold": 3,
-        "model": { "type": "model", "model": "chapeus/waffle" }
-      },
-      {
-        "threshold": 4,
-        "model": { "type": "model", "model": "chapeus/sacola" }
-      },
-      {
-        "threshold": 5,
-        "model": { "type": "model", "model": "chapeus/alien" }
-      },
-      {
-        "threshold": 6,
-        "model": { "type": "model", "model": "chapeus/palha" }
-      },
-      {
-        "threshold": 7,
-        "model": { "type": "model", "model": "chapeus/sheriff" }
-      },
-      {
-        "threshold": 8,
-        "model": { "type": "model", "model": "chapeus/witch" }
-      },
-      {
-        "threshold": 9,
-        "model": { "type": "model", "model": "chapeus/headset" }
-      },
-      {
-        "threshold": 10,
-        "model": { "type": "model", "model": "chapeus/horn" }
-      },
-      {
-        "threshold": 11,
-        "model": { "type": "model", "model": "chapeus/esmeralda" }
-      },
-      {
-        "threshold": 12,
-        "model": { "type": "model", "model": "chapeus/arriba" }
-      },
-      {
-        "threshold": 13,
-        "model": { "type": "model", "model": "chapeus/unicorn" }
-      },
-      {
-        "threshold": 14,
-        "model": { "type": "model", "model": "chapeus/cone" }
-      },
-      {
-        "threshold": 15,
-        "model": { "type": "model", "model": "chapeus/police" }
-      },
-      {
-        "threshold": 16,
-        "model": { "type": "model", "model": "chapeus/frog" }
-      },
-      {
-        "threshold": 17,
-        "model": { "type": "model", "model": "chapeus/cigar" }
-      },
-      {
-        "threshold": 18,
-        "model": { "type": "model", "model": "chapeus/3d_glasses" }
-      },
-      { "threshold": 19, "model": { "type": "model", "model": "chapeus/top" } },
-      {
-        "threshold": 20,
-        "model": { "type": "model", "model": "chapeus/mask_gaz" }
-      },
-      {
-        "threshold": 21,
-        "model": { "type": "model", "model": "chapeus/capacete" }
-      },
-      {
-        "threshold": 22,
-        "model": { "type": "model", "model": "chapeus/robot_chicken" }
-      },
-      {
-        "threshold": 23,
-        "model": { "type": "model", "model": "chapeus/jester" }
-      },
-      {
-        "threshold": 24,
-        "model": { "type": "model", "model": "chapeus/crown" }
-      },
-      {
-        "threshold": 25,
-        "model": { "type": "model", "model": "chapeus/oculos_cientista" }
-      },
-      {
-        "threshold": 26,
-        "model": { "type": "model", "model": "chapeus/headband_red" }
-      },
-      {
-        "threshold": 27,
-        "model": { "type": "model", "model": "chapeus/headband_blue" }
-      },
-      {
-        "threshold": 28,
-        "model": { "type": "model", "model": "chapeus/rabbit" }
-      },
-      {
-        "threshold": 29,
-        "model": { "type": "model", "model": "chapeus/elf_ears" }
-      },
-      {
-        "threshold": 30,
-        "model": { "type": "model", "model": "chapeus/sword" }
-      },
-      {
-        "threshold": 31,
-        "model": { "type": "model", "model": "chapeus/mario" }
-      },
-      {
-        "threshold": 32,
-        "model": { "type": "model", "model": "chapeus/luigi" }
-      },
-      {
-        "threshold": 33,
-        "model": { "type": "model", "model": "chapeus/darth_vader" }
-      },
-      {
-        "threshold": 34,
-        "model": { "type": "model", "model": "chapeus/gaules" }
-      },
-      {
-        "threshold": 35,
-        "model": { "type": "model", "model": "chapeus/cat_ears" }
-      },
-      {
-        "threshold": 36,
-        "model": { "type": "model", "model": "chapeus/stormtrooper1" }
-      },
-      {
-        "threshold": 37,
-        "model": { "type": "model", "model": "chapeus/stormtrooper2" }
-      },
-      {
-        "threshold": 38,
-        "model": { "type": "model", "model": "chapeus/devil_horns" }
-      },
-      {
-        "threshold": 39,
-        "model": { "type": "model", "model": "chapeus/panda" }
-      },
-      {
-        "threshold": 40,
-        "model": { "type": "model", "model": "chapeus/pirate" }
-      },
-      {
-        "threshold": 41,
-        "model": { "type": "model", "model": "chapeus/scuba" }
-      },
-      {
-        "threshold": 42,
-        "model": { "type": "model", "model": "chapeus/aureole" }
-      },
-      {
-        "threshold": 43,
-        "model": { "type": "model", "model": "chapeus/mickey" }
-      },
-      {
-        "threshold": 44,
-        "model": { "type": "model", "model": "chapeus/minnie" }
-      },
-      {
-        "threshold": 45,
-        "model": { "type": "model", "model": "chapeus/propellermushroom" }
-      },
-      {
-        "threshold": 46,
-        "model": { "type": "model", "model": "chapeus/barba" }
-      },
-      {
-        "threshold": 47,
-        "model": { "type": "model", "model": "chapeus/cachorro" }
-      },
-      {
-        "threshold": 48,
-        "model": { "type": "model", "model": "chapeus/carneiro" }
-      },
-      {
-        "threshold": 49,
-        "model": { "type": "model", "model": "chapeus/chaves" }
-      },
-      {
-        "threshold": 50,
-        "model": { "type": "model", "model": "chapeus/cirurgiao" }
-      },
-      {
-        "threshold": 51,
-        "model": { "type": "model", "model": "chapeus/cozinheiro" }
-      },
-      {
-        "threshold": 52,
-        "model": { "type": "model", "model": "chapeus/drink" }
-      },
-      {
-        "threshold": 53,
-        "model": { "type": "model", "model": "chapeus/foxy" }
-      },
-      {
-        "threshold": 54,
-        "model": { "type": "model", "model": "chapeus/galinha" }
-      },
-      {
-        "threshold": 55,
-        "model": { "type": "model", "model": "chapeus/goomba" }
-      },
-      {
-        "threshold": 56,
-        "model": { "type": "model", "model": "chapeus/indio" }
-      },
-      {
-        "threshold": 57,
-        "model": { "type": "model", "model": "chapeus/jason" }
-      },
-      {
-        "threshold": 58,
-        "model": { "type": "model", "model": "chapeus/lord_beckett" }
-      },
-      {
-        "threshold": 59,
-        "model": { "type": "model", "model": "chapeus/mandaloriano2" }
-      },
-      {
-        "threshold": 60,
-        "model": { "type": "model", "model": "chapeus/paintball" }
-      },
-      {
-        "threshold": 61,
-        "model": { "type": "model", "model": "chapeus/palhaco" }
-      },
-      {
-        "threshold": 62,
-        "model": { "type": "model", "model": "chapeus/pateta" }
-      },
-      {
-        "threshold": 63,
-        "model": { "type": "model", "model": "chapeus/peter_pan" }
-      },
-      {
-        "threshold": 64,
-        "model": { "type": "model", "model": "chapeus/rena" }
-      },
-      {
-        "threshold": 65,
-        "model": { "type": "model", "model": "chapeus/tapa_olho" }
-      },
-      {
-        "threshold": 66,
-        "model": { "type": "model", "model": "chapeus/toad" }
-      },
-      {
-        "threshold": 67,
-        "model": { "type": "model", "model": "chapeus/tuiuiu" }
-      },
-      {
-        "threshold": 68,
-        "model": { "type": "model", "model": "chapeus/turbante" }
-      },
-      {
-        "threshold": 69,
-        "model": { "type": "model", "model": "chapeus/vikings" }
-      },
-      {
-        "threshold": 70,
-        "model": { "type": "model", "model": "chapeus/yoda" }
-      },
-      {
-        "threshold": 71,
-        "model": { "type": "model", "model": "chapeus/rebelde" }
-      },
-      {
-        "threshold": 72,
-        "model": { "type": "model", "model": "chapeus/konoha" }
-      },
-      {
-        "threshold": 73,
-        "model": { "type": "model", "model": "chapeus/konoha_renegado" }
-      },
-      {
-        "threshold": 74,
-        "model": { "type": "model", "model": "chapeus/coroa_rei" }
-      },
-      {
-        "threshold": 75,
-        "model": { "type": "model", "model": "chapeus/coroa_gelo" }
-      },
-      {
-        "threshold": 76,
-        "model": { "type": "model", "model": "chapeus/valquiria" }
-      },
-      {
-        "threshold": 77,
-        "model": { "type": "model", "model": "chapeus/shark" }
-      },
-      {
-        "threshold": 78,
-        "model": { "type": "model", "model": "skins/pascoa_22/cenoura" }
-      },
-      {
-        "threshold": 79,
-        "model": { "type": "model", "model": "skins/pascoa_22/coelho" }
-      },
-      {
-        "threshold": 80,
-        "model": { "type": "model", "model": "chapeus/azulao" }
-      },
-      {
-        "threshold": 81,
-        "model": { "type": "model", "model": "skins/namorados_22/urso" }
-      },
-      {
-        "threshold": 82,
-        "model": { "type": "model", "model": "skins/niver_aus/6m/cartola" }
-      },
-      {
-        "threshold": 83,
-        "model": { "type": "model", "model": "skins/criancada_22/carrinho" }
-      },
-      {
-        "threshold": 84,
-        "model": { "type": "model", "model": "skins/assombrada/chapeu" }
-      },
-      {
-        "threshold": 85,
-        "model": { "type": "model", "model": "skins/copa_22/chapeu" }
-      },
-      {
-        "threshold": 86,
-        "model": { "type": "model", "model": "skins/natal/rena" }
-      },
-      {
-        "threshold": 87,
-        "model": { "type": "model", "model": "skins/natal/gorro" }
-      },
-      {
-        "threshold": 88,
-        "model": { "type": "model", "model": "skins/natal/bag" }
-      },
-      {
-        "threshold": 89,
-        "model": { "type": "model", "model": "skins/natal/snowman" }
-      },
-      {
-        "threshold": 90,
-        "model": { "type": "model", "model": "skins/carnavaus/chapeu_1" }
-      },
-      {
-        "threshold": 91,
-        "model": { "type": "model", "model": "skins/carnavaus/chapeu_2" }
-      },
-      {
-        "threshold": 92,
-        "model": { "type": "model", "model": "skins/pascoa/cesta" }
-      },
-      {
-        "threshold": 93,
-        "model": { "type": "model", "model": "skins/pascoa/chapeu" }
-      },
-      {
-        "threshold": 94,
-        "model": { "type": "model", "model": "skins/namorados/urso" }
-      },
-      {
-        "threshold": 95,
-        "model": { "type": "model", "model": "skins/namorados/cartola" }
-      },
-      {
-        "threshold": 96,
-        "model": { "type": "model", "model": "skins/arraia/chapeu" }
-      },
-      {
-        "threshold": 97,
-        "model": { "type": "model", "model": "skins/oriental/chapeu" }
-      },
-      {
-        "threshold": 98,
-        "model": { "type": "model", "model": "skins/oriental/katana" }
-      },
-      {
-        "threshold": 99,
-        "model": { "type": "model", "model": "skins/oriental/suporte" }
-      },
-      {
-        "threshold": 500,
-        "model": {
-          "type": "model",
-          "model": "austv_itens:trofeus/doador_primeiro"
-        }
-      },
-      {
-        "threshold": 501,
-        "model": {
-          "type": "model",
-          "model": "austv_itens:trofeus/doador_segundo"
-        }
-      },
-      {
-        "threshold": 502,
-        "model": {
-          "type": "model",
-          "model": "austv_itens:trofeus/doador_terceiro"
-        }
-      },
-      {
-        "threshold": 503,
-        "model": {
-          "type": "model",
-          "model": "austv_itens:trofeus/liga_vencedor"
-        }
-      },
-      {
-        "threshold": 504,
-        "model": {
-          "type": "model",
-          "model": "austv_itens:trofeus/melhor_ajudante"
-        }
-      },
-      {
-        "threshold": 505,
-        "model": {
-          "type": "model",
-          "model": "austv_itens:trofeus/criador_conteudo"
-        }
-      },
-      {
-        "threshold": 506,
-        "model": { "type": "model", "model": "austv_itens:trofeus/tier1tiktok" }
-      },
-      {
-        "threshold": 507,
-        "model": { "type": "model", "model": "austv_itens:trofeus/tier2tiktok" }
-      },
-      {
-        "threshold": 508,
-        "model": { "type": "model", "model": "austv_itens:trofeus/tier3tiktok" }
-      },
-      {
-        "threshold": 509,
-        "model": { "type": "model", "model": "austv_itens:trofeus/tier1twitch" }
-      },
-      {
-        "threshold": 510,
-        "model": { "type": "model", "model": "austv_itens:trofeus/tier2twitch" }
-      },
-      {
-        "threshold": 511,
-        "model": { "type": "model", "model": "austv_itens:trofeus/tier3twitch" }
-      },
-      {
-        "threshold": 512,
-        "model": {
-          "type": "model",
-          "model": "austv_itens:trofeus/tier1youtube"
-        }
-      },
-      {
-        "threshold": 513,
-        "model": {
-          "type": "model",
-          "model": "austv_itens:trofeus/tier2youtube"
-        }
-      },
-      {
-        "threshold": 514,
-        "model": {
-          "type": "model",
-          "model": "austv_itens:trofeus/tier3youtube"
-        }
-      },
-      {
-        "threshold": 1000,
-        "model": { "type": "model", "model": "iscas/camarao" }
-      },
-      {
-        "threshold": 1001,
-        "model": { "type": "model", "model": "iscas/minhoca_1" }
-      },
-      {
-        "threshold": 1002,
-        "model": { "type": "model", "model": "iscas/minhoca_2" }
-      },
-      {
-        "threshold": 1003,
-        "model": { "type": "model", "model": "iscas/minhoca_3" }
-      },
-      {
-        "threshold": 1004,
-        "model": { "type": "model", "model": "iscas/pedaco_pao" }
-      },
-      {
-        "threshold": 3000,
-        "model": {
-          "type": "model",
-          "model": "austv_itens:pet_cenoura_natalina"
-        }
-      },
-      {
-        "threshold": 3001,
-        "model": { "type": "model", "model": "austv_itens:racao_comum" }
-      },
-      {
-        "threshold": 3002,
-        "model": { "type": "model", "model": "austv_itens:racao_rara" }
-      },
-      {
-        "threshold": 3003,
-        "model": { "type": "model", "model": "austv_itens:racao_haku" }
-      },
-      {
-        "threshold": 10007,
-        "model": { "type": "model", "model": "auscosmetic:costa/asa_futuro" }
-      },
-      {
-        "threshold": 10010,
-        "model": { "type": "model", "model": "auscosmetic:costa/jetpack" }
-      },
-      {
-        "threshold": 10011,
-        "model": { "type": "model", "model": "auscosmetic:chapeu/sapo" }
-      },
-      {
-        "threshold": 10012,
-        "model": {
-          "type": "model",
-          "model": "auscosmetic:chapeu/flor_hibiscus"
-        }
-      },
-      {
-        "threshold": 10013,
-        "model": { "type": "model", "model": "auscosmetic:chapeu/aureola" }
-      },
-      {
-        "threshold": 10014,
-        "model": { "type": "model", "model": "auscosmetic:chapeu/xerife" }
-      },
-      {
-        "threshold": 10015,
-        "model": { "type": "model", "model": "auscosmetic:chapeu/barba" }
-      },
-      {
-        "threshold": 10016,
-        "model": { "type": "model", "model": "auscosmetic:mao/lampiao" }
-      },
-      {
-        "threshold": 10017,
-        "model": { "type": "model", "model": "auscosmetic:mao/martelo" }
-      },
-      {
-        "threshold": 10018,
-        "model": { "type": "model", "model": "auscosmetic:mao/agarradora" }
-      },
-      {
-        "threshold": 10019,
-        "model": { "type": "model", "model": "auscosmetic:mao/bandeira_brasil" }
-      },
-      {
-        "threshold": 10020,
-        "model": {
-          "type": "model",
-          "model": "auscosmetic:chapeu/presente_chapeu"
-        }
-      },
-      {
-        "threshold": 10021,
-        "model": { "type": "model", "model": "auscosmetic:balao/brasil" }
-      },
-      {
-        "threshold": 10023,
-        "model": { "type": "model", "model": "auscosmetic:chapeu/gorro_elfo" }
-      },
-      {
-        "threshold": 10025,
-        "model": {
-          "type": "model",
-          "model": "auscosmetic:costa/saco_de_presentes"
-        }
-      },
-      {
-        "threshold": 10030,
-        "model": { "type": "model", "model": "auscosmetic:costa/boia_patinho" }
-      },
-      {
-        "threshold": 10031,
-        "model": { "type": "model", "model": "auscosmetic:mao/sorvete" }
-      },
-      {
-        "threshold": 10033,
-        "model": {
-          "type": "model",
-          "model": "auscosmetic:mao/cesta_pascoa_mao"
-        }
-      },
-      {
-        "threshold": 10034,
-        "model": { "type": "model", "model": "auscosmetic:costa/carrinho" }
-      },
-      {
-        "threshold": 10036,
-        "model": { "type": "model", "model": "auscosmetic:costa/cesta_pascoa" }
-      },
-      {
-        "threshold": 10038,
-        "model": {
-          "type": "model",
-          "model": "auscosmetic:chapeu/orelhas_coelho"
-        }
-      },
-      {
-        "threshold": 10039,
-        "model": { "type": "model", "model": "auscosmetic:mao/pasta_dente" }
-      },
-      {
-        "threshold": 10040,
-        "model": {
-          "type": "model",
-          "model": "auscosmetic:balao/coelhao_pascoa"
-        }
-      },
-      {
-        "threshold": 10041,
-        "model": { "type": "model", "model": "auscosmetic:mao/peso" }
-      },
-      {
-        "threshold": 10042,
-        "model": { "type": "model", "model": "auscosmetic:chapeu/ursinho_ele" }
-      },
-      {
-        "threshold": 10043,
-        "model": { "type": "model", "model": "auscosmetic:chapeu/ursinho_ela" }
-      },
-      {
-        "threshold": 10044,
-        "model": { "type": "model", "model": "auscosmetic:balao/namorados_ele" }
-      },
-      {
-        "threshold": 10045,
-        "model": { "type": "model", "model": "auscosmetic:balao/namorados_ela" }
-      },
-      {
-        "threshold": 10046,
-        "model": {
-          "type": "model",
-          "model": "auscosmetic:chapeu/cesta_basquete"
-        }
-      },
-      {
-        "threshold": 10047,
-        "model": { "type": "model", "model": "auscosmetic:mao/taco_hoquei" }
-      },
-      {
-        "threshold": 10048,
-        "model": {
-          "type": "model",
-          "model": "auscosmetic:mao/foice_calamidade"
-        }
-      },
-      {
-        "threshold": 10049,
-        "model": { "type": "model", "model": "auscosmetic:mao/balde_halloween" }
-      },
-      {
-        "threshold": 10050,
-        "model": {
-          "type": "model",
-          "model": "auscosmetic:chapeu/bruxa_halloween"
-        }
-      },
-      {
-        "threshold": 10051,
-        "model": {
-          "type": "model",
-          "model": "auscosmetic:chapeu/chifre_halloween"
-        }
-      },
-      {
-        "threshold": 10052,
-        "model": {
-          "type": "model",
-          "model": "auscosmetic:mao/tridente_halloween"
-        }
-      },
-      {
-        "threshold": 10053,
-        "model": { "type": "model", "model": "auscosmetic:mao/vassoura_bruxa" }
-      },
-      {
-        "threshold": 10054,
-        "model": { "type": "model", "model": "auscosmetic:mao/bengala_doce" }
-      },
-      {
-        "threshold": 10055,
-        "model": { "type": "model", "model": "auscosmetic:balao/caminhao_lixo" }
-      },
-      {
-        "threshold": 10056,
-        "model": { "type": "model", "model": "auscosmetic:costa/ancora" }
-      },
-      {
-        "threshold": 10057,
-        "model": {
-          "type": "model",
-          "model": "auscosmetic:mao/boia_salva_vidas"
-        }
-      },
-      {
-        "threshold": 10058,
-        "model": { "type": "model", "model": "auscosmetic:mao/forcado" }
-      },
-      {
-        "threshold": 40000,
-        "model": { "type": "model", "model": "auseventos:mana_pocao" }
-      },
-      {
-        "threshold": 50000,
-        "model": { "type": "model", "model": "skyblock/atributo_armadura" }
-      },
-      {
-        "threshold": 50001,
-        "model": { "type": "model", "model": "skyblock/resist" }
-      },
-      {
-        "threshold": 50002,
-        "model": { "type": "model", "model": "skyblock/atributo_ataque" }
-      },
-      {
-        "threshold": 50003,
-        "model": { "type": "model", "model": "skyblock/vel_ataque" }
-      },
-      {
-        "threshold": 50004,
-        "model": { "type": "model", "model": "skyblock/resist_kb" }
-      },
-      {
-        "threshold": 50005,
-        "model": { "type": "model", "model": "skyblock/atributo" }
-      },
-      {
-        "threshold": 50006,
-        "model": { "type": "model", "model": "skyblock/vida" }
-      },
-      {
-        "threshold": 50007,
-        "model": { "type": "model", "model": "skyblock/velocidade" }
-      },
-      {
-        "threshold": 100000,
-        "model": { "type": "model", "model": "chaves/elevados_skyblock" }
-      },
-      {
-        "threshold": 100001,
-        "model": { "type": "model", "model": "chaves/medios_skyblock" }
-      },
-      {
-        "threshold": 100002,
-        "model": { "type": "model", "model": "chaves/eventos_skyblock" }
-      },
-      {
-        "threshold": 100003,
-        "model": { "type": "model", "model": "chaves/ovos_skyblock" }
-      },
-      {
-        "threshold": 100004,
-        "model": { "type": "model", "model": "chaves/voto_skyblock" }
-      },
-      {
-        "threshold": 100005,
-        "model": { "type": "model", "model": "chaves/barco_skyblock" }
-      },
-      {
-        "threshold": 100006,
-        "model": { "type": "model", "model": "chaves/calabouco_skyblock" }
-      },
-      {
-        "threshold": 100007,
-        "model": { "type": "model", "model": "chaves/maquinario_skyblock" }
-      },
-      {
-        "threshold": 100008,
-        "model": { "type": "model", "model": "chaves/velha_skyblock" }
-      },
-      {
-        "threshold": 100009,
-        "model": { "type": "model", "model": "chaves/ruina" }
-      },
-      {
-        "threshold": 100010,
-        "model": { "type": "model", "model": "chaves/golden" }
-      },
-      {
-        "threshold": 100011,
-        "model": { "type": "model", "model": "chaves/buy" }
-      },
-      {
-        "threshold": 100012,
-        "model": { "type": "model", "model": "chaves/pascoa_22" }
-      },
-      {
-        "threshold": 100013,
-        "model": { "type": "model", "model": "chaves/miau" }
-      },
-      {
-        "threshold": 100014,
-        "model": { "type": "model", "model": "chaves/namorados_22" }
-      },
-      {
-        "threshold": 100015,
-        "model": { "type": "model", "model": "chaves/tormenta" }
-      },
-      {
-        "threshold": 100016,
-        "model": { "type": "model", "model": "chaves/glacial" }
-      },
-      {
-        "threshold": 100017,
-        "model": { "type": "model", "model": "chaves/primavera" }
-      },
-      {
-        "threshold": 100018,
-        "model": { "type": "model", "model": "chaves/crianca" }
-      },
-      {
-        "threshold": 100019,
-        "model": { "type": "model", "model": "chaves/halloween" }
-      },
-      {
-        "threshold": 100020,
-        "model": { "type": "model", "model": "chaves/copa" }
-      },
-      {
-        "threshold": 100021,
-        "model": { "type": "model", "model": "chaves/natal" }
-      },
-      {
-        "threshold": 100022,
-        "model": { "type": "model", "model": "chaves/carnaval" }
-      },
-      {
-        "threshold": 100023,
-        "model": { "type": "model", "model": "chaves/pascoa" }
-      },
-      {
-        "threshold": 100024,
-        "model": { "type": "model", "model": "chaves/insurgente" }
-      },
-      {
-        "threshold": 100025,
-        "model": { "type": "model", "model": "chaves/namorados" }
-      },
-      {
-        "threshold": 100026,
-        "model": { "type": "model", "model": "chaves/pvp" }
-      },
-      {
-        "threshold": 100027,
-        "model": { "type": "model", "model": "chaves/utilidade" }
-      },
-      {
-        "threshold": 100028,
-        "model": { "type": "model", "model": "chaves/evento" }
-      },
-      {
-        "threshold": 100029,
-        "model": { "type": "model", "model": "chaves/ovos" }
-      },
-      {
-        "threshold": 100030,
-        "model": { "type": "model", "model": "chaves/emblematica" }
-      },
-      {
-        "threshold": 100031,
-        "model": { "type": "model", "model": "chaves/oriental" }
-      },
-      {
-        "threshold": 100032,
-        "model": { "type": "model", "model": "chaves/glacial_n" }
-      },
-      {
-        "threshold": 100033,
-        "model": { "type": "model", "model": "chaves/desordem" }
-      },
-      {
-        "threshold": 100034,
-        "model": { "type": "model", "model": "chaves/verao" }
-      },
-      {
-        "threshold": 100035,
-        "model": { "type": "model", "model": "chaves/carnaval_2024" }
-      },
-      {
-        "threshold": 100036,
-        "model": { "type": "model", "model": "chaves/outono" }
-      },
-      {
-        "threshold": 100037,
-        "model": { "type": "model", "model": "chaves/namorados_2024" }
-      },
-      {
-        "threshold": 100038,
-        "model": { "type": "model", "model": "chaves/arraia" }
-      },
-      {
-        "threshold": 100039,
-        "model": { "type": "model", "model": "chaves/inverno" }
-      },
-      {
-        "threshold": 100040,
-        "model": { "type": "model", "model": "chaves/calamidade" }
-      },
-      {
-        "threshold": 100041,
-        "model": { "type": "model", "model": "chaves/primavera_2" }
-      },
-      {
-        "threshold": 100042,
-        "model": { "type": "model", "model": "chaves/travessuras" }
-      },
-      {
-        "threshold": 100043,
-        "model": { "type": "model", "model": "chaves/deuses" }
-      },
-      {
-        "threshold": 150000,
-        "model": { "type": "model", "model": "especial/microfone_antigo" }
-      },
-      {
-        "threshold": 150001,
-        "model": { "type": "model", "model": "especial/microfone" }
-      },
-      {
-        "threshold": 150002,
-        "model": { "type": "model", "model": "especial/cajado_rei" }
-      },
-      {
-        "threshold": 150003,
-        "model": { "type": "model", "model": "especial/cajado_gelo" }
-      },
-      {
-        "threshold": 150004,
-        "model": { "type": "model", "model": "especial/suco" }
-      },
-      {
-        "threshold": 150005,
-        "model": { "type": "model", "model": "especial/luva" }
-      },
-      {
-        "threshold": 150006,
-        "model": { "type": "model", "model": "especial/corneta" }
-      },
-      {
-        "threshold": 150007,
-        "model": { "type": "model", "model": "especial/cartao_vermelho" }
-      },
-      {
-        "threshold": 150008,
-        "model": { "type": "model", "model": "especial/cartao_amarelo" }
-      },
-      {
-        "threshold": 150009,
-        "model": { "type": "model", "model": "especial/ovo_ciano" }
-      },
-      {
-        "threshold": 150010,
-        "model": { "type": "model", "model": "especial/ovo_rosa" }
-      },
-      {
-        "threshold": 150011,
-        "model": { "type": "model", "model": "especial/terra" }
-      },
-      {
-        "threshold": 150012,
-        "model": { "type": "model", "model": "especial/carteira_lobby" }
-      },
-      {
-        "threshold": 150013,
-        "model": { "type": "model", "model": "especial/celular_lobby" }
-      },
-      {
-        "threshold": 150014,
-        "model": { "type": "model", "model": "especial/foguete_lobby" }
-      },
-      {
-        "threshold": 150015,
-        "model": { "type": "model", "model": "especial/passe_bilhete" }
-      },
-      {
-        "threshold": 150016,
-        "model": { "type": "model", "model": "especial/fossil_basico" }
-      },
-      {
-        "threshold": 150017,
-        "model": { "type": "model", "model": "especial/fossil_raro" }
-      },
-      {
-        "threshold": 150018,
-        "model": { "type": "model", "model": "especial/carta_namorados" }
-      },
-      {
-        "threshold": 150019,
-        "model": { "type": "model", "model": "austv_itens:moeda_carpintaria" }
-      },
-      {
-        "threshold": 150020,
-        "model": {
-          "type": "model",
-          "model": "austv_itens:moeda_carpintaria_cash"
-        }
-      },
-      {
-        "threshold": 150021,
-        "model": { "type": "model", "model": "especial/pipoca" }
-      },
-      {
-        "threshold": 150022,
-        "model": { "type": "model", "model": "especial/elixir_halloween" }
-      },
-      {
-        "threshold": 150023,
-        "model": { "type": "model", "model": "austv_itens:halloween_doce_1" }
-      },
-      {
-        "threshold": 150024,
-        "model": { "type": "model", "model": "austv_itens:halloween_doce_2" }
-      },
-      {
-        "threshold": 150025,
-        "model": { "type": "model", "model": "austv_itens:halloween_doce_3" }
-      },
-      {
-        "threshold": 153000,
-        "model": { "type": "model", "model": "presentes/natalino" }
-      },
-      {
-        "threshold": 153001,
-        "model": { "type": "model", "model": "presentes/amarelo" }
-      },
-      {
-        "threshold": 153002,
-        "model": { "type": "model", "model": "presentes/azul" }
-      },
-      {
-        "threshold": 153003,
-        "model": { "type": "model", "model": "presentes/vermelho" }
-      },
-      {
-        "threshold": 153004,
-        "model": { "type": "model", "model": "presentes/flores_namorados" }
-      },
-      {
-        "threshold": 155000,
-        "model": { "type": "model", "model": "eventos/bananas" }
-      },
-      {
-        "threshold": 155001,
-        "model": { "type": "model", "model": "eventos/taco" }
-      },
-      {
-        "threshold": 155002,
-        "model": { "type": "model", "model": "eventos/luva_boxe" }
-      },
-      {
-        "threshold": 160000,
-        "model": { "type": "model", "model": "trofeus/acrobacia" }
-      },
-      {
-        "threshold": 160001,
-        "model": { "type": "model", "model": "trofeus/alquimia" }
-      },
-      {
-        "threshold": 160002,
-        "model": { "type": "model", "model": "trofeus/arcos" }
-      },
-      {
-        "threshold": 160003,
-        "model": { "type": "model", "model": "trofeus/desarmado" }
-      },
-      {
-        "threshold": 160004,
-        "model": { "type": "model", "model": "trofeus/domadores" }
-      },
-      {
-        "threshold": 160005,
-        "model": { "type": "model", "model": "trofeus/escavacao" }
-      },
-      {
-        "threshold": 160006,
-        "model": { "type": "model", "model": "trofeus/espada" }
-      },
-      {
-        "threshold": 160007,
-        "model": { "type": "model", "model": "trofeus/experiencia" }
-      },
-      {
-        "threshold": 160008,
-        "model": { "type": "model", "model": "trofeus/herbalismo" }
-      },
-      {
-        "threshold": 160009,
-        "model": { "type": "model", "model": "trofeus/lenhador" }
-      },
-      {
-        "threshold": 160010,
-        "model": { "type": "model", "model": "trofeus/machado" }
-      },
-      {
-        "threshold": 160011,
-        "model": { "type": "model", "model": "trofeus/mineracao" }
-      },
-      {
-        "threshold": 160012,
-        "model": { "type": "model", "model": "trofeus/pesca" }
-      },
-      {
-        "threshold": 160013,
-        "model": { "type": "model", "model": "trofeus/reparo" }
-      },
-      {
-        "threshold": 160014,
-        "model": { "type": "model", "model": "trofeus/prestigio" }
-      },
-      {
-        "threshold": 160015,
-        "model": { "type": "model", "model": "trofeus/trofeu" }
-      },
-      {
-        "threshold": 160016,
-        "model": { "type": "model", "model": "trofeus/trofeu1" }
-      },
-      {
-        "threshold": 160017,
-        "model": { "type": "model", "model": "trofeus/trofeu_guerra" }
-      },
-      {
-        "threshold": 160018,
-        "model": { "type": "model", "model": "trofeus/trofeu_rocinha" }
-      },
-      {
-        "threshold": 160019,
-        "model": { "type": "model", "model": "trofeus/trofeu_skyblock" }
-      },
-      {
-        "threshold": 165000,
-        "model": { "type": "model", "model": "medalhas/bronze" }
-      },
-      {
-        "threshold": 165001,
-        "model": { "type": "model", "model": "medalhas/prata" }
-      },
-      {
-        "threshold": 165002,
-        "model": { "type": "model", "model": "medalhas/ouro" }
-      },
-      {
-        "threshold": 165003,
-        "model": { "type": "model", "model": "medalhas/patente/cristal_1" }
-      },
-      {
-        "threshold": 165004,
-        "model": { "type": "model", "model": "medalhas/patente/cristal_2" }
-      },
-      {
-        "threshold": 165005,
-        "model": { "type": "model", "model": "medalhas/patente/cristal_3" }
-      },
-      {
-        "threshold": 165006,
-        "model": { "type": "model", "model": "medalhas/patente/cristal_4" }
-      },
-      {
-        "threshold": 165007,
-        "model": { "type": "model", "model": "medalhas/patente/cristal_5" }
-      },
-      {
-        "threshold": 165008,
-        "model": { "type": "model", "model": "medalhas/patente/elite_1" }
-      },
-      {
-        "threshold": 165009,
-        "model": { "type": "model", "model": "medalhas/patente/elite_2" }
-      },
-      {
-        "threshold": 165010,
-        "model": { "type": "model", "model": "medalhas/patente/elite_3" }
-      },
-      {
-        "threshold": 165011,
-        "model": { "type": "model", "model": "medalhas/patente/elite_4" }
-      },
-      {
-        "threshold": 165012,
-        "model": { "type": "model", "model": "medalhas/patente/elite_5" }
-      },
-      {
-        "threshold": 165013,
-        "model": { "type": "model", "model": "medalhas/patente/ferro_1" }
-      },
-      {
-        "threshold": 165014,
-        "model": { "type": "model", "model": "medalhas/patente/ferro_2" }
-      },
-      {
-        "threshold": 165015,
-        "model": { "type": "model", "model": "medalhas/patente/ferro_3" }
-      },
-      {
-        "threshold": 165016,
-        "model": { "type": "model", "model": "medalhas/patente/ferro_4" }
-      },
-      {
-        "threshold": 165017,
-        "model": { "type": "model", "model": "medalhas/patente/ferro_5" }
-      },
-      {
-        "threshold": 165018,
-        "model": { "type": "model", "model": "medalhas/patente/guardiao_1" }
-      },
-      {
-        "threshold": 165019,
-        "model": { "type": "model", "model": "medalhas/patente/guardiao_2" }
-      },
-      {
-        "threshold": 165020,
-        "model": { "type": "model", "model": "medalhas/patente/guardiao_3" }
-      },
-      {
-        "threshold": 165021,
-        "model": { "type": "model", "model": "medalhas/patente/guardiao_4" }
-      },
-      {
-        "threshold": 165022,
-        "model": { "type": "model", "model": "medalhas/patente/guardiao_5" }
-      },
-      {
-        "threshold": 165023,
-        "model": { "type": "model", "model": "medalhas/patente/lendario_1" }
-      },
-      {
-        "threshold": 165024,
-        "model": { "type": "model", "model": "medalhas/patente/lendario_2" }
-      },
-      {
-        "threshold": 165025,
-        "model": { "type": "model", "model": "medalhas/patente/lendario_3" }
-      },
-      {
-        "threshold": 165026,
-        "model": { "type": "model", "model": "medalhas/patente/lendario_4" }
-      },
-      {
-        "threshold": 165027,
-        "model": { "type": "model", "model": "medalhas/patente/lendario_5" }
-      },
-      {
-        "threshold": 165028,
-        "model": { "type": "model", "model": "medalhas/patente/mestre_1" }
-      },
-      {
-        "threshold": 165029,
-        "model": { "type": "model", "model": "medalhas/patente/mestre_2" }
-      },
-      {
-        "threshold": 165030,
-        "model": { "type": "model", "model": "medalhas/patente/mestre_3" }
-      },
-      {
-        "threshold": 165031,
-        "model": { "type": "model", "model": "medalhas/patente/mestre_4" }
-      },
-      {
-        "threshold": 165032,
-        "model": { "type": "model", "model": "medalhas/patente/mestre_5" }
-      },
-      {
-        "threshold": 165033,
-        "model": { "type": "model", "model": "medalhas/patente/prata_1" }
-      },
-      {
-        "threshold": 165034,
-        "model": { "type": "model", "model": "medalhas/patente/prata_2" }
-      },
-      {
-        "threshold": 165035,
-        "model": { "type": "model", "model": "medalhas/patente/prata_3" }
-      },
-      {
-        "threshold": 165036,
-        "model": { "type": "model", "model": "medalhas/patente/prata_4" }
-      },
-      {
-        "threshold": 165037,
-        "model": { "type": "model", "model": "medalhas/patente/prata_5" }
-      },
-      {
-        "threshold": 165038,
-        "model": { "type": "model", "model": "medalhas/patente/rubi_1" }
-      },
-      {
-        "threshold": 165039,
-        "model": { "type": "model", "model": "medalhas/patente/rubi_2" }
-      },
-      {
-        "threshold": 165040,
-        "model": { "type": "model", "model": "medalhas/patente/rubi_3" }
-      },
-      {
-        "threshold": 165041,
-        "model": { "type": "model", "model": "medalhas/patente/rubi_4" }
-      },
-      {
-        "threshold": 165042,
-        "model": { "type": "model", "model": "medalhas/patente/rubi_5" }
-      },
-      {
-        "threshold": 165043,
-        "model": { "type": "model", "model": "medalhas/patente/safira_1" }
-      },
-      {
-        "threshold": 165044,
-        "model": { "type": "model", "model": "medalhas/patente/safira_2" }
-      },
-      {
-        "threshold": 165045,
-        "model": { "type": "model", "model": "medalhas/patente/safira_3" }
-      },
-      {
-        "threshold": 165046,
-        "model": { "type": "model", "model": "medalhas/patente/safira_4" }
-      },
-      {
-        "threshold": 165047,
-        "model": { "type": "model", "model": "medalhas/patente/safira_5" }
-      },
-      {
-        "threshold": 170000,
-        "model": { "type": "model", "model": "view/seta_tutorial" }
-      },
-      {
-        "threshold": 170001,
-        "model": { "type": "model", "model": "block/austrident" }
-      },
-      {
-        "threshold": 170002,
-        "model": { "type": "model", "model": "skins/namorados_22/cajado" }
-      },
-      {
-        "threshold": 170003,
-        "model": { "type": "model", "model": "view/moeda" }
-      },
-      {
-        "threshold": 185000,
-        "model": { "type": "model", "model": "pergaminhos/comum" }
-      },
-      {
-        "threshold": 185001,
-        "model": { "type": "model", "model": "pergaminhos/raro" }
-      },
-      {
-        "threshold": 185002,
-        "model": { "type": "model", "model": "pergaminhos/ultra" }
-      },
-      {
-        "threshold": 185003,
-        "model": { "type": "model", "model": "pergaminhos/lendario" }
-      },
-      {
-        "threshold": 185004,
-        "model": { "type": "model", "model": "pergaminhos/heroico" }
-      },
-      {
-        "threshold": 185005,
-        "model": { "type": "model", "model": "pergaminhos/maestria" }
-      },
-      {
-        "threshold": 185006,
-        "model": { "type": "model", "model": "pergaminhos/divino" }
-      },
-      {
-        "threshold": 185007,
-        "model": { "type": "model", "model": "pergaminhos/aberto/padrao" }
-      },
-      {
-        "threshold": 185008,
-        "model": { "type": "model", "model": "pergaminhos/magico" }
-      },
-      {
-        "threshold": 185009,
-        "model": { "type": "model", "model": "pergaminhos/sinistro" }
-      },
-      {
-        "threshold": 185010,
-        "model": { "type": "model", "model": "pergaminhos/especial" }
-      },
-      {
-        "threshold": 185011,
-        "model": { "type": "model", "model": "transicao/antigo" }
-      },
-      {
-        "threshold": 185012,
-        "model": { "type": "model", "model": "transicao/arco" }
-      },
-      {
-        "threshold": 185013,
-        "model": { "type": "model", "model": "transicao/vara" }
-      },
-      {
-        "threshold": 185014,
-        "model": { "type": "model", "model": "transicao/besta" }
-      },
-      {
-        "threshold": 185015,
-        "model": { "type": "model", "model": "transicao/elytra" }
-      },
-      {
-        "threshold": 185016,
-        "model": { "type": "model", "model": "transicao/enxada" }
-      },
-      {
-        "threshold": 185017,
-        "model": { "type": "model", "model": "transicao/espada" }
-      },
-      {
-        "threshold": 185018,
-        "model": { "type": "model", "model": "transicao/machado" }
-      },
-      {
-        "threshold": 185019,
-        "model": { "type": "model", "model": "transicao/pa" }
-      },
-      {
-        "threshold": 185020,
-        "model": { "type": "model", "model": "transicao/picareta" }
-      },
-      {
-        "threshold": 185021,
-        "model": { "type": "model", "model": "transicao/armadura" }
-      },
-      {
-        "threshold": 185022,
-        "model": { "type": "model", "model": "transicao/armadura" }
-      },
-      {
-        "threshold": 185023,
-        "model": { "type": "model", "model": "transicao/armadura" }
-      },
-      {
-        "threshold": 185024,
-        "model": { "type": "model", "model": "transicao/armadura" }
-      },
-      {
-        "threshold": 185025,
-        "model": { "type": "model", "model": "pergaminhos/aberto/divino" }
-      },
-      {
-        "threshold": 185026,
-        "model": { "type": "model", "model": "pergaminhos/aberto/heroico" }
-      },
-      {
-        "threshold": 185027,
-        "model": { "type": "model", "model": "pergaminhos/aberto/lendario" }
-      },
-      {
-        "threshold": 185028,
-        "model": { "type": "model", "model": "pergaminhos/aberto/maestria" }
-      },
-      {
-        "threshold": 185029,
-        "model": { "type": "model", "model": "pergaminhos/aberto/magico" }
-      },
-      {
-        "threshold": 185030,
-        "model": { "type": "model", "model": "pergaminhos/aberto/raro" }
-      },
-      {
-        "threshold": 185031,
-        "model": { "type": "model", "model": "pergaminhos/aberto/simples" }
-      },
-      {
-        "threshold": 185032,
-        "model": { "type": "model", "model": "pergaminhos/aberto/sinistro" }
-      },
-      {
-        "threshold": 185033,
-        "model": { "type": "model", "model": "pergaminhos/aberto/ultra" }
-      },
-      {
-        "threshold": 200000,
-        "model": { "type": "model", "model": "arcanos/colhedoralma" }
-      },
-      {
-        "threshold": 200001,
-        "model": { "type": "model", "model": "arcanos/contadorassassinatos" }
-      },
-      {
-        "threshold": 200002,
-        "model": { "type": "model", "model": "arcanos/contadorblocos" }
-      },
-      {
-        "threshold": 200003,
-        "model": { "type": "model", "model": "arcanos/contadormonstros" }
-      },
-      {
-        "threshold": 200004,
-        "model": { "type": "model", "model": "arcanos/contadorpesca" }
-      },
-      {
-        "threshold": 200005,
-        "model": { "type": "model", "model": "arcanos/essenciaangelical" }
-      },
-      {
-        "threshold": 200006,
-        "model": { "type": "model", "model": "arcanos/essenciaestragada" }
-      },
-      {
-        "threshold": 200007,
-        "model": { "type": "model", "model": "arcanos/essenciaorganizacao" }
-      },
-      {
-        "threshold": 200008,
-        "model": { "type": "model", "model": "arcanos/essenciaremocao" }
-      },
-      {
-        "threshold": 200009,
-        "model": { "type": "model", "model": "arcanos/essenciasecreta" }
-      },
-      {
-        "threshold": 200010,
-        "model": { "type": "model", "model": "arcanos/expansor" }
-      },
-      {
-        "threshold": 200011,
-        "model": { "type": "model", "model": "arcanos/gemaabencoada" }
-      },
-      {
-        "threshold": 200012,
-        "model": { "type": "model", "model": "arcanos/gemaalma" }
-      },
-      {
-        "threshold": 200013,
-        "model": { "type": "model", "model": "arcanos/gemaarcana" }
-      },
-      {
-        "threshold": 200014,
-        "model": { "type": "model", "model": "austv_itens:fragmento_alquimia" }
-      },
-      {
-        "threshold": 200015,
-        "model": { "type": "model", "model": "austv_itens:fragmento_reparo" }
-      },
-      {
-        "threshold": 200016,
-        "model": { "type": "model", "model": "austv_itens:fragmento_desarmado" }
-      },
-      {
-        "threshold": 200017,
-        "model": { "type": "model", "model": "austv_itens:fragmento_espada" }
-      },
-      {
-        "threshold": 200018,
-        "model": { "type": "model", "model": "austv_itens:fragmento_machado" }
-      },
-      {
-        "threshold": 200019,
-        "model": { "type": "model", "model": "austv_itens:fragmento_acrobacia" }
-      },
-      {
-        "threshold": 200020,
-        "model": {
-          "type": "model",
-          "model": "austv_itens:fragmento_herbalismo"
-        }
-      },
-      {
-        "threshold": 200021,
-        "model": { "type": "model", "model": "austv_itens:fragmento_escavacao" }
-      },
-      {
-        "threshold": 200022,
-        "model": { "type": "model", "model": "austv_itens:fragmento_arco" }
-      },
-      {
-        "threshold": 200023,
-        "model": { "type": "model", "model": "austv_itens:fragmento_pesca" }
-      },
-      {
-        "threshold": 200024,
-        "model": {
-          "type": "model",
-          "model": "austv_itens:fragmento_domesticacao"
-        }
-      },
-      {
-        "threshold": 200025,
-        "model": { "type": "model", "model": "austv_itens:fragmento_lenhador" }
-      },
-      {
-        "threshold": 200026,
-        "model": { "type": "model", "model": "austv_itens:fragmento_mineracao" }
-      },
-      {
-        "threshold": 200027,
-        "model": { "type": "model", "model": "austv_itens:pedra_basica" }
-      },
-      {
-        "threshold": 200028,
-        "model": { "type": "model", "model": "austv_itens:pedra_toxica" }
-      },
-      {
-        "threshold": 200029,
-        "model": { "type": "model", "model": "austv_itens:pedra_sinistra" }
-      },
-      {
-        "threshold": 200030,
-        "model": { "type": "model", "model": "arcanos/essenciamudanca" }
-      },
-      {
-        "threshold": 225000,
-        "model": { "type": "model", "model": "austv_itens:bancada_reciclagem" }
-      },
-      {
-        "threshold": 225001,
-        "model": { "type": "model", "model": "austv_itens:bancada_experiencia" }
-      },
-      {
-        "threshold": 225002,
-        "model": {
-          "type": "model",
-          "model": "austv_itens:bancada_forjador_pedras"
-        }
-      },
-      {
-        "threshold": 300000,
-        "model": { "type": "model", "model": "ausmilitar:ak" }
-      },
-      {
-        "threshold": 300001,
-        "model": { "type": "model", "model": "ausmilitar:pente_ak" }
-      },
-      {
-        "threshold": 300002,
-        "model": { "type": "model", "model": "ausmilitar:revolver" }
-      },
-      {
-        "threshold": 300003,
-        "model": { "type": "model", "model": "ausmilitar:pente_revolver" }
-      },
-      {
-        "threshold": 300004,
-        "model": { "type": "model", "model": "ausmilitar:kit_medico" }
-      }
-    ]
-  }
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/paper"
+	},
+
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "chapeus/gorro" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "chapeus/lula" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "chapeus/waffle" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "chapeus/sacola" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "chapeus/alien" },
+		{ "predicate": { "custom_model_data": 6 }, "model": "chapeus/palha" },
+		{ "predicate": { "custom_model_data": 7 }, "model": "chapeus/sheriff" },
+		{ "predicate": { "custom_model_data": 8 }, "model": "chapeus/witch" },
+		{ "predicate": { "custom_model_data": 9 }, "model": "chapeus/headset" },
+		{ "predicate": { "custom_model_data": 10 }, "model": "chapeus/horn" },
+		{ "predicate": { "custom_model_data": 11 }, "model": "chapeus/esmeralda" },
+		{ "predicate": { "custom_model_data": 12 }, "model": "chapeus/arriba" },
+		{ "predicate": { "custom_model_data": 13 }, "model": "chapeus/unicorn" },
+		{ "predicate": { "custom_model_data": 14 }, "model": "chapeus/cone" },
+		{ "predicate": { "custom_model_data": 15 }, "model": "chapeus/police" },
+		{ "predicate": { "custom_model_data": 16 }, "model": "chapeus/frog" },
+		{ "predicate": { "custom_model_data": 17 }, "model": "chapeus/cigar" },
+		{ "predicate": { "custom_model_data": 18 }, "model": "chapeus/3d_glasses" },
+		{ "predicate": { "custom_model_data": 19 }, "model": "chapeus/top" },
+		{ "predicate": { "custom_model_data": 20 }, "model": "chapeus/mask_gaz" },
+		{ "predicate": { "custom_model_data": 21 }, "model": "chapeus/capacete" },
+		{ "predicate": { "custom_model_data": 22 }, "model": "chapeus/robot_chicken" },
+		{ "predicate": { "custom_model_data": 23 }, "model": "chapeus/jester" },
+		{ "predicate": { "custom_model_data": 24 }, "model": "chapeus/crown" },
+		{ "predicate": { "custom_model_data": 25 }, "model": "chapeus/oculos_cientista" },
+		{ "predicate": { "custom_model_data": 26 }, "model": "chapeus/headband_red" },
+		{ "predicate": { "custom_model_data": 27 }, "model": "chapeus/headband_blue" },
+		{ "predicate": { "custom_model_data": 28 }, "model": "chapeus/rabbit" },
+		{ "predicate": { "custom_model_data": 29 }, "model": "chapeus/elf_ears" },
+		{ "predicate": { "custom_model_data": 30 }, "model": "chapeus/sword" },
+		{ "predicate": { "custom_model_data": 31 }, "model": "chapeus/mario" },
+		{ "predicate": { "custom_model_data": 32 }, "model": "chapeus/luigi" },
+		{ "predicate": { "custom_model_data": 33 }, "model": "chapeus/darth_vader" },
+		{ "predicate": { "custom_model_data": 34 }, "model": "chapeus/gaules" },
+		{ "predicate": { "custom_model_data": 35 }, "model": "chapeus/cat_ears" },
+		{ "predicate": { "custom_model_data": 36 }, "model": "chapeus/stormtrooper1" },
+		{ "predicate": { "custom_model_data": 37 }, "model": "chapeus/stormtrooper2" },
+		{ "predicate": { "custom_model_data": 38 }, "model": "chapeus/devil_horns" },
+		{ "predicate": { "custom_model_data": 39 }, "model": "chapeus/panda" },
+		{ "predicate": { "custom_model_data": 40 }, "model": "chapeus/pirate" },
+		{ "predicate": { "custom_model_data": 41 }, "model": "chapeus/scuba" },
+		{ "predicate": { "custom_model_data": 42 }, "model": "chapeus/aureole" },
+		{ "predicate": { "custom_model_data": 43 }, "model": "chapeus/mickey" },
+		{ "predicate": { "custom_model_data": 44 }, "model": "chapeus/minnie" },
+		{ "predicate": { "custom_model_data": 45 }, "model": "chapeus/propellermushroom" },
+		{ "predicate": { "custom_model_data": 46 }, "model": "chapeus/barba" },
+		{ "predicate": { "custom_model_data": 47 }, "model": "chapeus/cachorro" },
+		{ "predicate": { "custom_model_data": 48 }, "model": "chapeus/carneiro" },
+		{ "predicate": { "custom_model_data": 49 }, "model": "chapeus/chaves" },
+		{ "predicate": { "custom_model_data": 50 }, "model": "chapeus/cirurgiao" },
+		{ "predicate": { "custom_model_data": 51 }, "model": "chapeus/cozinheiro" },
+		{ "predicate": { "custom_model_data": 52 }, "model": "chapeus/drink" },
+		{ "predicate": { "custom_model_data": 53 }, "model": "chapeus/foxy" },
+		{ "predicate": { "custom_model_data": 54 }, "model": "chapeus/galinha" },
+		{ "predicate": { "custom_model_data": 55 }, "model": "chapeus/goomba" },
+		{ "predicate": { "custom_model_data": 56 }, "model": "chapeus/indio" },
+		{ "predicate": { "custom_model_data": 57 }, "model": "chapeus/jason" },
+		{ "predicate": { "custom_model_data": 58 }, "model": "chapeus/lord_beckett" },
+		{ "predicate": { "custom_model_data": 59 }, "model": "chapeus/mandaloriano2" },
+		{ "predicate": { "custom_model_data": 60 }, "model": "chapeus/paintball" },
+		{ "predicate": { "custom_model_data": 61 }, "model": "chapeus/palhaco" },
+		{ "predicate": { "custom_model_data": 62 }, "model": "chapeus/pateta" },
+		{ "predicate": { "custom_model_data": 63 }, "model": "chapeus/peter_pan" },
+		{ "predicate": { "custom_model_data": 64 }, "model": "chapeus/rena" },
+		{ "predicate": { "custom_model_data": 65 }, "model": "chapeus/tapa_olho" },
+		{ "predicate": { "custom_model_data": 66 }, "model": "chapeus/toad" },
+		{ "predicate": { "custom_model_data": 67 }, "model": "chapeus/tuiuiu" },
+		{ "predicate": { "custom_model_data": 68 }, "model": "chapeus/turbante" },
+		{ "predicate": { "custom_model_data": 69 }, "model": "chapeus/vikings" },
+		{ "predicate": { "custom_model_data": 70 }, "model": "chapeus/yoda" },
+		{ "predicate": { "custom_model_data": 71 }, "model": "chapeus/rebelde" },
+		{ "predicate": { "custom_model_data": 72 }, "model": "chapeus/konoha" },
+		{ "predicate": { "custom_model_data": 73 }, "model": "chapeus/konoha_renegado" },
+		{ "predicate": { "custom_model_data": 74 }, "model": "chapeus/coroa_rei" },
+		{ "predicate": { "custom_model_data": 75 }, "model": "chapeus/coroa_gelo" },
+		{ "predicate": { "custom_model_data": 76 }, "model": "chapeus/valquiria" },
+		{ "predicate": { "custom_model_data": 77 }, "model": "chapeus/shark" },
+		{ "predicate": { "custom_model_data": 78 }, "model": "skins/pascoa_22/cenoura" },
+		{ "predicate": { "custom_model_data": 79 }, "model": "skins/pascoa_22/coelho" },
+		{ "predicate": { "custom_model_data": 80 }, "model": "chapeus/azulao" },
+		{ "predicate": { "custom_model_data": 81 }, "model": "skins/namorados_22/urso" },
+		{ "predicate": { "custom_model_data": 82 }, "model": "skins/niver_aus/6m/cartola" },
+		{ "predicate": { "custom_model_data": 83 }, "model": "skins/criancada_22/carrinho" },
+		{ "predicate": { "custom_model_data": 84 }, "model": "skins/assombrada/chapeu" },
+		{ "predicate": { "custom_model_data": 85 }, "model": "skins/copa_22/chapeu" },
+		{ "predicate": { "custom_model_data": 86 }, "model": "skins/natal/rena" },
+		{ "predicate": { "custom_model_data": 87 }, "model": "skins/natal/gorro" },
+		{ "predicate": { "custom_model_data": 88 }, "model": "skins/natal/bag" },
+		{ "predicate": { "custom_model_data": 89 }, "model": "skins/natal/snowman" },
+		{ "predicate": { "custom_model_data": 90 }, "model": "skins/carnavaus/chapeu_1" },
+		{ "predicate": { "custom_model_data": 91 }, "model": "skins/carnavaus/chapeu_2" },
+		{ "predicate": { "custom_model_data": 92 }, "model": "skins/pascoa/cesta" },
+		{ "predicate": { "custom_model_data": 93 }, "model": "skins/pascoa/chapeu" },
+		{ "predicate": { "custom_model_data": 94 }, "model": "skins/namorados/urso" },
+		{ "predicate": { "custom_model_data": 95 }, "model": "skins/namorados/cartola" },
+		{ "predicate": { "custom_model_data": 96 }, "model": "skins/arraia/chapeu" },
+		{ "predicate": { "custom_model_data": 97 }, "model": "skins/oriental/chapeu" },
+		{ "predicate": { "custom_model_data": 98 }, "model": "skins/oriental/katana" },
+		{ "predicate": { "custom_model_data": 99 }, "model": "skins/oriental/suporte" },
+		{ "predicate": { "custom_model_data": 500 }, "model": "austv_itens:trofeus/doador_primeiro" },
+		{ "predicate": { "custom_model_data": 501 }, "model": "austv_itens:trofeus/doador_segundo" },
+		{ "predicate": { "custom_model_data": 502 }, "model": "austv_itens:trofeus/doador_terceiro" },
+		{ "predicate": { "custom_model_data": 503 }, "model": "austv_itens:trofeus/liga_vencedor" },
+		{ "predicate": { "custom_model_data": 504 }, "model": "austv_itens:trofeus/melhor_ajudante" },
+		{ "predicate": { "custom_model_data": 505 }, "model": "austv_itens:trofeus/criador_conteudo" },
+		{"predicate" : { "custom_model_data": 506 }, "model": "austv_itens:trofeus/tier1tiktok" },
+		{"predicate" : { "custom_model_data": 507 }, "model": "austv_itens:trofeus/tier2tiktok" },
+		{"predicate" : { "custom_model_data": 508 }, "model": "austv_itens:trofeus/tier3tiktok" },
+		{"predicate" : { "custom_model_data": 509 }, "model": "austv_itens:trofeus/tier1twitch" },
+		{"predicate" : { "custom_model_data": 510 }, "model": "austv_itens:trofeus/tier2twitch" },
+		{"predicate" : { "custom_model_data": 511 }, "model": "austv_itens:trofeus/tier3twitch" },
+		{"predicate" : { "custom_model_data": 512 }, "model": "austv_itens:trofeus/tier1youtube" },
+		{"predicate" : { "custom_model_data": 513 }, "model": "austv_itens:trofeus/tier2youtube" },
+		{"predicate" : { "custom_model_data": 514 }, "model": "austv_itens:trofeus/tier3youtube" },
+		{ "predicate": { "custom_model_data": 1000 }, "model": "iscas/camarao" },
+		{ "predicate": { "custom_model_data": 1001 }, "model": "iscas/minhoca_1" },
+		{ "predicate": { "custom_model_data": 1002 }, "model": "iscas/minhoca_2" },
+		{ "predicate": { "custom_model_data": 1003 }, "model": "iscas/minhoca_3" },
+		{ "predicate": { "custom_model_data": 1004 }, "model": "iscas/pedaco_pao" },
+		{ "predicate": { "custom_model_data": 3000 }, "model": "austv_itens:pet_cenoura_natalina" },
+		{ "predicate": { "custom_model_data": 3001 }, "model": "austv_itens:racao_comum" },
+        { "predicate": { "custom_model_data": 3002 }, "model": "austv_itens:racao_rara" },
+        { "predicate": { "custom_model_data": 3003 }, "model": "austv_itens:racao_haku" },
+		{ "predicate": { "custom_model_data": 10007}, "model": "auscosmetic:costa/asa_futuro" },
+		{ "predicate": { "custom_model_data": 10010}, "model": "auscosmetic:costa/jetpack" },
+		{ "predicate": { "custom_model_data": 10011}, "model": "auscosmetic:chapeu/sapo" },
+		{ "predicate": { "custom_model_data": 10012}, "model": "auscosmetic:chapeu/flor_hibiscus" },
+		{ "predicate": { "custom_model_data": 10013}, "model": "auscosmetic:chapeu/aureola" },
+		{ "predicate": { "custom_model_data": 10014}, "model": "auscosmetic:chapeu/xerife" },
+		{ "predicate": { "custom_model_data": 10015}, "model": "auscosmetic:chapeu/barba" },
+		{ "predicate": { "custom_model_data": 10016}, "model": "auscosmetic:mao/lampiao" },
+		{ "predicate": { "custom_model_data": 10017}, "model": "auscosmetic:mao/martelo" },
+		{ "predicate": { "custom_model_data": 10018}, "model": "auscosmetic:mao/agarradora" },
+		{ "predicate": { "custom_model_data": 10019}, "model": "auscosmetic:mao/bandeira_brasil" },
+		{ "predicate": { "custom_model_data": 10020}, "model": "auscosmetic:chapeu/presente_chapeu" },
+		{ "predicate": { "custom_model_data": 10021}, "model": "auscosmetic:balao/brasil" },
+		{ "predicate": { "custom_model_data": 10023}, "model": "auscosmetic:chapeu/gorro_elfo" },
+		{ "predicate": { "custom_model_data": 10025}, "model": "auscosmetic:costa/saco_de_presentes" },
+		{ "predicate": { "custom_model_data": 10030}, "model": "auscosmetic:costa/boia_patinho" },
+		{ "predicate": { "custom_model_data": 10031}, "model": "auscosmetic:mao/sorvete" },
+		{ "predicate": { "custom_model_data": 10033}, "model": "auscosmetic:mao/cesta_pascoa_mao" },
+		{ "predicate": { "custom_model_data": 10034}, "model": "auscosmetic:costa/carrinho" },
+		{ "predicate": { "custom_model_data": 10036}, "model": "auscosmetic:costa/cesta_pascoa" },
+		{ "predicate": { "custom_model_data": 10038}, "model": "auscosmetic:chapeu/orelhas_coelho" },
+		{ "predicate": { "custom_model_data": 10039}, "model": "auscosmetic:mao/pasta_dente" },
+		{ "predicate": { "custom_model_data": 10040}, "model": "auscosmetic:balao/coelhao_pascoa" },
+		{ "predicate": { "custom_model_data": 10041}, "model": "auscosmetic:mao/peso" },
+		{ "predicate": { "custom_model_data": 10042}, "model": "auscosmetic:chapeu/ursinho_ele" },
+		{ "predicate": { "custom_model_data": 10043}, "model": "auscosmetic:chapeu/ursinho_ela" },
+		{ "predicate": { "custom_model_data": 10044}, "model": "auscosmetic:balao/namorados_ele" },
+		{ "predicate": { "custom_model_data": 10045}, "model": "auscosmetic:balao/namorados_ela" },
+		{ "predicate": { "custom_model_data": 10046}, "model": "auscosmetic:chapeu/cesta_basquete" },
+		{ "predicate": { "custom_model_data": 10047}, "model": "auscosmetic:mao/taco_hoquei" },
+		{ "predicate": { "custom_model_data": 10048}, "model": "auscosmetic:mao/foice_calamidade" },
+		{ "predicate": { "custom_model_data": 10049}, "model": "auscosmetic:mao/balde_halloween" },
+		{ "predicate": { "custom_model_data": 10050}, "model": "auscosmetic:chapeu/bruxa_halloween" },
+		{ "predicate": { "custom_model_data": 10051}, "model": "auscosmetic:chapeu/chifre_halloween" },
+		{ "predicate": { "custom_model_data": 10052}, "model": "auscosmetic:mao/tridente_halloween" },
+		{ "predicate": { "custom_model_data": 10053}, "model": "auscosmetic:mao/vassoura_bruxa" },
+		{ "predicate": { "custom_model_data": 10054}, "model": "auscosmetic:mao/bengala_doce" },
+		{ "predicate": { "custom_model_data": 10055}, "model": "auscosmetic:balao/caminhao_lixo" },
+		{ "predicate": { "custom_model_data": 10056}, "model": "auscosmetic:costa/ancora"},
+		{ "predicate": { "custom_model_data": 10057}, "model": "auscosmetic:mao/boia_salva_vidas"},
+		{ "predicate": { "custom_model_data": 10058}, "model": "auscosmetic:mao/forcado"},
+		{ "predicate": { "custom_model_data": 40000}, "model": "auseventos:mana_pocao"},
+		{ "predicate": { "custom_model_data": 50000}, "model": "skyblock/atributo_armadura" },
+		{ "predicate": { "custom_model_data": 50001}, "model": "skyblock/resist" },
+		{ "predicate": { "custom_model_data": 50002}, "model": "skyblock/atributo_ataque" },
+		{ "predicate": { "custom_model_data": 50003}, "model": "skyblock/vel_ataque" },
+		{ "predicate": { "custom_model_data": 50004}, "model": "skyblock/resist_kb" },
+		{ "predicate": { "custom_model_data": 50005}, "model": "skyblock/atributo" },
+		{ "predicate": { "custom_model_data": 50006}, "model": "skyblock/vida" },
+		{ "predicate": { "custom_model_data": 50007}, "model": "skyblock/velocidade" },
+		{ "predicate": { "custom_model_data": 100000}, "model": "chaves/elevados_skyblock" },
+		{ "predicate": { "custom_model_data": 100001}, "model": "chaves/medios_skyblock" },
+		{ "predicate": { "custom_model_data": 100002}, "model": "chaves/eventos_skyblock" },
+		{ "predicate": { "custom_model_data": 100003}, "model": "chaves/ovos_skyblock" },
+		{ "predicate": { "custom_model_data": 100004}, "model": "chaves/voto_skyblock" },
+		{ "predicate": { "custom_model_data": 100005}, "model": "chaves/barco_skyblock" },
+		{ "predicate": { "custom_model_data": 100006}, "model": "chaves/calabouco_skyblock" },
+		{ "predicate": { "custom_model_data": 100007}, "model": "chaves/maquinario_skyblock" },
+		{ "predicate": { "custom_model_data": 100008}, "model": "chaves/velha_skyblock" },
+		{ "predicate": { "custom_model_data": 100009}, "model": "chaves/ruina" },
+		{ "predicate": { "custom_model_data": 100010}, "model": "chaves/golden" },
+		{ "predicate": { "custom_model_data": 100011}, "model": "chaves/buy" },
+		{ "predicate": { "custom_model_data": 100012}, "model": "chaves/pascoa_22" },
+		{ "predicate": { "custom_model_data": 100013}, "model": "chaves/miau" },
+		{ "predicate": { "custom_model_data": 100014}, "model": "chaves/namorados_22" },
+		{ "predicate": { "custom_model_data": 100015}, "model": "chaves/tormenta" },
+		{ "predicate": { "custom_model_data": 100016}, "model": "chaves/glacial" },
+		{ "predicate": { "custom_model_data": 100017}, "model": "chaves/primavera" },
+		{ "predicate": { "custom_model_data": 100018}, "model": "chaves/crianca" },
+		{ "predicate": { "custom_model_data": 100019}, "model": "chaves/halloween" },
+		{ "predicate": { "custom_model_data": 100020}, "model": "chaves/copa" },
+		{ "predicate": { "custom_model_data": 100021}, "model": "chaves/natal" },
+		{ "predicate": { "custom_model_data": 100022}, "model": "chaves/carnaval" },
+		{ "predicate": { "custom_model_data": 100023}, "model": "chaves/pascoa" },
+		{ "predicate": { "custom_model_data": 100024}, "model": "chaves/insurgente" },
+		{ "predicate": { "custom_model_data": 100025}, "model": "chaves/namorados" },
+		{ "predicate": { "custom_model_data": 100026}, "model": "chaves/pvp" },
+		{ "predicate": { "custom_model_data": 100027}, "model": "chaves/utilidade" },
+		{ "predicate": { "custom_model_data": 100028}, "model": "chaves/evento" },
+		{ "predicate": { "custom_model_data": 100029}, "model": "chaves/ovos" },
+		{ "predicate": { "custom_model_data": 100030}, "model": "chaves/emblematica" },
+		{ "predicate": { "custom_model_data": 100031}, "model": "chaves/oriental" },
+		{ "predicate": { "custom_model_data": 100032}, "model": "chaves/glacial_n" },
+		{ "predicate": { "custom_model_data": 100033}, "model": "chaves/desordem" },
+		{ "predicate": { "custom_model_data": 100034}, "model": "chaves/verao" },
+		{ "predicate": { "custom_model_data": 100035}, "model": "chaves/carnaval_2024" },
+		{ "predicate": { "custom_model_data": 100036}, "model": "chaves/outono" },
+		{ "predicate": { "custom_model_data": 100037}, "model": "chaves/namorados_2024" },
+		{ "predicate": { "custom_model_data": 100038}, "model": "chaves/arraia" },
+		{ "predicate": { "custom_model_data": 100039}, "model": "chaves/inverno" },
+		{ "predicate": { "custom_model_data": 100040}, "model": "chaves/calamidade" },
+		{ "predicate": { "custom_model_data": 100041}, "model": "chaves/primavera_2" },
+		{ "predicate": { "custom_model_data": 100042}, "model": "chaves/travessuras" },
+		{ "predicate": { "custom_model_data": 100043}, "model": "chaves/deuses" },
+		{ "predicate": { "custom_model_data": 150000 }, "model": "especial/microfone_antigo" },
+		{ "predicate": { "custom_model_data": 150001 }, "model": "especial/microfone" },
+		{ "predicate": { "custom_model_data": 150002 }, "model": "especial/cajado_rei" },
+		{ "predicate": { "custom_model_data": 150003 }, "model": "especial/cajado_gelo" },
+		{ "predicate": { "custom_model_data": 150004 }, "model": "especial/suco" },
+		{ "predicate": { "custom_model_data": 150005 }, "model": "especial/luva" },
+		{ "predicate": { "custom_model_data": 150006 }, "model": "especial/corneta" },
+		{ "predicate": { "custom_model_data": 150007 }, "model": "especial/cartao_vermelho" },
+		{ "predicate": { "custom_model_data": 150008 }, "model": "especial/cartao_amarelo" },
+		{ "predicate": { "custom_model_data": 150009 }, "model": "especial/ovo_ciano" },
+		{ "predicate": { "custom_model_data": 150010 }, "model": "especial/ovo_rosa" },
+		{ "predicate": { "custom_model_data": 150011 }, "model": "especial/terra" },
+		{ "predicate": { "custom_model_data": 150012 }, "model": "especial/carteira_lobby" },
+		{ "predicate": { "custom_model_data": 150013 }, "model": "especial/celular_lobby" },
+		{ "predicate": { "custom_model_data": 150014 }, "model": "especial/foguete_lobby" },
+		{ "predicate": { "custom_model_data": 150015 }, "model": "especial/passe_bilhete" },
+		{ "predicate": { "custom_model_data": 150016 }, "model": "especial/fossil_basico" },
+		{ "predicate": { "custom_model_data": 150017 }, "model": "especial/fossil_raro" },
+		{ "predicate": { "custom_model_data": 150018 }, "model": "especial/carta_namorados" },
+		{ "predicate": { "custom_model_data": 150019 }, "model": "austv_itens:moeda_carpintaria" },
+		{ "predicate": { "custom_model_data": 150020 }, "model": "austv_itens:moeda_carpintaria_cash" },
+		{ "predicate": { "custom_model_data": 150021 }, "model": "especial/pipoca" },
+		{ "predicate": { "custom_model_data": 150022 }, "model": "especial/elixir_halloween" },
+		{ "predicate": { "custom_model_data": 150023 }, "model": "austv_itens:halloween_doce_1" },
+		{ "predicate": { "custom_model_data": 150024 }, "model": "austv_itens:halloween_doce_2" },
+		{ "predicate": { "custom_model_data": 150025 }, "model": "austv_itens:halloween_doce_3" },
+		{ "predicate": { "custom_model_data": 153000 }, "model": "presentes/natalino" },
+		{ "predicate": { "custom_model_data": 153001 }, "model": "presentes/amarelo" },
+		{ "predicate": { "custom_model_data": 153002 }, "model": "presentes/azul" },
+		{ "predicate": { "custom_model_data": 153003 }, "model": "presentes/vermelho" },
+		{ "predicate": { "custom_model_data": 153004 }, "model": "presentes/flores_namorados" },
+		{ "predicate": { "custom_model_data": 155000 }, "model": "eventos/bananas" },
+		{ "predicate": { "custom_model_data": 155001 }, "model": "eventos/taco" },
+		{ "predicate": { "custom_model_data": 155002 }, "model": "eventos/luva_boxe" },
+		{ "predicate": { "custom_model_data": 160000 }, "model": "trofeus/acrobacia" },
+		{ "predicate": { "custom_model_data": 160001 }, "model": "trofeus/alquimia" },
+		{ "predicate": { "custom_model_data": 160002 }, "model": "trofeus/arcos" },
+		{ "predicate": { "custom_model_data": 160003 }, "model": "trofeus/desarmado" },
+		{ "predicate": { "custom_model_data": 160004 }, "model": "trofeus/domadores" },
+		{ "predicate": { "custom_model_data": 160005 }, "model": "trofeus/escavacao" },
+		{ "predicate": { "custom_model_data": 160006 }, "model": "trofeus/espada" },
+		{ "predicate": { "custom_model_data": 160007 }, "model": "trofeus/experiencia" },
+		{ "predicate": { "custom_model_data": 160008 }, "model": "trofeus/herbalismo" },
+		{ "predicate": { "custom_model_data": 160009 }, "model": "trofeus/lenhador" },
+		{ "predicate": { "custom_model_data": 160010 }, "model": "trofeus/machado" },
+		{ "predicate": { "custom_model_data": 160011 }, "model": "trofeus/mineracao" },
+		{ "predicate": { "custom_model_data": 160012 }, "model": "trofeus/pesca" },
+		{ "predicate": { "custom_model_data": 160013 }, "model": "trofeus/reparo" },
+		{ "predicate": { "custom_model_data": 160014 }, "model": "trofeus/prestigio" },
+		{ "predicate": { "custom_model_data": 160015 }, "model": "trofeus/trofeu" },
+		{ "predicate": { "custom_model_data": 160016 }, "model": "trofeus/trofeu1" },
+		{ "predicate": { "custom_model_data": 160017 }, "model": "trofeus/trofeu_guerra" },
+		{ "predicate": { "custom_model_data": 160018 }, "model": "trofeus/trofeu_rocinha" },
+		{ "predicate": { "custom_model_data": 160019 }, "model": "trofeus/trofeu_skyblock" },
+		{ "predicate": { "custom_model_data": 165000 }, "model": "medalhas/bronze" },
+		{ "predicate": { "custom_model_data": 165001 }, "model": "medalhas/prata" },
+		{ "predicate": { "custom_model_data": 165002 }, "model": "medalhas/ouro" },
+		{ "predicate": { "custom_model_data": 165003 }, "model": "medalhas/patente/cristal_1" },
+		{ "predicate": { "custom_model_data": 165004 }, "model": "medalhas/patente/cristal_2" },
+		{ "predicate": { "custom_model_data": 165005 }, "model": "medalhas/patente/cristal_3" },
+		{ "predicate": { "custom_model_data": 165006 }, "model": "medalhas/patente/cristal_4" },
+		{ "predicate": { "custom_model_data": 165007 }, "model": "medalhas/patente/cristal_5" },
+		{ "predicate": { "custom_model_data": 165008 }, "model": "medalhas/patente/elite_1" },
+		{ "predicate": { "custom_model_data": 165009 }, "model": "medalhas/patente/elite_2" },
+		{ "predicate": { "custom_model_data": 165010 }, "model": "medalhas/patente/elite_3" },
+		{ "predicate": { "custom_model_data": 165011 }, "model": "medalhas/patente/elite_4" },
+		{ "predicate": { "custom_model_data": 165012 }, "model": "medalhas/patente/elite_5" },
+		{ "predicate": { "custom_model_data": 165013 }, "model": "medalhas/patente/ferro_1" },
+		{ "predicate": { "custom_model_data": 165014 }, "model": "medalhas/patente/ferro_2" },
+		{ "predicate": { "custom_model_data": 165015 }, "model": "medalhas/patente/ferro_3" },
+		{ "predicate": { "custom_model_data": 165016 }, "model": "medalhas/patente/ferro_4" },
+		{ "predicate": { "custom_model_data": 165017 }, "model": "medalhas/patente/ferro_5" },
+		{ "predicate": { "custom_model_data": 165018 }, "model": "medalhas/patente/guardiao_1" },
+		{ "predicate": { "custom_model_data": 165019 }, "model": "medalhas/patente/guardiao_2" },
+		{ "predicate": { "custom_model_data": 165020 }, "model": "medalhas/patente/guardiao_3" },
+		{ "predicate": { "custom_model_data": 165021 }, "model": "medalhas/patente/guardiao_4" },
+		{ "predicate": { "custom_model_data": 165022 }, "model": "medalhas/patente/guardiao_5" },
+		{ "predicate": { "custom_model_data": 165023 }, "model": "medalhas/patente/lendario_1" },
+		{ "predicate": { "custom_model_data": 165024 }, "model": "medalhas/patente/lendario_2" },
+		{ "predicate": { "custom_model_data": 165025 }, "model": "medalhas/patente/lendario_3" },
+		{ "predicate": { "custom_model_data": 165026 }, "model": "medalhas/patente/lendario_4" },
+		{ "predicate": { "custom_model_data": 165027 }, "model": "medalhas/patente/lendario_5" },
+		{ "predicate": { "custom_model_data": 165028 }, "model": "medalhas/patente/mestre_1" },
+		{ "predicate": { "custom_model_data": 165029 }, "model": "medalhas/patente/mestre_2" },
+		{ "predicate": { "custom_model_data": 165030 }, "model": "medalhas/patente/mestre_3" },
+		{ "predicate": { "custom_model_data": 165031 }, "model": "medalhas/patente/mestre_4" },
+		{ "predicate": { "custom_model_data": 165032 }, "model": "medalhas/patente/mestre_5" },
+		{ "predicate": { "custom_model_data": 165033 }, "model": "medalhas/patente/prata_1" },
+		{ "predicate": { "custom_model_data": 165034 }, "model": "medalhas/patente/prata_2" },
+		{ "predicate": { "custom_model_data": 165035 }, "model": "medalhas/patente/prata_3" },
+		{ "predicate": { "custom_model_data": 165036 }, "model": "medalhas/patente/prata_4" },
+		{ "predicate": { "custom_model_data": 165037 }, "model": "medalhas/patente/prata_5" },
+		{ "predicate": { "custom_model_data": 165038 }, "model": "medalhas/patente/rubi_1" },
+		{ "predicate": { "custom_model_data": 165039 }, "model": "medalhas/patente/rubi_2" },
+		{ "predicate": { "custom_model_data": 165040 }, "model": "medalhas/patente/rubi_3" },
+		{ "predicate": { "custom_model_data": 165041 }, "model": "medalhas/patente/rubi_4" },
+		{ "predicate": { "custom_model_data": 165042 }, "model": "medalhas/patente/rubi_5" },
+		{ "predicate": { "custom_model_data": 165043 }, "model": "medalhas/patente/safira_1" },
+		{ "predicate": { "custom_model_data": 165044 }, "model": "medalhas/patente/safira_2" },
+		{ "predicate": { "custom_model_data": 165045 }, "model": "medalhas/patente/safira_3" },
+		{ "predicate": { "custom_model_data": 165046 }, "model": "medalhas/patente/safira_4" },
+		{ "predicate": { "custom_model_data": 165047 }, "model": "medalhas/patente/safira_5" },
+		{ "predicate": { "custom_model_data": 170000 }, "model": "view/seta_tutorial" },
+		{ "predicate": { "custom_model_data": 170001 }, "model": "block/austrident" },
+		{ "predicate": { "custom_model_data": 170002 }, "model": "skins/namorados_22/cajado" },
+		{ "predicate": { "custom_model_data": 170003 }, "model": "view/moeda" },
+		{ "predicate": { "custom_model_data": 185000 }, "model": "pergaminhos/comum" },
+		{ "predicate": { "custom_model_data": 185001 }, "model": "pergaminhos/raro" },
+		{ "predicate": { "custom_model_data": 185002 }, "model": "pergaminhos/ultra" },
+		{ "predicate": { "custom_model_data": 185003 }, "model": "pergaminhos/lendario" },
+		{ "predicate": { "custom_model_data": 185004 }, "model": "pergaminhos/heroico" },
+		{ "predicate": { "custom_model_data": 185005 }, "model": "pergaminhos/maestria" },
+		{ "predicate": { "custom_model_data": 185006 }, "model": "pergaminhos/divino" },
+		{ "predicate": { "custom_model_data": 185007 }, "model": "pergaminhos/aberto/padrao" },
+		{ "predicate": { "custom_model_data": 185008 }, "model": "pergaminhos/magico" },
+		{ "predicate": { "custom_model_data": 185009 }, "model": "pergaminhos/sinistro" },
+		{ "predicate": { "custom_model_data": 185010 }, "model": "pergaminhos/especial" },
+		{ "predicate": { "custom_model_data": 185011 }, "model": "transicao/antigo" },
+		{ "predicate": { "custom_model_data": 185012 }, "model": "transicao/arco" },
+		{ "predicate": { "custom_model_data": 185013 }, "model": "transicao/vara" },
+		{ "predicate": { "custom_model_data": 185014 }, "model": "transicao/besta" },
+		{ "predicate": { "custom_model_data": 185015 }, "model": "transicao/elytra" },
+		{ "predicate": { "custom_model_data": 185016 }, "model": "transicao/enxada" },
+		{ "predicate": { "custom_model_data": 185017 }, "model": "transicao/espada" },
+		{ "predicate": { "custom_model_data": 185018 }, "model": "transicao/machado" },
+		{ "predicate": { "custom_model_data": 185019 }, "model": "transicao/pa" },
+		{ "predicate": { "custom_model_data": 185020 }, "model": "transicao/picareta" },
+		{ "predicate": { "custom_model_data": 185021 }, "model": "transicao/armadura" },
+		{ "predicate": { "custom_model_data": 185022 }, "model": "transicao/armadura" },
+		{ "predicate": { "custom_model_data": 185023 }, "model": "transicao/armadura" },
+		{ "predicate": { "custom_model_data": 185024 }, "model": "transicao/armadura" },
+		{ "predicate": { "custom_model_data": 185025 }, "model": "pergaminhos/aberto/divino" },
+		{ "predicate": { "custom_model_data": 185026 }, "model": "pergaminhos/aberto/heroico" },
+		{ "predicate": { "custom_model_data": 185027 }, "model": "pergaminhos/aberto/lendario" },
+		{ "predicate": { "custom_model_data": 185028 }, "model": "pergaminhos/aberto/maestria" },
+		{ "predicate": { "custom_model_data": 185029 }, "model": "pergaminhos/aberto/magico" },
+		{ "predicate": { "custom_model_data": 185030 }, "model": "pergaminhos/aberto/raro" },
+		{ "predicate": { "custom_model_data": 185031 }, "model": "pergaminhos/aberto/simples" },
+		{ "predicate": { "custom_model_data": 185032 }, "model": "pergaminhos/aberto/sinistro" },
+		{ "predicate": { "custom_model_data": 185033 }, "model": "pergaminhos/aberto/ultra" },
+		{ "predicate": { "custom_model_data": 200000 }, "model": "arcanos/colhedoralma" },
+		{ "predicate": { "custom_model_data": 200001 }, "model": "arcanos/contadorassassinatos" },
+		{ "predicate": { "custom_model_data": 200002 }, "model": "arcanos/contadorblocos" },
+		{ "predicate": { "custom_model_data": 200003 }, "model": "arcanos/contadormonstros" },
+		{ "predicate": { "custom_model_data": 200004 }, "model": "arcanos/contadorpesca" },
+		{ "predicate": { "custom_model_data": 200005 }, "model": "arcanos/essenciaangelical" },
+		{ "predicate": { "custom_model_data": 200006 }, "model": "arcanos/essenciaestragada" },
+		{ "predicate": { "custom_model_data": 200007 }, "model": "arcanos/essenciaorganizacao" },
+		{ "predicate": { "custom_model_data": 200008 }, "model": "arcanos/essenciaremocao" },
+		{ "predicate": { "custom_model_data": 200009 }, "model": "arcanos/essenciasecreta" },
+		{ "predicate": { "custom_model_data": 200010 }, "model": "arcanos/expansor" },
+		{ "predicate": { "custom_model_data": 200011 }, "model": "arcanos/gemaabencoada" },
+		{ "predicate": { "custom_model_data": 200012 }, "model": "arcanos/gemaalma" },
+		{ "predicate": { "custom_model_data": 200013 }, "model": "arcanos/gemaarcana" },
+		{ "predicate": { "custom_model_data": 200014 }, "model": "austv_itens:fragmento_alquimia" },
+		{ "predicate": { "custom_model_data": 200015 }, "model": "austv_itens:fragmento_reparo" },
+		{ "predicate": { "custom_model_data": 200016 }, "model": "austv_itens:fragmento_desarmado" },
+		{ "predicate": { "custom_model_data": 200017 }, "model": "austv_itens:fragmento_espada" },
+		{ "predicate": { "custom_model_data": 200018 }, "model": "austv_itens:fragmento_machado" },
+		{ "predicate": { "custom_model_data": 200019 }, "model": "austv_itens:fragmento_acrobacia" },
+		{ "predicate": { "custom_model_data": 200020 }, "model": "austv_itens:fragmento_herbalismo" },
+		{ "predicate": { "custom_model_data": 200021 }, "model": "austv_itens:fragmento_escavacao" },
+		{ "predicate": { "custom_model_data": 200022 }, "model": "austv_itens:fragmento_arco" },
+		{ "predicate": { "custom_model_data": 200023 }, "model": "austv_itens:fragmento_pesca" },
+		{ "predicate": { "custom_model_data": 200024 }, "model": "austv_itens:fragmento_domesticacao" },
+		{ "predicate": { "custom_model_data": 200025 }, "model": "austv_itens:fragmento_lenhador" },
+		{ "predicate": { "custom_model_data": 200026 }, "model": "austv_itens:fragmento_mineracao" },
+		{ "predicate": { "custom_model_data": 200027 }, "model": "austv_itens:pedra_basica" },
+		{ "predicate": { "custom_model_data": 200028 }, "model": "austv_itens:pedra_toxica" },
+		{ "predicate": { "custom_model_data": 200029 }, "model": "austv_itens:pedra_sinistra" },
+		{ "predicate": { "custom_model_data": 200030 }, "model": "arcanos/essenciamudanca" },
+		{ "predicate": { "custom_model_data": 225000 }, "model": "austv_itens:bancada_reciclagem" },
+		{ "predicate": { "custom_model_data": 225001 }, "model": "austv_itens:bancada_experiencia" },
+		{ "predicate": { "custom_model_data": 225002 }, "model": "austv_itens:bancada_forjador_pedras"},
+		{ "predicate": { "custom_model_data": 300000 }, "model": "ausmilitar:ak" },
+		{ "predicate": { "custom_model_data": 300001 }, "model": "ausmilitar:pente_ak" },
+		{ "predicate": { "custom_model_data": 300002 }, "model": "ausmilitar:revolver" },
+		{ "predicate": { "custom_model_data": 300003 }, "model": "ausmilitar:pente_revolver" },
+		{ "predicate": { "custom_model_data": 300004 }, "model": "ausmilitar:kit_medico" }
+		
+	]
 }

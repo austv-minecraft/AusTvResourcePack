@@ -1,40 +1,13 @@
 {
-    "model": {
-        "type": "range_dispatch",
-        "property": "custom_model_data",
-        "fallback": {
-            "type": "model",
-            "model": "item/mace"
-        },
-        "entries": [
-            {
-                "threshold": 1,
-                "model": {
-                    "type": "model",
-                    "model": "skins/calamidade/clava"
-                }
-            },
-            {
-                "threshold": 2,
-                "model": {
-                    "type": "model",
-                    "model": "skins/natal/clava"
-                }
-            },
-            {
-                "threshold": 3,
-                "model": {
-                    "type": "model",
-                    "model": "skins/verao/clava"
-                }
-            },
-            {
-                "threshold": 4,
-                "model": {
-                    "type": "model",
-                    "model": "skins/_misc/mace/panela_veia"
-                }
-            }
-        ]
-    }
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/mace"
+	},
+
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "skins/calamidade/clava"},
+		{"predicate": {"custom_model_data":2}, "model": "skins/natal/clava"},
+		{"predicate": {"custom_model_data":3}, "model": "skins/verao/clava"},
+		{"predicate": {"custom_model_data":4}, "model": "skins/_misc/mace/panela_veia"}
+	]
 }
