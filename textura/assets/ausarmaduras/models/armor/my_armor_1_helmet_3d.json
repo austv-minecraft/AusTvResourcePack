@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "my_armor_tutorial:armor/my_armor_1/layer_1",
-    "particle": "my_armor_tutorial:armor/my_armor_1/layer_1"
+    "0": "ausarmaduras:armor/my_armor_1/layer_1",
+    "particle": "ausarmaduras:armor/my_armor_1/layer_1"
   },
   "elements": [
     {
