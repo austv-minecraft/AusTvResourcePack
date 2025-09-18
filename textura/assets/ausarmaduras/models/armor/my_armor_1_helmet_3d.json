@@ -1,0 +1,51 @@
+{
+  "credit": "Made with Blockbench",
+  "textures": {
+    "0": "my_armor_tutorial:armor/my_armor_1/layer_1",
+    "particle": "my_armor_tutorial:armor/my_armor_1/layer_1"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "north": { "uv": [2, 4, 4, 8], "texture": "#0" },
+        "east": { "uv": [0, 4, 2, 8], "texture": "#0" },
+        "south": { "uv": [6, 4, 8, 8], "texture": "#0" },
+        "west": { "uv": [4, 4, 6, 8], "texture": "#0" },
+        "up": { "uv": [2, 0, 4, 4], "texture": "#0" },
+        "down": { "uv": [2, 4, 4, 8], "texture": "#0" }
+      }
+    },
+    {
+      "from": [7, 13, -2],
+      "to": [9, 21, 18],
+      "rotation": { "angle": 0, "axis": "y", "origin": [7, 13, 0] },
+      "faces": {
+        "north": { "uv": [4, 4, 4.25, 5.5], "texture": "#0" },
+        "east": { "uv": [4, 4, 6, 5.5], "texture": "#0" },
+        "south": { "uv": [4, 4, 4.25, 5.5], "texture": "#0" },
+        "west": { "uv": [4, 4, 6, 5.5], "texture": "#0" },
+        "up": { "uv": [4, 4, 4.25, 7.5], "texture": "#0" },
+        "down": { "uv": [4, 4, 4.25, 7.5], "texture": "#0" }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [45, 45, 0],
+      "scale": [0.2, 0.2, 0.2]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, 114, 0],
+      "translation": [2.5, 0, 0],
+      "scale": [0.25, 0.25, 0.25]
+    },
+    "ground": { "translation": [0, 1.75, 0], "scale": [0.2, 0.2, 0.2] },
+    "gui": {
+      "rotation": [0, 180, 0],
+      "translation": [0, -1.75, 0],
+      "scale": [0.8, 0.8, 0.8]
+    }
+  }
+}
