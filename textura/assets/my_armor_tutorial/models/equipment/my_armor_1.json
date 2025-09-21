@@ -1,0 +1,6 @@
+{
+  "layers": {
+    "humanoid": [{ "texture": "my_armor_tutorial:my_armor_1" }],
+    "humanoid_leggings": [{ "texture": "my_armor_tutorial:my_armor_1" }]
+  }
+}
