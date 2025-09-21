@@ -179,7 +179,7 @@
             "model": "minecraft:item/iron_boots"
           },
           "property": "minecraft:trim_material",
-          "model": "my_armor_tutorial:ia_auto_gen/my_armor_1_boots"
+          "model": "my_armor_tutorial:item/ia_auto/my_armor_1_boots"
         }
       },
       {
