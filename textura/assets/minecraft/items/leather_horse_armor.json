@@ -5331,6 +5331,86 @@
                 }
             },
             {
+                "threshold": 410,
+                "model": {
+                "type": "model",
+                "model": "ausmobs:nocsy_chibi_bumblebee/neck",
+                "tints": [{ "type": "dye", "default": -6265536 }]
+                }
+            },
+            {
+                "threshold": 411,
+                "model": {
+                "type": "model",
+                "model": "ausmobs:nocsy_chibi_bumblebee/head",
+                "tints": [{ "type": "dye", "default": -6265536 }]
+                }
+            },
+            {
+                "threshold": 412,
+                "model": {
+                "type": "model",
+                "model": "ausmobs:nocsy_chibi_bumblebee/chest",
+                "tints": [{ "type": "dye", "default": -6265536 }]
+                }
+            },
+            {
+                "threshold": 413,
+                "model": {
+                "type": "model",
+                "model": "ausmobs:nocsy_chibi_bumblebee/left_leg",
+                "tints": [{ "type": "dye", "default": -6265536 }]
+                }
+            },
+            {
+                "threshold": 414,
+                "model": {
+                "type": "model",
+                "model": "ausmobs:nocsy_chibi_bumblebee/right_wing",
+                "tints": [{ "type": "dye", "default": -6265536 }]
+                }
+            },
+            {
+                "threshold": 415,
+                "model": {
+                "type": "model",
+                "model": "ausmobs:nocsy_chibi_bumblebee/left_arm",
+                "tints": [{ "type": "dye", "default": -6265536 }]
+                }
+            },
+            {
+                "threshold": 416,
+                "model": {
+                "type": "model",
+                "model": "ausmobs:nocsy_chibi_bumblebee/tail",
+                "tints": [{ "type": "dye", "default": -6265536 }]
+                }
+            },
+            {
+                "threshold": 417,
+                "model": {
+                "type": "model",
+                "model": "ausmobs:nocsy_chibi_bumblebee/left_wing",
+                "tints": [{ "type": "dye", "default": -6265536 }]
+                }
+            },
+            {
+                "threshold": 418,
+                "model": {
+                "type": "model",
+                "model": "ausmobs:nocsy_chibi_bumblebee/right_arm",
+                "tints": [{ "type": "dye", "default": -6265536 }]
+                }
+            },
+            {
+                "threshold": 419,
+                "model": {
+                "type": "model",
+                "model": "ausmobs:nocsy_chibi_bumblebee/right_leg",
+                "tints": [{ "type": "dye", "default": -6265536 }]
+                }
+            },
+            {
                 "threshold": 5000,
                 "model": {
                     "type": "model",

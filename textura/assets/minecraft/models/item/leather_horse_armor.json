@@ -1627,6 +1627,46 @@
       "model": "ausmobs:nocsy_chibi_light_spirit/gem"
     },
     {
+      "predicate": { "custom_model_data": 410 },
+      "model": "ausmobs:nocsy_chibi_bumblebee/neck"
+    },
+    {
+      "predicate": { "custom_model_data": 411 },
+      "model": "ausmobs:nocsy_chibi_bumblebee/head"
+    },
+    {
+      "predicate": { "custom_model_data": 412 },
+      "model": "ausmobs:nocsy_chibi_bumblebee/chest"
+    },
+    {
+      "predicate": { "custom_model_data": 413 },
+      "model": "ausmobs:nocsy_chibi_bumblebee/left_leg"
+    },
+    {
+      "predicate": { "custom_model_data": 414 },
+      "model": "ausmobs:nocsy_chibi_bumblebee/right_wing"
+    },
+    {
+      "predicate": { "custom_model_data": 415 },
+      "model": "ausmobs:nocsy_chibi_bumblebee/left_arm"
+    },
+    {
+      "predicate": { "custom_model_data": 416 },
+      "model": "ausmobs:nocsy_chibi_bumblebee/tail"
+    },
+    {
+      "predicate": { "custom_model_data": 417 },
+      "model": "ausmobs:nocsy_chibi_bumblebee/left_wing"
+    },
+    {
+      "predicate": { "custom_model_data": 418 },
+      "model": "ausmobs:nocsy_chibi_bumblebee/right_arm"
+    },
+    {
+      "predicate": { "custom_model_data": 419 },
+      "model": "ausmobs:nocsy_chibi_bumblebee/right_leg"
+    },
+    {
       "predicate": { "custom_model_data": 5000 },
       "model": "ausobjs:caixas/skyblock"
     },
