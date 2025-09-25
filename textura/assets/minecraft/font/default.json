@@ -3604,6 +3604,13 @@
       "ascent": 9,
       "height": 9,
       "chars": ["\uE237"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_primavera_florescer.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uE238"]
     }
   ]
 }
