@@ -41,6 +41,7 @@
     { "type": "single", "resource": "ausmobs:entity/kindletron2" },
     { "type": "single", "resource": "ausmoveis:lojas/wool/magenta_wool" },
     { "type": "single", "resource": "ausmoveis:natal/elf_table" },
+    { "type": "single", "resource": "ausskins:bestas/primavera" },
     {
       "type": "single",
       "resource": "ausskins:varas/brinquedo_fishing_rod_cast"
@@ -65,6 +66,7 @@
     { "type": "single", "resource": "ausmoveis:caipira/bed_bunk" },
     { "type": "single", "resource": "ausskins:escudos/pascoa_shield" },
     { "type": "single", "resource": "ausskins:bestas/namorados_22_charged" },
+    { "type": "single", "resource": "ausskins:bestas/primavera_charged" },
     { "type": "single", "resource": "ausskins:arcos/miau_bow" },
     { "type": "single", "resource": "ausobjs:caixas/assombrada" },
     { "type": "single", "resource": "austv_itens:trofeus/doador_segundo" },
@@ -670,6 +672,7 @@
     { "type": "single", "resource": "ausmoveis:lojas/wool/pink_wool" },
     { "type": "single", "resource": "ausmobs:entity/wisp_common" },
     { "type": "single", "resource": "ausskins:varas/pascoa_22_fishing_rod" },
+    { "type": "single", "resource": "ausskins:bestas/primavera_firework" },
     { "type": "single", "resource": "ausmoveis:natal/eyes_anim" },
     { "type": "single", "resource": "auscosmetic:mao/guarda_sol" },
     { "type": "single", "resource": "ausskins:bestas/calamidade" },
@@ -961,6 +964,9 @@
       "type": "single",
       "resource": "ausmoveis:oriental/interior/cadeira_laranja"
     },
+    { "type": "single", "resource": "ausskins:bestas/primavera_2" },
+    { "type": "single", "resource": "ausskins:bestas/primavera_1" },
+    { "type": "single", "resource": "ausskins:bestas/primavera_0" },
     { "type": "single", "resource": "ausmoveis:oriental/interior/cama" },
     { "type": "single", "resource": "ausskins:bestas/calamidade_0" },
     { "type": "single", "resource": "ausskins:bestas/calamidade_1" },
