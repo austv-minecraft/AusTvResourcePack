@@ -3590,6 +3590,20 @@
       "ascent": 9,
       "height": 9,
       "chars": ["\uE235"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:passe/passe_menu_inicial_primavera.png",
+      "ascent": 3,
+      "height": 256,
+      "chars": ["\uE236"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_primavera_florescer.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uE237"]
     }
   ]
 }
