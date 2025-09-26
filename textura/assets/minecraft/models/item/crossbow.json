@@ -180,7 +180,7 @@
     },
     {
       "predicate": { "charged": 1, "firework": 1, "custom_model_data": 10005 },
-      "model": "ausskins:/besta_primavera_firework"
+      "model": "ausskins:besta_primavera_firework"
     },
     { "predicate": { "custom_model_data": 10006 }, "model": "item/crossbow" }
   ]

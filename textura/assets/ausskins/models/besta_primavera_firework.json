@@ -1,1 +1,4 @@
-{"parent":"minecraft:item/crossbow","textures":{"layer0":"ausskins:bestas/primavera_firework"}}
+{
+  "parent": "minecraft:item/crossbow",
+  "textures": { "layer0": "ausskins:bestas/primavera_firework" }
+}
