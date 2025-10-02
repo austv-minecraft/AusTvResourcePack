@@ -1672,6 +1672,10 @@
       {
         "threshold": 300006,
         "model": { "type": "model", "model": "especial/coracao_passe" }
+      },
+      {
+        "threshold": 300007,
+        "model": { "type": "model", "model": "especial/passe_sorrindo" }
       }
     ]
   }
