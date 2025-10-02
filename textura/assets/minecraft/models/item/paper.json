@@ -240,7 +240,7 @@
 		{ "predicate": { "custom_model_data": 150015 }, "model": "especial/passe_bilhete" },
 		{ "predicate": { "custom_model_data": 150016 }, "model": "especial/fossil_basico" },
 		{ "predicate": { "custom_model_data": 150017 }, "model": "especial/fossil_raro" },
-		{ "predicate": { "custom_model_data": 150018 }, "model": "especial/carta_namorados" },
+		{ "predicate": { "custom_model_data": 150018 }, "model": "especial/carta_namorados" },	
 		{ "predicate": { "custom_model_data": 150019 }, "model": "austv_itens:moeda_carpintaria" },
 		{ "predicate": { "custom_model_data": 150020 }, "model": "austv_itens:moeda_carpintaria_cash" },
 		{ "predicate": { "custom_model_data": 150021 }, "model": "especial/pipoca" },
@@ -400,7 +400,7 @@
 		{ "predicate": { "custom_model_data": 300001 }, "model": "ausmilitar:pente_ak" },
 		{ "predicate": { "custom_model_data": 300002 }, "model": "ausmilitar:revolver" },
 		{ "predicate": { "custom_model_data": 300003 }, "model": "ausmilitar:pente_revolver" },
-		{ "predicate": { "custom_model_data": 300004 }, "model": "ausmilitar:kit_medico" }
-		
+		{ "predicate": { "custom_model_data": 300004 }, "model": "ausmilitar:kit_medico" },
+		{ "predicate": { "custom_model_data": 300005 }, "model": "especial/estrela_passe" }		
 	]
 }

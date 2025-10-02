@@ -511,10 +511,7 @@
       },
       {
         "threshold": 3000,
-        "model": {
-          "type": "model",
-          "model": "austv_itens:pet_cenoura_natalina"
-        }
+        "model": { "type": "model", "model": "austv_itens:pet_cenoura_natalina" }
       },
       {
         "threshold": 3001,
@@ -1667,6 +1664,10 @@
       {
         "threshold": 300004,
         "model": { "type": "model", "model": "ausmilitar:kit_medico" }
+      },
+      {
+        "threshold": 300005,
+        "model": { "type": "model", "model": "especial/estrela_passe" }
       }
     ]
   }

@@ -156,6 +156,8 @@
 		{"predicate": {"custom_model_data":154}, "model": "gui/tier2"},
 		{"predicate": {"custom_model_data":155}, "model": "gui/tier3"},
 		{"predicate": {"custom_model_data":156}, "model": "gui/passe/passe_recompensa_barra"},
+		{"predicate": {"custom_model_data":157}, "model": "gui/pet_bzz"},
+		{"predicate": {"custom_model_data":158}, "model": "gui/bzz_bloqueado"},
 		{"predicate": {"custom_model_data":5000}, "model": "gui/emblema/independencia"},
 		{"predicate": {"custom_model_data":5001}, "model": "gui/emblema/aviador"},
 		{"predicate": {"custom_model_data":5002}, "model": "gui/emblema/willzy"},
