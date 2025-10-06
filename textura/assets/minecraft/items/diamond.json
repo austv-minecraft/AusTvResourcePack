@@ -161,6 +161,7 @@
       { "threshold": 156, "model": { "type": "model", "model": "gui/passe/passe_recompensa_barra" } },
       { "threshold": 157, "model": { "type": "model", "model": "gui/pet_bzz" } },
       { "threshold": 158, "model": { "type": "model", "model": "gui/bzz_bloqueado" } },
+      { "threshold": 159, "model": { "type": "model", "model": "gui/torneio/torneio_passe" } },
       { "threshold": 5000, "model": { "type": "model", "model": "gui/emblema/independencia" } },
       { "threshold": 5001, "model": { "type": "model", "model": "gui/emblema/aviador" } },
       { "threshold": 5002, "model": { "type": "model", "model": "gui/emblema/willzy" } },
