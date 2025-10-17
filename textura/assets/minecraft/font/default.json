@@ -3625,6 +3625,13 @@
       "ascent": 9,
       "height": 9,
       "chars": ["\uE240"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:passe/passe_compra_slot.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE241"]
     }
   ]
 }
