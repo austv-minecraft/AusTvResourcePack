@@ -147,6 +147,14 @@
       "predicate": { "cast": 1, "custom_model_data": 10020 },
       "model": "ausskins:vara_verao_cast"
     },
-    { "predicate": { "custom_model_data": 10021 }, "model": "item/fishing_rod" }
+    {
+      "predicate": { "custom_model_data": 10021 },
+      "model": "ausskins:vara_necromante"
+    },
+    {
+      "predicate": { "cast": 1, "custom_model_data": 10021 },
+      "model": "ausskins:vara_necromante_cast"
+    },
+    { "predicate": { "custom_model_data": 10022 }, "model": "item/fishing_rod" }
   ]
 }
