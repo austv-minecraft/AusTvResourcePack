@@ -88,6 +88,7 @@
 		{"predicate": {"custom_model_data":87}, "model": "skins/_misc/machado/detonar"},
 		{"predicate": {"custom_model_data":88}, "model": "skins/_misc/machado/gorila_machado"},
 		{"predicate": {"custom_model_data":89}, "model": "skins/_misc/machado/petra"},
-		{"predicate": {"custom_model_data":90}, "model": "skins/end/machado"}
+		{"predicate": {"custom_model_data":90}, "model": "skins/end/machado"},
+		{"predicate": {"custom_model_data":91}, "model": "skins/necromante/machado"}
 	]
 }

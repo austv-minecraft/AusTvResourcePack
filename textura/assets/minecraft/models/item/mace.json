@@ -9,6 +9,7 @@
 		{"predicate": {"custom_model_data":2}, "model": "skins/natal/clava"},
 		{"predicate": {"custom_model_data":3}, "model": "skins/verao/clava"},
 		{"predicate": {"custom_model_data":4}, "model": "skins/_misc/mace/panela_veia"},
-		{"predicate": {"custom_model_data":5}, "model": "skins/florescer_2025/clava"}
+		{"predicate": {"custom_model_data":5}, "model": "skins/florescer_2025/clava"},
+		{"predicate": {"custom_model_data":6}, "model": "skins/necromante/clava"}
 	]
 }
