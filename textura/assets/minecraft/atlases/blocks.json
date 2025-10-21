@@ -594,6 +594,7 @@
     { "type": "single", "resource": "ausmoveis:caipira/green_book" },
     { "type": "single", "resource": "ausmoveis:caipira/wagon_full" },
     { "type": "single", "resource": "ausskins:arcos/primavera_23_bow" },
+    { "type": "single", "resource": "ausobjs:caixas/necromante" },
     { "type": "single", "resource": "austv_itens:trofeus/tier2tiktok" },
     {
       "type": "single",
