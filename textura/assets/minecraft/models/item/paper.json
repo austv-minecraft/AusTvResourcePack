@@ -222,6 +222,7 @@
 		{ "predicate": { "custom_model_data": 100041}, "model": "chaves/primavera_2" },
 		{ "predicate": { "custom_model_data": 100042}, "model": "chaves/travessuras" },
 		{ "predicate": { "custom_model_data": 100043}, "model": "chaves/deuses" },
+		{ "predicate": { "custom_model_data": 100044}, "model": "chaves/necromante" },
 		{ "predicate": { "custom_model_data": 150000 }, "model": "especial/microfone_antigo" },
 		{ "predicate": { "custom_model_data": 150001 }, "model": "especial/microfone" },
 		{ "predicate": { "custom_model_data": 150002 }, "model": "especial/cajado_rei" },

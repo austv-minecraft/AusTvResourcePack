@@ -938,6 +938,10 @@
         "model": { "type": "model", "model": "chaves/deuses" }
       },
       {
+        "threshold": 100044,
+        "model": { "type": "model", "model": "chaves/necromante" }
+      },
+      {
         "threshold": 150000,
         "model": { "type": "model", "model": "especial/microfone_antigo" }
       },
