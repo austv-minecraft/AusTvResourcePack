@@ -1049,6 +1049,10 @@
         "model": { "type": "model", "model": "austv_itens:halloween_doce_3" }
       },
       {
+        "threshold": 150026,
+        "model": { "type": "model", "model": "austv_itens:halloween_alma" }
+      },
+      {
         "threshold": 153000,
         "model": { "type": "model", "model": "presentes/natalino" }
       },
