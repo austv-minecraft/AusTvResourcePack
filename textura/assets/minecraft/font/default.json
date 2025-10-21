@@ -3632,6 +3632,13 @@
       "ascent": -4,
       "height": 256,
       "chars": ["\uE241"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/presente_semanal_halloween.png",
+      "ascent": 4,
+      "height": 256,
+      "chars": ["\uE242"]
     }
   ]
 }
