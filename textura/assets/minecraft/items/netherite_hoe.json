@@ -293,6 +293,13 @@
                     "type": "model",
                     "model": "skins/end/enxada"
                 }
+            },
+            {
+                "threshold": 39,
+                "model": {
+                    "type": "model",
+                    "model": "skins/necromante/enxada"
+                }
             }
         ]
     }

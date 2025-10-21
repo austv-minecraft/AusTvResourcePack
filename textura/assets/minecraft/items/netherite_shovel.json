@@ -258,6 +258,13 @@
                     "type": "model",
                     "model": "skins/end/pa"
                 }
+            },
+            {
+                "threshold": 37,
+                "model": {
+                    "type": "model",
+                    "model": "skins/necromante/pa"
+                }
             }
         ]
     }

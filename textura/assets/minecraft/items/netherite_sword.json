@@ -566,6 +566,13 @@
                     "type": "model",
                     "model": "skins/caos/espada"
                 }
+            },
+            {
+                "threshold": 125,
+                "model": {
+                    "type": "model",
+                    "model": "skins/necromante/espada"
+                }
             }
         ]
     }

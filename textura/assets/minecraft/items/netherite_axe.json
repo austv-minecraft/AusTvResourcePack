@@ -594,6 +594,13 @@
                     "type": "model",
                     "model": "skins/end/machado"
                 }
+            },
+            {
+                "threshold": 91,
+                "model": {
+                    "type": "model",
+                    "model": "skins/necromante/machado"
+                }
             }
         ]
     }

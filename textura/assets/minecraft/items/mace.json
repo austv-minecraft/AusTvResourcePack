@@ -41,6 +41,13 @@
                     "type": "model",
                     "model": "skins/florescer_2025/clava"
                 }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "skins/necromante/clava"
+                }
             }
         ]
     }
