@@ -5411,6 +5411,54 @@
                 }
             },
             {
+                "threshold": 420,
+                "model": {
+                "type": "model",
+                "model": "ausmobs:nocsy_chibi_jackoassassin/head",
+                "tints": [{ "type": "dye", "default": -6265536 }]
+                }
+            },
+            {
+                "threshold": 421,
+                "model": {
+                "type": "model",
+                "model": "ausmobs:nocsy_chibi_jackoassassin/chest",
+                "tints": [{ "type": "dye", "default": -6265536 }]
+                }
+            },
+            {
+                "threshold": 422,
+                "model": {
+                "type": "model",
+                "model": "ausmobs:nocsy_chibi_jackoassassin/left_leg",
+                "tints": [{ "type": "dye", "default": -6265536 }]
+                }
+            },
+            {
+                "threshold": 423,
+                "model": {
+                "type": "model",
+                "model": "ausmobs:nocsy_chibi_jackoassassin/right_leg",
+                "tints": [{ "type": "dye", "default": -6265536 }]
+                }
+            },
+            {
+                "threshold": 424,
+                "model": {
+                "type": "model",
+                "model": "ausmobs:nocsy_chibi_jackoassassin/hair",
+                "tints": [{ "type": "dye", "default": -6265536 }]
+                }
+            },
+            {
+                "threshold": 425,
+                "model": {
+                "type": "model",
+                "model": "ausmobs:nocsy_chibi_jackoassassin/spoon",
+                "tints": [{ "type": "dye", "default": -6265536 }]
+                }
+            },
+            {
                 "threshold": 5000,
                 "model": {
                     "type": "model",

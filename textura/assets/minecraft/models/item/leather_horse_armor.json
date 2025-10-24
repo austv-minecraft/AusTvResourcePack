@@ -1667,6 +1667,30 @@
       "model": "ausmobs:nocsy_chibi_bumblebee/right_leg"
     },
     {
+      "predicate": { "custom_model_data": 420 },
+      "model": "ausmobs:nocsy_chibi_jackoassassin/head"
+    },
+    {
+      "predicate": { "custom_model_data": 421 },
+      "model": "ausmobs:nocsy_chibi_jackoassassin/chest"
+    },
+    {
+      "predicate": { "custom_model_data": 422 },
+      "model": "ausmobs:nocsy_chibi_jackoassassin/left_leg"
+    },
+    {
+      "predicate": { "custom_model_data": 423 },
+      "model": "ausmobs:nocsy_chibi_jackoassassin/right_leg"
+    },
+    {
+      "predicate": { "custom_model_data": 424 },
+      "model": "ausmobs:nocsy_chibi_jackoassassin/hair"
+    },
+    {
+      "predicate": { "custom_model_data": 425 },
+      "model": "ausmobs:nocsy_chibi_jackoassassin/spoon"
+    },
+    {
       "predicate": { "custom_model_data": 5000 },
       "model": "ausobjs:caixas/skyblock"
     },

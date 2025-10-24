@@ -402,6 +402,7 @@
     { "type": "single", "resource": "ausskins:arcos/reborn_bow_1" },
     { "type": "single", "resource": "ausskins:arcos/reborn_bow_0" },
     { "type": "single", "resource": "ausskins:varas/um_ano_aus_fishing_rod" },
+    { "type": "single", "resource": "ausmobs:entity/nocsy_chibi_jackospoon" },
     { "type": "single", "resource": "ausmoveis:natal/xmas_wreath" },
     { "type": "single", "resource": "ausskins:varas/verao_fishing_rod_cast" },
     { "type": "single", "resource": "auscosmetic:costa/asa_futuro" },
