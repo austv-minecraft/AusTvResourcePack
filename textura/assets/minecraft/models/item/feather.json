@@ -1801,6 +1801,6 @@
       "predicate": { "custom_model_data": 100016 },
       "model": "ausobjs:npc/spawn/protegendo_1"
     },
-    { "predicate": { "custom_model_data": 4004 }, "model": "item/feather" }
+    { "predicate": { "custom_model_data": 100017 }, "model": "item/feather" }
   ]
 }

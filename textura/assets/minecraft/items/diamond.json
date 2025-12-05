@@ -432,7 +432,19 @@
       { "threshold": 50124, "model": { "type": "model", "model": "gui/caixas/icon_seta_esquerda" } },
       { "threshold": 50125, "model": { "type": "model", "model": "gui/caixas/icon_seta_direita"} },
       { "threshold": 50126, "model": { "type": "model", "model": "gui/caixas/icon_seta_cima"} },
-      { "threshold": 50127, "model": { "type": "model", "model": "item/diamond"} }  
+      { "threshold": 50127, "model": { "type": "model", "model": "gui/acesso_rapido/aus"} },
+      { "threshold": 50128, "model": { "type": "model", "model": "gui/acesso_rapido/comandos"} },
+      { "threshold": 50129, "model": { "type": "model", "model": "gui/acesso_rapido/config"} },
+      { "threshold": 50130, "model": { "type": "model", "model": "gui/acesso_rapido/homes"} },
+      { "threshold": 50131, "model": { "type": "model", "model": "gui/acesso_rapido/money"} },
+      { "threshold": 50132, "model": { "type": "model", "model": "gui/acesso_rapido/mundao"} },
+      { "threshold": 50133, "model": { "type": "model", "model": "gui/acesso_rapido/perfii"} },
+      { "threshold": 50134, "model": { "type": "model", "model": "gui/acesso_rapido/pwarps"} },
+      { "threshold": 50135, "model": { "type": "model", "model": "gui/acesso_rapido/regras"} },
+      { "threshold": 50136, "model": { "type": "model", "model": "gui/acesso_rapido/voicemic"} },
+      { "threshold": 50137, "model": { "type": "model", "model": "gui/acesso_rapido/voto"} },
+      { "threshold": 50138, "model": { "type": "model", "model": "gui/acesso_rapido/warps"} },
+      { "threshold": 50139, "model": { "type": "model", "model": "item/diamond"} }  
     ]
   },
   "oversized_in_gui": true
