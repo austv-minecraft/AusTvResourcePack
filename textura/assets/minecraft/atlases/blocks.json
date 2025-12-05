@@ -107,10 +107,12 @@
     { "type": "single", "resource": "ausskins:arcos/primavera_23_bow_0" },
     { "type": "single", "resource": "auscosmetic:chapeu/chapeu_palha_m1" },
     { "type": "single", "resource": "ausmoveis:natal/gift_anim" },
+    { "type": "single", "resource": "ausobjs:npc/spawn/equipado_pvp_objeto" },
     { "type": "single", "resource": "ausmoveis:natal/pressure_control" },
     { "type": "single", "resource": "ausskins:arcos/primavera_23_bow_2" },
     { "type": "single", "resource": "ausskins:arcos/primavera_23_bow_1" },
     { "type": "single", "resource": "ausobjs:caixas/glacial_22" },
+    { "type": "single", "resource": "ausobjs:npc/spawn/minerando_objeto" },
     { "type": "single", "resource": "ausmoveis:caipira/bed_single" },
     { "type": "single", "resource": "ausmoveis:caipira/dresser_tall" },
     { "type": "single", "resource": "ausmobs:entity/toffy_dark_mage_lvl2" },
@@ -252,7 +254,6 @@
       "resource": "ausskins:varas/calamidade_fishing_rod_cast"
     },
     { "type": "single", "resource": "auscosmetic:chapeu/sapo" },
-    { "type": "single", "resource": "ausmobs:entity/toffynocsy_owl_ninjastar" },
     { "type": "single", "resource": "auseventos:utils/mana" },
     { "type": "single", "resource": "ausmobs:entity/wisp_effect_common" },
     {
@@ -279,9 +280,7 @@
     { "type": "single", "resource": "ausskins:arcos/primavera_bow" },
     { "type": "single", "resource": "auscosmetic:mao/boia_salva_vidas" },
     { "type": "single", "resource": "ausmoveis:natal/crystal_ball_animated" },
-    { "type": "single", "resource": "ausmobs:entity/toffynocsy_owl_lvl1" },
     { "type": "single", "resource": "ausmoveis:caipira/orange_mushrooms" },
-    { "type": "single", "resource": "ausmobs:entity/toffynocsy_owl_lvl2" },
     { "type": "single", "resource": "auscosmetic:chapeu/gorro_1" },
     { "type": "single", "resource": "auscosmetic:chapeu/gorro_2" },
     { "type": "single", "resource": "ausmoveis:natal/christmas_gift_tall_9" },
@@ -324,6 +323,10 @@
     { "type": "single", "resource": "ausmobs:entity/wisp_legendary" },
     { "type": "single", "resource": "ausmoveis:espacial/scifi_aviso_0" },
     { "type": "single", "resource": "ausmoveis:lojas/logs/birch_log_top" },
+    {
+      "type": "single",
+      "resource": "ausobjs:npc/spawn/segurando_trofeu_objeto"
+    },
     {
       "type": "single",
       "resource": "ausmoveis:lojas/terra/light_gray_terracotta"
@@ -404,6 +407,8 @@
     { "type": "single", "resource": "ausskins:varas/um_ano_aus_fishing_rod" },
     { "type": "single", "resource": "ausmobs:entity/nocsy_chibi_jackospoon" },
     { "type": "single", "resource": "ausmoveis:natal/xmas_wreath" },
+    { "type": "single", "resource": "ausobjs:npc/spawn/ozi_carregando_item1" },
+    { "type": "single", "resource": "ausobjs:npc/spawn/ozi_carregando_item2" },
     { "type": "single", "resource": "ausskins:varas/verao_fishing_rod_cast" },
     { "type": "single", "resource": "auscosmetic:costa/asa_futuro" },
     { "type": "single", "resource": "ausobjs:portais/amarelo" },
@@ -466,6 +471,7 @@
       "type": "single",
       "resource": "ausskins:varas/celestial_fishing_rod_cast"
     },
+    { "type": "single", "resource": "ausobjs:npc/spawn/marcus_skin" },
     { "type": "single", "resource": "ausmoveis:natal/candy_pipe_border" },
     { "type": "single", "resource": "ausskins:varas/celestial_fishing_rod" },
     { "type": "single", "resource": "ausobjs:caixas/inverno" },
@@ -515,6 +521,7 @@
     { "type": "single", "resource": "ausmoveis:lojas/purpleshop" },
     { "type": "single", "resource": "ausmoveis:caipira/pot_3" },
     { "type": "single", "resource": "ausmoveis:caipira/pot_2" },
+    { "type": "single", "resource": "ausobjs:npc/spawn/andre_skin" },
     { "type": "single", "resource": "ausmoveis:caipira/pot_1" },
     { "type": "single", "resource": "ausmoveis:natal/candles_fire_2" },
     { "type": "single", "resource": "ausmoveis:natal/valve" },
@@ -527,6 +534,7 @@
     { "type": "single", "resource": "ausskins:arcos/oriental_bow_1" },
     { "type": "single", "resource": "ausskins:arcos/oriental_bow_0" },
     { "type": "single", "resource": "ausskins:arcos/deuses_bow" },
+    { "type": "single", "resource": "ausobjs:npc/spawn/power_skin" },
     { "type": "single", "resource": "ausskins:arcos/oriental_bow_2" },
     { "type": "single", "resource": "ausskins:arcos/desordem_bow_0" },
     { "type": "single", "resource": "ausmoveis:natal/crank_anim" },
@@ -544,6 +552,7 @@
     { "type": "single", "resource": "ausmoveis:caipira/fireplace_fire" },
     { "type": "single", "resource": "ausmobs:entity/polo_presente2" },
     { "type": "single", "resource": "ausmobs:entity/polo_presente1" },
+    { "type": "single", "resource": "ausobjs:npc/spawn/protegendo_objeto" },
     { "type": "single", "resource": "austotens:misticos/repulsao" },
     { "type": "single", "resource": "ausmoveis:lojas/greenshop" },
     { "type": "single", "resource": "ausmoveis:natal/gear3" },
@@ -582,6 +591,7 @@
     { "type": "single", "resource": "ausmoveis:caipira/end_table" },
     { "type": "single", "resource": "ausmobs:entity/snowbone" },
     { "type": "single", "resource": "ausskins:varas/shredder_fishing_rod" },
+    { "type": "single", "resource": "ausobjs:npc/spawn/pescando_objeto" },
     { "type": "single", "resource": "auscosmetic:costa/saco_de_presentes" },
     { "type": "single", "resource": "ausmoveis:parque/cerca" },
     {
@@ -595,7 +605,6 @@
     { "type": "single", "resource": "ausmoveis:caipira/green_book" },
     { "type": "single", "resource": "ausmoveis:caipira/wagon_full" },
     { "type": "single", "resource": "ausskins:arcos/primavera_23_bow" },
-    { "type": "single", "resource": "ausobjs:caixas/necromante" },
     { "type": "single", "resource": "austv_itens:trofeus/tier2tiktok" },
     {
       "type": "single",
@@ -628,6 +637,7 @@
     { "type": "single", "resource": "ausmoveis:caipira/bulletin_board_small" },
     { "type": "single", "resource": "ausmoveis:parque/cadeira" },
     { "type": "single", "resource": "ausmoveis:espacial/scifi_bateria_1" },
+    { "type": "single", "resource": "ausobjs:npc/spawn/ozielux_skin" },
     { "type": "single", "resource": "ausmoveis:natal/gingerbread_house" },
     { "type": "single", "resource": "auscosmetic:balao/caminhao_lixo" },
     {
@@ -790,6 +800,7 @@
     { "type": "single", "resource": "ausmoveis:caipira/small_table" },
     { "type": "single", "resource": "_iainternal:icons/icon_right_blue" },
     { "type": "single", "resource": "ausskins:bestas/namorados_22_firework" },
+    { "type": "single", "resource": "ausobjs:npc/spawn/herick_skin" },
     { "type": "single", "resource": "ausmoveis:lojas/potato" },
     { "type": "single", "resource": "ausskins:arcos/oriental_bow" },
     { "type": "single", "resource": "ausmoveis:caipira/crate_display_bread" },
@@ -949,6 +960,7 @@
     { "type": "single", "resource": "ausskins:bestas/namorados_22_0" },
     { "type": "single", "resource": "ausskins:bestas/namorados_22_1" },
     { "type": "single", "resource": "ausskins:bestas/namorados_22_2" },
+    { "type": "single", "resource": "ausobjs:npc/spawn/lendo_jornal" },
     { "type": "single", "resource": "ausobjs:caixas/criancas_22" },
     {
       "type": "single",

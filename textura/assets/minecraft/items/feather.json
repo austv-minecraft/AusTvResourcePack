@@ -3097,6 +3097,52 @@
           "type": "model",
           "model": "item/feather"
         }
+      },
+      {
+        "threshold": 10012,
+        "model": { "type": "model", "model": "ausobjs:npc/spawn/acenando_andr" }
+      },
+      {
+        "threshold": 10013,
+        "model": { "type": "model", "model": "ausobjs:npc/spawn/acenando_marc" }
+      },
+      {
+        "threshold": 10014,
+        "model": { "type": "model", "model": "ausobjs:npc/spawn/lendo_jornal" }
+      },
+      {
+        "threshold": 10015,
+        "model": {
+          "type": "model",
+          "model": "ausobjs:npc/spawn/ozi_carregando"
+        }
+      },
+      {
+        "threshold": 10016,
+        "model": { "type": "model", "model": "ausobjs:npc/spawn/pescando" }
+      },
+      {
+        "threshold": 10017,
+        "model": { "type": "model", "model": "ausobjs:npc/spawn/protegendo_2" }
+      },
+      {
+        "threshold": 10018,
+        "model": { "type": "model", "model": "ausobjs:npc/spawn/equipado_pvp" }
+      },
+      {
+        "threshold": 10019,
+        "model": {
+          "type": "model",
+          "model": "ausobjs:npc/spawn/segurando_trofeu"
+        }
+      },
+      {
+        "threshold": 100014,
+        "model": { "type": "model", "model": "ausobjs:npc/spawn/minerando" }
+      },
+      {
+        "threshold": 100016,
+        "model": { "type": "model", "model": "ausobjs:npc/spawn/protegendo_1" }
       }
     ]
   },
