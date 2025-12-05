@@ -427,6 +427,19 @@
 		{"predicate": {"custom_model_data":50122}, "model": "gui/emblema/b/passe_pascoa"},
 		{"predicate": {"custom_model_data":50123}, "model": "gui/emblema/b/pet_rosa"},
 		{"predicate": {"custom_model_data":50124}, "model": "gui/caixas/icon_seta_esquerda"},
-		{"predicate": {"custom_model_data":50125}, "model": "gui/caixas/icon_seta_direita"}
+		{"predicate": {"custom_model_data":50125}, "model": "gui/caixas/icon_seta_direita"},
+		{"predicate": {"custom_model_data":50126}, "model": "gui/caixas/icon_seta_cima"},
+		{"predicate": {"custom_model_data":50127}, "model": "gui/acesso_rapido/aus" },
+		{"predicate": {"custom_model_data":50128}, "model": "gui/acesso_rapido/comandos" },
+		{"predicate": {"custom_model_data":50129}, "model": "gui/acesso_rapido/config" },
+		{"predicate": {"custom_model_data":50130}, "model": "gui/acesso_rapido/homes" },
+		{"predicate": {"custom_model_data":50131}, "model": "gui/acesso_rapido/money" },
+		{"predicate": {"custom_model_data":50132}, "model": "gui/acesso_rapido/mundao" },
+		{"predicate": {"custom_model_data":50133}, "model": "gui/acesso_rapido/perfii" },
+		{"predicate": {"custom_model_data":50134}, "model": "gui/acesso_rapido/pwarps" },
+		{"predicate": {"custom_model_data":50135}, "model": "gui/acesso_rapido/regras" },
+		{"predicate": {"custom_model_data":50136}, "model": "gui/acesso_rapido/voicemic" },
+		{"predicate": {"custom_model_data":50137}, "model": "gui/acesso_rapido/voto" },
+		{"predicate": {"custom_model_data":50138}, "model": "gui/acesso_rapido/warps" }
 	]
 }
