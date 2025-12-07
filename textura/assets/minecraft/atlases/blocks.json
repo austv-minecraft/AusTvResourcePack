@@ -1043,6 +1043,7 @@
     { "type": "single", "resource": "auscosmetic:mao/arma_agua" },
     { "type": "single", "resource": "ausmoveis:lojas/melon_slice" },
     { "type": "single", "resource": "ausmoveis:natal/hand_anim" },
-    { "type": "single", "resource": "ausmoveis:lojas/orangeshop" }
+    { "type": "single", "resource": "ausmoveis:lojas/orangeshop" },
+    { "type": "single", "resource": "auscosmetic:mao/forcado" }
   ]
 }
