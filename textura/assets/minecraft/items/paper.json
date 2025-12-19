@@ -1684,6 +1684,32 @@
       {
         "threshold": 300007,
         "model": { "type": "model", "model": "especial/passe_sorrindo" }
+      },
+      {
+        "threshold": 300008,
+        "model": {
+          "type": "model",
+          "model": "sazonais:meia_natalina"
+        }
+      },
+      {
+        "threshold": 300009,
+        "model": { "type": "model", "model": "sazonais:canhao_de_neve" }
+      },
+      {
+        "threshold": 300010,
+        "model": { "type": "model", "model": "sazonais:pokebola" }
+      },
+      {
+        "threshold": 300011,
+        "model": {
+          "type": "model",
+          "model": "sazonais:tralalero_tralala"
+        }
+      },
+      {
+        "threshold": 300012,
+        "model": { "type": "model", "model": "item/paper" }
       }
     ]
   }
