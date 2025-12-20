@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "1": "austv_itens:trofeus/liga_vencedor",
-    "particle": "austv_itens:trofeus/liga_vencedor"
+    "1": "sazonais:item/brinquedos/canhao_de_neve",
+    "particle": "sazonais:item/brinquedos/canhao_de_neve"
   },
   "elements": [
     {
