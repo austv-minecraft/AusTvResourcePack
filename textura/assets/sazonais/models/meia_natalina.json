@@ -1,1 +1,4 @@
-{"parent":"item/generated","textures":{"layer0":"sazonais:natal_2025/meia_natalina"}}
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "sazonais:natal_2025/meia_natalina" }
+}
