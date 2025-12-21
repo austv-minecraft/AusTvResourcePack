@@ -1,9 +1,8 @@
 {
   "credit": "Made with Blockbench",
-  "texture_size": [32, 32],
   "textures": {
-    "1": "sazonais:item/brinquedos/canhao_de_neve",
-    "particle": "sazonais:item/brinquedos/canhao_de_neve"
+    "1": "sazonais:brinquedos/canhao_de_neve",
+    "particle": "sazonais:brinquedos/canhao_de_neve"
   },
   "elements": [
     {
@@ -184,20 +183,9 @@
       "translation": [0, 3.75, 0],
       "scale": [0.55, 0.55, 0.55]
     },
-    "ground": {
-      "translation": [0, 4, 0]
-    },
-    "gui": {
-      "rotation": [20, 125, 0],
-      "translation": [0.5, 1.5, 0]
-    },
-    "head": {
-      "translation": [0, 0, 2],
-      "scale": [0.5, 0.5, 0.5]
-    },
-    "fixed": {
-      "rotation": [0, -90, 0],
-      "translation": [-0.5, 2.25, -1]
-    }
+    "ground": { "translation": [0, 4, 0] },
+    "gui": { "rotation": [20, 125, 0], "translation": [0.5, 1.5, 0] },
+    "head": { "translation": [0, 0, 2], "scale": [0.5, 0.5, 0.5] },
+    "fixed": { "rotation": [0, -90, 0], "translation": [-0.5, 2.25, -1] }
   }
 }
