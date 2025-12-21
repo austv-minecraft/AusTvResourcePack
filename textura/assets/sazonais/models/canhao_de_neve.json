@@ -1,7 +1,5 @@
 {
-	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
-	"texture_size": [32, 32],
 	"textures": {
 		"1": "sazonais:item/brinquedos/canhao_de_neve",
 		"particle": "sazonais:item/brinquedos/canhao_de_neve"
