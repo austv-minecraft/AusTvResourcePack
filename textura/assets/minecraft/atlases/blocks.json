@@ -134,6 +134,7 @@
       "type": "single",
       "resource": "ausmoveis:caipira/log_pile_large_overgrown"
     },
+    { "type": "single", "resource": "sazonais:brinquedos/tralalero_tralala" },
     { "type": "single", "resource": "auscosmetic:balao/balao_namorados_ele" },
     { "type": "single", "resource": "ausmoveis:caipira/log_pile_small" },
     { "type": "single", "resource": "auscosmetic:balao/balao_namorados_ela" },
@@ -356,6 +357,7 @@
     { "type": "single", "resource": "ausskins:arcos/um_ano_aus_bow_0" },
     { "type": "single", "resource": "ausskins:arcos/um_ano_aus_bow_2" },
     { "type": "single", "resource": "ausskins:arcos/um_ano_aus_bow_1" },
+    { "type": "single", "resource": "auscosmetic:mao/forcado" },
     { "type": "single", "resource": "ausskins:arcos/pascoa_bow" },
     { "type": "single", "resource": "ausmoveis:lojas/tools/diamond_axe" },
     { "type": "single", "resource": "ausskins:arcos/darknes_bow" },
@@ -396,6 +398,7 @@
     { "type": "single", "resource": "auscosmetic:chapeu/chapeu_ursinho_ele" },
     { "type": "single", "resource": "ausmoveis:caipira/wagon" },
     { "type": "single", "resource": "auscosmetic:mao/cesta_pascoa_mao" },
+    { "type": "single", "resource": "sazonais:brinquedos/pokebola" },
     { "type": "single", "resource": "_iainternal:icons/icon_search" },
     { "type": "single", "resource": "ausobjs:npc/tutorial/ajudante" },
     { "type": "single", "resource": "ausmoveis:natal/coal" },
@@ -435,6 +438,7 @@
       "type": "single",
       "resource": "ausmoveis:caipira/orange_mushrooms_small"
     },
+    { "type": "single", "resource": "sazonais:natal_2025/meia_natalina" },
     { "type": "single", "resource": "auscosmetic:chapeu/chapeu_2024" },
     { "type": "single", "resource": "ausmoveis:lojas/beetroot" },
     { "type": "single", "resource": "auscosmetic:mao/bandeira_brasil" },
@@ -523,6 +527,7 @@
     { "type": "single", "resource": "ausmoveis:caipira/pot_2" },
     { "type": "single", "resource": "ausobjs:npc/spawn/andre_skin" },
     { "type": "single", "resource": "ausmoveis:caipira/pot_1" },
+    { "type": "single", "resource": "sazonais:brinquedos/canhao_de_neve" },
     { "type": "single", "resource": "ausmoveis:natal/candles_fire_2" },
     { "type": "single", "resource": "ausmoveis:natal/valve" },
     { "type": "single", "resource": "ausskins:arcos/desordem_bow_2" },
@@ -1043,7 +1048,6 @@
     { "type": "single", "resource": "auscosmetic:mao/arma_agua" },
     { "type": "single", "resource": "ausmoveis:lojas/melon_slice" },
     { "type": "single", "resource": "ausmoveis:natal/hand_anim" },
-    { "type": "single", "resource": "ausmoveis:lojas/orangeshop" },
-    { "type": "single", "resource": "auscosmetic:mao/forcado" }
+    { "type": "single", "resource": "ausmoveis:lojas/orangeshop" }
   ]
 }
