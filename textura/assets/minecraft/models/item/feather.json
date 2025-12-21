@@ -1026,6 +1026,10 @@
       "model": "ausobjs:caixas/necromante"
     },
     {
+      "predicate": { "custom_model_data": 258 },
+      "model": "ausobjs:caixas/caixa_natal2025"
+    },
+    {
       "predicate": { "custom_model_data": 326 },
       "model": "ausmoveis:caipira/cattails"
     },

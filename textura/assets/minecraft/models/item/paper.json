@@ -251,6 +251,10 @@
       "predicate": { "custom_model_data": 514 },
       "model": "austv_itens:trofeus/tier3youtube"
     },
+    {
+      "predicate": { "custom_model_data": 515 },
+      "model": "austv_itens:trofeus/trofeu_natal"
+    },
     { "predicate": { "custom_model_data": 1000 }, "model": "iscas/camarao" },
     { "predicate": { "custom_model_data": 1001 }, "model": "iscas/minhoca_1" },
     { "predicate": { "custom_model_data": 1002 }, "model": "iscas/minhoca_2" },
@@ -435,6 +439,10 @@
     {
       "predicate": { "custom_model_data": 10058 },
       "model": "auscosmetic:mao/forcado"
+    },
+    {
+      "predicate": { "custom_model_data": 10059 },
+      "model": "auscosmetic:mao/omnitrix"
     },
     {
       "predicate": { "custom_model_data": 40000 },

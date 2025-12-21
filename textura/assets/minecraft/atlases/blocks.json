@@ -882,6 +882,7 @@
       "type": "single",
       "resource": "ausskins:varas/shredder_fishing_rod_cast"
     },
+    { "type": "single", "resource": "austv_itens:trofeus/trofeu_natal" },
     { "type": "single", "resource": "ausmoveis:lojas/copper/copper_block" },
     { "type": "single", "resource": "ausmoveis:caipira/red_mushrooms" },
     { "type": "single", "resource": "ausobjs:portais/azul" },
@@ -907,6 +908,7 @@
     { "type": "single", "resource": "ausmoveis:oriental/interior/balcao_4" },
     { "type": "single", "resource": "ausmoveis:lojas/terra/pink_terracotta" },
     { "type": "single", "resource": "ausmoveis:oriental/interior/balcao_1" },
+    { "type": "single", "resource": "auscosmetic:mao/omnitrix" },
     { "type": "single", "resource": "ausmoveis:oriental/interior/balcao_2" },
     { "type": "single", "resource": "ausmoveis:natal/nutcracker" },
     {
