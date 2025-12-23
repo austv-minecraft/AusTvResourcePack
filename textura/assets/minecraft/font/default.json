@@ -2445,6 +2445,13 @@
     },
     {
       "type": "bitmap",
+      "file": "icons:lore/lore_natal2025.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uE249"]
+    },
+    {
+      "type": "bitmap",
       "file": "icons:objetivos/objetivos_menu.png",
       "ascent": -2,
       "height": 256,
