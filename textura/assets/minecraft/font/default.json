@@ -3656,6 +3656,13 @@
     },
     {
       "type": "bitmap",
+      "file": "icons:guis/cash_chaves_natal.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE245"]
+    },
+    {
+      "type": "bitmap",
       "file": "icons:guis/menu_recompensas.png",
       "ascent": -4,
       "height": 256,
