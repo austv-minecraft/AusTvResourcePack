@@ -44,6 +44,7 @@
 		{"predicate": {"custom_model_data":39}, "model": "skins/natal24/picareta"},
 		{"predicate": {"custom_model_data":40}, "model": "skins/_misc/pick/sellia_pickaxe"},
 		{"predicate": {"custom_model_data":41}, "model": "skins/end/picareta"},
-		{"predicate": {"custom_model_data":42}, "model": "skins/necromante/picareta"}
+		{"predicate": {"custom_model_data":42}, "model": "skins/necromante/picareta"},
+		{"predicate": {"custom_model_data":43}, "model": "skins/natal25/picareta"}
 	]
 }

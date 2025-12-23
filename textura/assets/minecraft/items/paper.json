@@ -403,6 +403,10 @@
         "model": { "type": "model", "model": "skins/oriental/suporte" }
       },
       {
+        "threshold": 100,
+        "model": { "type": "model", "model": "skins/natal25/chave" }
+      },
+      {
         "threshold": 500,
         "model": {
           "type": "model",

@@ -265,6 +265,13 @@
                     "type": "model",
                     "model": "skins/necromante/pa"
                 }
+            },
+            {
+                "threshold": 38,
+                "model": {
+                    "type": "model",
+                    "model": "skins/natal25/pa"
+                }
             }
         ]
     }

@@ -602,6 +602,14 @@
                     "model": "skins/necromante/machado"
                 }
             }
+            ,
+            {
+                "threshold": 92,
+                "model": {
+                    "type": "model",
+                    "model": "skins/natal25/machado"
+                }
+            }
         ]
     }
 }

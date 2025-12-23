@@ -192,6 +192,10 @@
       "model": "skins/oriental/suporte"
     },
     {
+      "predicate": { "custom_model_data": 100 },
+      "model": "skins/natal25/chave"
+    },
+    {
       "predicate": { "custom_model_data": 500 },
       "model": "austv_itens:trofeus/doador_primeiro"
     },

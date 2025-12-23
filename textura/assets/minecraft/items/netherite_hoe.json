@@ -300,6 +300,13 @@
                     "type": "model",
                     "model": "skins/necromante/enxada"
                 }
+            },
+            {
+                "threshold": 40,
+                "model": {
+                    "type": "model",
+                    "model": "skins/natal25/enxada"
+                }
             }
         ]
     }

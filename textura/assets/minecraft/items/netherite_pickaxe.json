@@ -286,6 +286,13 @@
                     "type": "model",
                     "model": "skins/necromante/picareta"
                 }
+            },
+            {
+                "threshold": 43,
+                "model": {
+                    "type": "model",
+                    "model": "skins/natal25/picareta"
+                }
             }
         ]
     }
