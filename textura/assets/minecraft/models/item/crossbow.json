@@ -182,6 +182,30 @@
       "predicate": { "charged": 1, "firework": 1, "custom_model_data": 10005 },
       "model": "ausskins:besta_primavera_firework"
     },
-    { "predicate": { "custom_model_data": 10006 }, "model": "item/crossbow" }
+    {
+      "predicate": { "custom_model_data": 10006 },
+      "model": "ausskins:ia_auto_gen/besta_natal25"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10006 },
+      "model": "ausskins:ia_auto_gen/besta_natal25_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.58, "custom_model_data": 10006 },
+      "model": "ausskins:ia_auto_gen/besta_natal25_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 1.0, "custom_model_data": 10006 },
+      "model": "ausskins:ia_auto_gen/besta_natal25_2"
+    },
+    {
+      "predicate": { "charged": 1, "custom_model_data": 10006 },
+      "model": "ausskins:ia_auto_gen/besta_natal25_charged"
+    },
+    {
+      "predicate": { "charged": 1, "firework": 1, "custom_model_data": 10006 },
+      "model": "ausskins:ia_auto_gen/besta_natal25_firework"
+    },
+    { "predicate": { "custom_model_data": 10007 }, "model": "item/crossbow" }
   ]
 }
