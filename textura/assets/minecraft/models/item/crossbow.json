@@ -204,7 +204,7 @@
     },
     {
       "predicate": { "charged": 1, "firework": 1, "custom_model_data": 10006 },
-      "model": "ausskins:ia_auto_gen/besta_natal25_firework"
+      "model": "ausskins:besta_natal25_firework"
     },
     { "predicate": { "custom_model_data": 10007 }, "model": "item/crossbow" }
   ]
