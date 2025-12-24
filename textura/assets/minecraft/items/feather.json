@@ -1804,6 +1804,10 @@
         "model": { "type": "model", "model": "ausobjs:caixas/necromante" }
       },
       {
+        "threshold": 258,
+        "model": { "type": "model", "model": "ausobjs:caixas/caixa_natal2025" }
+      },
+      {
         "threshold": 326,
         "model": {
           "type": "model",
