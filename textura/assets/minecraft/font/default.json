@@ -3692,7 +3692,7 @@
     {
       "type": "bitmap",
       "file": "icons:guis/passe_compra.png",
-      "ascent": 0,
+      "ascent": -4,
       "height": 256,
       "chars": ["\uE251"]
     }
