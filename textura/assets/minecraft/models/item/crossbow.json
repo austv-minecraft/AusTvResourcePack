@@ -184,23 +184,23 @@
     },
     {
       "predicate": { "custom_model_data": 10006 },
-      "model": "ausskins:ia_auto_gen/besta_natal25"
+      "model": "ausskins:besta_natal25"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10006 },
-      "model": "ausskins:ia_auto_gen/besta_natal25_0"
+      "model": "ausskins:besta_natal25_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.58, "custom_model_data": 10006 },
-      "model": "ausskins:ia_auto_gen/besta_natal25_1"
+      "model": "ausskins:besta_natal25_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 1.0, "custom_model_data": 10006 },
-      "model": "ausskins:ia_auto_gen/besta_natal25_2"
+      "model": "ausskins:besta_natal25_2"
     },
     {
       "predicate": { "charged": 1, "custom_model_data": 10006 },
-      "model": "ausskins:ia_auto_gen/besta_natal25_charged"
+      "model": "ausskins:besta_natal25_charged"
     },
     {
       "predicate": { "charged": 1, "firework": 1, "custom_model_data": 10006 },
