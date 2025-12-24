@@ -3688,6 +3688,13 @@
       "ascent": 0,
       "height": 256,
       "chars": ["\uE248"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/passe_compra.png",
+      "ascent": 0,
+      "height": 256,
+      "chars": ["\uE251"]
     }
   ]
 }
