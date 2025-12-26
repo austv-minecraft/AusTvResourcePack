@@ -528,7 +528,7 @@
     { "type": "single", "resource": "ausmoveis:caipira/pot_2" },
     { "type": "single", "resource": "ausobjs:npc/spawn/andre_skin" },
     { "type": "single", "resource": "ausmoveis:caipira/pot_1" },
-    { "type": "single", "resource": "sazonais:brinquedos/canhao_de_neve" },
+    { "type": "single", "resource": "austv_itens:canhao_de_neve" },
     { "type": "single", "resource": "ausmoveis:natal/candles_fire_2" },
     { "type": "single", "resource": "ausmoveis:natal/valve" },
     { "type": "single", "resource": "ausskins:arcos/desordem_bow_2" },

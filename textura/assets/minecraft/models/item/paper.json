@@ -1294,7 +1294,7 @@
     },
     {
       "predicate": { "custom_model_data": 300009 },
-      "model": "sazonais:canhao_de_neve"
+      "model": "austv_itens:canhao_de_neve"
     },
     {
       "predicate": { "custom_model_data": 300010 },
