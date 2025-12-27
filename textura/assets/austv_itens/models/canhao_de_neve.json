@@ -2,8 +2,8 @@
   "credit": "Made with Blockbench",
   "texture_size": [32, 32],
   "textures": {
-    "1": "auscosmetic:mao/arma_agua",
-    "particle": "auscosmetic:mao/arma_agua"
+    "1": "auscosmetic:mao/raio_congelante",
+    "particle": "auscosmetic:mao/raio_congelante"
   },
   "elements": [
     {
