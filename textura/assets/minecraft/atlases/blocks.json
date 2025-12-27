@@ -628,6 +628,7 @@
     { "type": "single", "resource": "ausmoveis:lojas/lightblueshop" },
     { "type": "single", "resource": "ausmoveis:espacial/scifi_placa2_1" },
     { "type": "single", "resource": "auscosmetic:mao/pasta_dente" },
+    { "type": "single", "resource": "auscosmetic:mao/raio_congelante" },
     {
       "type": "single",
       "resource": "ausmoveis:lojas/copper/weathered_cut_copper"

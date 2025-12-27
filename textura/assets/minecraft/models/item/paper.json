@@ -1304,6 +1304,10 @@
       "predicate": { "custom_model_data": 300011 },
       "model": "sazonais:tralalero_tralala"
     },
-    { "predicate": { "custom_model_data": 300012 }, "model": "item/paper" }
+    {
+      "predicate": { "custom_model_data": 300002 },
+      "model": "austv_itens:raio_congelante"
+    },
+    { "predicate": { "custom_model_data": 300013 }, "model": "item/paper" }
   ]
 }
