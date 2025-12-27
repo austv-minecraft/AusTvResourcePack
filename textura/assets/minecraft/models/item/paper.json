@@ -1294,7 +1294,7 @@
     },
     {
       "predicate": { "custom_model_data": 300009 },
-      "model": "austv_itens:canhao_de_neve"
+      "model": "austv_itens:raio_congelante"
     },
     {
       "predicate": { "custom_model_data": 300010 },
