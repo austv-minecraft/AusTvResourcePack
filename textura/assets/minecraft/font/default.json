@@ -3695,6 +3695,20 @@
       "ascent": -4,
       "height": 256,
       "chars": ["\uE251"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/ano_novo_daily.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE253"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/menu_troca_brinquedos.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE255"]
     }
   ]
 }

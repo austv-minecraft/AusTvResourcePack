@@ -730,6 +730,10 @@
         "model": { "type": "model", "model": "auscosmetic:mao/forcado" }
       },
       {
+        "threshold": 10059,
+        "model": { "type": "model", "model": "auscosmetic:mao/omnitrix" }
+      },
+      {
         "threshold": 40000,
         "model": { "type": "model", "model": "auseventos:mana_pocao" }
       },
@@ -1698,7 +1702,7 @@
       },
       {
         "threshold": 300009,
-        "model": { "type": "model", "model": "sazonais:canhao_de_neve" }
+        "model": { "type": "model", "model": "austv_itens:canhao_de_neve" }
       },
       {
         "threshold": 300010,
