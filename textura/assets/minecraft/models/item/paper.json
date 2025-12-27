@@ -1306,7 +1306,7 @@
     },
     {
       "predicate": { "custom_model_data": 300012 },
-      "model": "austv_itens:raio_congelante"
+      "model": "auscosmetic:mao/raio_congelante"
     },
     { "predicate": { "custom_model_data": 300013 }, "model": "item/paper" }
   ]
