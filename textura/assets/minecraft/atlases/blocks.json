@@ -628,7 +628,6 @@
     { "type": "single", "resource": "ausmoveis:lojas/lightblueshop" },
     { "type": "single", "resource": "ausmoveis:espacial/scifi_placa2_1" },
     { "type": "single", "resource": "auscosmetic:mao/pasta_dente" },
-    { "type": "single", "resource": "auscosmetic:mao/raio_congelante" },
     {
       "type": "single",
       "resource": "ausmoveis:lojas/copper/weathered_cut_copper"
@@ -1053,6 +1052,7 @@
     { "type": "single", "resource": "ausgourmet:sementes/pimentao" },
     { "type": "single", "resource": "auscosmetic:costa/ancora" },
     { "type": "single", "resource": "auscosmetic:mao/arma_agua" },
+    { "type": "single", "resource": "auscosmetic:mao/raio_congelante" },
     { "type": "single", "resource": "ausmoveis:lojas/melon_slice" },
     { "type": "single", "resource": "ausmoveis:natal/hand_anim" },
     { "type": "single", "resource": "ausmoveis:lojas/orangeshop" },
