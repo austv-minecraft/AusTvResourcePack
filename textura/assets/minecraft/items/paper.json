@@ -1717,6 +1717,10 @@
       },
       {
         "threshold": 300012,
+        "model": { "type": "model", "model": "auscosmetic:mao/raio_congelante" }
+      },
+      {
+        "threshold": 300013,
         "model": { "type": "model", "model": "item/paper" }
       }
     ]
