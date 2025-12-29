@@ -1702,7 +1702,7 @@
       },
       {
         "threshold": 300009,
-        "model": { "type": "model", "model": "austv_itens:canhao_de_neve" }
+        "model": { "type": "model", "model": "auscosmetic:mao/raio_congelante" }
       },
       {
         "threshold": 300010,

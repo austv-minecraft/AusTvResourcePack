@@ -1293,6 +1293,10 @@
       "model": "sazonais:meia_natalina"
     },
     {
+      "predicate": { "custom_model_data": 300009 },
+      "model": "auscosmetic:mao/raio_congelante"
+    },
+    {
       "predicate": { "custom_model_data": 300010 },
       "model": "sazonais:pokebola"
     },
