@@ -3699,7 +3699,7 @@
     {
       "type": "bitmap",
       "file": "icons:guis/ano_novo_daily.png",
-      "ascent": 0,
+      "ascent": 4,
       "height": 256,
       "chars": ["\uE253"]
     },
