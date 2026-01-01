@@ -494,6 +494,13 @@
         }
       },
       {
+        "threshold": 515,
+        "model": {
+          "type": "model",
+          "model": "austv_itens:trofeus/trofeu_natal"
+        }
+      },
+      {
         "threshold": 1000,
         "model": { "type": "model", "model": "iscas/camarao" }
       },
