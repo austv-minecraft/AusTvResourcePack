@@ -400,6 +400,7 @@
     { "type": "single", "resource": "auscosmetic:mao/cesta_pascoa_mao" },
     { "type": "single", "resource": "sazonais:brinquedos/pokebola" },
     { "type": "single", "resource": "ausobjs:caixas/caixa_natal2025" },
+    { "type": "single", "resource": "ausobjs:caixas/necromante" },
     { "type": "single", "resource": "_iainternal:icons/icon_search" },
     { "type": "single", "resource": "ausobjs:npc/tutorial/ajudante" },
     { "type": "single", "resource": "ausmoveis:natal/coal" },
