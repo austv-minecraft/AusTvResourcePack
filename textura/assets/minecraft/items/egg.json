@@ -1,0 +1,16 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "index": 0,
+    "fallback": { "type": "minecraft:model", "model": "minecraft:item/egg" },
+    "entries": [
+      {
+        "threshold": 300010,
+        "model": { "type": "model", "model": "sazonais:pokebola" }
+      },
+      { "threshold": 300011, "model": { "type": "model", "model": "item/egg" } }
+    ]
+  },
+  "oversized_in_gui": true
+}

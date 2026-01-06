@@ -924,6 +924,7 @@
       "type": "single",
       "resource": "ausmoveis:oriental/interior/sofa_vermelho_canto"
     },
+    { "type": "single", "resource": "auscosmetic:mao/makita" },
     { "type": "single", "resource": "ausmoveis:natal/d_block" },
     { "type": "single", "resource": "ausmoveis:caipira/lamp" },
     { "type": "single", "resource": "ausmoveis:natal/santas_sled" },

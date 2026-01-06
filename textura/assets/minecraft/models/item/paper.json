@@ -449,6 +449,10 @@
       "model": "auscosmetic:mao/omnitrix"
     },
     {
+      "predicate": { "custom_model_data": 10060 },
+      "model": "auscosmetic:mao/makita"
+    },
+    {
       "predicate": { "custom_model_data": 40000 },
       "model": "auseventos:mana_pocao"
     },
@@ -1295,10 +1299,6 @@
     {
       "predicate": { "custom_model_data": 300009 },
       "model": "auscosmetic:mao/raio_congelante"
-    },
-    {
-      "predicate": { "custom_model_data": 300010 },
-      "model": "sazonais:pokebola"
     },
     {
       "predicate": { "custom_model_data": 300011 },

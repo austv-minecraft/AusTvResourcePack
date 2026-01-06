@@ -741,6 +741,10 @@
         "model": { "type": "model", "model": "auscosmetic:mao/omnitrix" }
       },
       {
+        "threshold": 10060,
+        "model": { "type": "model", "model": "auscosmetic:mao/makita" }
+      },
+      {
         "threshold": 40000,
         "model": { "type": "model", "model": "auseventos:mana_pocao" }
       },
@@ -1710,10 +1714,6 @@
       {
         "threshold": 300009,
         "model": { "type": "model", "model": "auscosmetic:mao/raio_congelante" }
-      },
-      {
-        "threshold": 300010,
-        "model": { "type": "model", "model": "sazonais:pokebola" }
       },
       {
         "threshold": 300011,

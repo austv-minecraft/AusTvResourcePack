@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "minecraft:item/egg" },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 300010 },
+      "model": "sazonais:pokebola"
+    },
+    { "predicate": { "custom_model_data": 300011 }, "model": "item/egg" }
+  ]
+}
