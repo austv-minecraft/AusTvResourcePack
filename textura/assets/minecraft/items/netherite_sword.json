@@ -580,6 +580,20 @@
                     "type": "model",
                     "model": "skins/natal25/espada"
                 }
+            },
+            {
+                "threshold": 127,
+                "model": {
+                    "type": "model",
+                    "model": "skins/skins_criativos/sword_kentique"
+                }
+            },
+            {
+                "threshold": 128,
+                "model": {
+                    "type": "model",
+                    "model": "skins/skins_criativos/sword_arthur"
+                }
             }
         ]
     }

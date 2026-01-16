@@ -86,6 +86,8 @@
 		{"predicate": {"custom_model_data":123}, "model": "skins/end/espada"},
 		{"predicate": {"custom_model_data":124}, "model": "skins/caos/espada"},
 		{"predicate": {"custom_model_data":125}, "model": "skins/necromante/espada"},
-		{"predicate": {"custom_model_data":126}, "model": "skins/natal25/espada"}
+		{"predicate": {"custom_model_data":126}, "model": "skins/natal25/espada"},
+		{"predicate": {"custom_model_data":127}, "model": "skins/skins_criativos/sword_kentique"},
+		{"predicate": {"custom_model_data":128}, "model": "skins/skins_criativos/sword_arthur"}
 	]
 }
