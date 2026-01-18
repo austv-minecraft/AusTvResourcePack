@@ -3716,6 +3716,27 @@
       "ascent": 9,
       "height": 9,
       "chars": ["\uE256"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:click.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": ["\uE257"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:left-click.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": ["\uE258"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:right-click.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": ["\uE259"]
     }
   ]
 }
