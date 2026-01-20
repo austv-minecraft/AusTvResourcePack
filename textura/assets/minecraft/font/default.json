@@ -3737,6 +3737,34 @@
       "ascent": 9,
       "height": 10,
       "chars": ["\uE259"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/vip_novo.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE260"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/packs.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE261"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/compra_e_venda.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE262"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/loja_categorias.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE263"]
     }
   ]
 }
