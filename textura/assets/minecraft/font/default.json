@@ -3748,7 +3748,7 @@
     {
       "type": "bitmap",
       "file": "icons:guis/packs.png",
-      "ascent": -4,
+      "ascent": 0,
       "height": 256,
       "chars": ["\uE261"]
     },
@@ -3762,7 +3762,7 @@
     {
       "type": "bitmap",
       "file": "icons:guis/loja_categorias.png",
-      "ascent": -4,
+      "ascent": 0,
       "height": 256,
       "chars": ["\uE263"]
     }
