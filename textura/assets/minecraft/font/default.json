@@ -3755,7 +3755,7 @@
     {
       "type": "bitmap",
       "file": "icons:guis/compra_e_venda.png",
-      "ascent": -4,
+      "ascent": 0,
       "height": 256,
       "chars": ["\uE262"]
     },
