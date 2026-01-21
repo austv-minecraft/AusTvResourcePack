@@ -167,6 +167,8 @@
 		{"predicate": {"custom_model_data":165}, "model": "gui/loja/icon_soma"},
 		{"predicate": {"custom_model_data":166}, "model": "gui/loja/icon_subtrair"},
 		{"predicate": {"custom_model_data":167}, "model": "gui/loja/correto_icon"},
+		{"predicate": {"custom_model_data":168}, "model": "gui/loja/menu"},
+		{"predicate": {"custom_model_data":169}, "model": "gui/loja/vender"},
 		{"predicate": {"custom_model_data":5000}, "model": "gui/emblema/independencia"},
 		{"predicate": {"custom_model_data":5001}, "model": "gui/emblema/aviador"},
 		{"predicate": {"custom_model_data":5002}, "model": "gui/emblema/willzy"},
