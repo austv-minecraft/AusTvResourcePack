@@ -170,6 +170,8 @@
       { "threshold": 165, "model": { "type": "model", "model": "gui/loja/icon_soma" } },
       { "threshold": 166, "model": { "type": "model", "model": "gui/loja/icon_subtrair" } },
       { "threshold": 167, "model": { "type": "model", "model": "gui/loja/correto_icon" } },
+      { "threshold": 168, "model": { "type": "model", "model": "gui/loja/menu" } },
+      { "threshold": 169, "model": { "type": "model", "model": "gui/loja/vender" } },
       { "threshold": 5000, "model": { "type": "model", "model": "gui/emblema/independencia" } },
       { "threshold": 5001, "model": { "type": "model", "model": "gui/emblema/aviador" } },
       { "threshold": 5002, "model": { "type": "model", "model": "gui/emblema/willzy" } },
