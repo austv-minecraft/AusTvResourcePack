@@ -1,32 +1,58 @@
-Essa textura pertence ao servidor de minecraft e equipe Austv.
-Todos os itens e arquivos foram desenvolvidos ou podem ser usados por esta equipe.
-Especificamente aos jogadores ZzPowerTechzZ, herick_gamer, x0sen e Andrelsb.
+LICENÇA DE USO — RESOURCE PACK AUSTV
+Português (Brasil)
 
-Termos de uso:
-- Você pode usar a textura enquanto joga no servidor austv, conhecido pelo ip jogar.austv.net
-- Criar e postar qualquer conteúdo enquanto joga no servidor austv
+Este resource pack é de propriedade exclusiva do servidor de Minecraft AusTV e de sua equipe administrativa e de desenvolvimento.
+Todos os itens, texturas, modelos, arquivos e demais recursos contidos neste resource pack foram desenvolvidos pela equipe AusTV ou possuem autorização legal para uso exclusivo por ela.
+O uso deste resource pack é concedido exclusivamente aos jogadores:
+ZzPowerTechzZ, herick_gamer, x0sen e Andrelsb, respeitando os termos abaixo.
 
-Lembrando que você não pode:
-- Usar essa textura em outro servidor
-- Hostear essa textura em uma outra plataforma
-- Usar qualquer item/arquivo dessa textura em outros projetos
-- Passar, enviar ou salvar qualquer item/arquivo dessa textura
-- Plagiar itens da textura
+Termos de Uso Permitidos
 
-----------------------------------------------------------------------------------------------------
-This texture belongs to Austv minecraft server and the owner team.
-Everything in this resource pack was created or is permitted to use by this team.
-Specifically to the players WaKaliTe, Dzxcraft, Verbek, Batatones and Micosedeunha.
+Você PODE:
 
-Terms of use:
-- Use the resource pack while you are connected in the austv server, known by the IP adress jogar.austv.net
-- Record videos, take pictures with your friends and upload them to any resource you like while you play at austv server
+- Utilizar este resource pack somente enquanto estiver jogando no servidor AusTV, acessível pelo IP: jogar.austv.net;
+- Criar, gravar e publicar conteúdos (vídeos, lives, imagens, clipes, etc.) enquanto joga no servidor AusTV, utilizando este resource pack.
 
-You can't:
-- Use this resource pack on another minecraft server
-- Re-hosting this resource pack to any other websites
-- Use any part of this resource pack in other projects
-- Transfer or save any item/file from this resource pack
-- Plagiarize texture items
+Restrições de Uso
 
-If in doubt, you can always reach us on Discord
+Você NÃO PODE, sob nenhuma circunstância:
+
+- Utilizar este resource pack em outros servidores de Minecraft;
+- Hospedar, redistribuir ou disponibilizar este resource pack em qualquer outra plataforma, site ou serviço;
+- Utilizar qualquer item, textura, modelo ou arquivo deste resource pack em outros projetos, públicos ou privados;
+- Copiar, transferir, enviar, compartilhar, extrair ou salvar qualquer parte dos arquivos deste resource pack;
+- Plagiar, modificar ou reproduzir itens deste resource pack com a intenção de reutilização ou redistribuição.
+
+O descumprimento destes termos poderá resultar em sanções administrativas, incluindo punições no servidor e outras medidas cabíveis.
+Em caso de dúvidas, entre em contato com a equipe AusTV através do Discord oficial.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+LICENSE OF USE — AUSTV RESOURCE PACK
+English
+
+This resource pack is the exclusive property of the AusTV Minecraft server and its administrative and development team.
+All items, textures, models, files, and other assets contained in this resource pack were created by the AusTV team or are legally authorized for exclusive use by them.
+Permission to use this resource pack is granted exclusively to the players:
+ZzPowerTechzZ, herick_gamer, x0sen e Andrelsb, under the terms described below.
+
+Permitted Use
+
+You MAY:
+
+- Use this resource pack only while connected to the AusTV server, accessible via the IP address: jogar.austv.net;
+- Record videos, take screenshots, livestream, and publish content on any platform while playing on the AusTV server using this resource pack.
+
+Usage Restrictions
+
+You MAY NOT, under any circumstances:
+
+- Use this resource pack on any other Minecraft server;
+- Re-host, redistribute, or make this resource pack available on any other website or platform;
+- Use any part of this resource pack in other projects, whether public or private;
+- Copy, transfer, extract, share, or save any file or asset from this resource pack;
+- Plagiarize, modify, or reproduce any asset from this resource pack for reuse or redistribution.
+
+Violation of these terms may result in administrative penalties, including server sanctions and other applicable measures.
+If you have any questions, please contact the AusTV team via the official Discord server.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
