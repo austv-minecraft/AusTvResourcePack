@@ -1,6 +1,11 @@
 # AusTv ResourcePack
 Repositório da textura da AusTv que criptografa usando PackSquash automaticamente. A textura fica armazenada dentro do diretório `/textura` e cada alteração deve ser armazenada e alterada ali.
 
+# Direitos
+Este repositorio é de uso unico e exclusivo da equipe administrativa AusTV e seu uso é vedado a rede de Servidores AusTV!
+Qualquer uso indevido do codigo e assets da textura pode ocasionar em problemas judiciais! 
+Proteção ITSMINE!
+
 ## Textura criptografada
 Esse repositório **automatiza o PackSquash** para otimizar e corromper a textura a cada alteração feita. O resultado da textura é postada [aqui](https://github.com/leogianfagna/AusTvResourcePack/releases) e dividida por versões automaticamente. Você pode baixar a textura nos artefatos gerados pela versão.
 
