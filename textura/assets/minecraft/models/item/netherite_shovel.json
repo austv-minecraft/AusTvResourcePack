@@ -42,6 +42,7 @@
 		{"predicate": {"custom_model_data":35}, "model": "skins/natal24/pa"},
 		{"predicate": {"custom_model_data":36}, "model": "skins/end/pa"},
 		{"predicate": {"custom_model_data":37}, "model": "skins/necromante/pa"},
-		{"predicate": {"custom_model_data":38}, "model": "skins/natal25/pa"}
+		{"predicate": {"custom_model_data":38}, "model": "skins/natal25/pa"},
+		{"predicate": {"custom_model_data":39}, "model": "skins/warped/pa"}
 	]
 }
