@@ -22,11 +22,11 @@
           "type": "minecraft:condition",
           "on_false": {
             "type": "model",
-            "model": "ausskins:vara_shredder"
+            "model": "ausskins:item/vara_shredder"
           },
           "on_true": {
             "type": "model",
-            "model": "ausskins:vara_shredder_cast"
+            "model": "ausskins:item/vara_shredder_cast"
           },
           "property": "minecraft:fishing_rod/cast"
         }
@@ -37,11 +37,11 @@
           "type": "minecraft:condition",
           "on_false": {
             "type": "model",
-            "model": "ausskins:vara_sponge"
+            "model": "ausskins:item/vara_sponge"
           },
           "on_true": {
             "type": "model",
-            "model": "ausskins:vara_sponge_cast"
+            "model": "ausskins:item/vara_sponge_cast"
           },
           "property": "minecraft:fishing_rod/cast"
         }
@@ -52,11 +52,11 @@
           "type": "minecraft:condition",
           "on_false": {
             "type": "model",
-            "model": "ausskins:vara_farmers"
+            "model": "ausskins:item/vara_farmers"
           },
           "on_true": {
             "type": "model",
-            "model": "ausskins:vara_farmers_cast"
+            "model": "ausskins:item/vara_farmers_cast"
           },
           "property": "minecraft:fishing_rod/cast"
         }
@@ -67,11 +67,11 @@
           "type": "minecraft:condition",
           "on_false": {
             "type": "model",
-            "model": "ausskins:vara_criancas_22"
+            "model": "ausskins:item/vara_criancas_22"
           },
           "on_true": {
             "type": "model",
-            "model": "ausskins:vara_criancas_22_cast"
+            "model": "ausskins:item/vara_criancas_22_cast"
           },
           "property": "minecraft:fishing_rod/cast"
         }
@@ -82,11 +82,11 @@
           "type": "minecraft:condition",
           "on_false": {
             "type": "model",
-            "model": "ausskins:vara_um_ano_aus"
+            "model": "ausskins:item/vara_um_ano_aus"
           },
           "on_true": {
             "type": "model",
-            "model": "ausskins:vara_um_ano_aus_cast"
+            "model": "ausskins:item/vara_um_ano_aus_cast"
           },
           "property": "minecraft:fishing_rod/cast"
         }
@@ -97,11 +97,11 @@
           "type": "minecraft:condition",
           "on_false": {
             "type": "model",
-            "model": "ausskins:vara_carnavaus"
+            "model": "ausskins:item/vara_carnavaus"
           },
           "on_true": {
             "type": "model",
-            "model": "ausskins:vara_carnavaus_cast"
+            "model": "ausskins:item/vara_carnavaus_cast"
           },
           "property": "minecraft:fishing_rod/cast"
         }
@@ -112,11 +112,11 @@
           "type": "minecraft:condition",
           "on_false": {
             "type": "model",
-            "model": "ausskins:vara_insurgente"
+            "model": "ausskins:item/vara_insurgente"
           },
           "on_true": {
             "type": "model",
-            "model": "ausskins:vara_insurgente_cast"
+            "model": "ausskins:item/vara_insurgente_cast"
           },
           "property": "minecraft:fishing_rod/cast"
         }
@@ -127,11 +127,11 @@
           "type": "minecraft:condition",
           "on_false": {
             "type": "model",
-            "model": "ausskins:vara_namorados"
+            "model": "ausskins:item/vara_namorados"
           },
           "on_true": {
             "type": "model",
-            "model": "ausskins:vara_namorados_cast"
+            "model": "ausskins:item/vara_namorados_cast"
           },
           "property": "minecraft:fishing_rod/cast"
         }
@@ -142,11 +142,11 @@
           "type": "minecraft:condition",
           "on_false": {
             "type": "model",
-            "model": "ausskins:vara_bambu"
+            "model": "ausskins:item/vara_bambu"
           },
           "on_true": {
             "type": "model",
-            "model": "ausskins:vara_bambu_cast"
+            "model": "ausskins:item/vara_bambu_cast"
           },
           "property": "minecraft:fishing_rod/cast"
         }
@@ -157,11 +157,11 @@
           "type": "minecraft:condition",
           "on_false": {
             "type": "model",
-            "model": "ausskins:vara_celestial"
+            "model": "ausskins:item/vara_celestial"
           },
           "on_true": {
             "type": "model",
-            "model": "ausskins:vara_celestial_cast"
+            "model": "ausskins:item/vara_celestial_cast"
           },
           "property": "minecraft:fishing_rod/cast"
         }
@@ -172,11 +172,11 @@
           "type": "minecraft:condition",
           "on_false": {
             "type": "model",
-            "model": "ausskins:vara_celestial_v2"
+            "model": "ausskins:item/vara_celestial_v2"
           },
           "on_true": {
             "type": "model",
-            "model": "ausskins:vara_celestial_v2_cast"
+            "model": "ausskins:item/vara_celestial_v2_cast"
           },
           "property": "minecraft:fishing_rod/cast"
         }
@@ -187,11 +187,11 @@
           "type": "minecraft:condition",
           "on_false": {
             "type": "model",
-            "model": "ausskins:vara_outono"
+            "model": "ausskins:item/vara_outono"
           },
           "on_true": {
             "type": "model",
-            "model": "ausskins:vara_outono_cast"
+            "model": "ausskins:item/vara_outono_cast"
           },
           "property": "minecraft:fishing_rod/cast"
         }
@@ -202,11 +202,11 @@
           "type": "minecraft:condition",
           "on_false": {
             "type": "model",
-            "model": "ausskins:vara_ruina"
+            "model": "ausskins:item/vara_ruina"
           },
           "on_true": {
             "type": "model",
-            "model": "ausskins:vara_ruina_cast"
+            "model": "ausskins:item/vara_ruina_cast"
           },
           "property": "minecraft:fishing_rod/cast"
         }
@@ -217,11 +217,11 @@
           "type": "minecraft:condition",
           "on_false": {
             "type": "model",
-            "model": "ausskins:vara_pascoa_22"
+            "model": "ausskins:item/vara_pascoa_22"
           },
           "on_true": {
             "type": "model",
-            "model": "ausskins:vara_pascoa_22_cast"
+            "model": "ausskins:item/vara_pascoa_22_cast"
           },
           "property": "minecraft:fishing_rod/cast"
         }
@@ -232,11 +232,11 @@
           "type": "minecraft:condition",
           "on_false": {
             "type": "model",
-            "model": "ausskins:vara_inverno"
+            "model": "ausskins:item/vara_inverno"
           },
           "on_true": {
             "type": "model",
-            "model": "ausskins:vara_inverno_cast"
+            "model": "ausskins:item/vara_inverno_cast"
           },
           "property": "minecraft:fishing_rod/cast"
         }
@@ -247,11 +247,11 @@
           "type": "minecraft:condition",
           "on_false": {
             "type": "model",
-            "model": "ausskins:vara_calamidade"
+            "model": "ausskins:item/vara_calamidade"
           },
           "on_true": {
             "type": "model",
-            "model": "ausskins:vara_calamidade_cast"
+            "model": "ausskins:item/vara_calamidade_cast"
           },
           "property": "minecraft:fishing_rod/cast"
         }
@@ -262,11 +262,11 @@
           "type": "minecraft:condition",
           "on_false": {
             "type": "model",
-            "model": "ausskins:vara_natal_24"
+            "model": "ausskins:item/vara_natal_24"
           },
           "on_true": {
             "type": "model",
-            "model": "ausskins:vara_natal_24_cast"
+            "model": "ausskins:item/vara_natal_24_cast"
           },
           "property": "minecraft:fishing_rod/cast"
         }
@@ -277,11 +277,11 @@
           "type": "minecraft:condition",
           "on_false": {
             "type": "model",
-            "model": "ausskins:vara_verao"
+            "model": "ausskins:item/vara_verao"
           },
           "on_true": {
             "type": "model",
-            "model": "ausskins:vara_verao_cast"
+            "model": "ausskins:item/vara_verao_cast"
           },
           "property": "minecraft:fishing_rod/cast"
         }
@@ -292,17 +292,32 @@
           "type": "minecraft:condition",
           "on_false": {
             "type": "model",
-            "model": "ausskins:vara_necromante"
+            "model": "ausskins:item/vara_necromante"
           },
           "on_true": {
             "type": "model",
-            "model": "ausskins:vara_necromante_cast"
+            "model": "ausskins:item/vara_necromante_cast"
           },
           "property": "minecraft:fishing_rod/cast"
         }
       },
       {
         "threshold": 10022,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "model",
+            "model": "ausskins:item/vara_warped"
+          },
+          "on_true": {
+            "type": "model",
+            "model": "ausskins:item/vara_warped_cast"
+          },
+          "property": "minecraft:fishing_rod/cast"
+        }
+      },
+      {
+        "threshold": 10023,
         "model": {
           "type": "minecraft:condition",
           "on_false": { "type": "model", "model": "item/fishing_rod" },
