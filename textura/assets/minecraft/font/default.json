@@ -3772,6 +3772,13 @@
       "ascent": 3,
       "height": 256,
       "chars": ["\uE264"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_distorcido.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uE265"]
     }
   ]
 }
