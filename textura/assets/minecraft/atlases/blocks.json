@@ -1063,6 +1063,8 @@
     { "type": "single", "resource": "ausskins:bestas/natal25_0" },
     { "type": "single", "resource": "ausskins:bestas/natal25_1" },
     { "type": "single", "resource": "ausskins:bestas/natal25_2" },
-    { "type": "single", "resource": "ausskins:bestas/natal25_firework" }
+    { "type": "single", "resource": "ausskins:bestas/natal25_firework" },
+    { "type": "single", "resource": "ausskins:varas/warped_fishing_rod" },
+    { "type": "single", "resource": "ausskins:varas/warped_fishing_rod_cast" }
   ]
 }
