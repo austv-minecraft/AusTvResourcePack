@@ -157,11 +157,11 @@
     },
     {
       "predicate": { "custom_model_data": 10022 },
-      "model": "ausskins:item/vara_warped"
+      "model": "ausskins:vara_warped"
     },
     {
       "predicate": { "cast": 1, "custom_model_data": 10022 },
-      "model": "ausskins:item/vara_warped_cast"
+      "model": "ausskins:vara_warped_cast"
     },
     { "predicate": { "custom_model_data": 10023 }, "model": "item/fishing_rod" }
   ]
