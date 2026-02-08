@@ -608,7 +608,15 @@
           "type": "model",
           "model": "skins/warped/mini_espada"
         }
+      },
+      {
+        "threshold": 131,
+        "model": {
+          "type": "model",
+          "model": "skins/aniversario_4anos/espada"
+        }
       }
+
     ]
   }
 }
