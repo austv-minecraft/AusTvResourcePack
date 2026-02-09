@@ -3783,7 +3783,7 @@
     {
       "type": "bitmap",
       "file": "icons:guis/ausversario.png",
-      "ascent": 23,
+      "ascent": 25,
       "height": 256,
       "chars": ["\uE266"]
     },
