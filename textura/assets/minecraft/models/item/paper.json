@@ -453,6 +453,10 @@
       "model": "auscosmetic:mao/makita"
     },
     {
+      "predicate": { "custom_model_data": 10061 },
+      "model": "auscosmetic:chapeu/party_hat"
+    },
+    {
       "predicate": { "custom_model_data": 40000 },
       "model": "auseventos:mana_pocao"
     },
