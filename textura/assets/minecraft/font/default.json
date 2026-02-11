@@ -3793,6 +3793,13 @@
       "ascent": 9,
       "height": 9,
       "chars": ["\uE267"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/ausversario_aus_menu.png",
+      "ascent": 25,
+      "height": 256,
+      "chars": ["\uE268"]
     }
   ]
 }
