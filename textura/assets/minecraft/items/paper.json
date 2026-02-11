@@ -745,6 +745,10 @@
         "model": { "type": "model", "model": "auscosmetic:mao/makita" }
       },
       {
+        "threshold": 10061,
+        "model": { "type": "model", "model": "auscosmetic:chapeu/party_hat" }
+      },
+      {
         "threshold": 40000,
         "model": { "type": "model", "model": "auseventos:mana_pocao" }
       },
