@@ -30,6 +30,7 @@
     { "type": "single", "resource": "ausmoveis:natal/scissors_anim" },
     { "type": "single", "resource": "auscosmetic:balao/brasil" },
     { "type": "single", "resource": "ausmobs:entity/wisp_unique" },
+    { "type": "single", "resource": "auscosmetic:chapeu/party_hat" },
     {
       "type": "single",
       "resource": "ausskins:varas/insurgente_fishing_rod_cast"
