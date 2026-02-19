@@ -522,7 +522,10 @@
       },
       {
         "threshold": 3000,
-        "model": { "type": "model", "model": "austv_itens:pet_cenoura_natalina" }
+        "model": {
+          "type": "model",
+          "model": "austv_itens:pet_cenoura_natalina"
+        }
       },
       {
         "threshold": 3001,
@@ -1733,6 +1736,10 @@
       {
         "threshold": 300013,
         "model": { "type": "model", "model": "item/paper" }
+      },
+      {
+        "threshold": 300014,
+        "model": { "type": "model", "model": "chaves/carmesin" }
       }
     ]
   }
