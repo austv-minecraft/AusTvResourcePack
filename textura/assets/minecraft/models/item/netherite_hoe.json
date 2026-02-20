@@ -47,6 +47,7 @@
 		{"predicate": {"custom_model_data":40003},"model":"auseventos:cajado_lideranca"},
 		{"predicate": {"custom_model_data":38}, "model": "skins/end/enxada"},
 		{"predicate": {"custom_model_data":39}, "model": "skins/necromante/enxada"},
-		{"predicate": {"custom_model_data":40}, "model": "skins/natal25/enxada"}
+		{"predicate": {"custom_model_data":40}, "model": "skins/natal25/enxada"},
+		{"predicate": {"custom_model_data":41}, "model": "skins/carmesim/enxada"}
 	]
 }
