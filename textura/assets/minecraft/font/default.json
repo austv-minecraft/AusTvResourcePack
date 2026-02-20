@@ -3814,6 +3814,13 @@
       "ascent": 25,
       "height": 256,
       "chars": ["\uE270"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_carmesin.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uE271"]
     }
   ]
 }
