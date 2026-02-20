@@ -1,98 +1,363 @@
 {
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "item/netherite_axe"
-	},
-	
-	"overrides": [
-		{"predicate": {"custom_model_data":2}, "model": "skins/_misc/machado/silver"},
-		{"predicate": {"custom_model_data":4}, "model": "skins/_misc/machado/end"},
-		{"predicate": {"custom_model_data":6}, "model": "skins/_misc/machado/royalgd"},
-		{"predicate": {"custom_model_data":7}, "model": "skins/_misc/machado/aspar"},
-		{"predicate": {"custom_model_data":8}, "model": "skins/_misc/machado/darkon"},
-		{"predicate": {"custom_model_data":9}, "model": "skins/_misc/machado/fatiada"},
-		{"predicate": {"custom_model_data":10}, "model": "skins/_misc/machado/smart"},
-		{"predicate": {"custom_model_data":11}, "model": "skins/_misc/machado/escuro"},
-		{"predicate": {"custom_model_data":12}, "model": "skins/_misc/machado/fabulant"},
-		{"predicate": {"custom_model_data":13}, "model": "skins/_misc/machado/cleaver"},
-		{"predicate": {"custom_model_data":14}, "model": "skins/_misc/machado/luminous"},
-		{"predicate": {"custom_model_data":15}, "model": "skins/_misc/machado/lost"},
-		{"predicate": {"custom_model_data":16}, "model": "skins/_misc/machado/relics"},
-		{"predicate": {"custom_model_data":17}, "model": "skins/_misc/machado/emerald"},
-		{"predicate": {"custom_model_data":18}, "model": "skins/_misc/machado/piercing"},
-		{"predicate": {"custom_model_data":21}, "model": "skins/_misc/machado/reforged"},
-		{"predicate": {"custom_model_data":22}, "model": "skins/_misc/machado/nether"},
-		{"predicate": {"custom_model_data":23}, "model": "skins/_misc/machado/blood"},
-		{"predicate": {"custom_model_data":24}, "model": "skins/_misc/machado/ardent"},
-		{"predicate": {"custom_model_data":25}, "model": "skins/_misc/machado/bright"},
-		{"predicate": {"custom_model_data":26}, "model": "skins/_misc/machado/destroy"},
-		{"predicate": {"custom_model_data":27}, "model": "skins/_misc/machado/glacial"},
-		{"predicate": {"custom_model_data":28}, "model": "skins/_misc/machado/necro"},
-		{"predicate": {"custom_model_data":29}, "model": "skins/_misc/machado/vanguard"},
-		{"predicate": {"custom_model_data":30}, "model": "skins/_misc/machado/cold"},
-		{"predicate": {"custom_model_data":31}, "model": "skins/_misc/machado/sangue"},
-		{"predicate": {"custom_model_data":32}, "model": "skins/_misc/machado/classic"},
-		{"predicate": {"custom_model_data":33}, "model": "skins/_misc/machado/shredded"},
-		{"predicate": {"custom_model_data":34}, "model": "skins/_misc/machado/daedalus"},
-		{"predicate": {"custom_model_data":35}, "model": "skins/_misc/machado/1"},
-		{"predicate": {"custom_model_data":36}, "model": "skins/_misc/machado/2"},
-		{"predicate": {"custom_model_data":38}, "model": "skins/pascoa_22/machado"},
-		{"predicate": {"custom_model_data":39}, "model": "skins/miau/machado"},
-		{"predicate": {"custom_model_data":40}, "model": "skins/namorados_22/machado"},
-		{"predicate": {"custom_model_data":41}, "model": "skins/tormenta/machado"},
-		{"predicate": {"custom_model_data":42}, "model": "skins/glacial/machado"},
-		{"predicate": {"custom_model_data":43}, "model": "skins/primavera/v1/machado"},
-		{"predicate": {"custom_model_data":44}, "model": "skins/criancada_22/machado"},
-		{"predicate": {"custom_model_data":45}, "model": "skins/assombrada/machado"},
-		{"predicate": {"custom_model_data":46}, "model": "skins/copa_22/machado"},
-		{"predicate": {"custom_model_data":47}, "model": "skins/natal/machado"},
-		{"predicate": {"custom_model_data":48}, "model": "skins/niver_aus/1/machado_1"},
-		{"predicate": {"custom_model_data":49}, "model": "skins/niver_aus/1/machado_2"},
-		{"predicate": {"custom_model_data":50}, "model": "skins/carnavaus/machado"},
-		{"predicate": {"custom_model_data":51}, "model": "skins/reborn/machado_1"},
-		{"predicate": {"custom_model_data":52}, "model": "skins/reborn/machado_2"},
-		{"predicate": {"custom_model_data":53}, "model": "skins/pascoa/machado_1"},
-		{"predicate": {"custom_model_data":54}, "model": "skins/pascoa/machado_2"},
-		{"predicate": {"custom_model_data":55}, "model": "skins/prestigio/machado"},
-		{"predicate": {"custom_model_data":56}, "model": "skins/insurgente/machado_1"},
-		{"predicate": {"custom_model_data":57}, "model": "skins/insurgente/machado_2"},
-		{"predicate": {"custom_model_data":58}, "model": "skins/namorados/machado_1"},
-		{"predicate": {"custom_model_data":59}, "model": "skins/namorados/machado_2"},
-		{"predicate": {"custom_model_data":60}, "model": "skins/oriental/machado"},
-		{"predicate": {"custom_model_data":61}, "model": "skins/glacial_negra/mach_1"},
-		{"predicate": {"custom_model_data":62}, "model": "skins/glacial_negra/mach_2"},
-		{"predicate": {"custom_model_data":63}, "model": "skins/primavera/v2/machado"},
-		{"predicate": {"custom_model_data":64}, "model": "skins/desordem/machado_1"},
-		{"predicate": {"custom_model_data":65}, "model": "skins/desordem/machado_2"},
-		{"predicate": {"custom_model_data":66}, "model": "skins/celestial/1/machado_1"},
-		{"predicate": {"custom_model_data":67}, "model": "skins/celestial/1/machado_2"},
-		{"predicate": {"custom_model_data":68}, "model": "skins/celestial/2/machado_1"},
-		{"predicate": {"custom_model_data":69}, "model": "skins/celestial/2/machado_2"},
-		{"predicate": {"custom_model_data":70}, "model": "skins/verao/machado_1"},
-		{"predicate": {"custom_model_data":71}, "model": "skins/verao/machado_2"},
-		{"predicate": {"custom_model_data":72}, "model": "skins/carnavaus/machado_2"},
-		{"predicate": {"custom_model_data":73}, "model": "skins/outono/machado_1"},
-		{"predicate": {"custom_model_data":74}, "model": "skins/espectro/machado_1"},
-		{"predicate": {"custom_model_data":75}, "model": "skins/espectro/machado_2"},
-		{"predicate": {"custom_model_data":76}, "model": "skins/ruina/machado_1"},
-		{"predicate": {"custom_model_data":77}, "model": "skins/ruina/machado_2"},
-		{"predicate": {"custom_model_data":78}, "model": "skins/abelha/machado"},
-		{"predicate": {"custom_model_data":79}, "model": "skins/inverno/machado"},
-		{"predicate": {"custom_model_data":80}, "model": "skins/inverno/machado_2"},
-		{"predicate": {"custom_model_data":81}, "model": "skins/calamidade/machado"},
-		{"predicate": {"custom_model_data":82}, "model": "skins/calamidade/machado_2"},
-		{"predicate": {"custom_model_data":83}, "model": "skins/deuses/machado"},
-		{"predicate": {"custom_model_data":84}, "model": "skins/deuses/machado_2"},
-		{"predicate": {"custom_model_data":85}, "model": "skins/natal24/machado"},
-		{"predicate": {"custom_model_data":86}, "model": "skins/natal24/machado_2"},
-		{"predicate": {"custom_model_data":87}, "model": "skins/_misc/machado/detonar"},
-		{"predicate": {"custom_model_data":88}, "model": "skins/_misc/machado/gorila_machado"},
-		{"predicate": {"custom_model_data":89}, "model": "skins/_misc/machado/petra"},
-		{"predicate": {"custom_model_data":90}, "model": "skins/end/machado"},
-		{"predicate": {"custom_model_data":91}, "model": "skins/necromante/machado"},
-		{"predicate": {"custom_model_data":92}, "model": "skins/natal25/machado"},
-		{"predicate": {"custom_model_data":93}, "model": "skins/warped/machado1"},
-		{"predicate": {"custom_model_data":94}, "model": "skins/warped/machado2"},
-		{"predicate": {"custom_model_data":95}, "model": "skins/carmesim/machado"}
-	]
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/netherite_axe"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "skins/_misc/machado/silver"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "skins/_misc/machado/end"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "skins/_misc/machado/royalgd"
+    },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "skins/_misc/machado/aspar"
+    },
+    {
+      "predicate": { "custom_model_data": 8 },
+      "model": "skins/_misc/machado/darkon"
+    },
+    {
+      "predicate": { "custom_model_data": 9 },
+      "model": "skins/_misc/machado/fatiada"
+    },
+    {
+      "predicate": { "custom_model_data": 10 },
+      "model": "skins/_misc/machado/smart"
+    },
+    {
+      "predicate": { "custom_model_data": 11 },
+      "model": "skins/_misc/machado/escuro"
+    },
+    {
+      "predicate": { "custom_model_data": 12 },
+      "model": "skins/_misc/machado/fabulant"
+    },
+    {
+      "predicate": { "custom_model_data": 13 },
+      "model": "skins/_misc/machado/cleaver"
+    },
+    {
+      "predicate": { "custom_model_data": 14 },
+      "model": "skins/_misc/machado/luminous"
+    },
+    {
+      "predicate": { "custom_model_data": 15 },
+      "model": "skins/_misc/machado/lost"
+    },
+    {
+      "predicate": { "custom_model_data": 16 },
+      "model": "skins/_misc/machado/relics"
+    },
+    {
+      "predicate": { "custom_model_data": 17 },
+      "model": "skins/_misc/machado/emerald"
+    },
+    {
+      "predicate": { "custom_model_data": 18 },
+      "model": "skins/_misc/machado/piercing"
+    },
+    {
+      "predicate": { "custom_model_data": 21 },
+      "model": "skins/_misc/machado/reforged"
+    },
+    {
+      "predicate": { "custom_model_data": 22 },
+      "model": "skins/_misc/machado/nether"
+    },
+    {
+      "predicate": { "custom_model_data": 23 },
+      "model": "skins/_misc/machado/blood"
+    },
+    {
+      "predicate": { "custom_model_data": 24 },
+      "model": "skins/_misc/machado/ardent"
+    },
+    {
+      "predicate": { "custom_model_data": 25 },
+      "model": "skins/_misc/machado/bright"
+    },
+    {
+      "predicate": { "custom_model_data": 26 },
+      "model": "skins/_misc/machado/destroy"
+    },
+    {
+      "predicate": { "custom_model_data": 27 },
+      "model": "skins/_misc/machado/glacial"
+    },
+    {
+      "predicate": { "custom_model_data": 28 },
+      "model": "skins/_misc/machado/necro"
+    },
+    {
+      "predicate": { "custom_model_data": 29 },
+      "model": "skins/_misc/machado/vanguard"
+    },
+    {
+      "predicate": { "custom_model_data": 30 },
+      "model": "skins/_misc/machado/cold"
+    },
+    {
+      "predicate": { "custom_model_data": 31 },
+      "model": "skins/_misc/machado/sangue"
+    },
+    {
+      "predicate": { "custom_model_data": 32 },
+      "model": "skins/_misc/machado/classic"
+    },
+    {
+      "predicate": { "custom_model_data": 33 },
+      "model": "skins/_misc/machado/shredded"
+    },
+    {
+      "predicate": { "custom_model_data": 34 },
+      "model": "skins/_misc/machado/daedalus"
+    },
+    {
+      "predicate": { "custom_model_data": 35 },
+      "model": "skins/_misc/machado/1"
+    },
+    {
+      "predicate": { "custom_model_data": 36 },
+      "model": "skins/_misc/machado/2"
+    },
+    {
+      "predicate": { "custom_model_data": 38 },
+      "model": "skins/pascoa_22/machado"
+    },
+    { "predicate": { "custom_model_data": 39 }, "model": "skins/miau/machado" },
+    {
+      "predicate": { "custom_model_data": 40 },
+      "model": "skins/namorados_22/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 41 },
+      "model": "skins/tormenta/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 42 },
+      "model": "skins/glacial/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 43 },
+      "model": "skins/primavera/v1/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 44 },
+      "model": "skins/criancada_22/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 45 },
+      "model": "skins/assombrada/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 46 },
+      "model": "skins/copa_22/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 47 },
+      "model": "skins/natal/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 48 },
+      "model": "skins/niver_aus/1/machado_1"
+    },
+    {
+      "predicate": { "custom_model_data": 49 },
+      "model": "skins/niver_aus/1/machado_2"
+    },
+    {
+      "predicate": { "custom_model_data": 50 },
+      "model": "skins/carnavaus/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 51 },
+      "model": "skins/reborn/machado_1"
+    },
+    {
+      "predicate": { "custom_model_data": 52 },
+      "model": "skins/reborn/machado_2"
+    },
+    {
+      "predicate": { "custom_model_data": 53 },
+      "model": "skins/pascoa/machado_1"
+    },
+    {
+      "predicate": { "custom_model_data": 54 },
+      "model": "skins/pascoa/machado_2"
+    },
+    {
+      "predicate": { "custom_model_data": 55 },
+      "model": "skins/prestigio/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 56 },
+      "model": "skins/insurgente/machado_1"
+    },
+    {
+      "predicate": { "custom_model_data": 57 },
+      "model": "skins/insurgente/machado_2"
+    },
+    {
+      "predicate": { "custom_model_data": 58 },
+      "model": "skins/namorados/machado_1"
+    },
+    {
+      "predicate": { "custom_model_data": 59 },
+      "model": "skins/namorados/machado_2"
+    },
+    {
+      "predicate": { "custom_model_data": 60 },
+      "model": "skins/oriental/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 61 },
+      "model": "skins/glacial_negra/mach_1"
+    },
+    {
+      "predicate": { "custom_model_data": 62 },
+      "model": "skins/glacial_negra/mach_2"
+    },
+    {
+      "predicate": { "custom_model_data": 63 },
+      "model": "skins/primavera/v2/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 64 },
+      "model": "skins/desordem/machado_1"
+    },
+    {
+      "predicate": { "custom_model_data": 65 },
+      "model": "skins/desordem/machado_2"
+    },
+    {
+      "predicate": { "custom_model_data": 66 },
+      "model": "skins/celestial/1/machado_1"
+    },
+    {
+      "predicate": { "custom_model_data": 67 },
+      "model": "skins/celestial/1/machado_2"
+    },
+    {
+      "predicate": { "custom_model_data": 68 },
+      "model": "skins/celestial/2/machado_1"
+    },
+    {
+      "predicate": { "custom_model_data": 69 },
+      "model": "skins/celestial/2/machado_2"
+    },
+    {
+      "predicate": { "custom_model_data": 70 },
+      "model": "skins/verao/machado_1"
+    },
+    {
+      "predicate": { "custom_model_data": 71 },
+      "model": "skins/verao/machado_2"
+    },
+    {
+      "predicate": { "custom_model_data": 72 },
+      "model": "skins/carnavaus/machado_2"
+    },
+    {
+      "predicate": { "custom_model_data": 73 },
+      "model": "skins/outono/machado_1"
+    },
+    {
+      "predicate": { "custom_model_data": 74 },
+      "model": "skins/espectro/machado_1"
+    },
+    {
+      "predicate": { "custom_model_data": 75 },
+      "model": "skins/espectro/machado_2"
+    },
+    {
+      "predicate": { "custom_model_data": 76 },
+      "model": "skins/ruina/machado_1"
+    },
+    {
+      "predicate": { "custom_model_data": 77 },
+      "model": "skins/ruina/machado_2"
+    },
+    {
+      "predicate": { "custom_model_data": 78 },
+      "model": "skins/abelha/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 79 },
+      "model": "skins/inverno/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 80 },
+      "model": "skins/inverno/machado_2"
+    },
+    {
+      "predicate": { "custom_model_data": 81 },
+      "model": "skins/calamidade/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 82 },
+      "model": "skins/calamidade/machado_2"
+    },
+    {
+      "predicate": { "custom_model_data": 83 },
+      "model": "skins/deuses/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 84 },
+      "model": "skins/deuses/machado_2"
+    },
+    {
+      "predicate": { "custom_model_data": 85 },
+      "model": "skins/natal24/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 86 },
+      "model": "skins/natal24/machado_2"
+    },
+    {
+      "predicate": { "custom_model_data": 87 },
+      "model": "skins/_misc/machado/detonar"
+    },
+    {
+      "predicate": { "custom_model_data": 88 },
+      "model": "skins/_misc/machado/gorila_machado"
+    },
+    {
+      "predicate": { "custom_model_data": 89 },
+      "model": "skins/_misc/machado/petra"
+    },
+    { "predicate": { "custom_model_data": 90 }, "model": "skins/end/machado" },
+    {
+      "predicate": { "custom_model_data": 91 },
+      "model": "skins/necromante/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 92 },
+      "model": "skins/natal25/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 93 },
+      "model": "skins/warped/machado1"
+    },
+    {
+      "predicate": { "custom_model_data": 94 },
+      "model": "skins/warped/machado2"
+    },
+    {
+      "predicate": { "custom_model_data": 95 },
+      "model": "skins/carmesim/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 96 },
+      "model": "skins/carmesim/machado_v2"
+    }
+  ]
 }
