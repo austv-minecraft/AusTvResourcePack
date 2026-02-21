@@ -1808,6 +1808,10 @@
         "model": { "type": "model", "model": "ausobjs:caixas/caixa_natal2025" }
       },
       {
+        "threshold": 259,
+        "model": { "type": "model", "model": "ausobjs:caixas/carmesim" }
+      },
+      {
         "threshold": 326,
         "model": {
           "type": "model",
