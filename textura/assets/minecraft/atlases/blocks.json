@@ -403,6 +403,8 @@
     { "type": "single", "resource": "ausobjs:caixas/caixa_natal2025" },
     { "type": "single", "resource": "ausobjs:caixas/necromante" },
     { "type": "single", "resource": "ausobjs:caixas/carmesim" },
+    { "type": "single", "resource": "ausskins:bestas/carmesim_charged" },
+    { "type": "single", "resource": "ausskins:bestas/carmesim_firework" },
     { "type": "single", "resource": "ausskins:escudos/carmesim_shield" },
     { "type": "single", "resource": "ausskins:varas/carmesim_fishing_rod" },
     {
