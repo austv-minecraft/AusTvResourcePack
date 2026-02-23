@@ -36,7 +36,7 @@
     { "predicate": { "charged": 1 }, "model": "item/crossbow_arrow" },
     {
       "predicate": { "charged": 1, "firework": 1 },
-      "model": "crossbow_firework"
+      "model": "item/crossbow_firework"
     },
     {
       "predicate": { "custom_model_data": 10000 },
