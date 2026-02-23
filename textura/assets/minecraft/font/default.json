@@ -3804,14 +3804,14 @@
     {
       "type": "bitmap",
       "file": "icons:guis/cash_chaves_carmesin.png",
-      "ascent": 14,
+      "ascent": 0,
       "height": 256,
       "chars": ["\uE269"]
     },
     {
       "type": "bitmap",
       "file": "icons:guis/carnaval_austv_menu.png",
-      "ascent": 14,
+      "ascent": 20,
       "height": 256,
       "chars": ["\uE270"]
     },
