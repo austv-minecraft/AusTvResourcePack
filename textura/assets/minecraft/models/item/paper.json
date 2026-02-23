@@ -617,7 +617,7 @@
     },
     {
       "predicate": { "custom_model_data": 100045 },
-      "model": "auscosmetic:chaves/carmesin"
+      "model": "chaves/carmesin"
     },
     {
       "predicate": { "custom_model_data": 150000 },
