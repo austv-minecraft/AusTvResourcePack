@@ -615,8 +615,21 @@
           "type": "model",
           "model": "skins/aniversario_4anos/espada"
         }
+      },
+      {
+        "threshold": 132,
+        "model": {
+          "type": "model",
+          "model": "skins/carmesim/espada"
+        }
+      },
+      {
+        "threshold": 133,
+        "model": {
+          "type": "model",
+          "model": "skins/carmesim/espada_v2"
+        }
       }
-      
     ]
   }
 }

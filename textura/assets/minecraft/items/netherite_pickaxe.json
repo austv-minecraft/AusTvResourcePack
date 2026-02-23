@@ -300,6 +300,13 @@
           "type": "model",
           "model": "skins/warped/picareta"
         }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "model",
+          "model": "skins/carmesim/picareta"
+        }
       }
     ]
   }

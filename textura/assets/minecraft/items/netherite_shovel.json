@@ -279,6 +279,13 @@
           "type": "model",
           "model": "skins/warped/pa"
         }
+      },
+      {
+        "threshold": 40,
+        "model": {
+          "type": "model",
+          "model": "skins/carmesim/pa"
+        }
       }
     ]
   }

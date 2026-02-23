@@ -622,6 +622,20 @@
           "type": "model",
           "model": "skins/warped/machado2"
         }
+      },
+      {
+        "threshold": 95,
+        "model": {
+          "type": "model",
+          "model": "skins/carmesim/machado"
+        }
+      },
+      {
+        "threshold": 96,
+        "model": {
+          "type": "model",
+          "model": "skins/carmesim/machado2"
+        }
       }
     ]
   }
