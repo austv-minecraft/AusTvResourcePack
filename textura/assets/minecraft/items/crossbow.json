@@ -66,24 +66,24 @@
               {
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_um_ano_aus_charged"
+                  "model": "ausskins:besta_um_ano_aus_charged"
                 },
                 "when": "arrow"
               },
               {
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_um_ano_aus_firework"
+                  "model": "ausskins:besta_um_ano_aus_firework"
                 },
                 "when": "rocket"
               }
             ],
             "fallback": {
               "type": "model",
-              "model": "ausskins:item/besta_um_ano_aus"
+              "model": "ausskins:besta_um_ano_aus"
             },
             "property": "minecraft:charge_type",
-            "model": "ausskins:item/besta_um_ano_aus"
+            "model": "ausskins:besta_um_ano_aus"
           },
           "on_true": {
             "type": "minecraft:range_dispatch",
@@ -92,20 +92,20 @@
                 "threshold": 0.58,
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_um_ano_aus_1"
+                  "model": "ausskins:besta_um_ano_aus_1"
                 }
               },
               {
                 "threshold": 1.0,
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_um_ano_aus_2"
+                  "model": "ausskins:besta_um_ano_aus_2"
                 }
               }
             ],
             "fallback": {
               "type": "minecraft:model",
-              "model": "ausskins:item/besta_um_ano_aus"
+              "model": "ausskins:besta_um_ano_aus"
             },
             "property": "minecraft:crossbow/pull"
           },
@@ -122,24 +122,24 @@
               {
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_namorados_22_charged"
+                  "model": "ausskins:besta_namorados_22_charged"
                 },
                 "when": "arrow"
               },
               {
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_namorados_22_firework"
+                  "model": "ausskins:besta_namorados_22_firework"
                 },
                 "when": "rocket"
               }
             ],
             "fallback": {
               "type": "model",
-              "model": "ausskins:item/besta_namorados_22"
+              "model": "ausskins:besta_namorados_22"
             },
             "property": "minecraft:charge_type",
-            "model": "ausskins:item/besta_namorados_22"
+            "model": "ausskins:besta_namorados_22"
           },
           "on_true": {
             "type": "minecraft:range_dispatch",
@@ -148,20 +148,20 @@
                 "threshold": 0.58,
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_namorados_22_1"
+                  "model": "ausskins:besta_namorados_22_1"
                 }
               },
               {
                 "threshold": 1.0,
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_namorados_22_2"
+                  "model": "ausskins:besta_namorados_22_2"
                 }
               }
             ],
             "fallback": {
               "type": "minecraft:model",
-              "model": "ausskins:item/besta_namorados_22"
+              "model": "ausskins:besta_namorados_22"
             },
             "property": "minecraft:crossbow/pull"
           },
@@ -178,24 +178,24 @@
               {
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_natal_charged"
+                  "model": "ausskins:besta_natal_charged"
                 },
                 "when": "arrow"
               },
               {
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_natal_firework"
+                  "model": "ausskins:besta_natal_firework"
                 },
                 "when": "rocket"
               }
             ],
             "fallback": {
               "type": "model",
-              "model": "ausskins:item/besta_natal"
+              "model": "ausskins:besta_natal"
             },
             "property": "minecraft:charge_type",
-            "model": "ausskins:item/besta_natal"
+            "model": "ausskins:besta_natal"
           },
           "on_true": {
             "type": "minecraft:range_dispatch",
@@ -204,20 +204,20 @@
                 "threshold": 0.58,
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_natal_1"
+                  "model": "ausskins:besta_natal_1"
                 }
               },
               {
                 "threshold": 1.0,
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_natal_2"
+                  "model": "ausskins:besta_natal_2"
                 }
               }
             ],
             "fallback": {
               "type": "minecraft:model",
-              "model": "ausskins:item/besta_natal"
+              "model": "ausskins:besta_natal"
             },
             "property": "minecraft:crossbow/pull"
           },
@@ -234,24 +234,24 @@
               {
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_calamidade_charged"
+                  "model": "ausskins:besta_calamidade_charged"
                 },
                 "when": "arrow"
               },
               {
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_calamidade_firework"
+                  "model": "ausskins:besta_calamidade_firework"
                 },
                 "when": "rocket"
               }
             ],
             "fallback": {
               "type": "model",
-              "model": "ausskins:item/besta_calamidade"
+              "model": "ausskins:besta_calamidade"
             },
             "property": "minecraft:charge_type",
-            "model": "ausskins:item/besta_calamidade"
+            "model": "ausskins:besta_calamidade"
           },
           "on_true": {
             "type": "minecraft:range_dispatch",
@@ -260,20 +260,20 @@
                 "threshold": 0.58,
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_calamidade_1"
+                  "model": "ausskins:besta_calamidade_1"
                 }
               },
               {
                 "threshold": 1.0,
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_calamidade_2"
+                  "model": "ausskins:besta_calamidade_2"
                 }
               }
             ],
             "fallback": {
               "type": "minecraft:model",
-              "model": "ausskins:item/besta_calamidade"
+              "model": "ausskins:besta_calamidade"
             },
             "property": "minecraft:crossbow/pull"
           },
@@ -290,24 +290,24 @@
               {
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_verao_charged"
+                  "model": "ausskins:besta_verao_charged"
                 },
                 "when": "arrow"
               },
               {
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_verao_firework"
+                  "model": "ausskins:besta_verao_firework"
                 },
                 "when": "rocket"
               }
             ],
             "fallback": {
               "type": "model",
-              "model": "ausskins:item/besta_verao"
+              "model": "ausskins:besta_verao"
             },
             "property": "minecraft:charge_type",
-            "model": "ausskins:item/besta_verao"
+            "model": "ausskins:besta_verao"
           },
           "on_true": {
             "type": "minecraft:range_dispatch",
@@ -316,20 +316,20 @@
                 "threshold": 0.58,
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_verao_1"
+                  "model": "ausskins:besta_verao_1"
                 }
               },
               {
                 "threshold": 1.0,
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_verao_2"
+                  "model": "ausskins:besta_verao_2"
                 }
               }
             ],
             "fallback": {
               "type": "minecraft:model",
-              "model": "ausskins:item/besta_verao"
+              "model": "ausskins:besta_verao"
             },
             "property": "minecraft:crossbow/pull"
           },
@@ -346,24 +346,24 @@
               {
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_primavera_charged"
+                  "model": "ausskins:besta_primavera_charged"
                 },
                 "when": "arrow"
               },
               {
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_primavera_firework"
+                  "model": "ausskins:besta_primavera_firework"
                 },
                 "when": "rocket"
               }
             ],
             "fallback": {
               "type": "model",
-              "model": "ausskins:item/besta_primavera"
+              "model": "ausskins:besta_primavera"
             },
             "property": "minecraft:charge_type",
-            "model": "ausskins:item/besta_primavera"
+            "model": "ausskins:besta_primavera"
           },
           "on_true": {
             "type": "minecraft:range_dispatch",
@@ -372,20 +372,20 @@
                 "threshold": 0.58,
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_primavera_1"
+                  "model": "ausskins:besta_primavera_1"
                 }
               },
               {
                 "threshold": 1.0,
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_primavera_2"
+                  "model": "ausskins:besta_primavera_2"
                 }
               }
             ],
             "fallback": {
               "type": "minecraft:model",
-              "model": "ausskins:item/besta_primavera"
+              "model": "ausskins:besta_primavera"
             },
             "property": "minecraft:crossbow/pull"
           },
@@ -402,24 +402,24 @@
               {
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_natal25_charged"
+                  "model": "ausskins:besta_natal25_charged"
                 },
                 "when": "arrow"
               },
               {
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_natal25_firework"
+                  "model": "ausskins:besta_natal25_firework"
                 },
                 "when": "rocket"
               }
             ],
             "fallback": {
               "type": "model",
-              "model": "ausskins:item/besta_natal25"
+              "model": "ausskins:besta_natal25"
             },
             "property": "minecraft:charge_type",
-            "model": "ausskins:item/besta_natal25"
+            "model": "ausskins:besta_natal25"
           },
           "on_true": {
             "type": "minecraft:range_dispatch",
@@ -428,20 +428,20 @@
                 "threshold": 0.58,
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_natal25_1"
+                  "model": "ausskins:besta_natal25_1"
                 }
               },
               {
                 "threshold": 1.0,
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_natal25_2"
+                  "model": "ausskins:besta_natal25_2"
                 }
               }
             ],
             "fallback": {
               "type": "minecraft:model",
-              "model": "ausskins:item/besta_natal25"
+              "model": "ausskins:besta_natal25"
             },
             "property": "minecraft:crossbow/pull"
           },
@@ -458,24 +458,24 @@
               {
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_carmesim_charged"
+                  "model": "ausskins:besta_carmesim_charged"
                 },
                 "when": "arrow"
               },
               {
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_carmesim_firework"
+                  "model": "ausskins:besta_carmesim_firework"
                 },
                 "when": "rocket"
               }
             ],
             "fallback": {
               "type": "model",
-              "model": "ausskins:item/besta_carmesim"
+              "model": "ausskins:besta_carmesim"
             },
             "property": "minecraft:charge_type",
-            "model": "ausskins:item/besta_carmesim"
+            "model": "ausskins:besta_carmesim"
           },
           "on_true": {
             "type": "minecraft:range_dispatch",
@@ -484,20 +484,20 @@
                 "threshold": 0.58,
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_carmesim_1"
+                  "model": "ausskins:besta_carmesim_1"
                 }
               },
               {
                 "threshold": 1.0,
                 "model": {
                   "type": "model",
-                  "model": "ausskins:item/besta_carmesim_2"
+                  "model": "ausskins:besta_carmesim_2"
                 }
               }
             ],
             "fallback": {
               "type": "minecraft:model",
-              "model": "ausskins:item/besta_carmesim"
+              "model": "ausskins:besta_carmesim"
             },
             "property": "minecraft:crossbow/pull"
           },

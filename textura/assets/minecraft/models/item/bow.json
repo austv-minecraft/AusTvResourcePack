@@ -35,547 +35,547 @@
     },
     {
       "predicate": { "custom_model_data": 1 },
-      "model": "ausskins:item/arco_tormenta"
+      "model": "ausskins:arco_tormenta"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 1 },
-      "model": "ausskins:item/arco_tormenta_0"
+      "model": "ausskins:arco_tormenta_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 1 },
-      "model": "ausskins:item/arco_tormenta_1"
+      "model": "ausskins:arco_tormenta_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 1 },
-      "model": "ausskins:item/arco_tormenta_2"
+      "model": "ausskins:arco_tormenta_2"
     },
     {
       "predicate": { "custom_model_data": 2 },
-      "model": "ausskins:item/arco_glacial_22"
+      "model": "ausskins:arco_glacial_22"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 2 },
-      "model": "ausskins:item/arco_glacial_22_0"
+      "model": "ausskins:arco_glacial_22_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 2 },
-      "model": "ausskins:item/arco_glacial_22_1"
+      "model": "ausskins:arco_glacial_22_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 2 },
-      "model": "ausskins:item/arco_glacial_22_2"
+      "model": "ausskins:arco_glacial_22_2"
     },
     {
       "predicate": { "custom_model_data": 3 },
-      "model": "ausskins:item/arco_darknes"
+      "model": "ausskins:arco_darknes"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 3 },
-      "model": "ausskins:item/arco_darknes_0"
+      "model": "ausskins:arco_darknes_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 3 },
-      "model": "ausskins:item/arco_darknes_1"
+      "model": "ausskins:arco_darknes_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 3 },
-      "model": "ausskins:item/arco_darknes_2"
+      "model": "ausskins:arco_darknes_2"
     },
     {
       "predicate": { "custom_model_data": 4 },
-      "model": "ausskins:item/arco_hoood"
+      "model": "ausskins:arco_hoood"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 4 },
-      "model": "ausskins:item/arco_hoood_0"
+      "model": "ausskins:arco_hoood_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 4 },
-      "model": "ausskins:item/arco_hoood_1"
+      "model": "ausskins:arco_hoood_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 4 },
-      "model": "ausskins:item/arco_hoood_2"
+      "model": "ausskins:arco_hoood_2"
     },
     {
       "predicate": { "custom_model_data": 6 },
-      "model": "ausskins:item/arco_primavera_v1"
+      "model": "ausskins:arco_primavera_v1"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 6 },
-      "model": "ausskins:item/arco_primavera_v1_0"
+      "model": "ausskins:arco_primavera_v1_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 6 },
-      "model": "ausskins:item/arco_primavera_v1_1"
+      "model": "ausskins:arco_primavera_v1_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 6 },
-      "model": "ausskins:item/arco_primavera_v1_2"
+      "model": "ausskins:arco_primavera_v1_2"
     },
     {
       "predicate": { "custom_model_data": 8 },
-      "model": "ausskins:item/arco_assombrada"
+      "model": "ausskins:arco_assombrada"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 8 },
-      "model": "ausskins:item/arco_assombrada_0"
+      "model": "ausskins:arco_assombrada_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 8 },
-      "model": "ausskins:item/arco_assombrada_1"
+      "model": "ausskins:arco_assombrada_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 8 },
-      "model": "ausskins:item/arco_assombrada_2"
+      "model": "ausskins:arco_assombrada_2"
     },
     {
       "predicate": { "custom_model_data": 10002 },
-      "model": "ausskins:item/arco_carnavaus"
+      "model": "ausskins:arco_carnavaus"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10002 },
-      "model": "ausskins:item/arco_carnavaus_0"
+      "model": "ausskins:arco_carnavaus_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10002 },
-      "model": "ausskins:item/arco_carnavaus_1"
+      "model": "ausskins:arco_carnavaus_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10002 },
-      "model": "ausskins:item/arco_carnavaus_2"
+      "model": "ausskins:arco_carnavaus_2"
     },
     {
       "predicate": { "custom_model_data": 10004 },
-      "model": "ausskins:item/arco_copa_22"
+      "model": "ausskins:arco_copa_22"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10004 },
-      "model": "ausskins:item/arco_copa_22_0"
+      "model": "ausskins:arco_copa_22_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10004 },
-      "model": "ausskins:item/arco_copa_22_1"
+      "model": "ausskins:arco_copa_22_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10004 },
-      "model": "ausskins:item/arco_copa_22_2"
+      "model": "ausskins:arco_copa_22_2"
     },
     {
       "predicate": { "custom_model_data": 10005 },
-      "model": "ausskins:item/arco_natal"
+      "model": "ausskins:arco_natal"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10005 },
-      "model": "ausskins:item/arco_natal_0"
+      "model": "ausskins:arco_natal_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10005 },
-      "model": "ausskins:item/arco_natal_1"
+      "model": "ausskins:arco_natal_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10005 },
-      "model": "ausskins:item/arco_natal_2"
+      "model": "ausskins:arco_natal_2"
     },
     {
       "predicate": { "custom_model_data": 10006 },
-      "model": "ausskins:item/arco_um_ano_aus"
+      "model": "ausskins:arco_um_ano_aus"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10006 },
-      "model": "ausskins:item/arco_um_ano_aus_0"
+      "model": "ausskins:arco_um_ano_aus_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10006 },
-      "model": "ausskins:item/arco_um_ano_aus_1"
+      "model": "ausskins:arco_um_ano_aus_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10006 },
-      "model": "ausskins:item/arco_um_ano_aus_2"
+      "model": "ausskins:arco_um_ano_aus_2"
     },
     {
       "predicate": { "custom_model_data": 10007 },
-      "model": "ausskins:item/arco_reborn"
+      "model": "ausskins:arco_reborn"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10007 },
-      "model": "ausskins:item/arco_reborn_0"
+      "model": "ausskins:arco_reborn_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10007 },
-      "model": "ausskins:item/arco_reborn_1"
+      "model": "ausskins:arco_reborn_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10007 },
-      "model": "ausskins:item/arco_reborn_2"
+      "model": "ausskins:arco_reborn_2"
     },
     {
       "predicate": { "custom_model_data": 10008 },
-      "model": "ausskins:item/arco_pascoa"
+      "model": "ausskins:arco_pascoa"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10008 },
-      "model": "ausskins:item/arco_pascoa_0"
+      "model": "ausskins:arco_pascoa_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10008 },
-      "model": "ausskins:item/arco_pascoa_1"
+      "model": "ausskins:arco_pascoa_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10008 },
-      "model": "ausskins:item/arco_pascoa_2"
+      "model": "ausskins:arco_pascoa_2"
     },
     {
       "predicate": { "custom_model_data": 10009 },
-      "model": "ausskins:item/arco_insurgente"
+      "model": "ausskins:arco_insurgente"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10009 },
-      "model": "ausskins:item/arco_insurgente_0"
+      "model": "ausskins:arco_insurgente_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10009 },
-      "model": "ausskins:item/arco_insurgente_1"
+      "model": "ausskins:arco_insurgente_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10009 },
-      "model": "ausskins:item/arco_insurgente_2"
+      "model": "ausskins:arco_insurgente_2"
     },
     {
       "predicate": { "custom_model_data": 10010 },
-      "model": "ausskins:item/arco_namorados"
+      "model": "ausskins:arco_namorados"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10010 },
-      "model": "ausskins:item/arco_namorados_0"
+      "model": "ausskins:arco_namorados_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10010 },
-      "model": "ausskins:item/arco_namorados_1"
+      "model": "ausskins:arco_namorados_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10010 },
-      "model": "ausskins:item/arco_namorados_2"
+      "model": "ausskins:arco_namorados_2"
     },
     {
       "predicate": { "custom_model_data": 10011 },
-      "model": "ausskins:item/arco_oriental"
+      "model": "ausskins:arco_oriental"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10011 },
-      "model": "ausskins:item/arco_oriental_0"
+      "model": "ausskins:arco_oriental_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10011 },
-      "model": "ausskins:item/arco_oriental_1"
+      "model": "ausskins:arco_oriental_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10011 },
-      "model": "ausskins:item/arco_oriental_2"
+      "model": "ausskins:arco_oriental_2"
     },
     {
       "predicate": { "custom_model_data": 10012 },
-      "model": "ausskins:item/arco_pascoa_22"
+      "model": "ausskins:arco_pascoa_22"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10012 },
-      "model": "ausskins:item/arco_pascoa_22_0"
+      "model": "ausskins:arco_pascoa_22_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10012 },
-      "model": "ausskins:item/arco_pascoa_22_1"
+      "model": "ausskins:arco_pascoa_22_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10012 },
-      "model": "ausskins:item/arco_pascoa_22_2"
+      "model": "ausskins:arco_pascoa_22_2"
     },
     {
       "predicate": { "custom_model_data": 10013 },
-      "model": "ausskins:item/arco_namorados_22"
+      "model": "ausskins:arco_namorados_22"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10013 },
-      "model": "ausskins:item/arco_namorados_22_0"
+      "model": "ausskins:arco_namorados_22_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10013 },
-      "model": "ausskins:item/arco_namorados_22_1"
+      "model": "ausskins:arco_namorados_22_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10013 },
-      "model": "ausskins:item/arco_namorados_22_2"
+      "model": "ausskins:arco_namorados_22_2"
     },
     {
       "predicate": { "custom_model_data": 10014 },
-      "model": "ausskins:item/arco_miau"
+      "model": "ausskins:arco_miau"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10014 },
-      "model": "ausskins:item/arco_miau_0"
+      "model": "ausskins:arco_miau_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10014 },
-      "model": "ausskins:item/arco_miau_1"
+      "model": "ausskins:arco_miau_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10014 },
-      "model": "ausskins:item/arco_miau_2"
+      "model": "ausskins:arco_miau_2"
     },
     {
       "predicate": { "custom_model_data": 10015 },
-      "model": "ausskins:item/arco_glacial_negra_23"
+      "model": "ausskins:arco_glacial_negra_23"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10015 },
-      "model": "ausskins:item/arco_glacial_negra_23_0"
+      "model": "ausskins:arco_glacial_negra_23_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10015 },
-      "model": "ausskins:item/arco_glacial_negra_23_1"
+      "model": "ausskins:arco_glacial_negra_23_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10015 },
-      "model": "ausskins:item/arco_glacial_negra_23_2"
+      "model": "ausskins:arco_glacial_negra_23_2"
     },
     {
       "predicate": { "custom_model_data": 10016 },
-      "model": "ausskins:item/arco_primavera_v2"
+      "model": "ausskins:arco_primavera_v2"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10016 },
-      "model": "ausskins:item/arco_primavera_v2_0"
+      "model": "ausskins:arco_primavera_v2_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10016 },
-      "model": "ausskins:item/arco_primavera_v2_1"
+      "model": "ausskins:arco_primavera_v2_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10016 },
-      "model": "ausskins:item/arco_primavera_v2_2"
+      "model": "ausskins:arco_primavera_v2_2"
     },
     {
       "predicate": { "custom_model_data": 10017 },
-      "model": "ausskins:item/arco_desordem"
+      "model": "ausskins:arco_desordem"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10017 },
-      "model": "ausskins:item/arco_desordem_0"
+      "model": "ausskins:arco_desordem_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10017 },
-      "model": "ausskins:item/arco_desordem_1"
+      "model": "ausskins:arco_desordem_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10017 },
-      "model": "ausskins:item/arco_desordem_2"
+      "model": "ausskins:arco_desordem_2"
     },
     {
       "predicate": { "custom_model_data": 10018 },
-      "model": "ausskins:item/arco_celestial"
+      "model": "ausskins:arco_celestial"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10018 },
-      "model": "ausskins:item/arco_celestial_0"
+      "model": "ausskins:arco_celestial_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10018 },
-      "model": "ausskins:item/arco_celestial_1"
+      "model": "ausskins:arco_celestial_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10018 },
-      "model": "ausskins:item/arco_celestial_2"
+      "model": "ausskins:arco_celestial_2"
     },
     {
       "predicate": { "custom_model_data": 10019 },
-      "model": "ausskins:item/arco_celestial_v2"
+      "model": "ausskins:arco_celestial_v2"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10019 },
-      "model": "ausskins:item/arco_celestial_v2_0"
+      "model": "ausskins:arco_celestial_v2_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10019 },
-      "model": "ausskins:item/arco_celestial_v2_1"
+      "model": "ausskins:arco_celestial_v2_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10019 },
-      "model": "ausskins:item/arco_celestial_v2_2"
+      "model": "ausskins:arco_celestial_v2_2"
     },
     {
       "predicate": { "custom_model_data": 10020 },
-      "model": "ausskins:item/arco_verao"
+      "model": "ausskins:arco_verao"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10020 },
-      "model": "ausskins:item/arco_verao_0"
+      "model": "ausskins:arco_verao_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10020 },
-      "model": "ausskins:item/arco_verao_1"
+      "model": "ausskins:arco_verao_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10020 },
-      "model": "ausskins:item/arco_verao_2"
+      "model": "ausskins:arco_verao_2"
     },
     {
       "predicate": { "custom_model_data": 10021 },
-      "model": "ausskins:item/arco_outono"
+      "model": "ausskins:arco_outono"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10021 },
-      "model": "ausskins:item/arco_outono_0"
+      "model": "ausskins:arco_outono_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10021 },
-      "model": "ausskins:item/arco_outono_1"
+      "model": "ausskins:arco_outono_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10021 },
-      "model": "ausskins:item/arco_outono_2"
+      "model": "ausskins:arco_outono_2"
     },
     {
       "predicate": { "custom_model_data": 10022 },
-      "model": "ausskins:item/arco_espectro"
+      "model": "ausskins:arco_espectro"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10022 },
-      "model": "ausskins:item/arco_espectro_0"
+      "model": "ausskins:arco_espectro_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10022 },
-      "model": "ausskins:item/arco_espectro_1"
+      "model": "ausskins:arco_espectro_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10022 },
-      "model": "ausskins:item/arco_espectro_2"
+      "model": "ausskins:arco_espectro_2"
     },
     {
       "predicate": { "custom_model_data": 10023 },
-      "model": "ausskins:item/arco_ruina"
+      "model": "ausskins:arco_ruina"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10023 },
-      "model": "ausskins:item/arco_ruina_0"
+      "model": "ausskins:arco_ruina_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10023 },
-      "model": "ausskins:item/arco_ruina_1"
+      "model": "ausskins:arco_ruina_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10023 },
-      "model": "ausskins:item/arco_ruina_2"
+      "model": "ausskins:arco_ruina_2"
     },
     {
       "predicate": { "custom_model_data": 10024 },
-      "model": "ausskins:item/arco_abelhinha"
+      "model": "ausskins:arco_abelhinha"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10024 },
-      "model": "ausskins:item/arco_abelhinha_0"
+      "model": "ausskins:arco_abelhinha_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10024 },
-      "model": "ausskins:item/arco_abelhinha_1"
+      "model": "ausskins:arco_abelhinha_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10024 },
-      "model": "ausskins:item/arco_abelhinha_2"
+      "model": "ausskins:arco_abelhinha_2"
     },
     {
       "predicate": { "custom_model_data": 10025 },
-      "model": "ausskins:item/arco_inverno"
+      "model": "ausskins:arco_inverno"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10025 },
-      "model": "ausskins:item/arco_inverno_0"
+      "model": "ausskins:arco_inverno_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10025 },
-      "model": "ausskins:item/arco_inverno_1"
+      "model": "ausskins:arco_inverno_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10025 },
-      "model": "ausskins:item/arco_inverno_2"
+      "model": "ausskins:arco_inverno_2"
     },
     {
       "predicate": { "custom_model_data": 10026 },
-      "model": "ausskins:item/arco_calamidade"
+      "model": "ausskins:arco_calamidade"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10026 },
-      "model": "ausskins:item/arco_calamidade_0"
+      "model": "ausskins:arco_calamidade_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10026 },
-      "model": "ausskins:item/arco_calamidade_1"
+      "model": "ausskins:arco_calamidade_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10026 },
-      "model": "ausskins:item/arco_calamidade_2"
+      "model": "ausskins:arco_calamidade_2"
     },
     {
       "predicate": { "custom_model_data": 10027 },
-      "model": "ausskins:item/arco_deuses"
+      "model": "ausskins:arco_deuses"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10027 },
-      "model": "ausskins:item/arco_deuses_0"
+      "model": "ausskins:arco_deuses_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10027 },
-      "model": "ausskins:item/arco_deuses_1"
+      "model": "ausskins:arco_deuses_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10027 },
-      "model": "ausskins:item/arco_deuses_2"
+      "model": "ausskins:arco_deuses_2"
     },
     {
       "predicate": { "custom_model_data": 10028 },
-      "model": "ausskins:item/arco_natal24"
+      "model": "ausskins:arco_natal24"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10028 },
-      "model": "ausskins:item/arco_natal24_0"
+      "model": "ausskins:arco_natal24_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10028 },
-      "model": "ausskins:item/arco_natal24_1"
+      "model": "ausskins:arco_natal24_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10028 },
-      "model": "ausskins:item/arco_natal24_2"
+      "model": "ausskins:arco_natal24_2"
     },
     {
       "predicate": { "custom_model_data": 10029 },
-      "model": "ausskins:item/arco_necromante"
+      "model": "ausskins:arco_necromante"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10029 },
-      "model": "ausskins:item/arco_necromante_0"
+      "model": "ausskins:arco_necromante_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10029 },
-      "model": "ausskins:item/arco_necromante_1"
+      "model": "ausskins:arco_necromante_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10029 },
-      "model": "ausskins:item/arco_necromante_2"
+      "model": "ausskins:arco_necromante_2"
     },
     {
       "predicate": { "custom_model_data": 10030 },
-      "model": "ausskins:item/arco_carmesim"
+      "model": "ausskins:arco_carmesim"
     },
     {
       "predicate": { "pulling": 1, "custom_model_data": 10030 },
-      "model": "ausskins:item/arco_carmesim_0"
+      "model": "ausskins:arco_carmesim_0"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10030 },
-      "model": "ausskins:item/arco_carmesim_1"
+      "model": "ausskins:arco_carmesim_1"
     },
     {
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10030 },
-      "model": "ausskins:item/arco_carmesim_2"
+      "model": "ausskins:arco_carmesim_2"
     },
     { "predicate": { "custom_model_data": 10031 }, "model": "item/bow" }
   ],
