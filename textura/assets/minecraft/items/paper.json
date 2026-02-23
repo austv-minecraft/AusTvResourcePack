@@ -969,7 +969,7 @@
       },
       {
         "threshold": 100045,
-        "model": { "type": "model", "model": "chaves/carmesin" }
+        "model": { "type": "model", "model": "chaves/carmesim" }
       },
       {
         "threshold": 150000,
