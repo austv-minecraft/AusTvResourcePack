@@ -968,6 +968,10 @@
         "model": { "type": "model", "model": "chaves/necromante" }
       },
       {
+        "threshold": 100045,
+        "model": { "type": "model", "model": "chaves/carmesin" }
+      },
+      {
         "threshold": 150000,
         "model": { "type": "model", "model": "especial/microfone_antigo" }
       },
@@ -1736,10 +1740,6 @@
       {
         "threshold": 300013,
         "model": { "type": "model", "model": "item/paper" }
-      },
-      {
-        "threshold": 300014,
-        "model": { "type": "model", "model": "chaves/carmesin" }
       }
     ]
   }

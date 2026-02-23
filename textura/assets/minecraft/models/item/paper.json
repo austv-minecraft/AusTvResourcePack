@@ -616,6 +616,10 @@
       "model": "chaves/necromante"
     },
     {
+      "predicate": { "custom_model_data": 100045 },
+      "model": "auscosmetic:chaves/carmesin"
+    },
+    {
       "predicate": { "custom_model_data": 150000 },
       "model": "especial/microfone_antigo"
     },
@@ -1312,10 +1316,6 @@
       "predicate": { "custom_model_data": 300012 },
       "model": "auscosmetic:mao/raio_congelante"
     },
-    { "predicate": { "custom_model_data": 300013 }, "model": "item/paper" },
-    {
-      "predicate": { "custom_model_data": 300014 },
-      "model": "auscosmetic:chaves/carmesin"
-    }
+    { "predicate": { "custom_model_data": 300013 }, "model": "item/paper" }
   ]
 }
