@@ -314,6 +314,13 @@
           "type": "model",
           "model": "skins/carmesim/enxada"
         }
+      },
+      {
+        "threshold": 42,
+        "model": {
+          "type": "model",
+          "model": "skins/warped/enxada"
+        }
       }
     ]
   }
