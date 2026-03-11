@@ -3828,6 +3828,13 @@
       "ascent": 3,
       "height": 256,
       "chars": ["\uE272"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:lore/lore_ferrugem.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["\uE273"]
     }
   ]
 }
