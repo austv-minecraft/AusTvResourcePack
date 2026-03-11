@@ -629,6 +629,13 @@
           "type": "model",
           "model": "skins/carmesim/espada_v2"
         }
+      },
+      {
+        "threshold": 134,
+        "model": {
+          "type": "model",
+          "model": "skins/ferrugem/espada"
+        }
       }
     ]
   }

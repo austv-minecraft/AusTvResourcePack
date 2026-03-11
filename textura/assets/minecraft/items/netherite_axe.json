@@ -636,6 +636,13 @@
           "type": "model",
           "model": "skins/carmesim/machado2"
         }
+      },
+      {
+        "threshold": 97,
+        "model": {
+          "type": "model",
+          "model": "skins/ferrugem/machado"
+        }
       }
     ]
   }

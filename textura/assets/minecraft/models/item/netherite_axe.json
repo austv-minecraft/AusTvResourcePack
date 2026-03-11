@@ -358,6 +358,10 @@
     {
       "predicate": { "custom_model_data": 96 },
       "model": "skins/carmesim/machado2"
+    },
+    {
+      "predicate": { "custom_model_data": 97 },
+      "model": "skins/ferrugem/machado"
     }
   ]
 }

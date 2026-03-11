@@ -348,6 +348,10 @@
     {
       "predicate": { "custom_model_data": 133 },
       "model": "skins/carmesim/espada_v2"
+    },
+    {
+      "predicate": { "custom_model_data": 134 },
+      "model": "skins/ferrugem/espada"
     }
   ]
 }
