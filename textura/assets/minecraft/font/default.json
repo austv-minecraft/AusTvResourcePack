@@ -3821,6 +3821,13 @@
       "ascent": 9,
       "height": 9,
       "chars": ["\uE271"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:passe/passe_menu_inicial_steampunk.png",
+      "ascent": 3,
+      "height": 256,
+      "chars": ["\uE272"]
     }
   ]
 }
