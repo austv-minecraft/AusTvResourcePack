@@ -513,6 +513,62 @@
             "cases": [
               {
                 "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_ferrugem_charged"
+                },
+                "when": "arrow"
+              },
+              {
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_ferrugem_firework"
+                },
+                "when": "rocket"
+              }
+            ],
+            "fallback": {
+              "type": "model",
+              "model": "ausskins:besta_ferrugem"
+            },
+            "property": "minecraft:charge_type",
+            "model": "ausskins:besta_ferrugem"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "entries": [
+              {
+                "threshold": 0.58,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_ferrugem_1"
+                }
+              },
+              {
+                "threshold": 1.0,
+                "model": {
+                  "type": "model",
+                  "model": "ausskins:besta_ferrugem_2"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "ausskins:besta_ferrugem"
+            },
+            "property": "minecraft:crossbow/pull"
+          },
+          "property": "minecraft:using_item"
+        }
+      },
+      {
+        "threshold": 10009,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:select",
+            "cases": [
+              {
+                "model": {
                   "type": "minecraft:model",
                   "model": "minecraft:item/crossbow_arrow"
                 },

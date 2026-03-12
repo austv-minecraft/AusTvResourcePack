@@ -230,7 +230,31 @@
       "predicate": { "charged": 1, "firework": 1, "custom_model_data": 10007 },
       "model": "ausskins:besta_carmesim_firework"
     },
-    { "predicate": { "custom_model_data": 10008 }, "model": "item/crossbow" }
+    {
+      "predicate": { "custom_model_data": 10008 },
+      "model": "ausskins:besta_ferrugem"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10008 },
+      "model": "ausskins:besta_ferrugem_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.58, "custom_model_data": 10008 },
+      "model": "ausskins:besta_ferrugem_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 1.0, "custom_model_data": 10008 },
+      "model": "ausskins:besta_ferrugem_2"
+    },
+    {
+      "predicate": { "charged": 1, "custom_model_data": 10008 },
+      "model": "ausskins:besta_ferrugem_charged"
+    },
+    {
+      "predicate": { "charged": 1, "firework": 1, "custom_model_data": 10008 },
+      "model": "ausskins:besta_ferrugem_firework"
+    },
+    { "predicate": { "custom_model_data": 10009 }, "model": "item/crossbow" }
   ],
   "gui_light": "front"
 }
