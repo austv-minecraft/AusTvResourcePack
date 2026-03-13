@@ -461,6 +461,18 @@
       "model": "auscosmetic:chapeu/cartola_de_fabrica"
     },
     {
+      "predicate": { "custom_model_data": 10063 },
+      "model": "auscosmetic:chapeu/juliete_ausvers1"
+    },
+    {
+      "predicate": { "custom_model_data": 10064 },
+      "model": "auscosmetic:chapeu/juliete_ausvers2"
+    },
+    {
+      "predicate": { "custom_model_data": 10065 },
+      "model": "auscosmetic:chapeu/juliete_ausvers3"
+    },
+    {
       "predicate": { "custom_model_data": 40000 },
       "model": "auseventos:mana_pocao"
     },

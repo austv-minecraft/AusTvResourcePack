@@ -756,6 +756,18 @@
         "model": { "type": "model", "model": "auscosmetic:chapeu/cartola_de_fabrica" }
       },
       {
+        "threshold": 10063,
+        "model": { "type": "model", "model": "auscosmetic:chapeu/juliete_ausvers1" }
+      },
+      {
+        "threshold": 10064,
+        "model": { "type": "model", "model": "auscosmetic:chapeu/juliete_ausvers2" }
+      },
+      {
+        "threshold": 10065,
+        "model": { "type": "model", "model": "auscosmetic:chapeu/juliete_ausvers3" }
+      },
+      {
         "threshold": 40000,
         "model": { "type": "model", "model": "auseventos:mana_pocao" }
       },
