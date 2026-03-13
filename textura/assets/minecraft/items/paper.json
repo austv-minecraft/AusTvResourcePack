@@ -752,6 +752,10 @@
         "model": { "type": "model", "model": "auscosmetic:chapeu/party_hat" }
       },
       {
+        "threshold": 10062,
+        "model": { "type": "model", "model": "auscosmetic:chapeu/cartola_de_fabrica" }
+      },
+      {
         "threshold": 40000,
         "model": { "type": "model", "model": "auseventos:mana_pocao" }
       },

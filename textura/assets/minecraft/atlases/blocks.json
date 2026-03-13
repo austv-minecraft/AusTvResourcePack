@@ -31,6 +31,7 @@
     { "type": "single", "resource": "auscosmetic:balao/brasil" },
     { "type": "single", "resource": "ausmobs:entity/wisp_unique" },
     { "type": "single", "resource": "auscosmetic:chapeu/party_hat" },
+    { "type": "single", "resource": "auscosmetic:chapeu/cartola_de_fabrica" },
     {
       "type": "single",
       "resource": "ausskins:varas/insurgente_fishing_rod_cast"

@@ -457,6 +457,10 @@
       "model": "auscosmetic:chapeu/party_hat"
     },
     {
+      "predicate": { "custom_model_data": 10062 },
+      "model": "auscosmetic:chapeu/cartola_de_fabrica"
+    },
+    {
       "predicate": { "custom_model_data": 40000 },
       "model": "auseventos:mana_pocao"
     },
