@@ -636,8 +636,12 @@
       "model": "chaves/carmesim"
     },
     {
-      "predicate": { "custom_model_data": 150000 },
-      "model": "especial/microfone_antigo"
+      "predicate": { "custom_model_data": 100045 },
+      "model": "chaves/carmesim"
+    },
+    {
+      "predicate": { "custom_model_data": 100046 },
+      "model": "chaves/ovos_2026"
     },
     {
       "predicate": { "custom_model_data": 150001 },

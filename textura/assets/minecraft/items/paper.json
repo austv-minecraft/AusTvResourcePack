@@ -988,6 +988,10 @@
         "model": { "type": "model", "model": "chaves/carmesim" }
       },
       {
+        "threshold": 100046,
+        "model": { "type": "model", "model": "chaves/ovos_2026" }
+      },
+      {
         "threshold": 150000,
         "model": { "type": "model", "model": "especial/microfone_antigo" }
       },
