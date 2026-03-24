@@ -3835,6 +3835,13 @@
       "ascent": 9,
       "height": 9,
       "chars": ["\uE273"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/menu_pascoa_26.png",
+      "ascent": 25,
+      "height": 256,
+      "chars": ["\uE274"]
     }
   ]
 }
