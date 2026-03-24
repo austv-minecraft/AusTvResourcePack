@@ -144,6 +144,13 @@
                 "threshold": 10013,
                 "model": {
                     "type": "model",
+                    "model": "austv_itens:barra_chocolate"
+                }
+            },
+            {
+                "threshold": 10014,
+                "model": {
+                    "type": "model",
                     "model": "item/golden_apple"
                 }
             }

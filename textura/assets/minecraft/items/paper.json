@@ -1103,6 +1103,10 @@
         "model": { "type": "model", "model": "austv_itens:halloween_alma" }
       },
       {
+        "threshold": 150027,
+        "model": { "type": "model", "model": "austv_itens:pedaco_chocolate" }
+      },
+      {
         "threshold": 153000,
         "model": { "type": "model", "model": "presentes/natalino" }
       },

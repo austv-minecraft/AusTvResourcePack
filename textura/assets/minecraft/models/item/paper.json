@@ -739,6 +739,10 @@
       "model": "austv_itens:halloween_alma"
     },
     {
+      "predicate": { "custom_model_data": 150027 },
+      "model": "austv_itens:pedaco_chocolate"
+    },
+    {
       "predicate": { "custom_model_data": 153000 },
       "model": "presentes/natalino"
     },
