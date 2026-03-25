@@ -643,6 +643,14 @@
           "type": "model",
           "model": "skins/ferrugem/machado"
         }
+      },
+      {
+        "threshold": 98,
+        "model": { "type": "model", "model": "skins/oriental/machado_2" }
+      },
+      {
+        "threshold": 99,
+        "model": { "type": "model", "model": "skins/outono/machado_2" }
       }
     ]
   }

@@ -51,10 +51,19 @@
       },
       {
         "threshold": 7,
-        "model": {
-          "type": "model",
-          "model": "skins/assombrada/tesoura"
-        }
+        "model": { "type": "model", "model": "skins/assombrada/tesoura" }
+      },
+      {
+        "threshold": 8,
+        "model": { "type": "model", "model": "skins/miau/tesoura" }
+      },
+      {
+        "threshold": 9,
+        "model": { "type": "model", "model": "skins/namorados/tesoura" }
+      },
+      {
+        "threshold": 10,
+        "model": { "type": "model", "model": "skins/ruina/tesoura" }
       }
     ]
   }

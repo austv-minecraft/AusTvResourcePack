@@ -65,10 +65,39 @@
       },
       {
         "threshold": 9,
-        "model": {
-          "type": "model",
-          "model": "skins/assombrada/clava"
-        }
+        "model": { "type": "model", "model": "skins/assombrada/clava" }
+      },
+      {
+        "threshold": 10,
+        "model": { "type": "model", "model": "skins/carnavaus/clava" }
+      },
+      {
+        "threshold": 11,
+        "model": { "type": "model", "model": "skins/inverno/clava" }
+      },
+      {
+        "threshold": 12,
+        "model": { "type": "model", "model": "skins/miau/clava" }
+      },
+      {
+        "threshold": 13,
+        "model": { "type": "model", "model": "skins/namorados/clava" }
+      },
+      {
+        "threshold": 14,
+        "model": { "type": "model", "model": "skins/oriental/clava" }
+      },
+      {
+        "threshold": 15,
+        "model": { "type": "model", "model": "skins/outono/clava" }
+      },
+      {
+        "threshold": 16,
+        "model": { "type": "model", "model": "skins/pascoa/clava" }
+      },
+      {
+        "threshold": 17,
+        "model": { "type": "model", "model": "skins/ruina/clava" }
       }
     ]
   }

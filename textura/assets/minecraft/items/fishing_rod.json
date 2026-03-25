@@ -344,11 +344,26 @@
         "threshold": 10025,
         "model": {
           "type": "minecraft:condition",
+          "on_false": { "type": "model", "model": "ausskins:vara_miau" },
+          "on_true": { "type": "model", "model": "ausskins:vara_miau_cast" },
+          "property": "minecraft:fishing_rod/cast"
+        }
+      },
+      {
+        "threshold": 10026,
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": { "type": "model", "model": "ausskins:vara_tormenta" },
+          "on_true": { "type": "model", "model": "ausskins:vara_tormenta_cast" },
+          "property": "minecraft:fishing_rod/cast"
+        }
+      },
+      {
+        "threshold": 10027,
+        "model": {
+          "type": "minecraft:condition",
           "on_false": { "type": "model", "model": "item/fishing_rod" },
-          "on_true": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/fishing_rod_cast"
-          },
+          "on_true": { "type": "minecraft:model", "model": "minecraft:item/fishing_rod_cast" },
           "property": "minecraft:fishing_rod/cast"
         }
       }

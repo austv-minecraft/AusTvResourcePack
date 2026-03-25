@@ -639,10 +639,19 @@
       },
       {
         "threshold": 135,
-        "model": {
-          "type": "model",
-          "model": "skins/insurgente/mini_espada"
-        }
+        "model": { "type": "model", "model": "skins/insurgente/mini_espada" }
+      },
+      {
+        "threshold": 136,
+        "model": { "type": "model", "model": "skins/inverno/mini_espada" }
+      },
+      {
+        "threshold": 137,
+        "model": { "type": "model", "model": "skins/miau/mini_espada" }
+      },
+      {
+        "threshold": 138,
+        "model": { "type": "model", "model": "skins/namorados/espada_2" }
       }
     ]
   }

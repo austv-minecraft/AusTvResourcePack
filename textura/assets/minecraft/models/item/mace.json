@@ -13,6 +13,14 @@
 		{"predicate": {"custom_model_data":6}, "model": "skins/necromante/clava"},
 		{"predicate": {"custom_model_data":7}, "model": "skins/carmesim/clava"},
 		{"predicate": {"custom_model_data":8}, "model": "skins/insurgente/clava"},
-		{"predicate": {"custom_model_data":9}, "model": "skins/assombrada/clava"}
+		{"predicate": {"custom_model_data":9}, "model": "skins/assombrada/clava"},
+		{"predicate": {"custom_model_data":10}, "model": "skins/carnavaus/clava"},
+		{"predicate": {"custom_model_data":11}, "model": "skins/inverno/clava"},
+		{"predicate": {"custom_model_data":12}, "model": "skins/miau/clava"},
+		{"predicate": {"custom_model_data":13}, "model": "skins/namorados/clava"},
+		{"predicate": {"custom_model_data":14}, "model": "skins/oriental/clava"},
+		{"predicate": {"custom_model_data":15}, "model": "skins/outono/clava"},
+		{"predicate": {"custom_model_data":16}, "model": "skins/pascoa/clava"},
+		{"predicate": {"custom_model_data":17}, "model": "skins/ruina/clava"}
 	]
 }

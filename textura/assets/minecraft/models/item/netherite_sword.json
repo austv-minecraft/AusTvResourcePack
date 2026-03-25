@@ -356,6 +356,18 @@
     {
       "predicate": { "custom_model_data": 135 },
       "model": "skins/insurgente/mini_espada"
+    },
+    {
+      "predicate": { "custom_model_data": 136 },
+      "model": "skins/inverno/mini_espada"
+    },
+    {
+      "predicate": { "custom_model_data": 137 },
+      "model": "skins/miau/mini_espada"
+    },
+    {
+      "predicate": { "custom_model_data": 138 },
+      "model": "skins/namorados/espada_2"
     }
   ]
 }
