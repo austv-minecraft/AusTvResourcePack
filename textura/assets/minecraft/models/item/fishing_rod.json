@@ -179,6 +179,10 @@
       "predicate": { "cast": 1, "custom_model_data": 10024 },
       "model": "ausskins:vara_assombrada_cast"
     },
-    { "predicate": { "custom_model_data": 10025 }, "model": "item/fishing_rod" }
+    { "predicate": { "custom_model_data": 10025 }, "model": "ausskins:vara_miau" },
+    { "predicate": { "cast": 1, "custom_model_data": 10025 }, "model": "ausskins:vara_miau_cast" },
+    { "predicate": { "custom_model_data": 10026 }, "model": "ausskins:vara_tormenta" },
+    { "predicate": { "cast": 1, "custom_model_data": 10026 }, "model": "ausskins:vara_tormenta_cast" },
+    { "predicate": { "custom_model_data": 10027 }, "model": "item/fishing_rod" }
   ]
 }

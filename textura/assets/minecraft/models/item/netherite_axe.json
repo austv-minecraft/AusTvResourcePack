@@ -362,6 +362,14 @@
     {
       "predicate": { "custom_model_data": 97 },
       "model": "skins/ferrugem/machado"
+    },
+    {
+      "predicate": { "custom_model_data": 98 },
+      "model": "skins/oriental/machado_2"
+    },
+    {
+      "predicate": { "custom_model_data": 99 },
+      "model": "skins/outono/machado_2"
     }
   ]
 }
