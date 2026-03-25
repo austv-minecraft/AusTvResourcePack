@@ -171,6 +171,14 @@
       "predicate": { "cast": 1, "custom_model_data": 10023 },
       "model": "ausskins:vara_carmesim_cast"
     },
-    { "predicate": { "custom_model_data": 10024 }, "model": "item/fishing_rod" }
+    {
+      "predicate": { "custom_model_data": 10024 },
+      "model": "ausskins:vara_assombrada"
+    },
+    {
+      "predicate": { "cast": 1, "custom_model_data": 10024 },
+      "model": "ausskins:vara_assombrada_cast"
+    },
+    { "predicate": { "custom_model_data": 10025 }, "model": "item/fishing_rod" }
   ]
 }

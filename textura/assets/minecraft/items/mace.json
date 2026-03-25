@@ -62,6 +62,13 @@
           "type": "model",
           "model": "skins/insurgente/clava"
         }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "model",
+          "model": "skins/assombrada/clava"
+        }
       }
     ]
   }

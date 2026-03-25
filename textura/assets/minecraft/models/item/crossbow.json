@@ -278,7 +278,31 @@
       "predicate": { "charged": 1, "firework": 1, "custom_model_data": 10009 },
       "model": "ausskins:besta_insurgente_firework"
     },
-    { "predicate": { "custom_model_data": 10010 }, "model": "item/crossbow" }
+    {
+      "predicate": { "custom_model_data": 10010 },
+      "model": "ausskins:besta_assombrada"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10010 },
+      "model": "ausskins:besta_assombrada_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.58, "custom_model_data": 10010 },
+      "model": "ausskins:besta_assombrada_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 1.0, "custom_model_data": 10010 },
+      "model": "ausskins:besta_assombrada_2"
+    },
+    {
+      "predicate": { "charged": 1, "custom_model_data": 10010 },
+      "model": "ausskins:besta_assombrada_charged"
+    },
+    {
+      "predicate": { "charged": 1, "firework": 1, "custom_model_data": 10010 },
+      "model": "ausskins:besta_assombrada_firework"
+    },
+    { "predicate": { "custom_model_data": 10011 }, "model": "item/crossbow" }
   ],
   "gui_light": "front"
 }

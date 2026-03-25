@@ -1101,6 +1101,14 @@
     { "type": "single", "resource": "ausskins:bestas/insurgente_1" },
     { "type": "single", "resource": "ausskins:bestas/insurgente_2" },
     { "type": "single", "resource": "ausskins:bestas/insurgente_charged" },
-    { "type": "single", "resource": "ausskins:bestas/insurgente_firework" }
+    { "type": "single", "resource": "ausskins:bestas/insurgente_firework" },
+    { "type": "single", "resource": "ausskins:bestas/assombrada" },
+    { "type": "single", "resource": "ausskins:bestas/assombrada_0" },
+    { "type": "single", "resource": "ausskins:bestas/assombrada_1" },
+    { "type": "single", "resource": "ausskins:bestas/assombrada_2" },
+    { "type": "single", "resource": "ausskins:bestas/assombrada_charged" },
+    { "type": "single", "resource": "ausskins:bestas/assombrada_firework" },
+    { "type": "single", "resource": "ausskins:varas/assombrada_fishing_rod" },
+    { "type": "single", "resource": "ausskins:varas/assombrada_fishing_rod_cast" }
   ]
 }

@@ -10,6 +10,7 @@
 		{"predicate": {"custom_model_data":3}, "model": "skins/pascoa_22/tesoura"},
 		{"predicate": {"custom_model_data":4}, "model": "skins/calamidade/tesoura"},
 		{"predicate": {"custom_model_data":5}, "model": "skins/natal25/tesoura"},
-		{"predicate": {"custom_model_data":6}, "model": "skins/carmesim/tesoura"}
+		{"predicate": {"custom_model_data":6}, "model": "skins/carmesim/tesoura"},
+		{"predicate": {"custom_model_data":7}, "model": "skins/assombrada/tesoura"}
 	]
 }
