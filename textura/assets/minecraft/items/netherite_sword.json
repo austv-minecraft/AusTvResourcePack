@@ -636,6 +636,13 @@
           "type": "model",
           "model": "skins/ferrugem/espada"
         }
+      },
+      {
+        "threshold": 135,
+        "model": {
+          "type": "model",
+          "model": "skins/insurgente/mini_espada"
+        }
       }
     ]
   }

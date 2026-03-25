@@ -1095,6 +1095,12 @@
     { "type": "single", "resource": "ausskins:bestas/ferrugem_2" },
     { "type": "single", "resource": "ausskins:bestas/ferrugem_0" },
     { "type": "single", "resource": "ausskins:bestas/ferrugem_1" },
-    { "type": "single", "resource": "ausskins:bestas/ferrugem_charged" }
+    { "type": "single", "resource": "ausskins:bestas/ferrugem_charged" },
+    { "type": "single", "resource": "ausskins:bestas/insurgente" },
+    { "type": "single", "resource": "ausskins:bestas/insurgente_0" },
+    { "type": "single", "resource": "ausskins:bestas/insurgente_1" },
+    { "type": "single", "resource": "ausskins:bestas/insurgente_2" },
+    { "type": "single", "resource": "ausskins:bestas/insurgente_charged" },
+    { "type": "single", "resource": "ausskins:bestas/insurgente_firework" }
   ]
 }
