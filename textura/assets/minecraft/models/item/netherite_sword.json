@@ -352,6 +352,10 @@
     {
       "predicate": { "custom_model_data": 134 },
       "model": "skins/ferrugem/espada"
+    },
+    {
+      "predicate": { "custom_model_data": 135 },
+      "model": "skins/insurgente/mini_espada"
     }
   ]
 }

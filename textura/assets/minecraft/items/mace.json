@@ -55,6 +55,13 @@
           "type": "model",
           "model": "skins/carmesim/clava"
         }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "model",
+          "model": "skins/insurgente/clava"
+        }
       }
     ]
   }
