@@ -12,6 +12,7 @@
 		{"predicate": {"custom_model_data":5}, "model": "skins/florescer_2025/clava"},
 		{"predicate": {"custom_model_data":6}, "model": "skins/necromante/clava"},
 		{"predicate": {"custom_model_data":7}, "model": "skins/carmesim/clava"},
-		{"predicate": {"custom_model_data":8}, "model": "skins/insurgente/clava"}
+		{"predicate": {"custom_model_data":8}, "model": "skins/insurgente/clava"},
+		{"predicate": {"custom_model_data":9}, "model": "skins/assombrada/clava"}
 	]
 }

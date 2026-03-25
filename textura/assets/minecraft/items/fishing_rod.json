@@ -335,6 +335,15 @@
         "threshold": 10024,
         "model": {
           "type": "minecraft:condition",
+          "on_false": { "type": "model", "model": "ausskins:vara_assombrada" },
+          "on_true": { "type": "model", "model": "ausskins:vara_assombrada_cast" },
+          "property": "minecraft:fishing_rod/cast"
+        }
+      },
+      {
+        "threshold": 10025,
+        "model": {
+          "type": "minecraft:condition",
           "on_false": { "type": "model", "model": "item/fishing_rod" },
           "on_true": {
             "type": "minecraft:model",

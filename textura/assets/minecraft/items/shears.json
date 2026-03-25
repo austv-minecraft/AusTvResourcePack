@@ -48,6 +48,13 @@
           "type": "model",
           "model": "skins/carmesim/tesoura"
         }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "model",
+          "model": "skins/assombrada/tesoura"
+        }
       }
     ]
   }
