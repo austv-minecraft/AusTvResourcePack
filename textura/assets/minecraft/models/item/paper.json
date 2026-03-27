@@ -648,6 +648,10 @@
       "model": "chaves/ovos_2026"
     },
     {
+      "predicate": { "custom_model_data": 100047 },
+      "model": "chaves/chave_palhacada"
+    },
+    {
       "predicate": { "custom_model_data": 150001 },
       "model": "especial/microfone"
     },

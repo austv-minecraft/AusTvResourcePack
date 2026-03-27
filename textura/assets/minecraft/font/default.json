@@ -3849,6 +3849,13 @@
       "ascent": 9,
       "height": 9,
       "chars": ["\uE275"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icons:guis/cash_chaves_palhacada.png",
+      "ascent": -4,
+      "height": 256,
+      "chars": ["\uE276"]
     }
   ]
 }
