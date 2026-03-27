@@ -1005,7 +1005,7 @@
       {
         "threshold": 100047,
         "model": { "type": "model", "model": "chaves/palhacada" }
-      }
+      },
       {
         "threshold": 150000,
         "model": { "type": "model", "model": "especial/microfone_antigo" }
