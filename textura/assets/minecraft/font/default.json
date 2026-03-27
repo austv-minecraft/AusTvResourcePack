@@ -3856,13 +3856,6 @@
       "ascent": -4,
       "height": 256,
       "chars": ["\uE276"]
-    },
-    {
-      "type": "bitmap",
-      "file": "icons:lore/lore_palhacada.png",
-      "ascent": -4,
-      "height": 256,
-      "chars": ["\uE277"]
     }
   ]
 }
