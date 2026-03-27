@@ -501,6 +501,13 @@
         }
       },
       {
+        "threshold": 516,
+        "model": {
+          "type": "model",
+          "model": "austv_itens:trofeus/trofeu_pascoa"
+        }
+      },
+      {
         "threshold": 1000,
         "model": { "type": "model", "model": "iscas/camarao" }
       },
@@ -766,6 +773,10 @@
       {
         "threshold": 10065,
         "model": { "type": "model", "model": "auscosmetic:chapeu/juliete_ausvers3" }
+      },
+      {
+        "threshold": 10066,
+        "model": { "type": "model", "model": "auscosmetic:chapeu/malandrinho_orelhudo" }
       },
       {
         "threshold": 40000,

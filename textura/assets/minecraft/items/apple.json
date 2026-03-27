@@ -53,13 +53,86 @@
       },
       {
         "threshold": 10007,
-        "model": { "type": "model", "model": "austv_itens:maca_caramelizada"} },
+        "model": { "type": "model", "model": "austv_itens:maca_caramelizada" }
+      },
       {
         "threshold": 10009,
         "model": { "type": "model", "model": "austv_itens:pacoca" }
       },
       {
         "threshold": 10010,
+        "model": { "type": "model", "model": "item/apple" }
+      },
+      {
+        "threshold": 10011,
+        "model": { "type": "model", "model": "austv_itens:ovo_pascoa1" }
+      },
+      {
+        "threshold": 10012,
+        "model": { "type": "model", "model": "austv_itens:ovo_pascoa2" }
+      },
+      {
+        "threshold": 10013,
+        "model": { "type": "model", "model": "austv_itens:ovo_pascoa3" }
+      },
+      {
+        "threshold": 10014,
+        "model": { "type": "model", "model": "austv_itens:ovo_pascoa4" }
+      },
+      {
+        "threshold": 10015,
+        "model": { "type": "model", "model": "austv_itens:ovo_pascoa5" }
+      },
+      {
+        "threshold": 10016,
+        "model": { "type": "model", "model": "austv_itens:ovo_pascoa6" }
+      },
+      {
+        "threshold": 10017,
+        "model": { "type": "model", "model": "austv_itens:ovo_pascoa7" }
+      },
+      {
+        "threshold": 10018,
+        "model": { "type": "model", "model": "austv_itens:ovo_pascoa8" }
+      },
+      {
+        "threshold": 10019,
+        "model": { "type": "model", "model": "austv_itens:ovo_pascoa9" }
+      },
+      {
+        "threshold": 10020,
+        "model": { "type": "model", "model": "austv_itens:ovo_pascoa10" }
+      },
+      {
+        "threshold": 10021,
+        "model": { "type": "model", "model": "austv_itens:ovo_pascoa11" }
+      },
+      {
+        "threshold": 10022,
+        "model": { "type": "model", "model": "austv_itens:ovo_pascoa12" }
+      },
+      {
+        "threshold": 10023,
+        "model": { "type": "model", "model": "austv_itens:ovo_pascoa13" }
+      },
+      {
+        "threshold": 10024,
+        "model": { "type": "model", "model": "austv_itens:ovo_pascoa14" }
+      },
+      {
+        "threshold": 10025,
+        "model": { "type": "model", "model": "austv_itens:ovo_pascoa15" }
+      },
+      {
+        "threshold": 10026,
+        "model": { "type": "model", "model": "austv_itens:ovo_pascoa16" }
+      },
+      {
+        "threshold": 10027,
+        "model": { "type": "model", "model": "austv_itens:ovo_pascoa17" }
+      },
+      {
+        "threshold": 10015,
         "model": { "type": "model", "model": "item/apple" }
       }
     ]
