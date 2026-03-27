@@ -49,6 +49,7 @@
 		{"predicate": {"custom_model_data":39}, "model": "skins/necromante/enxada"},
 		{"predicate": {"custom_model_data":40}, "model": "skins/natal25/enxada"},
 		{"predicate": {"custom_model_data":41}, "model": "skins/carmesim/enxada"},
-		{"predicate": {"custom_model_data":42}, "model": "skins/warped/enxada"}
+		{"predicate": {"custom_model_data":42}, "model": "skins/warped/enxada"},
+		{"predicate": {"custom_model_data":43}, "model": "skins/circo2026/enxada"}
 	]
 }

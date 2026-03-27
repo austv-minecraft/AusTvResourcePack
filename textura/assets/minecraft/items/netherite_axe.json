@@ -651,6 +651,10 @@
       {
         "threshold": 99,
         "model": { "type": "model", "model": "skins/outono/machado_2" }
+      },
+      {
+        "threshold": 100,
+        "model": { "type": "model", "model": "skins/circo2026/machado" }
       }
     ]
   }

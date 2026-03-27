@@ -321,6 +321,10 @@
           "type": "model",
           "model": "skins/warped/enxada"
         }
+      },
+      {
+        "threshold": 43,
+        "model": { "type": "model", "model": "skins/circo2026/enxada" }
       }
     ]
   }

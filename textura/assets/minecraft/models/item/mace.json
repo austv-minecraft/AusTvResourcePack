@@ -21,6 +21,7 @@
 		{"predicate": {"custom_model_data":14}, "model": "skins/oriental/clava"},
 		{"predicate": {"custom_model_data":15}, "model": "skins/outono/clava"},
 		{"predicate": {"custom_model_data":16}, "model": "skins/pascoa/clava"},
-		{"predicate": {"custom_model_data":17}, "model": "skins/ruina/clava"}
+		{"predicate": {"custom_model_data":17}, "model": "skins/ruina/clava"},
+		{"predicate": {"custom_model_data":18}, "model": "skins/circo2026/clava"}
 	]
 }
