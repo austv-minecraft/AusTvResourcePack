@@ -98,6 +98,10 @@
       {
         "threshold": 17,
         "model": { "type": "model", "model": "skins/ruina/clava" }
+      },
+      {
+        "threshold": 18,
+        "model": { "type": "model", "model": "skins/circo2026/clava" }
       }
     ]
   }

@@ -44,6 +44,7 @@
 		{"predicate": {"custom_model_data":37}, "model": "skins/necromante/pa"},
 		{"predicate": {"custom_model_data":38}, "model": "skins/natal25/pa"},
 		{"predicate": {"custom_model_data":39}, "model": "skins/warped/pa"},
-		{"predicate": {"custom_model_data":40}, "model": "skins/carmesim/pa"}
+		{"predicate": {"custom_model_data":40}, "model": "skins/carmesim/pa"},
+		{"predicate": {"custom_model_data":41}, "model": "skins/circo2026/pa"}
 	]
 }

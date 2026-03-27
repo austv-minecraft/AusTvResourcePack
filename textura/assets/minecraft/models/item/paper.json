@@ -649,7 +649,7 @@
     },
     {
       "predicate": { "custom_model_data": 100047 },
-      "model": "chaves/chave_palhacada"
+      "model": "chaves/palhacada"
     },
     {
       "predicate": { "custom_model_data": 150001 },
