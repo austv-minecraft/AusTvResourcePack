@@ -286,6 +286,10 @@
           "type": "model",
           "model": "skins/carmesim/pa"
         }
+      },
+      {
+        "threshold": 41,
+        "model": { "type": "model", "model": "skins/circo2026/pa" }
       }
     ]
   }

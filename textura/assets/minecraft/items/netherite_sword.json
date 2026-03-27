@@ -652,6 +652,10 @@
       {
         "threshold": 138,
         "model": { "type": "model", "model": "skins/namorados/espada_2" }
+      },
+      {
+        "threshold": 139,
+        "model": { "type": "model", "model": "skins/circo2026/espada" }
       }
     ]
   }

@@ -307,6 +307,10 @@
           "type": "model",
           "model": "skins/carmesim/picareta"
         }
+      },
+      {
+        "threshold": 46,
+        "model": { "type": "model", "model": "skins/circo2026/picareta" }
       }
     ]
   }

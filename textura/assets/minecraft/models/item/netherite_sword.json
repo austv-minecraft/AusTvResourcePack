@@ -368,6 +368,10 @@
     {
       "predicate": { "custom_model_data": 138 },
       "model": "skins/namorados/espada_2"
+    },
+    {
+      "predicate": { "custom_model_data": 139 },
+      "model": "skins/circo2026/espada"
     }
   ]
 }

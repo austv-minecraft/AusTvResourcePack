@@ -370,6 +370,10 @@
     {
       "predicate": { "custom_model_data": 99 },
       "model": "skins/outono/machado_2"
+    },
+    {
+      "predicate": { "custom_model_data": 100 },
+      "model": "skins/circo2026/machado"
     }
   ]
 }
