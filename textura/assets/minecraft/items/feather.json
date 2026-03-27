@@ -1812,6 +1812,10 @@
         "model": { "type": "model", "model": "ausobjs:caixas/carmesim" }
       },
       {
+        "threshold": 260,
+        "model": { "type": "model", "model": "ausobjs:caixas/caixa_circense" }
+      },
+      {
         "threshold": 326,
         "model": {
           "type": "model",

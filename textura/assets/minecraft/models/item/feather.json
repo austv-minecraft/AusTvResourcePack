@@ -1034,6 +1034,10 @@
       "model": "ausobjs:caixas/carmesim"
     },
     {
+      "predicate": { "custom_model_data": 260 },
+      "model": "ausobjs:caixas/caixa_circense"
+    },
+    {
       "predicate": { "custom_model_data": 326 },
       "model": "ausmoveis:caipira/cattails"
     },
