@@ -3860,8 +3860,8 @@
     {
       "type": "bitmap",
       "file": "icons:lore/lore_palhacada.png",
-      "ascent": -4,
-      "height": 256,
+      "ascent": 9,
+      "height": 9,
       "chars": ["\uE277"]
     }
   ]
